@@ -1,11 +1,13 @@
+import datetime
 import json
+import time
 from pprint import pprint
 
 import jieba.analyse
 import nltk
 import requests
 from nltk import word_tokenize
-
+import paddlehub as hub
 # query ='https://api.data.ai/v1.3/apps/ios/app/1403455040/ratings'
 # api_key = '06f7b2a02a5b78c3ec95ba206c71569f55487533'
 # headers = {"Authorization": "Bearer " + api_key}
@@ -25,20 +27,62 @@ from nltk import word_tokenize
 
 from textblob import TextBlob
 
-text = "Dear professors,I feel so glad to meet all of you here.My name is Xia Yi, 21 years old,and I come from " \
-       "Jiangsu. I am a senior student majoring in computer Science and Technology in Beijing Forestry University.I am " \
-       "a sunny and positive boy. I strive for excellence in study, and I enjoy socializing in life. As a college " \
-       "student,I am well aware that the new era is a competition between IQ and EQ. College life makes me gradually " \
-       "clearly identify myself,I think of myself as a pragmatist 	pursuing high efficiency, I insist 'or is not " \
-       "done,or is done best' principle of doing things, 	and that's what makes me paranoid about some knowledge " \
-       "points sometimes, but I also think 	it maybe a good thing.All work and no play makes Jack a dull boy. In my " \
-       "spare time, I prefer to play basketball and read some history-related books, civilizing my spirit and my " \
-       "body. These hobbies finally won me the school-level Scholarship.I have been interested in computers and " \
-       "geography since CHILDHOOD. When I was in middle school, I could name all the neighbors of any given country " \
-       "on the world map. At the same time, I still have great interest in computer. These are the reasons why I " \
-       "apply for this major.If I am admitted,I would be very delighted and honored.The above is my " \
-       "self-introduction,thank you. "
-# blob = TextBlob(text)
-# print(blob.sentiment)
-keywords = jieba.analyse.extract_tags(text, topK=10, withWeight=True)
-pprint(keywords[0])
+
+# text = ["I love it"]
+# # blob = TextBlob(text)
+# # print(blob.sentiment)
+# # keywords = jieba.analyse.extract_tags(text, topK=10, withWeight=True)
+# # pprint(keywords[0])
+#
+# senta = hub.Module(name='senta_bilstm')
+#
+# test_text = text
+#
+# results = senta.sentiment_classify(texts=test_text, use_gpu=False, batch_size=1)
+#
+# pprint(results[0])
+
+
+# temp=datetime.date.today()
+# day=datetime.timedelta(days=1)
+# print(temp-24*day)
+# while d<=end_date:
+#     print(d)
+#     d+=day
+
+# read = json.load(open('Reviews_Subway Surfers_all.json', 'r', encoding="utf-8"))
+# pprint(len(read))
+
+# end_time=datetime.date.today()
+# delta=datetime.timedelta(days=1)
+# start_time=end_time-7*delta
+# print(end_time)
+# print(start_time)
+
+def read_json(json_str):
+    read_temp = json.load(open(json_str, 'r', encoding="utf-8"))
+    return read_temp
+
+
+read = read_json('Reviews_Subway Surfers_all.json')
+
+date_dict = {
+    'keywords': '',
+    'counts': 0,
+    'positive_percent': 0
+}
+
+date_list_all = []
+date_list = []
+for i in range(len(read)):
+    date_list.append(read[i]['date'])
+test_date_list = set(date_list)
+date_list_distinct = list()
+for item in test_date_list:
+    count = 0
+    for i in range(len(read)):
+        if item == read[i]['date'] and read[i]['sentiment']['sentiment_key'] == 'positive':
+            count = count + 1
+    date_dict = {'keywords': item, 'counts': date_list.count(item), 'positive_percent': count / date_list.count(item)}
+    date_list_all.append(date_dict)
+

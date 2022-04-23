@@ -3,6 +3,7 @@ import datetime
 from pprint import pprint
 import jieba.analyse
 import requests
+import paddlehub as hub
 
 # /v1.3/apps/{market}/app/{product_id}/reviews?start_date={start_date}&end_date={end_date}&countries={countries}&page_index={page_index}&page_size={page_size}&version={version}&rating={rating}
 # "https://api.data.ai/v1.3/apps/ios/app/660004961/reviews?start_date=2018-06-15&end_date=2018-08-15&page_size=3"
@@ -61,9 +62,12 @@ def get_reviews(page_index_temp):
         # print(len(output['reviews']))
         del output['reviews'][i]
     for i in range(len(output['reviews'])):
-        blob = TextBlob(output['reviews'][i]['text'])
-        output['reviews'][i]['polarity'] = blob.sentiment[0]
-        output['reviews'][i]['subjectivity'] = blob.sentiment[1]
+        reviews_list = [output['reviews'][i]['text']]
+        senta = hub.Module(name='senta_bilstm')
+        test_text = reviews_list
+        results = senta.sentiment_classify(texts=test_text, use_gpu=False, batch_size=1)
+        del results[0]['text']
+        output['reviews'][i]['sentiment'] = results[0]
         keywords = jieba.analyse.extract_tags(output['reviews'][i]['text'], topK=3, withWeight=False)
         output['reviews'][i]['keywords'] = keywords
     return output
@@ -89,4 +93,7 @@ def write_reviews_all(n):
         f.write(data)
 
 
+# def get_reviews_rating():
 
+
+write_reviews_all(5)
