@@ -31,7 +31,7 @@ def get_reviews_sentiment():
         date_dict = {'keywords': item, 'counts': date_list.count(item),
                      'positive_percent': count / date_list.count(item)}
         date_list_all.append(date_dict)
-        date_list_all = sorted(date_list_all, key=lambda x: x['keywords'], reverse=True)
+        date_list_all = sorted(date_list_all, key=lambda x: x['keywords'], reverse=False)
     return date_list_all
 
 
@@ -51,10 +51,11 @@ def paint_sentiment_line():
     y = []
     for i in range(len(date_list_all)):
         x.append(date_list_all[i]['keywords'])
-
     y.extend(sample)
+
+    plt.style.use('seaborn')
     fig, ax = plt.subplots()
     ax.plot(x, y, linewidth=3)
     plt.show()
 
-
+paint_sentiment_line()

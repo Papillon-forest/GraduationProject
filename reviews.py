@@ -4,6 +4,7 @@ from pprint import pprint
 import jieba.analyse
 import requests
 import paddlehub as hub
+import time
 
 # /v1.3/apps/{market}/app/{product_id}/reviews?start_date={start_date}&end_date={end_date}&countries={countries}&page_index={page_index}&page_size={page_size}&version={version}&rating={rating}
 # "https://api.data.ai/v1.3/apps/ios/app/660004961/reviews?start_date=2018-06-15&end_date=2018-08-15&page_size=3"
@@ -73,9 +74,9 @@ def get_reviews(page_index_temp):
     return output
 
 
-def get_reviews_all(n):
+def get_reviews_all(start_n, end_n):
     reviews_list = []
-    for i in range(n):
+    for i in range(start_n, end_n):
         reviews_list.extend(get_reviews(i)['reviews'])
     return reviews_list
 
@@ -87,13 +88,23 @@ def write_reviews():
         f.write(data)
 
 
-def write_reviews_all(n):
-    data = json.dumps(get_reviews_all(n), indent=1, ensure_ascii=False)
-    with open("Reviews_Subway Surfers_all.json", 'w', newline='\n') as f:
+def write_reviews_all(start_n, end_n):
+    data = json.dumps(get_reviews_all(start_n, end_n), indent=1, ensure_ascii=False)
+    with open("Reviews_Subway Surfers_all.json", 'a', newline='\n') as f:
         f.write(data)
 
 
 # def get_reviews_rating():
 
 
-write_reviews_all(5)
+write_reviews_all(0, 20)
+time.sleep(60)
+write_reviews_all(20,40)
+time.sleep(120)
+write_reviews_all(40,60)
+time.sleep(180)
+write_reviews_all(60,80)
+time.sleep(240)
+write_reviews_all(80,100)
+
+
