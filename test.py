@@ -1,9 +1,10 @@
 import datetime
 import json
+import ssl
 import time
 from pprint import pprint
 
-import jieba.analyse
+import jieba.posseg
 import nltk
 import requests
 from nltk import word_tokenize
@@ -86,9 +87,20 @@ from textblob import TextBlob
 #     date_dict = {'keywords': item, 'counts': date_list.count(item), 'positive_percent': count / date_list.count(item)}
 #     date_list_all.append(date_dict)
 
-print('1')
-time.sleep(10)
-print('2')
-time.sleep(10)
-print('3')
+# print('1')
+# time.sleep(10)
+# print('2')
+# time.sleep(10)
+# print('3')
 # print(datetime.date.today())
+# print (ssl.OPENSSL_VERSION)
+# text='Ta chido'
+# result=jieba.posseg.lcut(text)
+# print(result)
+from matplotlib.font_manager import FontManager
+
+mpl_fonts = set(f.name for f in FontManager().ttflist)
+
+print('all font list get from matplotlib.font_manager:')
+for f in sorted(mpl_fonts):
+    print('\t' + f)

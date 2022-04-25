@@ -1,0 +1,65 @@
+[
+ {
+  "keywords": "2022-04-18",
+  "counts_5": 15,
+  "counts_4": 1,
+  "counts_3": 2,
+  "counts_2": 1,
+  "counts_1": 2,
+  "rating_percent": 0.8571428571428571
+ },
+ {
+  "keywords": "2022-04-19",
+  "counts_5": 52,
+  "counts_4": 12,
+  "counts_3": 2,
+  "counts_2": 1,
+  "counts_1": 3,
+  "rating_percent": 0.9428571428571428
+ },
+ {
+  "keywords": "2022-04-20",
+  "counts_5": 59,
+  "counts_4": 7,
+  "counts_3": 1,
+  "counts_2": 1,
+  "counts_1": 2,
+  "rating_percent": 0.9571428571428572
+ },
+ {
+  "keywords": "2022-04-21",
+  "counts_5": 41,
+  "counts_4": 6,
+  "counts_3": 3,
+  "counts_2": 2,
+  "counts_1": 2,
+  "rating_percent": 0.9259259259259259
+ },
+ {
+  "keywords": "2022-04-22",
+  "counts_5": 41,
+  "counts_4": 8,
+  "counts_3": 4,
+  "counts_2": 3,
+  "counts_1": 4,
+  "rating_percent": 0.8833333333333333
+ },
+ {
+  "keywords": "2022-04-23",
+  "counts_5": 65,
+  "counts_4": 10,
+  "counts_3": 3,
+  "counts_2": 3,
+  "counts_1": 8,
+  "rating_percent": 0.8764044943820225
+ },
+ {
+  "keywords": "2022-04-24",
+  "counts_5": 21,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 1.0
+ }
+]

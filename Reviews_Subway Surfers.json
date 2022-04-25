@@ -6,115 +6,455 @@
  "publisher_name": "Sybo Games ApS",
  "reviews": [
   {
-   "review_id": "8592451197",
-   "title": "Ta chido",
-   "name": "Ta chido",
-   "date": "2022-04-22",
+   "review_id": "8301617127",
+   "title": "Ema’s review",
+   "name": "Ema’s review",
+   "date": "2022-01-31",
    "device": "ios-all",
    "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Ta chido",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.6105,
-    "negative_probs": 0.3895
-   },
-   "keywords": [
-    "Ta",
-    "chido"
-   ]
-  },
-  {
-   "review_id": "8592487332",
-   "title": "Subway surfers",
-   "name": "Subway surfers",
-   "date": "2022-04-22",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Can you also add more characters of color? Theirs only 2/23 out of all the characters you have. Let that sink in real quick. Also please add characters of all races it would be cool and fun to add characters of all races and diversity! Could a new update be you can play with you friends in one game instead of alone? And join them? Like among us for example! You can have a code and join your friends.  That’s the idea I’m trying to make limit could be up to 13 people in one server or 1-3? Also follow @theyluvoj on tiktok and subscribe to my YouTube (@theyluvoj) my Instagram also! @theyluvoj3",
-   "language": null,
-   "country": "US",
+   "version": "2.28.1",
    "rating": 4,
+   "country": "US",
+   "text": "I love this game but it has way to many ads every time you go to collect something and when you go back to the starting place they give you a ad it’s so annoying I wish they had less ads.Can it get any worst with ads I had enough all ready",
+   "language": null,
    "reviewer": "",
    "sentiment": {
     "sentiment_label": 1,
     "sentiment_key": "positive",
-    "positive_probs": 0.9978,
-    "negative_probs": 0.0022
+    "positive_probs": 0.9987,
+    "negative_probs": 0.0013
    },
    "keywords": [
-    "characters",
-    "add",
-    "also"
+    "ads",
+    "go",
+    "they"
    ]
   },
   {
-   "review_id": "8592494509",
+   "review_id": "8301633620",
+   "title": "Rating",
+   "name": "Rating",
+   "date": "2022-01-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.28.1",
+   "rating": 4,
+   "country": "US",
+   "text": "Everything is amazing but too many adds.",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8915,
+    "negative_probs": 0.1085
+   },
+   "keywords": [
+    "Everything",
+    "amazing",
+    "but"
+   ]
+  },
+  {
+   "review_id": "8301667935",
+   "title": "Asher",
+   "name": "Asher",
+   "date": "2022-01-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.28.1",
+   "rating": 5,
+   "country": "US",
+   "text": "This game is so fun I really like it",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9979,
+    "negative_probs": 0.0021
+   },
+   "keywords": [
+    "game",
+    "so",
+    "fun"
+   ]
+  },
+  {
+   "review_id": "8301701134",
+   "title": "Subway",
+   "name": "Subway",
+   "date": "2022-01-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.28.1",
+   "rating": 1,
+   "country": "US",
+   "text": "It’s not good",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9946,
+    "negative_probs": 0.0054
+   },
+   "keywords": [
+    "good"
+   ]
+  },
+  {
+   "review_id": "8301753079",
+   "title": "Hi",
+   "name": "Hi",
+   "date": "2022-01-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.28.1",
+   "rating": 5,
+   "country": "US",
+   "text": "Him",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5067,
+    "negative_probs": 0.4933
+   },
+   "keywords": [
+    "Him"
+   ]
+  },
+  {
+   "review_id": "8301953697",
+   "title": "Subway Surfers the best",
+   "name": "Subway Surfers the best",
+   "date": "2022-01-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.28.1",
+   "rating": 5,
+   "country": "US",
+   "text": "This is the best game in the wrld I love this game so much I just started and is amazing I love it😀😀😀",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9988,
+    "negative_probs": 0.0012
+   },
+   "keywords": [
+    "game",
+    "love",
+    "best"
+   ]
+  },
+  {
+   "review_id": "8302037175",
+   "title": "Best game",
+   "name": "Best game",
+   "date": "2022-01-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.28.1",
+   "rating": 5,
+   "country": "US",
+   "text": "This is a great game!",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8918,
+    "negative_probs": 0.1082
+   },
+   "keywords": [
+    "great",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8302742248",
+   "title": "Subway surfer",
+   "name": "Subway surfer",
+   "date": "2022-01-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.29.0",
+   "rating": 4,
+   "country": "US",
+   "text": "It’s amazing 😍💗",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.981,
+    "negative_probs": 0.019
+   },
+   "keywords": [
+    "amazing"
+   ]
+  },
+  {
+   "review_id": "8303225685",
+   "title": "This game good",
+   "name": "This game good",
+   "date": "2022-01-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.29.0",
+   "rating": 5,
+   "country": "US",
+   "text": "Subway suffers was my childhood",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.974,
+    "negative_probs": 0.026
+   },
+   "keywords": [
+    "Subway",
+    "suffers",
+    "was"
+   ]
+  },
+  {
+   "review_id": "8303256255",
+   "title": "OMG AMAZING!!!",
+   "name": "OMG AMAZING!!!",
+   "date": "2022-01-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.29.0",
+   "rating": 5,
+   "country": "US",
+   "text": "I LOVE THIS APP SO MUCH THAT I PLAY IT SO MUCH! THANK YOU!",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9898,
+    "negative_probs": 0.0102
+   },
+   "keywords": [
+    "SO",
+    "MUCH",
+    "LOVE"
+   ]
+  },
+  {
+   "review_id": "8303745236",
+   "title": "Download this app now",
+   "name": "Download this app now",
+   "date": "2022-01-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.29.0",
+   "rating": 5,
+   "country": "US",
+   "text": "I love this app like I play on it so much and it’s so fun 🥳and I’ve been playing for like 2 years now so download it now!!",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9975,
+    "negative_probs": 0.0025
+   },
+   "keywords": [
+    "so",
+    "like",
+    "now"
+   ]
+  },
+  {
+   "review_id": "8303905258",
+   "title": "😋",
+   "name": "😋",
+   "date": "2022-01-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.29.0",
+   "rating": 5,
+   "country": "US",
+   "text": "LOVE THIS GAMEEEEEE!!!!!!",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9471,
+    "negative_probs": 0.0529
+   },
+   "keywords": [
+    "LOVE",
+    "GAMEEEEEE"
+   ]
+  },
+  {
+   "review_id": "8304326067",
+   "title": "W",
+   "name": "W",
+   "date": "2022-01-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.29.0",
+   "rating": 5,
+   "country": "US",
+   "text": "W game",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8341,
+    "negative_probs": 0.1659
+   },
+   "keywords": [
+    "game"
+   ]
+  },
+  {
+   "review_id": "8304327745",
    "title": "Good",
    "name": "Good",
-   "date": "2022-04-22",
+   "date": "2022-01-31",
    "device": "ios-all",
    "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Great game",
-   "language": null,
-   "country": "US",
+   "version": "2.29.0",
    "rating": 5,
+   "country": "US",
+   "text": "Good",
+   "language": null,
    "reviewer": "",
    "sentiment": {
     "sentiment_label": 1,
     "sentiment_key": "positive",
-    "positive_probs": 0.6105,
-    "negative_probs": 0.3895
+    "positive_probs": 0.9204,
+    "negative_probs": 0.0796
    },
    "keywords": [
-    "Great",
-    "game"
+    "Good"
    ]
   },
   {
-   "review_id": "8592499144",
-   "title": "Amazing game",
-   "name": "Amazing game",
-   "date": "2022-04-22",
+   "review_id": "8304638790",
+   "title": "Subway surfers",
+   "name": "Subway surfers",
+   "date": "2022-01-31",
    "device": "ios-all",
    "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "I love playing this game in my free time",
-   "language": null,
-   "country": "US",
+   "version": "2.29.0",
    "rating": 5,
+   "country": "US",
+   "text": "One of the best games on mobile",
+   "language": null,
    "reviewer": "",
    "sentiment": {
     "sentiment_label": 1,
     "sentiment_key": "positive",
-    "positive_probs": 0.9968,
-    "negative_probs": 0.0032
+    "positive_probs": 0.9931,
+    "negative_probs": 0.0069
    },
    "keywords": [
-    "love",
-    "playing",
+    "best",
+    "games",
+    "mobile"
+   ]
+  },
+  {
+   "review_id": "8304662816",
+   "title": "A good game",
+   "name": "A good game",
+   "date": "2022-01-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.29.0",
+   "rating": 5,
+   "country": "US",
+   "text": "It’s a very good game I like it.Also it does not have any ads and it’s free.It is also very entertaining.",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.997,
+    "negative_probs": 0.003
+   },
+   "keywords": [
+    "very",
+    "good",
     "game"
    ]
   },
   {
-   "review_id": "8592542966",
-   "title": "amazing",
-   "name": "amazing",
-   "date": "2022-04-22",
+   "review_id": "8304782754",
+   "title": "SEGSY",
+   "name": "SEGSY",
+   "date": "2022-01-31",
    "device": "ios-all",
    "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "i have been playing this game for years. It’s fun, Entertaining, Easy. i will admit it can get addicting but it’s fun to play when you have some spare time. Or if you have little sibling or kids, it’s something that can keep them occupied.",
-   "language": null,
-   "country": "US",
+   "version": "2.29.0",
    "rating": 5,
+   "country": "US",
+   "text": "THIS GAME IS SO AWESOME LIKEE 😫😫 5/5 I LOVE ITTTJTRHDHDB",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9725,
+    "negative_probs": 0.0275
+   },
+   "keywords": [
+    "GAME",
+    "SO",
+    "AWESOME"
+   ]
+  },
+  {
+   "review_id": "8304896399",
+   "title": "Love it",
+   "name": "Love it",
+   "date": "2022-01-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.29.0",
+   "rating": 5,
+   "country": "US",
+   "text": "Can you keep Miss Maia and hashina I really wanna get them :( 🙏 but other than that I love the game I always play it everyday with my little brother and we challenge each other to who can get the most coins and characters  so I love the game! 💖💖🤩🤩🤩",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9982,
+    "negative_probs": 0.0018
+   },
+   "keywords": [
+    "get",
+    "other",
+    "love"
+   ]
+  },
+  {
+   "review_id": "8297691015",
+   "title": "WHAT HAPPENED",
+   "name": "WHAT HAPPENED",
+   "date": "2022-01-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.28.1",
+   "rating": 4,
+   "country": "US",
+   "text": "So basically what happend was I had to upgrade subway surfers and when I went on subway surfers the upgrade made me lose 199 thousand coins and I lost my high score which was 66 thousand.",
+   "language": null,
    "reviewer": "",
    "sentiment": {
     "sentiment_label": 1,
@@ -123,979 +463,341 @@
     "negative_probs": 0.004
    },
    "keywords": [
-    "fun",
-    "been",
-    "playing"
+    "was",
+    "upgrade",
+    "subway"
    ]
   },
   {
-   "review_id": "8592613707",
-   "title": "Idk yu guys kinda have no betches",
-   "name": "Idk yu guys kinda have no betches",
-   "date": "2022-04-22",
+   "review_id": "8297778404",
+   "title": "👍",
+   "name": "👍",
+   "date": "2022-01-30",
    "device": "ios-all",
    "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Yea",
-   "language": null,
-   "country": "US",
-   "rating": 1,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.6849,
-    "negative_probs": 0.3151
-   },
-   "keywords": [
-    "Yea"
-   ]
-  },
-  {
-   "review_id": "8592668000",
-   "title": "I love this",
-   "name": "I love this",
-   "date": "2022-04-22",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "I saw someone on tiktok use it and my sis and I thought it looked fun and I was right!",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.998,
-    "negative_probs": 0.002
-   },
-   "keywords": [
-    "saw",
-    "someone",
-    "tiktok"
-   ]
-  },
-  {
-   "review_id": "8592681048",
-   "title": "I love this game",
-   "name": "I love this game",
-   "date": "2022-04-22",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "This game is so much fun I love it you guys who own the subway surfers should make sure everyone plays this game I just love it",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9988,
-    "negative_probs": 0.0012
-   },
-   "keywords": [
-    "game",
-    "love",
-    "so"
-   ]
-  },
-  {
-   "review_id": "8592705164",
-   "title": "😐",
-   "name": "😐",
-   "date": "2022-04-22",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "I personally enjoy playing the game but...I just got it back again and everything i used to have is just gone so you know...kinda mad and upset 🥲",
-   "language": null,
-   "country": "US",
-   "rating": 3,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9967,
-    "negative_probs": 0.0033
-   },
-   "keywords": [
-    "...",
-    "just",
-    "personally"
-   ]
-  },
-  {
-   "review_id": "8592722863",
-   "title": "love it",
-   "name": "love it",
-   "date": "2022-04-22",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "I’ve played this since I was a kid on my grandmas tablet and it’s a fun way to occupy time, I highly recommend",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9971,
-    "negative_probs": 0.0029
-   },
-   "keywords": [
-    "ve",
-    "played",
-    "since"
-   ]
-  },
-  {
-   "review_id": "8592811068",
-   "title": "it good -",
-   "name": "it good -",
-   "date": "2022-04-22",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "it good",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9962,
-    "negative_probs": 0.0038
-   },
-   "keywords": [
-    "good"
-   ]
-  },
-  {
-   "review_id": "8592822507",
-   "title": "I want Dino🥲",
-   "name": "I want Dino🥲",
-   "date": "2022-04-22",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "I can’t get the Dino for linking my account",
-   "language": null,
-   "country": "US",
-   "rating": 1,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9598,
-    "negative_probs": 0.0402
-   },
-   "keywords": [
-    "get",
-    "Dino",
-    "linking"
-   ]
-  },
-  {
-   "review_id": "8592823958",
-   "title": "So much fun!!",
-   "name": "So much fun!!",
-   "date": "2022-04-22",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "I love how you can try times the Keys youu get",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9942,
-    "negative_probs": 0.0058
-   },
-   "keywords": [
-    "love",
-    "how",
-    "try"
-   ]
-  },
-  {
-   "review_id": "8593048096",
-   "title": "A Major problem",
-   "name": "A Major problem",
-   "date": "2022-04-22",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Hi! I’m back and i was reading the reviews and the developer responses and I’m not happy to say but the developer team using doing nothing about the reviews. If you are sad or offended I’m sorry to hear but all they are doing are giving out links. Another person said the same thing i did so if you are reading this, Please share the word in your own positive reviews another thing, the developers are giving list just for feedback! They are not telling us what they are doing to make it better.And by not doing that it’s making it worse. Thanks for your time",
-   "language": null,
-   "country": "US",
-   "rating": 3,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9986,
-    "negative_probs": 0.0014
-   },
-   "keywords": [
-    "doing",
-    "reviews",
-    "reading"
-   ]
-  },
-  {
-   "review_id": "8593123308",
-   "title": "Sped",
-   "name": "Sped",
-   "date": "2022-04-22",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "This game is so fun! Sped is key",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.7356,
-    "negative_probs": 0.2644
-   },
-   "keywords": [
-    "game",
-    "so",
-    "fun"
-   ]
-  },
-  {
-   "review_id": "8589095298",
-   "title": "Iker",
-   "name": "Iker",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Really good game I just wish it was a better sound and more new skins but overall really good game recommend it you should go play it",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9989,
-    "negative_probs": 0.0011
-   },
-   "keywords": [
-    "good",
-    "game",
-    "Really"
-   ]
-  },
-  {
-   "review_id": "8589116232",
-   "title": "T",
-   "name": "T",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "So fun",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.6105,
-    "negative_probs": 0.3895
-   },
-   "keywords": [
-    "So",
-    "fun"
-   ]
-  },
-  {
-   "review_id": "8589163075",
-   "title": "Subway surfers is the best game",
-   "name": "Subway surfers is the best game",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Best game ever",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9028,
-    "negative_probs": 0.0972
-   },
-   "keywords": [
-    "Best",
-    "game",
-    "ever"
-   ]
-  },
-  {
-   "review_id": "8589216945",
-   "title": "I beg",
-   "name": "I beg",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "I really need keys and could u pls give me 360,000 coins",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9874,
-    "negative_probs": 0.0126
-   },
-   "keywords": [
-    "really",
-    "need",
-    "keys"
-   ]
-  },
-  {
-   "review_id": "8589276419",
-   "title": "Patrick character",
-   "name": "Patrick character",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Can you please put Patrick back on Subway Surfers tomorrow?",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.7243,
-    "negative_probs": 0.2757
-   },
-   "keywords": [
-    "please",
-    "put",
-    "Patrick"
-   ]
-  },
-  {
-   "review_id": "8589305288",
-   "title": "A classic",
-   "name": "A classic",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "I used to play this back in 2014-2015 era and it’s still hit now in 2022. I like how they added more stuff, this game will forever be a classic lol ❤️",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9984,
-    "negative_probs": 0.0016
-   },
-   "keywords": [
-    "used",
-    "play",
-    "back"
-   ]
-  },
-  {
-   "review_id": "8589306163",
-   "title": "Best",
-   "name": "Best",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Love it",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9864,
-    "negative_probs": 0.0136
-   },
-   "keywords": [
-    "Love"
-   ]
-  },
-  {
-   "review_id": "8589315960",
-   "title": "cool😍",
-   "name": "cool😍",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "This game is really great! It’s kinda like minion rush:)",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9828,
-    "negative_probs": 0.0172
-   },
-   "keywords": [
-    "game",
-    "really",
-    "great"
-   ]
-  },
-  {
-   "review_id": "8589321223",
-   "title": "Big trend",
-   "name": "Big trend",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Big tiktok trend and really fun even quandale dingle likes it",
-   "language": null,
-   "country": "US",
+   "version": "2.28.1",
    "rating": 4,
+   "country": "US",
+   "text": "Subway surfers is a fun game. There are some ads but not too many. I recommend this game for people because it is fun, you have to collect as much coins as you can and try not to run in to things. You can get keys to unlock player skins and other things. I like subway surfers because it is entertaining and it doesn’t get boring after awhile. It is fun for kids and teens too. 👍👌",
+   "language": null,
    "reviewer": "",
    "sentiment": {
     "sentiment_label": 1,
     "sentiment_key": "positive",
-    "positive_probs": 0.9936,
-    "negative_probs": 0.0064
+    "positive_probs": 0.9973,
+    "negative_probs": 0.0027
    },
    "keywords": [
-    "Big",
-    "tiktok",
-    "trend"
+    "fun",
+    "surfers",
+    "game"
    ]
   },
   {
-   "review_id": "8589324263",
-   "title": "It’s great",
-   "name": "It’s great",
-   "date": "2022-04-21",
+   "review_id": "8297820056",
+   "title": "I do recommend",
+   "name": "I do recommend",
+   "date": "2022-01-30",
    "device": "ios-all",
    "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "it’s child approved and the only thing that i don’t like is that it went to classical music i like the old music",
-   "language": null,
-   "country": "US",
+   "version": "2.28.1",
    "rating": 5,
+   "country": "US",
+   "text": "I love this game for so many years it never get boring I do recommend you download it is kid friendly ,and  it will never end until your phone dies 😂 well I love the game and all ways will",
+   "language": null,
    "reviewer": "",
    "sentiment": {
     "sentiment_label": 1,
     "sentiment_key": "positive",
-    "positive_probs": 0.998,
-    "negative_probs": 0.002
+    "positive_probs": 0.9993,
+    "negative_probs": 0.0007
    },
    "keywords": [
-    "like",
-    "music",
-    "child"
-   ]
-  },
-  {
-   "review_id": "8589354113",
-   "title": "Subway surfer",
-   "name": "Subway surfer",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "This this the best game ever",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.992,
-    "negative_probs": 0.008
-   },
-   "keywords": [
-    "best",
+    "love",
     "game",
-    "ever"
+    "never"
    ]
   },
   {
-   "review_id": "8589388774",
-   "title": "Obsessed",
-   "name": "Obsessed",
-   "date": "2022-04-21",
+   "review_id": "8297856917",
+   "title": "Subway surfers",
+   "name": "Subway surfers",
+   "date": "2022-01-30",
    "device": "ios-all",
    "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Hi im Carly and ive been playing since 2014. I love the game so much. The characters are so cool! I personally love this game. I definitely recommend. I hope you guys have a good day!!! You deserve a butt load of money.       - Carly 💖",
-   "language": null,
+   "version": "2.28.1",
+   "rating": 4,
    "country": "US",
-   "rating": 5,
+   "text": "This game is so fun and cute! It is hard getting all the characters because there are so many!!! I love the police officer setup and it is just so addicting. I love it!!!😜",
+   "language": null,
    "reviewer": "",
    "sentiment": {
     "sentiment_label": 1,
     "sentiment_key": "positive",
-    "positive_probs": 0.9976,
-    "negative_probs": 0.0024
+    "positive_probs": 0.9982,
+    "negative_probs": 0.0018
    },
    "keywords": [
-    "Carly",
+    "so",
     "love",
     "game"
    ]
   },
   {
-   "review_id": "8589402930",
-   "title": "amazing",
-   "name": "amazing",
-   "date": "2022-04-21",
+   "review_id": "8297876946",
+   "title": "Subway surf riview",
+   "name": "Subway surf riview",
+   "date": "2022-01-30",
    "device": "ios-all",
    "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "i started playing bc of tt and immediately fell in love lol",
-   "language": null,
-   "country": "US",
+   "version": "2.28.1",
    "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9991,
-    "negative_probs": 0.0009
-   },
-   "keywords": [
-    "started",
-    "playing",
-    "bc"
-   ]
-  },
-  {
-   "review_id": "8589421507",
-   "title": "Sushehhehejehehe",
-   "name": "Sushehhehejehehe",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Fire game",
-   "language": null,
    "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.6105,
-    "negative_probs": 0.3895
-   },
-   "keywords": [
-    "Fire",
-    "game"
-   ]
-  },
-  {
-   "review_id": "8589503646",
-   "title": "Subway Surf updates",
-   "name": "Subway Surf updates",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "I don’t like the Easter updates and stuff I only like the normal SubwaySurfBut y’all game are still cool",
+   "text": "Awesome game really love it",
    "language": null,
-   "country": "US",
-   "rating": 3,
    "reviewer": "",
    "sentiment": {
     "sentiment_label": 1,
     "sentiment_key": "positive",
-    "positive_probs": 0.9988,
-    "negative_probs": 0.0012
+    "positive_probs": 0.9913,
+    "negative_probs": 0.0087
    },
    "keywords": [
-    "like",
-    "don",
-    "Easter"
-   ]
-  },
-  {
-   "review_id": "8589591379",
-   "title": "😍",
-   "name": "😍",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "i love this game",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9758,
-    "negative_probs": 0.0242
-   },
-   "keywords": [
-    "love",
-    "game"
-   ]
-  },
-  {
-   "review_id": "8589592387",
-   "title": "Bring back the first version I would like that",
-   "name": "Bring back the first version I would like that",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "I love  bring back  the first version",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.95,
-    "negative_probs": 0.05
-   },
-   "keywords": [
-    "love",
-    "bring",
-    "back"
-   ]
-  },
-  {
-   "review_id": "8589596862",
-   "title": "good",
-   "name": "good",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "good game but it dont save when you install",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9916,
-    "negative_probs": 0.0084
-   },
-   "keywords": [
-    "good",
+    "Awesome",
     "game",
-    "but"
+    "really"
    ]
   },
   {
-   "review_id": "8589628593",
-   "title": "Yes",
-   "name": "Yes",
-   "date": "2022-04-21",
+   "review_id": "8297970676",
+   "title": "Fun",
+   "name": "Fun",
+   "date": "2022-01-30",
    "device": "ios-all",
    "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Tomorrow",
-   "language": null,
+   "version": "2.28.1",
+   "rating": 4,
    "country": "US",
-   "rating": 5,
+   "text": "Game is lots of fun! I definitely recommend it!",
+   "language": null,
    "reviewer": "",
    "sentiment": {
     "sentiment_label": 1,
     "sentiment_key": "positive",
-    "positive_probs": 0.7671,
-    "negative_probs": 0.2329
+    "positive_probs": 0.994,
+    "negative_probs": 0.006
    },
    "keywords": [
-    "Tomorrow"
+    "Game",
+    "lots",
+    "fun"
    ]
   },
   {
-   "review_id": "8589770470",
-   "title": "Goated game",
-   "name": "Goated game",
-   "date": "2022-04-21",
+   "review_id": "8298044691",
+   "title": "Tyler's review",
+   "name": "Tyler's review",
+   "date": "2022-01-30",
    "device": "ios-all",
    "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "This game takes off my boredom",
-   "language": null,
-   "country": "US",
+   "version": "2.28.1",
    "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 0,
-    "sentiment_key": "negative",
-    "positive_probs": 0.2625,
-    "negative_probs": 0.7375
-   },
-   "keywords": [
-    "game",
-    "takes",
-    "off"
-   ]
-  },
-  {
-   "review_id": "8589909931",
-   "title": "Good",
-   "name": "Good",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Good game",
-   "language": null,
    "country": "US",
-   "rating": 5,
+   "text": "If you own subway surfers, then you know that there is no such thing as boredom",
+   "language": null,
    "reviewer": "",
    "sentiment": {
     "sentiment_label": 1,
     "sentiment_key": "positive",
-    "positive_probs": 0.6105,
-    "negative_probs": 0.3895
+    "positive_probs": 0.9386,
+    "negative_probs": 0.0614
    },
    "keywords": [
-    "Good",
-    "game"
-   ]
-  },
-  {
-   "review_id": "8590417777",
-   "title": "Delete this",
-   "name": "Delete this",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "This game is just a endless run you spend your life savings on getting characters and boards that’s all the end of the day your bored that’s the whole and it’s brainwashing kids to forget the outside and friends family",
-   "language": null,
-   "country": "US",
-   "rating": 1,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9985,
-    "negative_probs": 0.0015
-   },
-   "keywords": [
-    "your",
-    "game",
-    "just"
-   ]
-  },
-  {
-   "review_id": "8590650231",
-   "title": "Julia",
-   "name": "Julia",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "i love this game it’s so fun and i just love it!",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9976,
-    "negative_probs": 0.0024
-   },
-   "keywords": [
-    "love",
-    "game",
-    "so"
-   ]
-  },
-  {
-   "review_id": "8590719593",
-   "title": "Fun game!",
-   "name": "Fun game!",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Best game ever so entertaining you always wanna have a high! Score thank you for making this game",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9779,
-    "negative_probs": 0.0221
-   },
-   "keywords": [
-    "game",
-    "Best",
-    "ever"
-   ]
-  },
-  {
-   "review_id": "8590752495",
-   "title": "I love this game you guys need to try it <3",
-   "name": "I love this game you guys need to try it <3",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "I love this to much that I stayed home from school",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9914,
-    "negative_probs": 0.0086
-   },
-   "keywords": [
-    "love",
-    "much",
-    "stayed"
-   ]
-  },
-  {
-   "review_id": "8590854485",
-   "title": "😊",
-   "name": "😊",
-   "date": "2022-04-21",
-   "device": "ios-all",
-   "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "I love subway surfers but when the new update happened I thought I did something and instead of accepting it I accidentally deleted all of my data. I am now successful in subway surfers. We could go to new places though Colombia 🇨🇴, Malaysia 🇲🇾,Vietnam 🇻🇳 , Ukraine 🇺🇦, Russia 🇷🇺, Guyana 🇬🇾, Honduras 🇭🇳,Venezuela 🇻🇪,Ecuador ,Dominican Republic 🇩🇴, Sweden 🇸🇪 , Norway 🇳🇴., Philippines 🇵🇭, and North Korea 🇰🇵.We should go to new places. That’s all I got. I’m still designing a character.",
-   "language": null,
-   "country": "US",
-   "rating": 5,
-   "reviewer": "",
-   "sentiment": {
-    "sentiment_label": 1,
-    "sentiment_key": "positive",
-    "positive_probs": 0.9958,
-    "negative_probs": 0.0042
-   },
-   "keywords": [
-    "new",
+    "own",
     "subway",
     "surfers"
    ]
   },
   {
-   "review_id": "8590867604",
-   "title": "Amazing",
-   "name": "Amazing",
-   "date": "2022-04-21",
+   "review_id": "8298091071",
+   "title": "Frank",
+   "name": "Frank",
+   "date": "2022-01-30",
    "device": "ios-all",
    "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "Subway surfers is amazing I always play it when I am bored.",
-   "language": null,
+   "version": "2.28.1",
+   "rating": 1,
    "country": "US",
-   "rating": 4,
+   "text": "I sent 6 days to Get frank and his lega are skinny",
+   "language": null,
    "reviewer": "",
    "sentiment": {
     "sentiment_label": 1,
     "sentiment_key": "positive",
-    "positive_probs": 0.9933,
-    "negative_probs": 0.0067
+    "positive_probs": 0.8339,
+    "negative_probs": 0.1661
    },
    "keywords": [
-    "Subway",
-    "surfers",
-    "amazing"
+    "sent",
+    "days",
+    "Get"
    ]
   },
   {
-   "review_id": "8591179390",
-   "title": "review",
-   "name": "review",
-   "date": "2022-04-21",
+   "review_id": "8298154915",
+   "title": "Subway surfers",
+   "name": "Subway surfers",
+   "date": "2022-01-30",
    "device": "ios-all",
    "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "subway surfers keeps me occupied and it doesnt use wifi so u can play it anywhere. it is my most favorite game ever. anyhow, i don’t like how some characters go away after a certain amount of time so i think they should bring the characters that were here for a couple of days should come back. besides that this game is so much fun and ppl should definitely play it!!",
-   "language": null,
-   "country": "US",
+   "version": "2.28.1",
    "rating": 5,
+   "country": "US",
+   "text": "I like the game a lot",
+   "language": null,
    "reviewer": "",
    "sentiment": {
     "sentiment_label": 1,
     "sentiment_key": "positive",
-    "positive_probs": 0.9978,
-    "negative_probs": 0.0022
+    "positive_probs": 0.9887,
+    "negative_probs": 0.0113
    },
    "keywords": [
-    "so",
+    "like",
+    "game",
+    "lot"
+   ]
+  },
+  {
+   "review_id": "8298174961",
+   "title": "Yes",
+   "name": "Yes",
+   "date": "2022-01-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.28.1",
+   "rating": 5,
+   "country": "US",
+   "text": "ROLL ROLL ROLL ROLL UP TO THE PARTY WITH MY CRAZY PINK WIG. BUT I CANT FIT THROUGH THE DOOR BECAUSE MY BOOTYS TOO BIG. 1% IS HUMAN 99% IS PLASTIC. JUST A SEC I GOTTA FIX MY LIPS. 💖🎊💞😊😆👌🥶🎊💗☀️😏💖😁🎊",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9725,
+    "negative_probs": 0.0275
+   },
+   "keywords": [
+    "ROLL",
+    "MY",
+    "UP"
+   ]
+  },
+  {
+   "review_id": "8298191859",
+   "title": "Lots of fun!!!",
+   "name": "Lots of fun!!!",
+   "date": "2022-01-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.28.1",
+   "rating": 5,
+   "country": "US",
+   "text": "You should totally get this game",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.7229,
+    "negative_probs": 0.2771
+   },
+   "keywords": [
     "should",
-    "play"
+    "totally",
+    "get"
    ]
   },
   {
-   "review_id": "8591288362",
-   "title": "Good",
-   "name": "Good",
-   "date": "2022-04-21",
+   "review_id": "8298274918",
+   "title": "My review",
+   "name": "My review",
+   "date": "2022-01-30",
    "device": "ios-all",
    "market_code": "apple-store",
-   "version": "2.32.2",
-   "text": "I love it, a real classic.",
-   "language": null,
+   "version": "2.28.1",
+   "rating": 4,
    "country": "US",
-   "rating": 5,
+   "text": "It my childhood game and it’s still the best game and it still the same game that made me happy when I had no WiFi so yah",
+   "language": null,
    "reviewer": "",
    "sentiment": {
     "sentiment_label": 1,
     "sentiment_key": "positive",
-    "positive_probs": 0.9955,
-    "negative_probs": 0.0045
+    "positive_probs": 0.9977,
+    "negative_probs": 0.0023
    },
    "keywords": [
-    "love",
-    "real",
-    "classic"
+    "game",
+    "still",
+    "my"
+   ]
+  },
+  {
+   "review_id": "8298404541",
+   "title": "Great game",
+   "name": "Great game",
+   "date": "2022-01-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.28.1",
+   "rating": 5,
+   "country": "US",
+   "text": "This is the best game ever thanks for making this game🙃.",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9865,
+    "negative_probs": 0.0135
+   },
+   "keywords": [
+    "game",
+    "best",
+    "ever"
+   ]
+  },
+  {
+   "review_id": "8298406127",
+   "title": "ballz in yo face",
+   "name": "ballz in yo face",
+   "date": "2022-01-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.28.1",
+   "rating": 3,
+   "country": "US",
+   "text": "bruh this game in my face like ur moms ballz",
+   "language": null,
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9777,
+    "negative_probs": 0.0223
+   },
+   "keywords": [
+    "bruh",
+    "game",
+    "my"
    ]
   }
  ],
- "page_index": 0,
- "page_num": 120,
- "prev_page": null,
- "next_page": "/v1.3/apps/ios/app/512939461/reviews?start_date=2022-01-01&end_date=2022-04-24&version=all&country=US&rating=all&page_index=1&page_size=100&lang=en",
+ "page_index": 99,
+ "page_num": 125,
+ "prev_page": "/v1.3/apps/ios/app/512939461/reviews?start_date=2022-01-01&end_date=2022-04-25&version=all&country=US&rating=all&page_index=98&page_size=100&lang=en",
+ "next_page": "/v1.3/apps/ios/app/512939461/reviews?start_date=2022-01-01&end_date=2022-04-25&version=all&country=US&rating=all&page_index=100&page_size=100&lang=en",
  "page_size": 100,
  "code": 200
 }

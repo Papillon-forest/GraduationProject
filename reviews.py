@@ -64,21 +64,26 @@ def get_reviews(page_index_temp):
         del output['reviews'][i]
     for i in range(len(output['reviews'])):
         reviews_list = [output['reviews'][i]['text']]
-        senta = hub.Module(name='senta_bilstm')
+        # senta = hub.Module(name='senta_bilstm')
         test_text = reviews_list
         results = senta.sentiment_classify(texts=test_text, use_gpu=False, batch_size=1)
         del results[0]['text']
         output['reviews'][i]['sentiment'] = results[0]
         keywords = jieba.analyse.extract_tags(output['reviews'][i]['text'], topK=3, withWeight=False)
         output['reviews'][i]['keywords'] = keywords
+        print(f"第{page_index_temp + 1}页,第{i + 1}条评论分析完成")
+    print(f"第{page_index_temp + 1}页装载完成")
+    time.sleep(5)
     return output
 
 
+reviews_list_all = []
+
+
 def get_reviews_all(start_n, end_n):
-    reviews_list = []
     for i in range(start_n, end_n):
-        reviews_list.extend(get_reviews(i)['reviews'])
-    return reviews_list
+        reviews_list_all.extend(get_reviews(i)['reviews'])
+    return reviews_list_all
 
 
 def write_reviews():
@@ -86,25 +91,37 @@ def write_reviews():
     data = json.dumps(output, indent=1, ensure_ascii=False)
     with open("Reviews_Subway Surfers.json", 'w', newline='\n') as f:
         f.write(data)
+        print("样本成功写入文件")
 
 
 def write_reviews_all(start_n, end_n):
     data = json.dumps(get_reviews_all(start_n, end_n), indent=1, ensure_ascii=False)
     with open("Reviews_Subway Surfers_all.json", 'a', newline='\n') as f:
         f.write(data)
+        print(f"第{start_n + 1}页到第{end_n}页评论成功写入文件")
 
 
-# def get_reviews_rating():
-
-
-write_reviews_all(0, 20)
-time.sleep(60)
-write_reviews_all(20,40)
-time.sleep(120)
-write_reviews_all(40,60)
-time.sleep(180)
-write_reviews_all(60,80)
-time.sleep(240)
-write_reviews_all(80,100)
-
-
+senta = hub.Module(name='senta_bilstm')
+# write_reviews()
+write_reviews_all(0, 10)
+# time.sleep(120)
+# write_reviews_all(10, 20)
+# time.sleep(120)
+# write_reviews_all(20, 30)
+# time.sleep(120)
+# write_reviews_all(30, 40)
+# time.sleep(120)
+# write_reviews_all(40, 50)
+# time.sleep(120)
+# write_reviews_all(50, 60)
+# time.sleep(120)
+# write_reviews_all(60, 70)
+# time.sleep(120)
+# write_reviews_all(70, 80)
+# time.sleep(120)
+# write_reviews_all(80, 90)
+# time.sleep(120)
+# write_reviews_all(90,100)
+# write_reviews_all(100, 110)
+# time.sleep(120)
+# write_reviews_all(110,125)
