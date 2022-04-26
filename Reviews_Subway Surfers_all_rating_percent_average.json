@@ -1,0 +1,3652 @@
+[
+ {
+  "keywords": "2021-01-01",
+  "counts_5": 6,
+  "counts_4": 0,
+  "counts_3": 1,
+  "counts_2": 1,
+  "counts_1": 1,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-01-02",
+  "counts_5": 12,
+  "counts_4": 1,
+  "counts_3": 2,
+  "counts_2": 0,
+  "counts_1": 1,
+  "rating_percent": 0.75,
+  "rating_average": 4.4375
+ },
+ {
+  "keywords": "2021-01-03",
+  "counts_5": 13,
+  "counts_4": 5,
+  "counts_3": 2,
+  "counts_2": 2,
+  "counts_1": 3,
+  "rating_percent": 0.52,
+  "rating_average": 3.92
+ },
+ {
+  "keywords": "2021-01-04",
+  "counts_5": 11,
+  "counts_4": 1,
+  "counts_3": 1,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.8461538461538461,
+  "rating_average": 4.769230769230769
+ },
+ {
+  "keywords": "2021-01-05",
+  "counts_5": 11,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 1,
+  "counts_1": 2,
+  "rating_percent": 0.7857142857142857,
+  "rating_average": 4.214285714285714
+ },
+ {
+  "keywords": "2021-01-06",
+  "counts_5": 14,
+  "counts_4": 1,
+  "counts_3": 0,
+  "counts_2": 1,
+  "counts_1": 3,
+  "rating_percent": 0.7368421052631579,
+  "rating_average": 4.157894736842105
+ },
+ {
+  "keywords": "2021-01-07",
+  "counts_5": 23,
+  "counts_4": 4,
+  "counts_3": 1,
+  "counts_2": 2,
+  "counts_1": 3,
+  "rating_percent": 0.696969696969697,
+  "rating_average": 4.2727272727272725
+ },
+ {
+  "keywords": "2021-01-08",
+  "counts_5": 19,
+  "counts_4": 4,
+  "counts_3": 2,
+  "counts_2": 1,
+  "counts_1": 1,
+  "rating_percent": 0.7037037037037037,
+  "rating_average": 4.444444444444445
+ },
+ {
+  "keywords": "2021-01-09",
+  "counts_5": 11,
+  "counts_4": 3,
+  "counts_3": 4,
+  "counts_2": 1,
+  "counts_1": 2,
+  "rating_percent": 0.5238095238095238,
+  "rating_average": 3.9523809523809526
+ },
+ {
+  "keywords": "2021-01-10",
+  "counts_5": 12,
+  "counts_4": 2,
+  "counts_3": 0,
+  "counts_2": 2,
+  "counts_1": 3,
+  "rating_percent": 0.631578947368421,
+  "rating_average": 3.9473684210526314
+ },
+ {
+  "keywords": "2021-01-11",
+  "counts_5": 16,
+  "counts_4": 2,
+  "counts_3": 3,
+  "counts_2": 0,
+  "counts_1": 1,
+  "rating_percent": 0.7272727272727273,
+  "rating_average": 4.454545454545454
+ },
+ {
+  "keywords": "2021-01-12",
+  "counts_5": 13,
+  "counts_4": 1,
+  "counts_3": 2,
+  "counts_2": 1,
+  "counts_1": 1,
+  "rating_percent": 0.7222222222222222,
+  "rating_average": 4.333333333333333
+ },
+ {
+  "keywords": "2021-01-13",
+  "counts_5": 9,
+  "counts_4": 4,
+  "counts_3": 1,
+  "counts_2": 0,
+  "counts_1": 3,
+  "rating_percent": 0.5294117647058824,
+  "rating_average": 3.9411764705882355
+ },
+ {
+  "keywords": "2021-01-14",
+  "counts_5": 7,
+  "counts_4": 1,
+  "counts_3": 1,
+  "counts_2": 0,
+  "counts_1": 4,
+  "rating_percent": 0.5384615384615384,
+  "rating_average": 3.5384615384615383
+ },
+ {
+  "keywords": "2021-01-15",
+  "counts_5": 5,
+  "counts_4": 2,
+  "counts_3": 1,
+  "counts_2": 0,
+  "counts_1": 2,
+  "rating_percent": 0.5,
+  "rating_average": 3.8
+ },
+ {
+  "keywords": "2021-01-16",
+  "counts_5": 9,
+  "counts_4": 2,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 2,
+  "rating_percent": 0.6923076923076923,
+  "rating_average": 4.230769230769231
+ },
+ {
+  "keywords": "2021-01-17",
+  "counts_5": 6,
+  "counts_4": 1,
+  "counts_3": 1,
+  "counts_2": 1,
+  "counts_1": 2,
+  "rating_percent": 0.5454545454545454,
+  "rating_average": 3.727272727272727
+ },
+ {
+  "keywords": "2021-01-18",
+  "counts_5": 8,
+  "counts_4": 2,
+  "counts_3": 2,
+  "counts_2": 1,
+  "counts_1": 1,
+  "rating_percent": 0.5714285714285714,
+  "rating_average": 4.071428571428571
+ },
+ {
+  "keywords": "2021-01-19",
+  "counts_5": 8,
+  "counts_4": 3,
+  "counts_3": 1,
+  "counts_2": 1,
+  "counts_1": 3,
+  "rating_percent": 0.5,
+  "rating_average": 3.75
+ },
+ {
+  "keywords": "2021-01-20",
+  "counts_5": 6,
+  "counts_4": 1,
+  "counts_3": 1,
+  "counts_2": 1,
+  "counts_1": 1,
+  "rating_percent": 0.6,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-01-21",
+  "counts_5": 5,
+  "counts_4": 1,
+  "counts_3": 1,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.7142857142857143,
+  "rating_average": 4.571428571428571
+ },
+ {
+  "keywords": "2021-01-22",
+  "counts_5": 16,
+  "counts_4": 0,
+  "counts_3": 3,
+  "counts_2": 0,
+  "counts_1": 2,
+  "rating_percent": 0.7619047619047619,
+  "rating_average": 4.333333333333333
+ },
+ {
+  "keywords": "2021-01-23",
+  "counts_5": 16,
+  "counts_4": 3,
+  "counts_3": 0,
+  "counts_2": 1,
+  "counts_1": 4,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.083333333333333
+ },
+ {
+  "keywords": "2021-01-24",
+  "counts_5": 7,
+  "counts_4": 5,
+  "counts_3": 2,
+  "counts_2": 0,
+  "counts_1": 2,
+  "rating_percent": 0.4375,
+  "rating_average": 3.9375
+ },
+ {
+  "keywords": "2021-01-25",
+  "counts_5": 11,
+  "counts_4": 4,
+  "counts_3": 1,
+  "counts_2": 1,
+  "counts_1": 1,
+  "rating_percent": 0.6111111111111112,
+  "rating_average": 4.277777777777778
+ },
+ {
+  "keywords": "2021-01-26",
+  "counts_5": 9,
+  "counts_4": 1,
+  "counts_3": 0,
+  "counts_2": 1,
+  "counts_1": 1,
+  "rating_percent": 0.75,
+  "rating_average": 4.333333333333333
+ },
+ {
+  "keywords": "2021-01-27",
+  "counts_5": 8,
+  "counts_4": 2,
+  "counts_3": 2,
+  "counts_2": 2,
+  "counts_1": 0,
+  "rating_percent": 0.5714285714285714,
+  "rating_average": 4.142857142857143
+ },
+ {
+  "keywords": "2021-01-28",
+  "counts_5": 10,
+  "counts_4": 4,
+  "counts_3": 0,
+  "counts_2": 1,
+  "counts_1": 2,
+  "rating_percent": 0.5882352941176471,
+  "rating_average": 4.117647058823529
+ },
+ {
+  "keywords": "2021-01-29",
+  "counts_5": 8,
+  "counts_4": 1,
+  "counts_3": 1,
+  "counts_2": 1,
+  "counts_1": 2,
+  "rating_percent": 0.6153846153846154,
+  "rating_average": 3.923076923076923
+ },
+ {
+  "keywords": "2021-01-30",
+  "counts_5": 9,
+  "counts_4": 1,
+  "counts_3": 2,
+  "counts_2": 2,
+  "counts_1": 0,
+  "rating_percent": 0.6428571428571429,
+  "rating_average": 4.214285714285714
+ },
+ {
+  "keywords": "2021-01-31",
+  "counts_5": 11,
+  "counts_4": 0,
+  "counts_3": 1,
+  "counts_2": 0,
+  "counts_1": 2,
+  "rating_percent": 0.7857142857142857,
+  "rating_average": 4.285714285714286
+ },
+ {
+  "keywords": "2021-02-01",
+  "counts_5": 7,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 1.0,
+  "rating_average": 5.0
+ },
+ {
+  "keywords": "2021-02-02",
+  "counts_5": 15,
+  "counts_4": 0,
+  "counts_3": 2,
+  "counts_2": 2,
+  "counts_1": 4,
+  "rating_percent": 0.6521739130434783,
+  "rating_average": 3.869565217391304
+ },
+ {
+  "keywords": "2021-02-03",
+  "counts_5": 8,
+  "counts_4": 4,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 8,
+  "rating_percent": 0.4,
+  "rating_average": 3.2
+ },
+ {
+  "keywords": "2021-02-04",
+  "counts_5": 12,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 1.0,
+  "rating_average": 5.0
+ },
+ {
+  "keywords": "2021-02-05",
+  "counts_5": 12,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 2,
+  "counts_1": 2,
+  "rating_percent": 0.75,
+  "rating_average": 4.125
+ },
+ {
+  "keywords": "2021-02-06",
+  "counts_5": 38,
+  "counts_4": 4,
+  "counts_3": 2,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.8636363636363636,
+  "rating_average": 4.818181818181818
+ },
+ {
+  "keywords": "2021-02-07",
+  "counts_5": 26,
+  "counts_4": 4,
+  "counts_3": 2,
+  "counts_2": 0,
+  "counts_1": 2,
+  "rating_percent": 0.7647058823529411,
+  "rating_average": 4.529411764705882
+ },
+ {
+  "keywords": "2021-02-08",
+  "counts_5": 16,
+  "counts_4": 6,
+  "counts_3": 4,
+  "counts_2": 2,
+  "counts_1": 0,
+  "rating_percent": 0.5714285714285714,
+  "rating_average": 4.285714285714286
+ },
+ {
+  "keywords": "2021-02-09",
+  "counts_5": 16,
+  "counts_4": 0,
+  "counts_3": 4,
+  "counts_2": 2,
+  "counts_1": 6,
+  "rating_percent": 0.5714285714285714,
+  "rating_average": 3.642857142857143
+ },
+ {
+  "keywords": "2021-02-10",
+  "counts_5": 12,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 1.0,
+  "rating_average": 5.0
+ },
+ {
+  "keywords": "2021-02-11",
+  "counts_5": 26,
+  "counts_4": 4,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 8,
+  "rating_percent": 0.6842105263157895,
+  "rating_average": 4.052631578947368
+ },
+ {
+  "keywords": "2021-02-12",
+  "counts_5": 20,
+  "counts_4": 4,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.8333333333333334,
+  "rating_average": 4.833333333333333
+ },
+ {
+  "keywords": "2021-02-13",
+  "counts_5": 24,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 4,
+  "counts_1": 6,
+  "rating_percent": 0.7058823529411765,
+  "rating_average": 3.9411764705882355
+ },
+ {
+  "keywords": "2021-02-14",
+  "counts_5": 22,
+  "counts_4": 6,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 4,
+  "rating_percent": 0.6875,
+  "rating_average": 4.3125
+ },
+ {
+  "keywords": "2021-02-15",
+  "counts_5": 36,
+  "counts_4": 6,
+  "counts_3": 2,
+  "counts_2": 2,
+  "counts_1": 2,
+  "rating_percent": 0.75,
+  "rating_average": 4.5
+ },
+ {
+  "keywords": "2021-02-16",
+  "counts_5": 22,
+  "counts_4": 2,
+  "counts_3": 8,
+  "counts_2": 0,
+  "counts_1": 6,
+  "rating_percent": 0.5789473684210527,
+  "rating_average": 3.8947368421052633
+ },
+ {
+  "keywords": "2021-02-17",
+  "counts_5": 32,
+  "counts_4": 8,
+  "counts_3": 0,
+  "counts_2": 2,
+  "counts_1": 0,
+  "rating_percent": 0.7619047619047619,
+  "rating_average": 4.666666666666667
+ },
+ {
+  "keywords": "2021-02-18",
+  "counts_5": 48,
+  "counts_4": 12,
+  "counts_3": 10,
+  "counts_2": 0,
+  "counts_1": 4,
+  "rating_percent": 0.6486486486486487,
+  "rating_average": 4.351351351351352
+ },
+ {
+  "keywords": "2021-02-19",
+  "counts_5": 26,
+  "counts_4": 6,
+  "counts_3": 2,
+  "counts_2": 0,
+  "counts_1": 4,
+  "rating_percent": 0.6842105263157895,
+  "rating_average": 4.315789473684211
+ },
+ {
+  "keywords": "2021-02-20",
+  "counts_5": 48,
+  "counts_4": 2,
+  "counts_3": 0,
+  "counts_2": 4,
+  "counts_1": 4,
+  "rating_percent": 0.8275862068965517,
+  "rating_average": 4.482758620689655
+ },
+ {
+  "keywords": "2021-02-21",
+  "counts_5": 38,
+  "counts_4": 2,
+  "counts_3": 2,
+  "counts_2": 2,
+  "counts_1": 10,
+  "rating_percent": 0.7037037037037037,
+  "rating_average": 4.037037037037037
+ },
+ {
+  "keywords": "2021-02-22",
+  "counts_5": 16,
+  "counts_4": 4,
+  "counts_3": 0,
+  "counts_2": 4,
+  "counts_1": 4,
+  "rating_percent": 0.5714285714285714,
+  "rating_average": 3.857142857142857
+ },
+ {
+  "keywords": "2021-02-23",
+  "counts_5": 16,
+  "counts_4": 2,
+  "counts_3": 2,
+  "counts_2": 2,
+  "counts_1": 6,
+  "rating_percent": 0.5714285714285714,
+  "rating_average": 3.7142857142857144
+ },
+ {
+  "keywords": "2021-02-24",
+  "counts_5": 21,
+  "counts_4": 3,
+  "counts_3": 3,
+  "counts_2": 6,
+  "counts_1": 3,
+  "rating_percent": 0.5833333333333334,
+  "rating_average": 3.9166666666666665
+ },
+ {
+  "keywords": "2021-02-25",
+  "counts_5": 9,
+  "counts_4": 0,
+  "counts_3": 6,
+  "counts_2": 0,
+  "counts_1": 3,
+  "rating_percent": 0.5,
+  "rating_average": 3.6666666666666665
+ },
+ {
+  "keywords": "2021-02-26",
+  "counts_5": 21,
+  "counts_4": 6,
+  "counts_3": 6,
+  "counts_2": 3,
+  "counts_1": 0,
+  "rating_percent": 0.5833333333333334,
+  "rating_average": 4.25
+ },
+ {
+  "keywords": "2021-02-27",
+  "counts_5": 18,
+  "counts_4": 12,
+  "counts_3": 3,
+  "counts_2": 0,
+  "counts_1": 9,
+  "rating_percent": 0.42857142857142855,
+  "rating_average": 3.7142857142857144
+ },
+ {
+  "keywords": "2021-02-28",
+  "counts_5": 45,
+  "counts_4": 6,
+  "counts_3": 6,
+  "counts_2": 0,
+  "counts_1": 3,
+  "rating_percent": 0.75,
+  "rating_average": 4.5
+ },
+ {
+  "keywords": "2021-03-01",
+  "counts_5": 30,
+  "counts_4": 9,
+  "counts_3": 3,
+  "counts_2": 6,
+  "counts_1": 0,
+  "rating_percent": 0.625,
+  "rating_average": 4.3125
+ },
+ {
+  "keywords": "2021-03-02",
+  "counts_5": 36,
+  "counts_4": 12,
+  "counts_3": 15,
+  "counts_2": 0,
+  "counts_1": 6,
+  "rating_percent": 0.5217391304347826,
+  "rating_average": 4.043478260869565
+ },
+ {
+  "keywords": "2021-03-03",
+  "counts_5": 24,
+  "counts_4": 6,
+  "counts_3": 0,
+  "counts_2": 3,
+  "counts_1": 9,
+  "rating_percent": 0.5714285714285714,
+  "rating_average": 3.7857142857142856
+ },
+ {
+  "keywords": "2021-03-04",
+  "counts_5": 27,
+  "counts_4": 6,
+  "counts_3": 3,
+  "counts_2": 0,
+  "counts_1": 6,
+  "rating_percent": 0.6428571428571429,
+  "rating_average": 4.142857142857143
+ },
+ {
+  "keywords": "2021-03-05",
+  "counts_5": 24,
+  "counts_4": 0,
+  "counts_3": 3,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.8888888888888888,
+  "rating_average": 4.777777777777778
+ },
+ {
+  "keywords": "2021-03-06",
+  "counts_5": 36,
+  "counts_4": 3,
+  "counts_3": 3,
+  "counts_2": 0,
+  "counts_1": 3,
+  "rating_percent": 0.8,
+  "rating_average": 4.533333333333333
+ },
+ {
+  "keywords": "2021-03-07",
+  "counts_5": 42,
+  "counts_4": 12,
+  "counts_3": 3,
+  "counts_2": 0,
+  "counts_1": 3,
+  "rating_percent": 0.7,
+  "rating_average": 4.5
+ },
+ {
+  "keywords": "2021-03-08",
+  "counts_5": 33,
+  "counts_4": 3,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.9166666666666666,
+  "rating_average": 4.916666666666667
+ },
+ {
+  "keywords": "2021-03-09",
+  "counts_5": 24,
+  "counts_4": 6,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.8,
+  "rating_average": 4.8
+ },
+ {
+  "keywords": "2021-03-10",
+  "counts_5": 24,
+  "counts_4": 6,
+  "counts_3": 3,
+  "counts_2": 0,
+  "counts_1": 6,
+  "rating_percent": 0.6153846153846154,
+  "rating_average": 4.076923076923077
+ },
+ {
+  "keywords": "2021-03-11",
+  "counts_5": 36,
+  "counts_4": 12,
+  "counts_3": 3,
+  "counts_2": 3,
+  "counts_1": 6,
+  "rating_percent": 0.6,
+  "rating_average": 4.15
+ },
+ {
+  "keywords": "2021-03-12",
+  "counts_5": 27,
+  "counts_4": 3,
+  "counts_3": 3,
+  "counts_2": 0,
+  "counts_1": 6,
+  "rating_percent": 0.6923076923076923,
+  "rating_average": 4.153846153846154
+ },
+ {
+  "keywords": "2021-03-13",
+  "counts_5": 30,
+  "counts_4": 9,
+  "counts_3": 6,
+  "counts_2": 3,
+  "counts_1": 3,
+  "rating_percent": 0.5882352941176471,
+  "rating_average": 4.176470588235294
+ },
+ {
+  "keywords": "2021-03-14",
+  "counts_5": 30,
+  "counts_4": 0,
+  "counts_3": 3,
+  "counts_2": 3,
+  "counts_1": 9,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 3.8666666666666667
+ },
+ {
+  "keywords": "2021-03-15",
+  "counts_5": 24,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 6,
+  "rating_percent": 0.8,
+  "rating_average": 4.2
+ },
+ {
+  "keywords": "2021-03-16",
+  "counts_5": 30,
+  "counts_4": 0,
+  "counts_3": 6,
+  "counts_2": 9,
+  "counts_1": 3,
+  "rating_percent": 0.625,
+  "rating_average": 3.9375
+ },
+ {
+  "keywords": "2021-03-17",
+  "counts_5": 15,
+  "counts_4": 6,
+  "counts_3": 3,
+  "counts_2": 0,
+  "counts_1": 9,
+  "rating_percent": 0.45454545454545453,
+  "rating_average": 3.5454545454545454
+ },
+ {
+  "keywords": "2021-03-18",
+  "counts_5": 18,
+  "counts_4": 0,
+  "counts_3": 3,
+  "counts_2": 3,
+  "counts_1": 0,
+  "rating_percent": 0.75,
+  "rating_average": 4.375
+ },
+ {
+  "keywords": "2021-03-19",
+  "counts_5": 48,
+  "counts_4": 4,
+  "counts_3": 4,
+  "counts_2": 0,
+  "counts_1": 4,
+  "rating_percent": 0.8,
+  "rating_average": 4.533333333333333
+ },
+ {
+  "keywords": "2021-03-20",
+  "counts_5": 24,
+  "counts_4": 12,
+  "counts_3": 0,
+  "counts_2": 4,
+  "counts_1": 8,
+  "rating_percent": 0.5,
+  "rating_average": 3.8333333333333335
+ },
+ {
+  "keywords": "2021-03-21",
+  "counts_5": 36,
+  "counts_4": 4,
+  "counts_3": 4,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.8181818181818182,
+  "rating_average": 4.7272727272727275
+ },
+ {
+  "keywords": "2021-03-22",
+  "counts_5": 24,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 4,
+  "counts_1": 0,
+  "rating_percent": 0.8571428571428571,
+  "rating_average": 4.571428571428571
+ },
+ {
+  "keywords": "2021-03-23",
+  "counts_5": 64,
+  "counts_4": 16,
+  "counts_3": 4,
+  "counts_2": 4,
+  "counts_1": 8,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.291666666666667
+ },
+ {
+  "keywords": "2021-03-24",
+  "counts_5": 32,
+  "counts_4": 4,
+  "counts_3": 4,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.8,
+  "rating_average": 4.7
+ },
+ {
+  "keywords": "2021-03-25",
+  "counts_5": 44,
+  "counts_4": 4,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 12,
+  "rating_percent": 0.7333333333333333,
+  "rating_average": 4.133333333333334
+ },
+ {
+  "keywords": "2021-03-26",
+  "counts_5": 24,
+  "counts_4": 4,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 8,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-03-27",
+  "counts_5": 56,
+  "counts_4": 8,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.875,
+  "rating_average": 4.875
+ },
+ {
+  "keywords": "2021-03-28",
+  "counts_5": 48,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 16,
+  "rating_percent": 0.75,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-03-29",
+  "counts_5": 32,
+  "counts_4": 12,
+  "counts_3": 8,
+  "counts_2": 0,
+  "counts_1": 12,
+  "rating_percent": 0.5,
+  "rating_average": 3.8125
+ },
+ {
+  "keywords": "2021-03-30",
+  "counts_5": 36,
+  "counts_4": 16,
+  "counts_3": 4,
+  "counts_2": 8,
+  "counts_1": 4,
+  "rating_percent": 0.5294117647058824,
+  "rating_average": 4.0588235294117645
+ },
+ {
+  "keywords": "2021-03-31",
+  "counts_5": 36,
+  "counts_4": 4,
+  "counts_3": 4,
+  "counts_2": 0,
+  "counts_1": 8,
+  "rating_percent": 0.6923076923076923,
+  "rating_average": 4.153846153846154
+ },
+ {
+  "keywords": "2021-04-01",
+  "counts_5": 44,
+  "counts_4": 0,
+  "counts_3": 4,
+  "counts_2": 0,
+  "counts_1": 8,
+  "rating_percent": 0.7857142857142857,
+  "rating_average": 4.285714285714286
+ },
+ {
+  "keywords": "2021-04-02",
+  "counts_5": 40,
+  "counts_4": 24,
+  "counts_3": 8,
+  "counts_2": 0,
+  "counts_1": 20,
+  "rating_percent": 0.43478260869565216,
+  "rating_average": 3.6956521739130435
+ },
+ {
+  "keywords": "2021-04-03",
+  "counts_5": 48,
+  "counts_4": 12,
+  "counts_3": 4,
+  "counts_2": 0,
+  "counts_1": 12,
+  "rating_percent": 0.631578947368421,
+  "rating_average": 4.105263157894737
+ },
+ {
+  "keywords": "2021-04-04",
+  "counts_5": 56,
+  "counts_4": 4,
+  "counts_3": 4,
+  "counts_2": 0,
+  "counts_1": 12,
+  "rating_percent": 0.7368421052631579,
+  "rating_average": 4.2105263157894735
+ },
+ {
+  "keywords": "2021-04-05",
+  "counts_5": 44,
+  "counts_4": 4,
+  "counts_3": 0,
+  "counts_2": 4,
+  "counts_1": 0,
+  "rating_percent": 0.8461538461538461,
+  "rating_average": 4.6923076923076925
+ },
+ {
+  "keywords": "2021-04-06",
+  "counts_5": 24,
+  "counts_4": 8,
+  "counts_3": 4,
+  "counts_2": 0,
+  "counts_1": 4,
+  "rating_percent": 0.6,
+  "rating_average": 4.2
+ },
+ {
+  "keywords": "2021-04-07",
+  "counts_5": 36,
+  "counts_4": 4,
+  "counts_3": 4,
+  "counts_2": 0,
+  "counts_1": 8,
+  "rating_percent": 0.6923076923076923,
+  "rating_average": 4.153846153846154
+ },
+ {
+  "keywords": "2021-04-08",
+  "counts_5": 44,
+  "counts_4": 4,
+  "counts_3": 0,
+  "counts_2": 4,
+  "counts_1": 4,
+  "rating_percent": 0.7857142857142857,
+  "rating_average": 4.428571428571429
+ },
+ {
+  "keywords": "2021-04-09",
+  "counts_5": 72,
+  "counts_4": 12,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 4,
+  "rating_percent": 0.8181818181818182,
+  "rating_average": 4.681818181818182
+ },
+ {
+  "keywords": "2021-04-10",
+  "counts_5": 24,
+  "counts_4": 8,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.75,
+  "rating_average": 4.75
+ },
+ {
+  "keywords": "2021-04-11",
+  "counts_5": 76,
+  "counts_4": 8,
+  "counts_3": 4,
+  "counts_2": 8,
+  "counts_1": 12,
+  "rating_percent": 0.7037037037037037,
+  "rating_average": 4.185185185185185
+ },
+ {
+  "keywords": "2021-04-12",
+  "counts_5": 16,
+  "counts_4": 4,
+  "counts_3": 8,
+  "counts_2": 4,
+  "counts_1": 8,
+  "rating_percent": 0.4,
+  "rating_average": 3.4
+ },
+ {
+  "keywords": "2021-04-13",
+  "counts_5": 16,
+  "counts_4": 4,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 4,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.166666666666667
+ },
+ {
+  "keywords": "2021-04-14",
+  "counts_5": 29,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 4,
+  "counts_1": 4,
+  "rating_percent": 0.7837837837837838,
+  "rating_average": 4.243243243243243
+ },
+ {
+  "keywords": "2021-04-15",
+  "counts_5": 45,
+  "counts_4": 30,
+  "counts_3": 0,
+  "counts_2": 5,
+  "counts_1": 15,
+  "rating_percent": 0.47368421052631576,
+  "rating_average": 3.8947368421052633
+ },
+ {
+  "keywords": "2021-04-16",
+  "counts_5": 25,
+  "counts_4": 5,
+  "counts_3": 0,
+  "counts_2": 5,
+  "counts_1": 10,
+  "rating_percent": 0.5555555555555556,
+  "rating_average": 3.6666666666666665
+ },
+ {
+  "keywords": "2021-04-17",
+  "counts_5": 65,
+  "counts_4": 5,
+  "counts_3": 5,
+  "counts_2": 5,
+  "counts_1": 20,
+  "rating_percent": 0.65,
+  "rating_average": 3.9
+ },
+ {
+  "keywords": "2021-04-18",
+  "counts_5": 65,
+  "counts_4": 5,
+  "counts_3": 5,
+  "counts_2": 0,
+  "counts_1": 10,
+  "rating_percent": 0.7647058823529411,
+  "rating_average": 4.352941176470588
+ },
+ {
+  "keywords": "2021-04-19",
+  "counts_5": 20,
+  "counts_4": 10,
+  "counts_3": 15,
+  "counts_2": 10,
+  "counts_1": 10,
+  "rating_percent": 0.3076923076923077,
+  "rating_average": 3.3076923076923075
+ },
+ {
+  "keywords": "2021-04-20",
+  "counts_5": 40,
+  "counts_4": 0,
+  "counts_3": 5,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.8888888888888888,
+  "rating_average": 4.777777777777778
+ },
+ {
+  "keywords": "2021-04-21",
+  "counts_5": 20,
+  "counts_4": 5,
+  "counts_3": 10,
+  "counts_2": 0,
+  "counts_1": 10,
+  "rating_percent": 0.4444444444444444,
+  "rating_average": 3.5555555555555554
+ },
+ {
+  "keywords": "2021-04-22",
+  "counts_5": 50,
+  "counts_4": 15,
+  "counts_3": 10,
+  "counts_2": 10,
+  "counts_1": 20,
+  "rating_percent": 0.47619047619047616,
+  "rating_average": 3.619047619047619
+ },
+ {
+  "keywords": "2021-04-23",
+  "counts_5": 55,
+  "counts_4": 15,
+  "counts_3": 20,
+  "counts_2": 15,
+  "counts_1": 15,
+  "rating_percent": 0.4583333333333333,
+  "rating_average": 3.6666666666666665
+ },
+ {
+  "keywords": "2021-04-24",
+  "counts_5": 65,
+  "counts_4": 25,
+  "counts_3": 5,
+  "counts_2": 10,
+  "counts_1": 30,
+  "rating_percent": 0.48148148148148145,
+  "rating_average": 3.6296296296296298
+ },
+ {
+  "keywords": "2021-04-25",
+  "counts_5": 65,
+  "counts_4": 5,
+  "counts_3": 5,
+  "counts_2": 5,
+  "counts_1": 20,
+  "rating_percent": 0.65,
+  "rating_average": 3.9
+ },
+ {
+  "keywords": "2021-04-26",
+  "counts_5": 30,
+  "counts_4": 10,
+  "counts_3": 0,
+  "counts_2": 5,
+  "counts_1": 20,
+  "rating_percent": 0.46153846153846156,
+  "rating_average": 3.3846153846153846
+ },
+ {
+  "keywords": "2021-04-27",
+  "counts_5": 60,
+  "counts_4": 25,
+  "counts_3": 10,
+  "counts_2": 15,
+  "counts_1": 15,
+  "rating_percent": 0.48,
+  "rating_average": 3.8
+ },
+ {
+  "keywords": "2021-04-28",
+  "counts_5": 25,
+  "counts_4": 0,
+  "counts_3": 15,
+  "counts_2": 0,
+  "counts_1": 10,
+  "rating_percent": 0.5,
+  "rating_average": 3.6
+ },
+ {
+  "keywords": "2021-04-29",
+  "counts_5": 45,
+  "counts_4": 0,
+  "counts_3": 10,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.8181818181818182,
+  "rating_average": 4.636363636363637
+ },
+ {
+  "keywords": "2021-04-30",
+  "counts_5": 40,
+  "counts_4": 0,
+  "counts_3": 5,
+  "counts_2": 0,
+  "counts_1": 10,
+  "rating_percent": 0.7272727272727273,
+  "rating_average": 4.090909090909091
+ },
+ {
+  "keywords": "2021-05-01",
+  "counts_5": 55,
+  "counts_4": 10,
+  "counts_3": 5,
+  "counts_2": 5,
+  "counts_1": 10,
+  "rating_percent": 0.6470588235294118,
+  "rating_average": 4.117647058823529
+ },
+ {
+  "keywords": "2021-05-02",
+  "counts_5": 70,
+  "counts_4": 20,
+  "counts_3": 10,
+  "counts_2": 0,
+  "counts_1": 10,
+  "rating_percent": 0.6363636363636364,
+  "rating_average": 4.2727272727272725
+ },
+ {
+  "keywords": "2021-05-03",
+  "counts_5": 30,
+  "counts_4": 10,
+  "counts_3": 10,
+  "counts_2": 0,
+  "counts_1": 10,
+  "rating_percent": 0.5,
+  "rating_average": 3.8333333333333335
+ },
+ {
+  "keywords": "2021-05-04",
+  "counts_5": 30,
+  "counts_4": 5,
+  "counts_3": 0,
+  "counts_2": 5,
+  "counts_1": 10,
+  "rating_percent": 0.6,
+  "rating_average": 3.8
+ },
+ {
+  "keywords": "2021-05-05",
+  "counts_5": 30,
+  "counts_4": 10,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 10,
+  "rating_percent": 0.6,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-05-06",
+  "counts_5": 40,
+  "counts_4": 5,
+  "counts_3": 10,
+  "counts_2": 10,
+  "counts_1": 15,
+  "rating_percent": 0.5,
+  "rating_average": 3.5625
+ },
+ {
+  "keywords": "2021-05-07",
+  "counts_5": 45,
+  "counts_4": 25,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.6428571428571429,
+  "rating_average": 4.642857142857143
+ },
+ {
+  "keywords": "2021-05-08",
+  "counts_5": 53,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 5,
+  "rating_percent": 0.9137931034482759,
+  "rating_average": 4.655172413793103
+ },
+ {
+  "keywords": "2021-05-09",
+  "counts_5": 78,
+  "counts_4": 12,
+  "counts_3": 0,
+  "counts_2": 6,
+  "counts_1": 6,
+  "rating_percent": 0.7647058823529411,
+  "rating_average": 4.470588235294118
+ },
+ {
+  "keywords": "2021-05-10",
+  "counts_5": 24,
+  "counts_4": 0,
+  "counts_3": 6,
+  "counts_2": 6,
+  "counts_1": 12,
+  "rating_percent": 0.5,
+  "rating_average": 3.375
+ },
+ {
+  "keywords": "2021-05-11",
+  "counts_5": 30,
+  "counts_4": 0,
+  "counts_3": 6,
+  "counts_2": 0,
+  "counts_1": 24,
+  "rating_percent": 0.5,
+  "rating_average": 3.2
+ },
+ {
+  "keywords": "2021-05-12",
+  "counts_5": 60,
+  "counts_4": 0,
+  "counts_3": 6,
+  "counts_2": 12,
+  "counts_1": 60,
+  "rating_percent": 0.43478260869565216,
+  "rating_average": 2.9130434782608696
+ },
+ {
+  "keywords": "2021-05-13",
+  "counts_5": 72,
+  "counts_4": 0,
+  "counts_3": 18,
+  "counts_2": 12,
+  "counts_1": 36,
+  "rating_percent": 0.5217391304347826,
+  "rating_average": 3.4347826086956523
+ },
+ {
+  "keywords": "2021-05-14",
+  "counts_5": 42,
+  "counts_4": 6,
+  "counts_3": 6,
+  "counts_2": 0,
+  "counts_1": 6,
+  "rating_percent": 0.7,
+  "rating_average": 4.3
+ },
+ {
+  "keywords": "2021-05-15",
+  "counts_5": 60,
+  "counts_4": 6,
+  "counts_3": 12,
+  "counts_2": 6,
+  "counts_1": 18,
+  "rating_percent": 0.5882352941176471,
+  "rating_average": 3.823529411764706
+ },
+ {
+  "keywords": "2021-05-16",
+  "counts_5": 66,
+  "counts_4": 18,
+  "counts_3": 0,
+  "counts_2": 6,
+  "counts_1": 18,
+  "rating_percent": 0.6111111111111112,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-05-17",
+  "counts_5": 60,
+  "counts_4": 6,
+  "counts_3": 6,
+  "counts_2": 6,
+  "counts_1": 6,
+  "rating_percent": 0.7142857142857143,
+  "rating_average": 4.285714285714286
+ },
+ {
+  "keywords": "2021-05-18",
+  "counts_5": 60,
+  "counts_4": 6,
+  "counts_3": 0,
+  "counts_2": 6,
+  "counts_1": 12,
+  "rating_percent": 0.7142857142857143,
+  "rating_average": 4.142857142857143
+ },
+ {
+  "keywords": "2021-05-19",
+  "counts_5": 48,
+  "counts_4": 12,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 6,
+  "rating_percent": 0.7272727272727273,
+  "rating_average": 4.454545454545454
+ },
+ {
+  "keywords": "2021-05-20",
+  "counts_5": 48,
+  "counts_4": 6,
+  "counts_3": 12,
+  "counts_2": 12,
+  "counts_1": 12,
+  "rating_percent": 0.5333333333333333,
+  "rating_average": 3.7333333333333334
+ },
+ {
+  "keywords": "2021-05-21",
+  "counts_5": 42,
+  "counts_4": 12,
+  "counts_3": 6,
+  "counts_2": 0,
+  "counts_1": 6,
+  "rating_percent": 0.6363636363636364,
+  "rating_average": 4.2727272727272725
+ },
+ {
+  "keywords": "2021-05-22",
+  "counts_5": 18,
+  "counts_4": 12,
+  "counts_3": 18,
+  "counts_2": 6,
+  "counts_1": 6,
+  "rating_percent": 0.3,
+  "rating_average": 3.5
+ },
+ {
+  "keywords": "2021-05-23",
+  "counts_5": 54,
+  "counts_4": 18,
+  "counts_3": 0,
+  "counts_2": 12,
+  "counts_1": 24,
+  "rating_percent": 0.5,
+  "rating_average": 3.611111111111111
+ },
+ {
+  "keywords": "2021-05-24",
+  "counts_5": 60,
+  "counts_4": 6,
+  "counts_3": 6,
+  "counts_2": 0,
+  "counts_1": 6,
+  "rating_percent": 0.7692307692307693,
+  "rating_average": 4.461538461538462
+ },
+ {
+  "keywords": "2021-05-25",
+  "counts_5": 72,
+  "counts_4": 18,
+  "counts_3": 18,
+  "counts_2": 0,
+  "counts_1": 12,
+  "rating_percent": 0.6,
+  "rating_average": 4.15
+ },
+ {
+  "keywords": "2021-05-26",
+  "counts_5": 42,
+  "counts_4": 12,
+  "counts_3": 0,
+  "counts_2": 6,
+  "counts_1": 12,
+  "rating_percent": 0.5833333333333334,
+  "rating_average": 3.9166666666666665
+ },
+ {
+  "keywords": "2021-05-27",
+  "counts_5": 48,
+  "counts_4": 6,
+  "counts_3": 6,
+  "counts_2": 6,
+  "counts_1": 12,
+  "rating_percent": 0.6153846153846154,
+  "rating_average": 3.923076923076923
+ },
+ {
+  "keywords": "2021-05-28",
+  "counts_5": 54,
+  "counts_4": 18,
+  "counts_3": 0,
+  "counts_2": 6,
+  "counts_1": 18,
+  "rating_percent": 0.5625,
+  "rating_average": 3.875
+ },
+ {
+  "keywords": "2021-05-29",
+  "counts_5": 42,
+  "counts_4": 12,
+  "counts_3": 6,
+  "counts_2": 6,
+  "counts_1": 12,
+  "rating_percent": 0.5384615384615384,
+  "rating_average": 3.8461538461538463
+ },
+ {
+  "keywords": "2021-05-30",
+  "counts_5": 36,
+  "counts_4": 12,
+  "counts_3": 0,
+  "counts_2": 6,
+  "counts_1": 12,
+  "rating_percent": 0.5454545454545454,
+  "rating_average": 3.8181818181818183
+ },
+ {
+  "keywords": "2021-05-31",
+  "counts_5": 60,
+  "counts_4": 6,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 12,
+  "rating_percent": 0.7692307692307693,
+  "rating_average": 4.3076923076923075
+ },
+ {
+  "keywords": "2021-06-01",
+  "counts_5": 42,
+  "counts_4": 18,
+  "counts_3": 6,
+  "counts_2": 6,
+  "counts_1": 0,
+  "rating_percent": 0.5833333333333334,
+  "rating_average": 4.333333333333333
+ },
+ {
+  "keywords": "2021-06-02",
+  "counts_5": 60,
+  "counts_4": 6,
+  "counts_3": 6,
+  "counts_2": 0,
+  "counts_1": 24,
+  "rating_percent": 0.625,
+  "rating_average": 3.8125
+ },
+ {
+  "keywords": "2021-06-03",
+  "counts_5": 72,
+  "counts_4": 18,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.8,
+  "rating_average": 4.8
+ },
+ {
+  "keywords": "2021-06-04",
+  "counts_5": 78,
+  "counts_4": 42,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.65,
+  "rating_average": 4.65
+ },
+ {
+  "keywords": "2021-06-05",
+  "counts_5": 115,
+  "counts_4": 13,
+  "counts_3": 12,
+  "counts_2": 0,
+  "counts_1": 27,
+  "rating_percent": 0.688622754491018,
+  "rating_average": 4.131736526946108
+ },
+ {
+  "keywords": "2021-06-06",
+  "counts_5": 231,
+  "counts_4": 14,
+  "counts_3": 7,
+  "counts_2": 0,
+  "counts_1": 21,
+  "rating_percent": 0.8461538461538461,
+  "rating_average": 4.589743589743589
+ },
+ {
+  "keywords": "2021-06-07",
+  "counts_5": 154,
+  "counts_4": 21,
+  "counts_3": 0,
+  "counts_2": 7,
+  "counts_1": 35,
+  "rating_percent": 0.7096774193548387,
+  "rating_average": 4.161290322580645
+ },
+ {
+  "keywords": "2021-06-08",
+  "counts_5": 147,
+  "counts_4": 28,
+  "counts_3": 0,
+  "counts_2": 7,
+  "counts_1": 0,
+  "rating_percent": 0.8076923076923077,
+  "rating_average": 4.730769230769231
+ },
+ {
+  "keywords": "2021-06-09",
+  "counts_5": 147,
+  "counts_4": 63,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 7,
+  "rating_percent": 0.6774193548387096,
+  "rating_average": 4.580645161290323
+ },
+ {
+  "keywords": "2021-06-10",
+  "counts_5": 133,
+  "counts_4": 7,
+  "counts_3": 7,
+  "counts_2": 0,
+  "counts_1": 35,
+  "rating_percent": 0.7307692307692307,
+  "rating_average": 4.115384615384615
+ },
+ {
+  "keywords": "2021-06-11",
+  "counts_5": 175,
+  "counts_4": 21,
+  "counts_3": 7,
+  "counts_2": 14,
+  "counts_1": 21,
+  "rating_percent": 0.7352941176470589,
+  "rating_average": 4.323529411764706
+ },
+ {
+  "keywords": "2021-06-12",
+  "counts_5": 147,
+  "counts_4": 14,
+  "counts_3": 7,
+  "counts_2": 0,
+  "counts_1": 21,
+  "rating_percent": 0.7777777777777778,
+  "rating_average": 4.407407407407407
+ },
+ {
+  "keywords": "2021-06-13",
+  "counts_5": 168,
+  "counts_4": 28,
+  "counts_3": 0,
+  "counts_2": 7,
+  "counts_1": 28,
+  "rating_percent": 0.7272727272727273,
+  "rating_average": 4.303030303030303
+ },
+ {
+  "keywords": "2021-06-14",
+  "counts_5": 133,
+  "counts_4": 42,
+  "counts_3": 7,
+  "counts_2": 7,
+  "counts_1": 42,
+  "rating_percent": 0.5757575757575758,
+  "rating_average": 3.9393939393939394
+ },
+ {
+  "keywords": "2021-06-15",
+  "counts_5": 112,
+  "counts_4": 28,
+  "counts_3": 0,
+  "counts_2": 7,
+  "counts_1": 7,
+  "rating_percent": 0.7272727272727273,
+  "rating_average": 4.5
+ },
+ {
+  "keywords": "2021-06-16",
+  "counts_5": 140,
+  "counts_4": 14,
+  "counts_3": 7,
+  "counts_2": 7,
+  "counts_1": 21,
+  "rating_percent": 0.7407407407407407,
+  "rating_average": 4.296296296296297
+ },
+ {
+  "keywords": "2021-06-17",
+  "counts_5": 161,
+  "counts_4": 28,
+  "counts_3": 0,
+  "counts_2": 14,
+  "counts_1": 28,
+  "rating_percent": 0.696969696969697,
+  "rating_average": 4.212121212121212
+ },
+ {
+  "keywords": "2021-06-18",
+  "counts_5": 175,
+  "counts_4": 28,
+  "counts_3": 0,
+  "counts_2": 7,
+  "counts_1": 21,
+  "rating_percent": 0.7575757575757576,
+  "rating_average": 4.424242424242424
+ },
+ {
+  "keywords": "2021-06-19",
+  "counts_5": 161,
+  "counts_4": 30,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 8,
+  "rating_percent": 0.8090452261306532,
+  "rating_average": 4.688442211055277
+ },
+ {
+  "keywords": "2021-06-20",
+  "counts_5": 144,
+  "counts_4": 16,
+  "counts_3": 24,
+  "counts_2": 8,
+  "counts_1": 24,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.148148148148148
+ },
+ {
+  "keywords": "2021-06-21",
+  "counts_5": 136,
+  "counts_4": 32,
+  "counts_3": 16,
+  "counts_2": 8,
+  "counts_1": 16,
+  "rating_percent": 0.6538461538461539,
+  "rating_average": 4.269230769230769
+ },
+ {
+  "keywords": "2021-06-22",
+  "counts_5": 192,
+  "counts_4": 40,
+  "counts_3": 8,
+  "counts_2": 8,
+  "counts_1": 16,
+  "rating_percent": 0.7272727272727273,
+  "rating_average": 4.454545454545454
+ },
+ {
+  "keywords": "2021-06-23",
+  "counts_5": 152,
+  "counts_4": 8,
+  "counts_3": 16,
+  "counts_2": 8,
+  "counts_1": 8,
+  "rating_percent": 0.7916666666666666,
+  "rating_average": 4.5
+ },
+ {
+  "keywords": "2021-06-24",
+  "counts_5": 176,
+  "counts_4": 24,
+  "counts_3": 24,
+  "counts_2": 8,
+  "counts_1": 24,
+  "rating_percent": 0.6875,
+  "rating_average": 4.25
+ },
+ {
+  "keywords": "2021-06-25",
+  "counts_5": 192,
+  "counts_4": 24,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 8,
+  "rating_percent": 0.8571428571428571,
+  "rating_average": 4.75
+ },
+ {
+  "keywords": "2021-06-26",
+  "counts_5": 128,
+  "counts_4": 32,
+  "counts_3": 16,
+  "counts_2": 0,
+  "counts_1": 40,
+  "rating_percent": 0.5925925925925926,
+  "rating_average": 3.962962962962963
+ },
+ {
+  "keywords": "2021-06-27",
+  "counts_5": 112,
+  "counts_4": 16,
+  "counts_3": 8,
+  "counts_2": 8,
+  "counts_1": 40,
+  "rating_percent": 0.6086956521739131,
+  "rating_average": 3.8260869565217392
+ },
+ {
+  "keywords": "2021-06-28",
+  "counts_5": 256,
+  "counts_4": 32,
+  "counts_3": 16,
+  "counts_2": 0,
+  "counts_1": 8,
+  "rating_percent": 0.8205128205128205,
+  "rating_average": 4.6923076923076925
+ },
+ {
+  "keywords": "2021-06-29",
+  "counts_5": 192,
+  "counts_4": 40,
+  "counts_3": 8,
+  "counts_2": 8,
+  "counts_1": 24,
+  "rating_percent": 0.7058823529411765,
+  "rating_average": 4.352941176470588
+ },
+ {
+  "keywords": "2021-06-30",
+  "counts_5": 200,
+  "counts_4": 32,
+  "counts_3": 0,
+  "counts_2": 8,
+  "counts_1": 16,
+  "rating_percent": 0.78125,
+  "rating_average": 4.53125
+ },
+ {
+  "keywords": "2021-07-01",
+  "counts_5": 208,
+  "counts_4": 24,
+  "counts_3": 32,
+  "counts_2": 0,
+  "counts_1": 24,
+  "rating_percent": 0.7222222222222222,
+  "rating_average": 4.361111111111111
+ },
+ {
+  "keywords": "2021-07-02",
+  "counts_5": 178,
+  "counts_4": 25,
+  "counts_3": 0,
+  "counts_2": 8,
+  "counts_1": 8,
+  "rating_percent": 0.8127853881278538,
+  "rating_average": 4.63013698630137
+ },
+ {
+  "keywords": "2021-07-03",
+  "counts_5": 144,
+  "counts_4": 18,
+  "counts_3": 18,
+  "counts_2": 0,
+  "counts_1": 27,
+  "rating_percent": 0.6956521739130435,
+  "rating_average": 4.217391304347826
+ },
+ {
+  "keywords": "2021-07-04",
+  "counts_5": 189,
+  "counts_4": 36,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 9,
+  "rating_percent": 0.8076923076923077,
+  "rating_average": 4.6923076923076925
+ },
+ {
+  "keywords": "2021-07-05",
+  "counts_5": 171,
+  "counts_4": 27,
+  "counts_3": 27,
+  "counts_2": 9,
+  "counts_1": 36,
+  "rating_percent": 0.6333333333333333,
+  "rating_average": 4.066666666666666
+ },
+ {
+  "keywords": "2021-07-06",
+  "counts_5": 171,
+  "counts_4": 0,
+  "counts_3": 36,
+  "counts_2": 0,
+  "counts_1": 36,
+  "rating_percent": 0.7037037037037037,
+  "rating_average": 4.111111111111111
+ },
+ {
+  "keywords": "2021-07-07",
+  "counts_5": 171,
+  "counts_4": 45,
+  "counts_3": 18,
+  "counts_2": 9,
+  "counts_1": 9,
+  "rating_percent": 0.6785714285714286,
+  "rating_average": 4.428571428571429
+ },
+ {
+  "keywords": "2021-07-08",
+  "counts_5": 135,
+  "counts_4": 36,
+  "counts_3": 9,
+  "counts_2": 9,
+  "counts_1": 9,
+  "rating_percent": 0.6818181818181818,
+  "rating_average": 4.409090909090909
+ },
+ {
+  "keywords": "2021-07-09",
+  "counts_5": 189,
+  "counts_4": 27,
+  "counts_3": 9,
+  "counts_2": 9,
+  "counts_1": 54,
+  "rating_percent": 0.65625,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-07-10",
+  "counts_5": 198,
+  "counts_4": 0,
+  "counts_3": 18,
+  "counts_2": 0,
+  "counts_1": 63,
+  "rating_percent": 0.7096774193548387,
+  "rating_average": 3.967741935483871
+ },
+ {
+  "keywords": "2021-07-11",
+  "counts_5": 135,
+  "counts_4": 36,
+  "counts_3": 9,
+  "counts_2": 0,
+  "counts_1": 9,
+  "rating_percent": 0.7142857142857143,
+  "rating_average": 4.523809523809524
+ },
+ {
+  "keywords": "2021-07-12",
+  "counts_5": 144,
+  "counts_4": 18,
+  "counts_3": 18,
+  "counts_2": 9,
+  "counts_1": 9,
+  "rating_percent": 0.7272727272727273,
+  "rating_average": 4.409090909090909
+ },
+ {
+  "keywords": "2021-07-13",
+  "counts_5": 162,
+  "counts_4": 18,
+  "counts_3": 27,
+  "counts_2": 9,
+  "counts_1": 27,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.148148148148148
+ },
+ {
+  "keywords": "2021-07-14",
+  "counts_5": 144,
+  "counts_4": 27,
+  "counts_3": 18,
+  "counts_2": 9,
+  "counts_1": 18,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.25
+ },
+ {
+  "keywords": "2021-07-15",
+  "counts_5": 153,
+  "counts_4": 18,
+  "counts_3": 18,
+  "counts_2": 9,
+  "counts_1": 27,
+  "rating_percent": 0.68,
+  "rating_average": 4.16
+ },
+ {
+  "keywords": "2021-07-16",
+  "counts_5": 162,
+  "counts_4": 45,
+  "counts_3": 18,
+  "counts_2": 0,
+  "counts_1": 18,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.37037037037037
+ },
+ {
+  "keywords": "2021-07-17",
+  "counts_5": 175,
+  "counts_4": 38,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 9,
+  "rating_percent": 0.7882882882882883,
+  "rating_average": 4.666666666666667
+ },
+ {
+  "keywords": "2021-07-18",
+  "counts_5": 110,
+  "counts_4": 20,
+  "counts_3": 20,
+  "counts_2": 0,
+  "counts_1": 10,
+  "rating_percent": 0.6875,
+  "rating_average": 4.375
+ },
+ {
+  "keywords": "2021-07-19",
+  "counts_5": 230,
+  "counts_4": 40,
+  "counts_3": 10,
+  "counts_2": 0,
+  "counts_1": 30,
+  "rating_percent": 0.7419354838709677,
+  "rating_average": 4.419354838709677
+ },
+ {
+  "keywords": "2021-07-20",
+  "counts_5": 240,
+  "counts_4": 30,
+  "counts_3": 10,
+  "counts_2": 10,
+  "counts_1": 30,
+  "rating_percent": 0.75,
+  "rating_average": 4.375
+ },
+ {
+  "keywords": "2021-07-21",
+  "counts_5": 170,
+  "counts_4": 40,
+  "counts_3": 0,
+  "counts_2": 10,
+  "counts_1": 20,
+  "rating_percent": 0.7083333333333334,
+  "rating_average": 4.375
+ },
+ {
+  "keywords": "2021-07-22",
+  "counts_5": 120,
+  "counts_4": 80,
+  "counts_3": 10,
+  "counts_2": 10,
+  "counts_1": 40,
+  "rating_percent": 0.46153846153846156,
+  "rating_average": 3.8846153846153846
+ },
+ {
+  "keywords": "2021-07-23",
+  "counts_5": 160,
+  "counts_4": 70,
+  "counts_3": 10,
+  "counts_2": 10,
+  "counts_1": 10,
+  "rating_percent": 0.6153846153846154,
+  "rating_average": 4.384615384615385
+ },
+ {
+  "keywords": "2021-07-24",
+  "counts_5": 250,
+  "counts_4": 50,
+  "counts_3": 10,
+  "counts_2": 0,
+  "counts_1": 60,
+  "rating_percent": 0.6756756756756757,
+  "rating_average": 4.162162162162162
+ },
+ {
+  "keywords": "2021-07-25",
+  "counts_5": 160,
+  "counts_4": 60,
+  "counts_3": 10,
+  "counts_2": 0,
+  "counts_1": 50,
+  "rating_percent": 0.5714285714285714,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-07-26",
+  "counts_5": 140,
+  "counts_4": 30,
+  "counts_3": 10,
+  "counts_2": 0,
+  "counts_1": 10,
+  "rating_percent": 0.7368421052631579,
+  "rating_average": 4.526315789473684
+ },
+ {
+  "keywords": "2021-07-27",
+  "counts_5": 220,
+  "counts_4": 50,
+  "counts_3": 10,
+  "counts_2": 10,
+  "counts_1": 20,
+  "rating_percent": 0.7096774193548387,
+  "rating_average": 4.419354838709677
+ },
+ {
+  "keywords": "2021-07-28",
+  "counts_5": 280,
+  "counts_4": 20,
+  "counts_3": 10,
+  "counts_2": 10,
+  "counts_1": 30,
+  "rating_percent": 0.8,
+  "rating_average": 4.457142857142857
+ },
+ {
+  "keywords": "2021-07-29",
+  "counts_5": 227,
+  "counts_4": 74,
+  "counts_3": 52,
+  "counts_2": 20,
+  "counts_1": 86,
+  "rating_percent": 0.49455337690631807,
+  "rating_average": 3.7320261437908497
+ },
+ {
+  "keywords": "2021-07-30",
+  "counts_5": 275,
+  "counts_4": 55,
+  "counts_3": 22,
+  "counts_2": 22,
+  "counts_1": 66,
+  "rating_percent": 0.625,
+  "rating_average": 4.025
+ },
+ {
+  "keywords": "2021-07-31",
+  "counts_5": 308,
+  "counts_4": 0,
+  "counts_3": 11,
+  "counts_2": 0,
+  "counts_1": 33,
+  "rating_percent": 0.875,
+  "rating_average": 4.5625
+ },
+ {
+  "keywords": "2021-08-01",
+  "counts_5": 308,
+  "counts_4": 33,
+  "counts_3": 11,
+  "counts_2": 22,
+  "counts_1": 22,
+  "rating_percent": 0.7777777777777778,
+  "rating_average": 4.472222222222222
+ },
+ {
+  "keywords": "2021-08-02",
+  "counts_5": 286,
+  "counts_4": 77,
+  "counts_3": 11,
+  "counts_2": 11,
+  "counts_1": 0,
+  "rating_percent": 0.7428571428571429,
+  "rating_average": 4.6571428571428575
+ },
+ {
+  "keywords": "2021-08-03",
+  "counts_5": 242,
+  "counts_4": 44,
+  "counts_3": 0,
+  "counts_2": 11,
+  "counts_1": 0,
+  "rating_percent": 0.8148148148148148,
+  "rating_average": 4.7407407407407405
+ },
+ {
+  "keywords": "2021-08-04",
+  "counts_5": 132,
+  "counts_4": 22,
+  "counts_3": 11,
+  "counts_2": 0,
+  "counts_1": 11,
+  "rating_percent": 0.75,
+  "rating_average": 4.5
+ },
+ {
+  "keywords": "2021-08-05",
+  "counts_5": 176,
+  "counts_4": 11,
+  "counts_3": 0,
+  "counts_2": 11,
+  "counts_1": 22,
+  "rating_percent": 0.8,
+  "rating_average": 4.4
+ },
+ {
+  "keywords": "2021-08-06",
+  "counts_5": 132,
+  "counts_4": 88,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 11,
+  "rating_percent": 0.5714285714285714,
+  "rating_average": 4.428571428571429
+ },
+ {
+  "keywords": "2021-08-07",
+  "counts_5": 154,
+  "counts_4": 55,
+  "counts_3": 11,
+  "counts_2": 11,
+  "counts_1": 22,
+  "rating_percent": 0.6086956521739131,
+  "rating_average": 4.217391304347826
+ },
+ {
+  "keywords": "2021-08-08",
+  "counts_5": 77,
+  "counts_4": 55,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 55,
+  "rating_percent": 0.4117647058823529,
+  "rating_average": 3.5294117647058822
+ },
+ {
+  "keywords": "2021-08-09",
+  "counts_5": 353,
+  "counts_4": 22,
+  "counts_3": 44,
+  "counts_2": 11,
+  "counts_1": 22,
+  "rating_percent": 0.7809734513274337,
+  "rating_average": 4.488938053097345
+ },
+ {
+  "keywords": "2021-08-10",
+  "counts_5": 240,
+  "counts_4": 60,
+  "counts_3": 12,
+  "counts_2": 0,
+  "counts_1": 12,
+  "rating_percent": 0.7407407407407407,
+  "rating_average": 4.592592592592593
+ },
+ {
+  "keywords": "2021-08-11",
+  "counts_5": 156,
+  "counts_4": 36,
+  "counts_3": 24,
+  "counts_2": 0,
+  "counts_1": 12,
+  "rating_percent": 0.6842105263157895,
+  "rating_average": 4.421052631578948
+ },
+ {
+  "keywords": "2021-08-12",
+  "counts_5": 180,
+  "counts_4": 48,
+  "counts_3": 12,
+  "counts_2": 0,
+  "counts_1": 12,
+  "rating_percent": 0.7142857142857143,
+  "rating_average": 4.523809523809524
+ },
+ {
+  "keywords": "2021-08-13",
+  "counts_5": 180,
+  "counts_4": 60,
+  "counts_3": 12,
+  "counts_2": 0,
+  "counts_1": 36,
+  "rating_percent": 0.625,
+  "rating_average": 4.208333333333333
+ },
+ {
+  "keywords": "2021-08-14",
+  "counts_5": 96,
+  "counts_4": 24,
+  "counts_3": 12,
+  "counts_2": 0,
+  "counts_1": 60,
+  "rating_percent": 0.5,
+  "rating_average": 3.5
+ },
+ {
+  "keywords": "2021-08-15",
+  "counts_5": 204,
+  "counts_4": 12,
+  "counts_3": 0,
+  "counts_2": 24,
+  "counts_1": 24,
+  "rating_percent": 0.7727272727272727,
+  "rating_average": 4.318181818181818
+ },
+ {
+  "keywords": "2021-08-16",
+  "counts_5": 192,
+  "counts_4": 24,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.8888888888888888,
+  "rating_average": 4.888888888888889
+ },
+ {
+  "keywords": "2021-08-17",
+  "counts_5": 168,
+  "counts_4": 36,
+  "counts_3": 48,
+  "counts_2": 12,
+  "counts_1": 0,
+  "rating_percent": 0.6363636363636364,
+  "rating_average": 4.363636363636363
+ },
+ {
+  "keywords": "2021-08-18",
+  "counts_5": 180,
+  "counts_4": 12,
+  "counts_3": 12,
+  "counts_2": 12,
+  "counts_1": 36,
+  "rating_percent": 0.7142857142857143,
+  "rating_average": 4.142857142857143
+ },
+ {
+  "keywords": "2021-08-19",
+  "counts_5": 168,
+  "counts_4": 12,
+  "counts_3": 24,
+  "counts_2": 0,
+  "counts_1": 48,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-08-20",
+  "counts_5": 120,
+  "counts_4": 24,
+  "counts_3": 24,
+  "counts_2": 0,
+  "counts_1": 36,
+  "rating_percent": 0.5882352941176471,
+  "rating_average": 3.9411764705882355
+ },
+ {
+  "keywords": "2021-08-21",
+  "counts_5": 216,
+  "counts_4": 24,
+  "counts_3": 12,
+  "counts_2": 12,
+  "counts_1": 12,
+  "rating_percent": 0.782608695652174,
+  "rating_average": 4.521739130434782
+ },
+ {
+  "keywords": "2021-08-22",
+  "counts_5": 144,
+  "counts_4": 0,
+  "counts_3": 48,
+  "counts_2": 0,
+  "counts_1": 36,
+  "rating_percent": 0.631578947368421,
+  "rating_average": 3.9473684210526314
+ },
+ {
+  "keywords": "2021-08-23",
+  "counts_5": 132,
+  "counts_4": 24,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 24,
+  "rating_percent": 0.7333333333333333,
+  "rating_average": 4.333333333333333
+ },
+ {
+  "keywords": "2021-08-24",
+  "counts_5": 173,
+  "counts_4": 12,
+  "counts_3": 24,
+  "counts_2": 0,
+  "counts_1": 24,
+  "rating_percent": 0.7424892703862661,
+  "rating_average": 4.330472103004292
+ },
+ {
+  "keywords": "2021-08-25",
+  "counts_5": 195,
+  "counts_4": 39,
+  "counts_3": 13,
+  "counts_2": 0,
+  "counts_1": 13,
+  "rating_percent": 0.75,
+  "rating_average": 4.55
+ },
+ {
+  "keywords": "2021-08-26",
+  "counts_5": 143,
+  "counts_4": 52,
+  "counts_3": 13,
+  "counts_2": 13,
+  "counts_1": 26,
+  "rating_percent": 0.5789473684210527,
+  "rating_average": 4.105263157894737
+ },
+ {
+  "keywords": "2021-08-27",
+  "counts_5": 273,
+  "counts_4": 13,
+  "counts_3": 39,
+  "counts_2": 0,
+  "counts_1": 39,
+  "rating_percent": 0.75,
+  "rating_average": 4.321428571428571
+ },
+ {
+  "keywords": "2021-08-28",
+  "counts_5": 247,
+  "counts_4": 0,
+  "counts_3": 26,
+  "counts_2": 26,
+  "counts_1": 0,
+  "rating_percent": 0.8260869565217391,
+  "rating_average": 4.565217391304348
+ },
+ {
+  "keywords": "2021-08-29",
+  "counts_5": 182,
+  "counts_4": 65,
+  "counts_3": 13,
+  "counts_2": 0,
+  "counts_1": 13,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.476190476190476
+ },
+ {
+  "keywords": "2021-08-30",
+  "counts_5": 221,
+  "counts_4": 39,
+  "counts_3": 39,
+  "counts_2": 0,
+  "counts_1": 26,
+  "rating_percent": 0.68,
+  "rating_average": 4.32
+ },
+ {
+  "keywords": "2021-08-31",
+  "counts_5": 273,
+  "counts_4": 39,
+  "counts_3": 26,
+  "counts_2": 0,
+  "counts_1": 26,
+  "rating_percent": 0.75,
+  "rating_average": 4.464285714285714
+ },
+ {
+  "keywords": "2021-09-01",
+  "counts_5": 195,
+  "counts_4": 0,
+  "counts_3": 26,
+  "counts_2": 13,
+  "counts_1": 0,
+  "rating_percent": 0.8333333333333334,
+  "rating_average": 4.611111111111111
+ },
+ {
+  "keywords": "2021-09-02",
+  "counts_5": 78,
+  "counts_4": 65,
+  "counts_3": 39,
+  "counts_2": 13,
+  "counts_1": 0,
+  "rating_percent": 0.4,
+  "rating_average": 4.066666666666666
+ },
+ {
+  "keywords": "2021-09-03",
+  "counts_5": 143,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 26,
+  "rating_percent": 0.8461538461538461,
+  "rating_average": 4.384615384615385
+ },
+ {
+  "keywords": "2021-09-04",
+  "counts_5": 195,
+  "counts_4": 26,
+  "counts_3": 0,
+  "counts_2": 26,
+  "counts_1": 13,
+  "rating_percent": 0.75,
+  "rating_average": 4.4
+ },
+ {
+  "keywords": "2021-09-05",
+  "counts_5": 182,
+  "counts_4": 39,
+  "counts_3": 13,
+  "counts_2": 39,
+  "counts_1": 13,
+  "rating_percent": 0.6363636363636364,
+  "rating_average": 4.181818181818182
+ },
+ {
+  "keywords": "2021-09-06",
+  "counts_5": 208,
+  "counts_4": 26,
+  "counts_3": 26,
+  "counts_2": 0,
+  "counts_1": 13,
+  "rating_percent": 0.7619047619047619,
+  "rating_average": 4.523809523809524
+ },
+ {
+  "keywords": "2021-09-07",
+  "counts_5": 143,
+  "counts_4": 52,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 39,
+  "rating_percent": 0.6111111111111112,
+  "rating_average": 4.111111111111111
+ },
+ {
+  "keywords": "2021-09-08",
+  "counts_5": 130,
+  "counts_4": 13,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 26,
+  "rating_percent": 0.7692307692307693,
+  "rating_average": 4.3076923076923075
+ },
+ {
+  "keywords": "2021-09-09",
+  "counts_5": 104,
+  "counts_4": 39,
+  "counts_3": 13,
+  "counts_2": 0,
+  "counts_1": 26,
+  "rating_percent": 0.5714285714285714,
+  "rating_average": 4.071428571428571
+ },
+ {
+  "keywords": "2021-09-10",
+  "counts_5": 106,
+  "counts_4": 26,
+  "counts_3": 14,
+  "counts_2": 14,
+  "counts_1": 54,
+  "rating_percent": 0.4953271028037383,
+  "rating_average": 3.542056074766355
+ },
+ {
+  "keywords": "2021-09-11",
+  "counts_5": 126,
+  "counts_4": 28,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 42,
+  "rating_percent": 0.6428571428571429,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-09-12",
+  "counts_5": 224,
+  "counts_4": 70,
+  "counts_3": 0,
+  "counts_2": 14,
+  "counts_1": 14,
+  "rating_percent": 0.6956521739130435,
+  "rating_average": 4.478260869565218
+ },
+ {
+  "keywords": "2021-09-13",
+  "counts_5": 98,
+  "counts_4": 14,
+  "counts_3": 0,
+  "counts_2": 28,
+  "counts_1": 14,
+  "rating_percent": 0.6363636363636364,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-09-14",
+  "counts_5": 140,
+  "counts_4": 0,
+  "counts_3": 28,
+  "counts_2": 42,
+  "counts_1": 0,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.133333333333334
+ },
+ {
+  "keywords": "2021-09-15",
+  "counts_5": 168,
+  "counts_4": 0,
+  "counts_3": 14,
+  "counts_2": 0,
+  "counts_1": 14,
+  "rating_percent": 0.8571428571428571,
+  "rating_average": 4.571428571428571
+ },
+ {
+  "keywords": "2021-09-16",
+  "counts_5": 98,
+  "counts_4": 42,
+  "counts_3": 0,
+  "counts_2": 14,
+  "counts_1": 42,
+  "rating_percent": 0.5,
+  "rating_average": 3.7142857142857144
+ },
+ {
+  "keywords": "2021-09-17",
+  "counts_5": 182,
+  "counts_4": 0,
+  "counts_3": 28,
+  "counts_2": 0,
+  "counts_1": 28,
+  "rating_percent": 0.7647058823529411,
+  "rating_average": 4.294117647058823
+ },
+ {
+  "keywords": "2021-09-18",
+  "counts_5": 280,
+  "counts_4": 42,
+  "counts_3": 14,
+  "counts_2": 0,
+  "counts_1": 70,
+  "rating_percent": 0.6896551724137931,
+  "rating_average": 4.137931034482759
+ },
+ {
+  "keywords": "2021-09-19",
+  "counts_5": 336,
+  "counts_4": 42,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 70,
+  "rating_percent": 0.75,
+  "rating_average": 4.28125
+ },
+ {
+  "keywords": "2021-09-20",
+  "counts_5": 98,
+  "counts_4": 28,
+  "counts_3": 56,
+  "counts_2": 42,
+  "counts_1": 42,
+  "rating_percent": 0.3684210526315789,
+  "rating_average": 3.3684210526315788
+ },
+ {
+  "keywords": "2021-09-21",
+  "counts_5": 196,
+  "counts_4": 42,
+  "counts_3": 28,
+  "counts_2": 14,
+  "counts_1": 14,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.333333333333333
+ },
+ {
+  "keywords": "2021-09-22",
+  "counts_5": 112,
+  "counts_4": 28,
+  "counts_3": 28,
+  "counts_2": 0,
+  "counts_1": 14,
+  "rating_percent": 0.6153846153846154,
+  "rating_average": 4.230769230769231
+ },
+ {
+  "keywords": "2021-09-23",
+  "counts_5": 98,
+  "counts_4": 0,
+  "counts_3": 14,
+  "counts_2": 14,
+  "counts_1": 84,
+  "rating_percent": 0.4666666666666667,
+  "rating_average": 3.066666666666667
+ },
+ {
+  "keywords": "2021-09-24",
+  "counts_5": 154,
+  "counts_4": 14,
+  "counts_3": 14,
+  "counts_2": 0,
+  "counts_1": 28,
+  "rating_percent": 0.7333333333333333,
+  "rating_average": 4.266666666666667
+ },
+ {
+  "keywords": "2021-09-25",
+  "counts_5": 350,
+  "counts_4": 70,
+  "counts_3": 0,
+  "counts_2": 42,
+  "counts_1": 0,
+  "rating_percent": 0.7575757575757576,
+  "rating_average": 4.575757575757576
+ },
+ {
+  "keywords": "2021-09-26",
+  "counts_5": 322,
+  "counts_4": 56,
+  "counts_3": 42,
+  "counts_2": 0,
+  "counts_1": 42,
+  "rating_percent": 0.696969696969697,
+  "rating_average": 4.333333333333333
+ },
+ {
+  "keywords": "2021-09-27",
+  "counts_5": 210,
+  "counts_4": 28,
+  "counts_3": 14,
+  "counts_2": 14,
+  "counts_1": 42,
+  "rating_percent": 0.6818181818181818,
+  "rating_average": 4.136363636363637
+ },
+ {
+  "keywords": "2021-09-28",
+  "counts_5": 112,
+  "counts_4": 56,
+  "counts_3": 14,
+  "counts_2": 0,
+  "counts_1": 42,
+  "rating_percent": 0.5,
+  "rating_average": 3.875
+ },
+ {
+  "keywords": "2021-09-29",
+  "counts_5": 168,
+  "counts_4": 28,
+  "counts_3": 14,
+  "counts_2": 14,
+  "counts_1": 42,
+  "rating_percent": 0.631578947368421,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-09-30",
+  "counts_5": 168,
+  "counts_4": 56,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 28,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.333333333333333
+ },
+ {
+  "keywords": "2021-10-01",
+  "counts_5": 154,
+  "counts_4": 43,
+  "counts_3": 14,
+  "counts_2": 28,
+  "counts_1": 0,
+  "rating_percent": 0.6443514644351465,
+  "rating_average": 4.351464435146443
+ },
+ {
+  "keywords": "2021-10-02",
+  "counts_5": 255,
+  "counts_4": 45,
+  "counts_3": 30,
+  "counts_2": 0,
+  "counts_1": 30,
+  "rating_percent": 0.7083333333333334,
+  "rating_average": 4.375
+ },
+ {
+  "keywords": "2021-10-03",
+  "counts_5": 255,
+  "counts_4": 75,
+  "counts_3": 0,
+  "counts_2": 15,
+  "counts_1": 30,
+  "rating_percent": 0.68,
+  "rating_average": 4.36
+ },
+ {
+  "keywords": "2021-10-04",
+  "counts_5": 240,
+  "counts_4": 30,
+  "counts_3": 15,
+  "counts_2": 15,
+  "counts_1": 30,
+  "rating_percent": 0.7272727272727273,
+  "rating_average": 4.318181818181818
+ },
+ {
+  "keywords": "2021-10-05",
+  "counts_5": 75,
+  "counts_4": 75,
+  "counts_3": 15,
+  "counts_2": 0,
+  "counts_1": 45,
+  "rating_percent": 0.35714285714285715,
+  "rating_average": 3.642857142857143
+ },
+ {
+  "keywords": "2021-10-06",
+  "counts_5": 60,
+  "counts_4": 30,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 30,
+  "rating_percent": 0.5,
+  "rating_average": 3.75
+ },
+ {
+  "keywords": "2021-10-07",
+  "counts_5": 150,
+  "counts_4": 30,
+  "counts_3": 15,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.7692307692307693,
+  "rating_average": 4.6923076923076925
+ },
+ {
+  "keywords": "2021-10-08",
+  "counts_5": 285,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 15,
+  "rating_percent": 0.95,
+  "rating_average": 4.8
+ },
+ {
+  "keywords": "2021-10-09",
+  "counts_5": 255,
+  "counts_4": 30,
+  "counts_3": 30,
+  "counts_2": 30,
+  "counts_1": 15,
+  "rating_percent": 0.7083333333333334,
+  "rating_average": 4.333333333333333
+ },
+ {
+  "keywords": "2021-10-10",
+  "counts_5": 225,
+  "counts_4": 75,
+  "counts_3": 15,
+  "counts_2": 0,
+  "counts_1": 15,
+  "rating_percent": 0.6818181818181818,
+  "rating_average": 4.5
+ },
+ {
+  "keywords": "2021-10-11",
+  "counts_5": 330,
+  "counts_4": 75,
+  "counts_3": 60,
+  "counts_2": 0,
+  "counts_1": 15,
+  "rating_percent": 0.6875,
+  "rating_average": 4.46875
+ },
+ {
+  "keywords": "2021-10-12",
+  "counts_5": 150,
+  "counts_4": 0,
+  "counts_3": 15,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.9090909090909091,
+  "rating_average": 4.818181818181818
+ },
+ {
+  "keywords": "2021-10-13",
+  "counts_5": 210,
+  "counts_4": 45,
+  "counts_3": 0,
+  "counts_2": 15,
+  "counts_1": 45,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.142857142857143
+ },
+ {
+  "keywords": "2021-10-14",
+  "counts_5": 120,
+  "counts_4": 45,
+  "counts_3": 15,
+  "counts_2": 0,
+  "counts_1": 15,
+  "rating_percent": 0.6153846153846154,
+  "rating_average": 4.3076923076923075
+ },
+ {
+  "keywords": "2021-10-15",
+  "counts_5": 195,
+  "counts_4": 30,
+  "counts_3": 30,
+  "counts_2": 30,
+  "counts_1": 15,
+  "rating_percent": 0.65,
+  "rating_average": 4.2
+ },
+ {
+  "keywords": "2021-10-16",
+  "counts_5": 270,
+  "counts_4": 45,
+  "counts_3": 30,
+  "counts_2": 15,
+  "counts_1": 30,
+  "rating_percent": 0.6923076923076923,
+  "rating_average": 4.3076923076923075
+ },
+ {
+  "keywords": "2021-10-17",
+  "counts_5": 405,
+  "counts_4": 45,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 15,
+  "rating_percent": 0.8709677419354839,
+  "rating_average": 4.774193548387097
+ },
+ {
+  "keywords": "2021-10-18",
+  "counts_5": 195,
+  "counts_4": 30,
+  "counts_3": 15,
+  "counts_2": 0,
+  "counts_1": 30,
+  "rating_percent": 0.7222222222222222,
+  "rating_average": 4.333333333333333
+ },
+ {
+  "keywords": "2021-10-19",
+  "counts_5": 182,
+  "counts_4": 46,
+  "counts_3": 31,
+  "counts_2": 0,
+  "counts_1": 45,
+  "rating_percent": 0.5986842105263158,
+  "rating_average": 4.052631578947368
+ },
+ {
+  "keywords": "2021-10-20",
+  "counts_5": 208,
+  "counts_4": 16,
+  "counts_3": 16,
+  "counts_2": 16,
+  "counts_1": 16,
+  "rating_percent": 0.7647058823529411,
+  "rating_average": 4.411764705882353
+ },
+ {
+  "keywords": "2021-10-21",
+  "counts_5": 288,
+  "counts_4": 32,
+  "counts_3": 0,
+  "counts_2": 32,
+  "counts_1": 96,
+  "rating_percent": 0.6428571428571429,
+  "rating_average": 3.857142857142857
+ },
+ {
+  "keywords": "2021-10-22",
+  "counts_5": 224,
+  "counts_4": 16,
+  "counts_3": 32,
+  "counts_2": 0,
+  "counts_1": 16,
+  "rating_percent": 0.7777777777777778,
+  "rating_average": 4.5
+ },
+ {
+  "keywords": "2021-10-23",
+  "counts_5": 464,
+  "counts_4": 0,
+  "counts_3": 16,
+  "counts_2": 16,
+  "counts_1": 16,
+  "rating_percent": 0.90625,
+  "rating_average": 4.71875
+ },
+ {
+  "keywords": "2021-10-24",
+  "counts_5": 384,
+  "counts_4": 80,
+  "counts_3": 16,
+  "counts_2": 0,
+  "counts_1": 32,
+  "rating_percent": 0.75,
+  "rating_average": 4.53125
+ },
+ {
+  "keywords": "2021-10-25",
+  "counts_5": 224,
+  "counts_4": 32,
+  "counts_3": 0,
+  "counts_2": 16,
+  "counts_1": 16,
+  "rating_percent": 0.7777777777777778,
+  "rating_average": 4.5
+ },
+ {
+  "keywords": "2021-10-26",
+  "counts_5": 224,
+  "counts_4": 48,
+  "counts_3": 0,
+  "counts_2": 16,
+  "counts_1": 32,
+  "rating_percent": 0.7,
+  "rating_average": 4.3
+ },
+ {
+  "keywords": "2021-10-27",
+  "counts_5": 192,
+  "counts_4": 32,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 16,
+  "rating_percent": 0.8,
+  "rating_average": 4.6
+ },
+ {
+  "keywords": "2021-10-28",
+  "counts_5": 128,
+  "counts_4": 16,
+  "counts_3": 16,
+  "counts_2": 16,
+  "counts_1": 16,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.166666666666667
+ },
+ {
+  "keywords": "2021-10-29",
+  "counts_5": 160,
+  "counts_4": 32,
+  "counts_3": 32,
+  "counts_2": 0,
+  "counts_1": 16,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.333333333333333
+ },
+ {
+  "keywords": "2021-10-30",
+  "counts_5": 432,
+  "counts_4": 48,
+  "counts_3": 48,
+  "counts_2": 16,
+  "counts_1": 48,
+  "rating_percent": 0.7297297297297297,
+  "rating_average": 4.351351351351352
+ },
+ {
+  "keywords": "2021-10-31",
+  "counts_5": 688,
+  "counts_4": 128,
+  "counts_3": 64,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.7818181818181819,
+  "rating_average": 4.709090909090909
+ },
+ {
+  "keywords": "2021-11-01",
+  "counts_5": 208,
+  "counts_4": 16,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 48,
+  "rating_percent": 0.7647058823529411,
+  "rating_average": 4.235294117647059
+ },
+ {
+  "keywords": "2021-11-02",
+  "counts_5": 288,
+  "counts_4": 32,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.9,
+  "rating_average": 4.9
+ },
+ {
+  "keywords": "2021-11-03",
+  "counts_5": 214,
+  "counts_4": 16,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 32,
+  "rating_percent": 0.816793893129771,
+  "rating_average": 4.450381679389313
+ },
+ {
+  "keywords": "2021-11-04",
+  "counts_5": 119,
+  "counts_4": 51,
+  "counts_3": 17,
+  "counts_2": 17,
+  "counts_1": 0,
+  "rating_percent": 0.5833333333333334,
+  "rating_average": 4.333333333333333
+ },
+ {
+  "keywords": "2021-11-05",
+  "counts_5": 204,
+  "counts_4": 17,
+  "counts_3": 17,
+  "counts_2": 0,
+  "counts_1": 68,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 3.9444444444444446
+ },
+ {
+  "keywords": "2021-11-06",
+  "counts_5": 272,
+  "counts_4": 51,
+  "counts_3": 17,
+  "counts_2": 51,
+  "counts_1": 17,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.25
+ },
+ {
+  "keywords": "2021-11-07",
+  "counts_5": 204,
+  "counts_4": 34,
+  "counts_3": 17,
+  "counts_2": 0,
+  "counts_1": 51,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.111111111111111
+ },
+ {
+  "keywords": "2021-11-08",
+  "counts_5": 204,
+  "counts_4": 51,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 0,
+  "rating_percent": 0.8,
+  "rating_average": 4.8
+ },
+ {
+  "keywords": "2021-11-09",
+  "counts_5": 170,
+  "counts_4": 68,
+  "counts_3": 34,
+  "counts_2": 0,
+  "counts_1": 34,
+  "rating_percent": 0.5555555555555556,
+  "rating_average": 4.111111111111111
+ },
+ {
+  "keywords": "2021-11-10",
+  "counts_5": 136,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 17,
+  "counts_1": 0,
+  "rating_percent": 0.8888888888888888,
+  "rating_average": 4.666666666666667
+ },
+ {
+  "keywords": "2021-11-11",
+  "counts_5": 204,
+  "counts_4": 17,
+  "counts_3": 17,
+  "counts_2": 0,
+  "counts_1": 51,
+  "rating_percent": 0.7058823529411765,
+  "rating_average": 4.117647058823529
+ },
+ {
+  "keywords": "2021-11-12",
+  "counts_5": 119,
+  "counts_4": 51,
+  "counts_3": 51,
+  "counts_2": 17,
+  "counts_1": 34,
+  "rating_percent": 0.4375,
+  "rating_average": 3.75
+ },
+ {
+  "keywords": "2021-11-13",
+  "counts_5": 408,
+  "counts_4": 51,
+  "counts_3": 0,
+  "counts_2": 17,
+  "counts_1": 17,
+  "rating_percent": 0.8275862068965517,
+  "rating_average": 4.655172413793103
+ },
+ {
+  "keywords": "2021-11-14",
+  "counts_5": 289,
+  "counts_4": 51,
+  "counts_3": 34,
+  "counts_2": 17,
+  "counts_1": 85,
+  "rating_percent": 0.6071428571428571,
+  "rating_average": 3.9285714285714284
+ },
+ {
+  "keywords": "2021-11-15",
+  "counts_5": 136,
+  "counts_4": 34,
+  "counts_3": 17,
+  "counts_2": 17,
+  "counts_1": 17,
+  "rating_percent": 0.6153846153846154,
+  "rating_average": 4.153846153846154
+ },
+ {
+  "keywords": "2021-11-16",
+  "counts_5": 221,
+  "counts_4": 17,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 34,
+  "rating_percent": 0.8125,
+  "rating_average": 4.4375
+ },
+ {
+  "keywords": "2021-11-17",
+  "counts_5": 153,
+  "counts_4": 51,
+  "counts_3": 17,
+  "counts_2": 34,
+  "counts_1": 68,
+  "rating_percent": 0.47368421052631576,
+  "rating_average": 3.5789473684210527
+ },
+ {
+  "keywords": "2021-11-18",
+  "counts_5": 136,
+  "counts_4": 34,
+  "counts_3": 17,
+  "counts_2": 17,
+  "counts_1": 68,
+  "rating_percent": 0.5,
+  "rating_average": 3.5625
+ },
+ {
+  "keywords": "2021-11-19",
+  "counts_5": 170,
+  "counts_4": 34,
+  "counts_3": 51,
+  "counts_2": 17,
+  "counts_1": 51,
+  "rating_percent": 0.5263157894736842,
+  "rating_average": 3.789473684210526
+ },
+ {
+  "keywords": "2021-11-20",
+  "counts_5": 308,
+  "counts_4": 68,
+  "counts_3": 35,
+  "counts_2": 69,
+  "counts_1": 17,
+  "rating_percent": 0.6197183098591549,
+  "rating_average": 4.169014084507042
+ },
+ {
+  "keywords": "2021-11-21",
+  "counts_5": 288,
+  "counts_4": 36,
+  "counts_3": 90,
+  "counts_2": 18,
+  "counts_1": 54,
+  "rating_percent": 0.5925925925925926,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-11-22",
+  "counts_5": 324,
+  "counts_4": 36,
+  "counts_3": 36,
+  "counts_2": 18,
+  "counts_1": 36,
+  "rating_percent": 0.72,
+  "rating_average": 4.32
+ },
+ {
+  "keywords": "2021-11-23",
+  "counts_5": 270,
+  "counts_4": 90,
+  "counts_3": 18,
+  "counts_2": 0,
+  "counts_1": 126,
+  "rating_percent": 0.5357142857142857,
+  "rating_average": 3.75
+ },
+ {
+  "keywords": "2021-11-24",
+  "counts_5": 378,
+  "counts_4": 18,
+  "counts_3": 90,
+  "counts_2": 36,
+  "counts_1": 18,
+  "rating_percent": 0.7,
+  "rating_average": 4.3
+ },
+ {
+  "keywords": "2021-11-25",
+  "counts_5": 306,
+  "counts_4": 108,
+  "counts_3": 54,
+  "counts_2": 72,
+  "counts_1": 144,
+  "rating_percent": 0.4473684210526316,
+  "rating_average": 3.526315789473684
+ },
+ {
+  "keywords": "2021-11-26",
+  "counts_5": 468,
+  "counts_4": 54,
+  "counts_3": 54,
+  "counts_2": 54,
+  "counts_1": 108,
+  "rating_percent": 0.6341463414634146,
+  "rating_average": 3.975609756097561
+ },
+ {
+  "keywords": "2021-11-27",
+  "counts_5": 342,
+  "counts_4": 72,
+  "counts_3": 18,
+  "counts_2": 0,
+  "counts_1": 18,
+  "rating_percent": 0.76,
+  "rating_average": 4.6
+ },
+ {
+  "keywords": "2021-11-28",
+  "counts_5": 432,
+  "counts_4": 90,
+  "counts_3": 36,
+  "counts_2": 36,
+  "counts_1": 126,
+  "rating_percent": 0.6,
+  "rating_average": 3.925
+ },
+ {
+  "keywords": "2021-11-29",
+  "counts_5": 126,
+  "counts_4": 90,
+  "counts_3": 18,
+  "counts_2": 18,
+  "counts_1": 18,
+  "rating_percent": 0.4666666666666667,
+  "rating_average": 4.066666666666666
+ },
+ {
+  "keywords": "2021-11-30",
+  "counts_5": 162,
+  "counts_4": 18,
+  "counts_3": 18,
+  "counts_2": 0,
+  "counts_1": 54,
+  "rating_percent": 0.6428571428571429,
+  "rating_average": 3.9285714285714284
+ },
+ {
+  "keywords": "2021-12-01",
+  "counts_5": 162,
+  "counts_4": 18,
+  "counts_3": 36,
+  "counts_2": 18,
+  "counts_1": 90,
+  "rating_percent": 0.5,
+  "rating_average": 3.4444444444444446
+ },
+ {
+  "keywords": "2021-12-02",
+  "counts_5": 270,
+  "counts_4": 0,
+  "counts_3": 54,
+  "counts_2": 36,
+  "counts_1": 36,
+  "rating_percent": 0.6818181818181818,
+  "rating_average": 4.090909090909091
+ },
+ {
+  "keywords": "2021-12-03",
+  "counts_5": 307,
+  "counts_4": 0,
+  "counts_3": 18,
+  "counts_2": 0,
+  "counts_1": 147,
+  "rating_percent": 0.6504237288135594,
+  "rating_average": 3.6779661016949152
+ },
+ {
+  "keywords": "2021-12-04",
+  "counts_5": 228,
+  "counts_4": 19,
+  "counts_3": 57,
+  "counts_2": 0,
+  "counts_1": 190,
+  "rating_percent": 0.46153846153846156,
+  "rating_average": 3.1923076923076925
+ },
+ {
+  "keywords": "2021-12-05",
+  "counts_5": 304,
+  "counts_4": 76,
+  "counts_3": 38,
+  "counts_2": 0,
+  "counts_1": 38,
+  "rating_percent": 0.6666666666666666,
+  "rating_average": 4.333333333333333
+ },
+ {
+  "keywords": "2021-12-06",
+  "counts_5": 266,
+  "counts_4": 38,
+  "counts_3": 19,
+  "counts_2": 19,
+  "counts_1": 38,
+  "rating_percent": 0.7,
+  "rating_average": 4.25
+ },
+ {
+  "keywords": "2021-12-07",
+  "counts_5": 171,
+  "counts_4": 57,
+  "counts_3": 38,
+  "counts_2": 76,
+  "counts_1": 57,
+  "rating_percent": 0.42857142857142855,
+  "rating_average": 3.5238095238095237
+ },
+ {
+  "keywords": "2021-12-08",
+  "counts_5": 171,
+  "counts_4": 38,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 57,
+  "rating_percent": 0.6428571428571429,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-12-09",
+  "counts_5": 247,
+  "counts_4": 0,
+  "counts_3": 0,
+  "counts_2": 19,
+  "counts_1": 95,
+  "rating_percent": 0.6842105263157895,
+  "rating_average": 3.789473684210526
+ },
+ {
+  "keywords": "2021-12-10",
+  "counts_5": 190,
+  "counts_4": 19,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 19,
+  "rating_percent": 0.8333333333333334,
+  "rating_average": 4.583333333333333
+ },
+ {
+  "keywords": "2021-12-11",
+  "counts_5": 399,
+  "counts_4": 95,
+  "counts_3": 0,
+  "counts_2": 57,
+  "counts_1": 57,
+  "rating_percent": 0.65625,
+  "rating_average": 4.1875
+ },
+ {
+  "keywords": "2021-12-12",
+  "counts_5": 456,
+  "counts_4": 19,
+  "counts_3": 38,
+  "counts_2": 19,
+  "counts_1": 57,
+  "rating_percent": 0.7741935483870968,
+  "rating_average": 4.354838709677419
+ },
+ {
+  "keywords": "2021-12-13",
+  "counts_5": 209,
+  "counts_4": 57,
+  "counts_3": 38,
+  "counts_2": 0,
+  "counts_1": 38,
+  "rating_percent": 0.6111111111111112,
+  "rating_average": 4.166666666666667
+ },
+ {
+  "keywords": "2021-12-14",
+  "counts_5": 95,
+  "counts_4": 19,
+  "counts_3": 20,
+  "counts_2": 96,
+  "counts_1": 95,
+  "rating_percent": 0.2923076923076923,
+  "rating_average": 2.763076923076923
+ },
+ {
+  "keywords": "2021-12-15",
+  "counts_5": 360,
+  "counts_4": 60,
+  "counts_3": 40,
+  "counts_2": 40,
+  "counts_1": 80,
+  "rating_percent": 0.6206896551724138,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-12-16",
+  "counts_5": 320,
+  "counts_4": 40,
+  "counts_3": 40,
+  "counts_2": 0,
+  "counts_1": 40,
+  "rating_percent": 0.7272727272727273,
+  "rating_average": 4.363636363636363
+ },
+ {
+  "keywords": "2021-12-17",
+  "counts_5": 400,
+  "counts_4": 80,
+  "counts_3": 0,
+  "counts_2": 60,
+  "counts_1": 80,
+  "rating_percent": 0.6451612903225806,
+  "rating_average": 4.064516129032258
+ },
+ {
+  "keywords": "2021-12-18",
+  "counts_5": 480,
+  "counts_4": 80,
+  "counts_3": 20,
+  "counts_2": 20,
+  "counts_1": 60,
+  "rating_percent": 0.7272727272727273,
+  "rating_average": 4.363636363636363
+ },
+ {
+  "keywords": "2021-12-19",
+  "counts_5": 420,
+  "counts_4": 80,
+  "counts_3": 20,
+  "counts_2": 0,
+  "counts_1": 60,
+  "rating_percent": 0.7241379310344828,
+  "rating_average": 4.379310344827586
+ },
+ {
+  "keywords": "2021-12-20",
+  "counts_5": 440,
+  "counts_4": 60,
+  "counts_3": 20,
+  "counts_2": 60,
+  "counts_1": 20,
+  "rating_percent": 0.7333333333333333,
+  "rating_average": 4.4
+ },
+ {
+  "keywords": "2021-12-21",
+  "counts_5": 380,
+  "counts_4": 100,
+  "counts_3": 20,
+  "counts_2": 60,
+  "counts_1": 80,
+  "rating_percent": 0.59375,
+  "rating_average": 4.0
+ },
+ {
+  "keywords": "2021-12-22",
+  "counts_5": 500,
+  "counts_4": 60,
+  "counts_3": 100,
+  "counts_2": 0,
+  "counts_1": 200,
+  "rating_percent": 0.5813953488372093,
+  "rating_average": 3.7674418604651163
+ },
+ {
+  "keywords": "2021-12-23",
+  "counts_5": 423,
+  "counts_4": 101,
+  "counts_3": 61,
+  "counts_2": 40,
+  "counts_1": 101,
+  "rating_percent": 0.5826446280991735,
+  "rating_average": 3.9710743801652892
+ },
+ {
+  "keywords": "2021-12-24",
+  "counts_5": 462,
+  "counts_4": 147,
+  "counts_3": 42,
+  "counts_2": 21,
+  "counts_1": 105,
+  "rating_percent": 0.5945945945945946,
+  "rating_average": 4.081081081081081
+ },
+ {
+  "keywords": "2021-12-25",
+  "counts_5": 462,
+  "counts_4": 105,
+  "counts_3": 63,
+  "counts_2": 21,
+  "counts_1": 126,
+  "rating_percent": 0.5945945945945946,
+  "rating_average": 3.972972972972973
+ },
+ {
+  "keywords": "2021-12-26",
+  "counts_5": 483,
+  "counts_4": 63,
+  "counts_3": 21,
+  "counts_2": 42,
+  "counts_1": 63,
+  "rating_percent": 0.71875,
+  "rating_average": 4.28125
+ },
+ {
+  "keywords": "2021-12-27",
+  "counts_5": 525,
+  "counts_4": 147,
+  "counts_3": 63,
+  "counts_2": 42,
+  "counts_1": 84,
+  "rating_percent": 0.6097560975609756,
+  "rating_average": 4.146341463414634
+ },
+ {
+  "keywords": "2021-12-28",
+  "counts_5": 588,
+  "counts_4": 189,
+  "counts_3": 21,
+  "counts_2": 0,
+  "counts_1": 42,
+  "rating_percent": 0.7,
+  "rating_average": 4.525
+ },
+ {
+  "keywords": "2021-12-29",
+  "counts_5": 357,
+  "counts_4": 147,
+  "counts_3": 21,
+  "counts_2": 21,
+  "counts_1": 42,
+  "rating_percent": 0.6071428571428571,
+  "rating_average": 4.285714285714286
+ },
+ {
+  "keywords": "2021-12-30",
+  "counts_5": 504,
+  "counts_4": 189,
+  "counts_3": 63,
+  "counts_2": 21,
+  "counts_1": 189,
+  "rating_percent": 0.5217391304347826,
+  "rating_average": 3.8260869565217392
+ },
+ {
+  "keywords": "2021-12-31",
+  "counts_5": 798,
+  "counts_4": 84,
+  "counts_3": 0,
+  "counts_2": 0,
+  "counts_1": 105,
+  "rating_percent": 0.8085106382978723,
+  "rating_average": 4.48936170212766
+ }
+]

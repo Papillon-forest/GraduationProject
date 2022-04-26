@@ -5,7 +5,7 @@ from pprint import pprint
 import nltk as nltk
 from nltk import word_tokenize
 
-import reviews
+# import reviews
 import jieba.posseg
 
 # CC  并列连词          NNS 名词复数        UH 感叹词
@@ -21,7 +21,7 @@ import jieba.posseg
 # MD  情态动词           RP  小品词          WRB 以wh开头的副词
 # NN  名词单数           SYM 符号            TO  to
 
-
+read = json.load(open('Reviews_Subway Surfers_all.json', 'r', encoding="utf-8"))
 rating_reviews_list5 = []
 rating_reviews_list4 = []
 rating_reviews_list3 = []
@@ -29,23 +29,23 @@ rating_reviews_list2 = []
 rating_reviews_list1 = []
 
 
-def classify_reviews_keywords(output):
-    for i in range(len(output['reviews'])):
-        sentences = output['reviews'][i]['text']
+def classify_reviews_keywords_jj(read):
+    for i in range(len(read)):
+        sentences = read[i]['text']
         words = word_tokenize(sentences)
         word_list = nltk.pos_tag(words)
         for j in range(len(word_list)):
             if word_list[j][1] == 'JJ':
                 # print(word_list[j][0])
-                if output['reviews'][i]['rating'] == 5:
+                if read[i]['rating'] == 5:
                     rating_reviews_list5.append(word_list[j][0])
-                elif output['reviews'][i]['rating'] == 4:
+                elif read[i]['rating'] == 4:
                     rating_reviews_list4.append(word_list[j][0])
-                elif output['reviews'][i]['rating'] == 3:
+                elif read[i]['rating'] == 3:
                     rating_reviews_list3.append(word_list[j][0])
-                elif output['reviews'][i]['rating'] == 2:
+                elif read[i]['rating'] == 2:
                     rating_reviews_list2.append(word_list[j][0])
-                elif output['reviews'][i]['rating'] == 1:
+                elif read[i]['rating'] == 1:
                     rating_reviews_list1.append(word_list[j][0])
             else:
                 continue
@@ -55,9 +55,8 @@ def classify_reviews_keywords(output):
 #     for i in range(n):
 #         classify_reviews_keywords(reviews.get_reviews(i))
 
-def get_reviews_keywords(n):
-    for i in range(n):
-        classify_reviews_keywords(reviews.get_reviews(i))
+def get_reviews_keywords_jj():
+    classify_reviews_keywords_jj(read)
     rating_reviews_list5.sort()
     rating_reviews_list4.sort()
     rating_reviews_list3.sort()
@@ -72,14 +71,14 @@ def get_reviews_keywords(n):
     return rating_reviews_dict
 
 
-def write_reviews_keywords(n):
+def write_reviews_keywords():
     filename = "Reviews_Subway Surfers_all_keywords_jj.json"
-    data = json.dumps(get_reviews_keywords(n), indent=1, ensure_ascii=False)
+    data = json.dumps(get_reviews_keywords_jj(), indent=1, ensure_ascii=False)
     with open(filename, 'w') as f:
         f.write(data)
 
 
-def get_reviews_keywords_dintinct():
+def get_reviews_keywords_jj_distinct():
     # count_set = set(lists)
     # count_list = list()
     # for item in count_set:
@@ -129,12 +128,12 @@ def get_reviews_keywords_dintinct():
     return rating_reviews_dict_distinct
 
 
-def write_reviews_keywords_distinct():
+def write_reviews_keywords_jj_distinct():
     filename = "Reviews_Subway Surfers_distinct_keywords_jj.json"
-    data = json.dumps(get_reviews_keywords_dintinct(), indent=1, ensure_ascii=False)
+    data = json.dumps(get_reviews_keywords_jj_distinct(), indent=1, ensure_ascii=False)
     with open(filename, 'w') as f:
         f.write(data)
 
 
-write_reviews_keywords(5)
-write_reviews_keywords_distinct()
+write_reviews_keywords()
+write_reviews_keywords_jj_distinct()

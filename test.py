@@ -7,6 +7,8 @@ from pprint import pprint
 import jieba.posseg
 import nltk
 import requests
+import wordcloud as wordcloud
+from matplotlib import pyplot as plt
 from nltk import word_tokenize
 # import paddlehub as hub
 # query ='https://api.data.ai/v1.3/apps/ios/app/1403455040/ratings'
@@ -97,10 +99,36 @@ from textblob import TextBlob
 # text='Ta chido'
 # result=jieba.posseg.lcut(text)
 # print(result)
-from matplotlib.font_manager import FontManager
+# from matplotlib.font_manager import FontManager
+#
+# mpl_fonts = set(f.name for f in FontManager().ttflist)
+#
+# print('all font list get from matplotlib.font_manager:')
+# for f in sorted(mpl_fonts):
+#     print('\t' + f)
+# text = '***-I love China'
+# text=text.replace('*', '')
+# text=text.replace('@', '')
+# text=text.replace('#', '')
+# text=text.replace('%', '')
+# text=text.replace('^', '')
+# text=text.replace('&', '')
+# pprint(text)
+def read_json(json_str):
+    read_temp = json.load(open(json_str, 'r', encoding="utf-8"))
+    return read_temp
 
-mpl_fonts = set(f.name for f in FontManager().ttflist)
 
-print('all font list get from matplotlib.font_manager:')
-for f in sorted(mpl_fonts):
-    print('\t' + f)
+read = read_json('Reviews_Subway Surfers_distinct_keywords_nn.json')
+dict_temp = {}
+# key = read['5'][0]['keywords']
+# pprint(key)
+# dict_temp[key] = read['5'][0]['counts']
+# pprint(dict_temp)
+for i in range(len(read['5'])):
+    key = read['5'][i]['keywords']
+    dict_temp[key] = read['5'][i]['counts']
+wordcloud = wordcloud.WordCloud(background_color='White').fit_words(dict_temp)
+plt.imshow(wordcloud)
+plt.axis("off")
+plt.show()

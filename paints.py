@@ -3,6 +3,7 @@ import json
 import time
 from pprint import pprint
 import matplotlib.pyplot as plt
+import wordcloud as wc
 
 
 # import json
@@ -58,13 +59,13 @@ def paint_sentiment_line():
     x = []
     y = []
     for i in range(len(date_list_all)):
-        date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
-        if date.year == 2022 and date.month == 0o4:
-            x.append(date_list_all[i]['keywords'])
+        # date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
+        # if date.year == 2022 and date.month == 0o4:
+        x.append(date_list_all[i]['keywords'])
     for i in range(len(date_list_all)):
-        date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
-        if date.year == 2022 and date.month == 0o4:
-            y.append(date_list_all[i]['positive_percent'])
+        # date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
+        # if date.year == 2022 and date.month == 0o4:
+        y.append(date_list_all[i]['positive_percent'])
 
     pprint(x)
     pprint(y)
@@ -122,7 +123,9 @@ def get_reviews_rating():
             'counts_3': counts_3,
             'counts_2': counts_2,
             'counts_1': counts_1,
-            'rating_percent': (counts_5 + counts_4 + counts_3) / (counts_5 + counts_4 + counts_3 + counts_2 + counts_1)
+            'rating_percent': (counts_5) / (counts_5 + counts_4 + counts_3 + counts_2 + counts_1),
+            'rating_average': (counts_5 * 5 + counts_4 * 4 + counts_3 * 3 + counts_2 * 2 + counts_1) / (
+                    counts_5 + counts_4 + counts_3 + counts_2 + counts_1)
         }
         date_rating_list_all.append(date_dict)
         date_rating_list_all = sorted(date_rating_list_all, key=lambda x: x['keywords'], reverse=False)
@@ -132,7 +135,7 @@ def get_reviews_rating():
 def write_reviews_rating():
     date_rating_list_all = get_reviews_rating()
     data = json.dumps(date_rating_list_all, indent=1, ensure_ascii=False)
-    with open("Reviews_Subway Surfers_all_rating_percent.json", 'w', newline='\n') as f:
+    with open("Reviews_Subway Surfers_all_rating_percent_average.json", 'w', newline='\n') as f:
         f.write(data)
 
 
@@ -142,13 +145,13 @@ def paint_rating_line():
     x = []
     y = []
     for i in range(len(date_rating_list_all)):
-        date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
-        if date.year == 2022 and date.month == 0o4:
-            x.append(date_rating_list_all[i]['keywords'])
+        # date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
+        # if date.year == 2022 and date.month == 0o4:
+        x.append(date_rating_list_all[i]['keywords'])
     for i in range(len(date_rating_list_all)):
-        date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
-        if date.year == 2022 and date.month == 0o4:
-            y.append(date_rating_list_all[i]['rating_percent'])
+        # date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
+        # if date.year == 2022 and date.month == 0o4:
+        y.append(date_rating_list_all[i]['rating_average'])
 
     pprint(x)
     pprint(y)
@@ -158,7 +161,7 @@ def paint_rating_line():
     fig.autofmt_xdate()
     ax.set_title("User Rating Change Map", color='Blue', fontsize=24)
     ax.set_xlabel("Date", color='Blue', fontsize=14)
-    ax.set_ylabel("The degree of rating greater than 2", color='Blue', fontsize=14)
+    ax.set_ylabel("Rating average", color='Blue', fontsize=14)
     ax.plot(x, y, linewidth=3)
     ax.scatter(x, y, color='Red')
     plt.show()
@@ -170,13 +173,13 @@ def paint_all():
     x1 = []
     y1 = []
     for i in range(len(date_list_all)):
-        date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
-        if date.year == 2022 and date.month == 0o4:
-            x1.append(date_list_all[i]['keywords'])
+        # date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
+        # if date.year == 2021 and date.month == 0o4:
+        x1.append(date_list_all[i]['keywords'])
     for i in range(len(date_list_all)):
-        date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
-        if date.year == 2022 and date.month == 0o4:
-            y1.append(date_list_all[i]['positive_percent'])
+        # date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
+        # if date.year == 2021 and date.month == 0o4:
+        y1.append(date_list_all[i]['positive_percent'])
 
     pprint(x1)
     pprint(y1)
@@ -195,30 +198,60 @@ def paint_all():
     x2 = []
     y2 = []
     for i in range(len(date_rating_list_all)):
-        date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
-        if date.year == 2022 and date.month == 0o4:
-            x2.append(date_rating_list_all[i]['keywords'])
+        # date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
+        # if date.year == 2022 and date.month == 0o4:
+        x2.append(date_rating_list_all[i]['keywords'])
     for i in range(len(date_rating_list_all)):
-        date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
-        if date.year == 2022 and date.month == 0o4:
-            y2.append(date_rating_list_all[i]['rating_percent'])
+        # date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
+        # if date.year == 2022 and date.month == 0o4:
+        y2.append(date_rating_list_all[i]['rating_percent'])
 
     pprint(x2)
     pprint(y2)
 
     plt.style.use('seaborn')
-    fig, ax = plt.subplots()
+    # fig, ax = plt.subplots()
+    fig = plt.figure()
+    plt.title("User Sentiment and Rating Change Map", fontsize=24)
+    plt.xlabel("Date", fontsize=14)
+    plt.ylabel("Degree", fontsize=14)
     fig.autofmt_xdate()
-    ax.set_title("User Sentiment and Rating Change Map", color='Blue', fontsize=24)
-    ax.set_xlabel("Date", color='Blue', fontsize=14)
-    ax.set_ylabel("Degree", color='Blue', fontsize=14)
-
-    ax.plot(x1, y1, label='Senti', linewidth=3)
-    ax.scatter(x1, y1, color='Red')
-    ax.plot(x2, y2, linewidth=3)
-    ax.scatter(x2, y2, color='Red')
-
+    plt.plot(x1, y1, label='Senti', color='Red', linewidth=3, linestyle='-', marker='o')
+    plt.plot(x2, y2, label='Rating', color='Blue', linewidth=3, linestyle='-', marker='^')
+    plt.legend()  # 让图例生效
     plt.show()
 
 
-paint_all()
+def paint_keywords_nn_wordcloud():
+    read = read_json('Reviews_Subway Surfers_distinct_keywords_nn.json')
+    dict_temp = {}
+    # key = read['5'][0]['keywords']
+    # pprint(key)
+    # dict_temp[key] = read['5'][0]['counts']
+    # pprint(dict_temp)
+    for i in range(len(read['5'])):
+        key = read['5'][i]['keywords']
+        dict_temp[key] = read['5'][i]['counts']
+    wordcloud = wc.WordCloud(background_color='White').fit_words(dict_temp)
+    plt.imshow(wordcloud)
+    plt.axis("off")
+    plt.show()
+
+
+def paint_keywords_jj_wordcloud():
+    read = read_json('Reviews_Subway Surfers_distinct_keywords_jj.json')
+    dict_temp = {}
+    # key = read['5'][0]['keywords']
+    # pprint(key)
+    # dict_temp[key] = read['5'][0]['counts']
+    # pprint(dict_temp)
+    for i in range(len(read['5'])):
+        key = read['5'][i]['keywords']
+        dict_temp[key] = read['5'][i]['counts']
+    wordcloud = wc.WordCloud(background_color='White').fit_words(dict_temp)
+    plt.imshow(wordcloud)
+    plt.axis("off")
+    plt.show()
+
+
+paint_keywords_jj_wordcloud()
