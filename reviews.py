@@ -91,14 +91,14 @@ def get_reviews_all(start_n, end_n):
 def write_reviews():
     output = get_reviews(0)
     data = json.dumps(output, indent=1, ensure_ascii=False)
-    with open("Reviews_Subway Surfers.json", 'w', newline='\n') as f:
+    with open("datasets/Reviews_Subway Surfers.json", 'w', newline='\n') as f:
         f.write(data)
         print("样本成功写入文件")
 
 
 def write_reviews_all(start_n, end_n):
     data = json.dumps(get_reviews_all(start_n, end_n), indent=1, ensure_ascii=False)
-    with open("Reviews_Subway Surfers_all.json", 'a', newline='\n') as f:
+    with open("datasets/Reviews_Subway Surfers_all.json", 'a', newline='\n') as f:
         f.write(data)
         print(f"第{start_n + 1}页到第{end_n}页评论成功写入文件")
 

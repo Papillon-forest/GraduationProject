@@ -21,7 +21,7 @@ import jieba.posseg
 # MD  情态动词           RP  小品词          WRB 以wh开头的副词
 # NN  名词单数           SYM 符号            TO  to
 
-read = json.load(open('Reviews_Subway Surfers_all.json', 'r', encoding="utf-8"))
+read = json.load(open('datasets/Reviews_Subway Surfers_all.json', 'r', encoding="utf-8"))
 rating_reviews_list5 = []
 rating_reviews_list4 = []
 rating_reviews_list3 = []
@@ -72,7 +72,7 @@ def get_reviews_keywords_jj():
 
 
 def write_reviews_keywords():
-    filename = "Reviews_Subway Surfers_all_keywords_nn.json"
+    filename = "datasets/Reviews_Subway Surfers_all_keywords_nn.json"
     data = json.dumps(get_reviews_keywords_jj(), indent=1, ensure_ascii=False)
     with open(filename, 'w') as f:
         f.write(data)
@@ -129,7 +129,7 @@ def get_reviews_keywords_jj_distinct():
 
 
 def write_reviews_keywords_jj_distinct():
-    filename = "Reviews_Subway Surfers_distinct_keywords_nn.json"
+    filename = "datasets/Reviews_Subway Surfers_distinct_keywords_nn.json"
     data = json.dumps(get_reviews_keywords_jj_distinct(), indent=1, ensure_ascii=False)
     with open(filename, 'w') as f:
         f.write(data)

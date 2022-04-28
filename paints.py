@@ -1,10 +1,10 @@
+import csv
 import datetime
 import json
 import time
 from pprint import pprint
 import matplotlib.pyplot as plt
 import wordcloud as wc
-
 
 # import json
 #
@@ -16,13 +16,21 @@ import wordcloud as wc
 #     papers.append(dic)
 #
 # print(len(papers))
+from retentions import get_retention
+
+
 def read_json(json_str):
     read = json.load(open(json_str, 'r', encoding="utf-8"))
     return read
 
 
+def read_csv(csv_str):
+    read = csv.reader(open(csv_str, 'r', encoding='utf-8'))
+    return read
+
+
 def get_reviews_sentiment():
-    read = read_json('Reviews_Subway Surfers_all.json')
+    read = read_json('datasets/Reviews_Subway Surfers_all.json')
     date_senti_dict = {
         'keywords': '',
         'counts': 0,
@@ -49,7 +57,7 @@ def get_reviews_sentiment():
 def write_reviews_sentiment():
     date_list_all = get_reviews_sentiment()
     data = json.dumps(date_list_all, indent=1, ensure_ascii=False)
-    with open("Reviews_Subway Surfers_all_sentiment_percent.json", 'w', newline='\n') as f:
+    with open("datasets/Reviews_Subway Surfers_all_sentiment_percent.json", 'w', newline='\n') as f:
         f.write(data)
 
 
@@ -82,7 +90,7 @@ def paint_sentiment_line():
 
 
 def get_reviews_rating():
-    read = read_json('Reviews_Subway Surfers_all.json')
+    read = read_json('datasets/Reviews_Subway Surfers_all.json')
     date_rating_dict = {
         'keywords': '',
         'counts_5': 0,
@@ -135,7 +143,7 @@ def get_reviews_rating():
 def write_reviews_rating():
     date_rating_list_all = get_reviews_rating()
     data = json.dumps(date_rating_list_all, indent=1, ensure_ascii=False)
-    with open("Reviews_Subway Surfers_all_rating_percent_average.json", 'w', newline='\n') as f:
+    with open("datasets/Reviews_Subway Surfers_all_rating_percent_average.json", 'w', newline='\n') as f:
         f.write(data)
 
 
@@ -223,7 +231,7 @@ def paint_all():
 
 
 def paint_keywords_nn_wordcloud():
-    read = read_json('Reviews_Subway Surfers_distinct_keywords_nn.json')
+    read = read_json('datasets/Reviews_Subway Surfers_distinct_keywords_nn.json')
     dict_temp = {}
     # key = read['5'][0]['keywords']
     # pprint(key)
@@ -239,7 +247,7 @@ def paint_keywords_nn_wordcloud():
 
 
 def paint_keywords_jj_wordcloud():
-    read = read_json('Reviews_Subway Surfers_distinct_keywords_jj.json')
+    read = read_json('datasets/Reviews_Subway Surfers_distinct_keywords_jj.json')
     dict_temp = {}
     # key = read['5'][0]['keywords']
     # pprint(key)
@@ -254,4 +262,31 @@ def paint_keywords_jj_wordcloud():
     plt.show()
 
 
-paint_keywords_jj_wordcloud()
+def paint_user_retention():
+    read = read_csv('datasets/Retention_Subway Surfers.csv')
+    header_now = next(read)
+    x = []
+    y = []
+    x_date = []
+    y_rate = []
+    for row in read:
+        x_temp = row[0]
+        y_temp = row[3]
+        x.append(x_temp)
+        y.append(y_temp)
+    for x in x[:10]:
+        x_date.append(x)
+    for y in y[:10]:
+        y_rate.append(y)
+    plt.style.use('seaborn')
+    fig, ax = plt.subplots()
+    fig.autofmt_xdate()
+    ax.set_title("User Retention Change Map", color='Blue', fontsize=24)
+    ax.set_xlabel("Date", color='Blue', fontsize=14)
+    ax.set_ylabel("The degree of retention", color='Blue', fontsize=14)
+    ax.scatter(x_date, y_rate, color='Red')
+    plt.show()
+
+
+
+paint_user_retention()

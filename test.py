@@ -1,3 +1,4 @@
+import csv
 import datetime
 import json
 import ssl
@@ -11,8 +12,8 @@ import wordcloud as wordcloud
 from matplotlib import pyplot as plt
 from nltk import word_tokenize
 # import paddlehub as hub
-# query ='https://api.data.ai/v1.3/apps/ios/app/1403455040/ratings'
-# api_key = '06f7b2a02a5b78c3ec95ba206c71569f55487533'
+# query ='https://api.data.ai/v1.3/intelligence/apps/ios/ranking?countries=US&categories=Overall&feeds=grossing&ranks=3&granularity=daily&device=iphone&start_date=2018-04-07 '
+# api_key = 'f62c2fcc2e9e14defa7f8e3e9dc0bb99c25bcfcb'
 # headers = {"Authorization": "Bearer " + api_key}
 # r = requests.get(query,headers=headers)
 # output = json.loads(r.text)
@@ -29,7 +30,6 @@ from nltk import word_tokenize
 # pprint(list_distinct)
 
 from textblob import TextBlob
-
 
 # text = ["I love it"]
 # # blob = TextBlob(text)
@@ -114,21 +114,53 @@ from textblob import TextBlob
 # text=text.replace('^', '')
 # text=text.replace('&', '')
 # pprint(text)
-def read_json(json_str):
-    read_temp = json.load(open(json_str, 'r', encoding="utf-8"))
-    return read_temp
+# def read_json(json_str):
+#     read_temp = json.load(open(json_str, 'r', encoding="utf-8"))
+#     return read_temp
+#
+#
+# read = read_json('Reviews_Subway Surfers_distinct_keywords_nn.json')
+# dict_temp = {}
+# # key = read['5'][0]['keywords']
+# # pprint(key)
+# # dict_temp[key] = read['5'][0]['counts']
+# # pprint(dict_temp)
+# for i in range(len(read['5'])):
+#     key = read['5'][i]['keywords']
+#     dict_temp[key] = read['5'][i]['counts']
+# wordcloud = wordcloud.WordCloud(background_color='White').fit_words(dict_temp)
+# plt.imshow(wordcloud)
+# plt.axis("off")
+# plt.show()
 
-
-read = read_json('Reviews_Subway Surfers_distinct_keywords_nn.json')
-dict_temp = {}
-# key = read['5'][0]['keywords']
-# pprint(key)
-# dict_temp[key] = read['5'][0]['counts']
-# pprint(dict_temp)
-for i in range(len(read['5'])):
-    key = read['5'][i]['keywords']
-    dict_temp[key] = read['5'][i]['counts']
-wordcloud = wordcloud.WordCloud(background_color='White').fit_words(dict_temp)
-plt.imshow(wordcloud)
-plt.axis("off")
-plt.show()
+# filename = 'datasets/data-ai_Intelligence_Single_table_report_2021-01-01_2022-01-31.csv'
+# with open(filename,'r') as f:
+#     reader = csv.reader(f)
+#     header_row = next(reader)
+#     dates = []
+#     for row in reader:
+#         dates.append(row)
+#
+# del_list = []
+# # pprint(len(dates))
+#
+# for i in range(len(dates)):
+#     date = datetime.datetime.strptime(dates[i][1], "%Y-%m-%d")
+#     if date.year == 2022:
+#         del_list.append(i)
+# for i in reversed(del_list):
+#     del dates[i]
+#
+# # pprint(dates)
+#
+# filename = 'datasets/Retention_Subway Surfers.csv'
+# with open(filename,'w') as f:
+#     writer=csv.writer(f)
+#     writer.writerow(['Retention Days','Start Date','End Date','User Retention'])
+#     writer.writerows(dates)
+date='2021-01-01'
+d='2'
+date_temp=datetime.datetime.strptime(date, "%Y-%m-%d")
+dela=datetime.timedelta(days=1)
+data_new= datetime.date(date_temp.year, date_temp.month, date_temp.day)+dela*float(d)
+print(data_new)
