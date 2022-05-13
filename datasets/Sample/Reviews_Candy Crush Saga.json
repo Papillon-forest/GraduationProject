@@ -1,0 +1,987 @@
+{
+ "product_id": 553834731,
+ "publisher_id": 526656015,
+ "product_name": "Candy Crush Saga",
+ "device": "ios",
+ "publisher_name": "King",
+ "reviews": [
+  {
+   "review_id": "8186726645",
+   "title": "Love it!",
+   "name": "Love it!",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "Merry Christmas",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.6105,
+    "negative_probs": 0.3895
+   },
+   "keywords": [
+    "Merry",
+    "Christmas"
+   ]
+  },
+  {
+   "review_id": "8187019757",
+   "title": "Candy crush",
+   "name": "Candy crush",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "Doesn’t save games, I’ve started over 3 times. I’m done in",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8784,
+    "negative_probs": 0.1216
+   },
+   "keywords": [
+    "Doesn",
+    "save",
+    "games"
+   ]
+  },
+  {
+   "review_id": "8187172948",
+   "title": "Game is terrible I do not recommend",
+   "name": "Game is terrible I do not recommend",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "Terrible",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5625,
+    "negative_probs": 0.4375
+   },
+   "keywords": [
+    "Terrible"
+   ]
+  },
+  {
+   "review_id": "8187344294",
+   "title": "One star, I couldn’t write",
+   "name": "One star, I couldn’t write",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "When I tried to give this app a one star review it wouldn’t let me type out a response for a while so I gave it a two star review. Now all of a sudden my text matters. That should tell you how terrible this game is because you can’t even give it a one star review and actually voicing your opinion. Truth is this game is not free, this game gives you the bare minimum to tease you to  hate your money and spend it. So burn it here.",
+   "rating": 2,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9958,
+    "negative_probs": 0.0042
+   },
+   "keywords": [
+    "star",
+    "review",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8187855213",
+   "title": "Game crashes constantly - STILL!",
+   "name": "Game crashes constantly - STILL!",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "Update: Downgrading one star because of the crashing issue which happens now only when I’m about to win a hard level. Boosts and lives are lost. I won’t go so far as to call it a scam - yet. Super fun game but it crashes all the time, usually when I’m about to win a hard level. Players in the community help forum are complaining of the same thing and say they’ve been waiting for weeks for a response from developers. Not cool.",
+   "rating": 2,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9961,
+    "negative_probs": 0.0039
+   },
+   "keywords": [
+    "when",
+    "about",
+    "win"
+   ]
+  },
+  {
+   "review_id": "8188237204",
+   "title": "Ads that I can't leave",
+   "name": "Ads that I can't leave",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "Great game, super fun. I don't mind the ads because it means I can play for free.  But, there are some ads that don't let you go back to the game. So I gave to close the game and get back in. First world problem, I know, but annoying.Specifically, the Amazon ads freeze and an ad about Seattle does nothing and shows nothing.Thank you for the game!",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9968,
+    "negative_probs": 0.0032
+   },
+   "keywords": [
+    "game",
+    "ads",
+    "don"
+   ]
+  },
+  {
+   "review_id": "8188772199",
+   "title": "Candy Crush Leaderboards",
+   "name": "Candy Crush Leaderboards",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "Will you bring back the leaderboards? I can’t see how many games I’ve won for the week.",
+   "rating": 3,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9889,
+    "negative_probs": 0.0111
+   },
+   "keywords": [
+    "Will",
+    "bring",
+    "back"
+   ]
+  },
+  {
+   "review_id": "8188961074",
+   "title": "Terrible",
+   "name": "Terrible",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "The game will close to make you loose boosters, it happens every time so it’s not a glitch… it’s designed to cheat you 👎🏽",
+   "rating": 2,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8413,
+    "negative_probs": 0.1587
+   },
+   "keywords": [
+    "game",
+    "will",
+    "close"
+   ]
+  },
+  {
+   "review_id": "8189233954",
+   "title": "Sugar crush",
+   "name": "Sugar crush",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "When ever I’m bored at home and school I play this game. I just think it is good, in my opinion though.",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9941,
+    "negative_probs": 0.0059
+   },
+   "keywords": [
+    "When",
+    "ever",
+    "bored"
+   ]
+  },
+  {
+   "review_id": "8189635921",
+   "title": "4 stars",
+   "name": "4 stars",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "I really like the different level but on the hard levels you can’t get ads to keep going…",
+   "rating": 4,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9914,
+    "negative_probs": 0.0086
+   },
+   "keywords": [
+    "really",
+    "like",
+    "different"
+   ]
+  },
+  {
+   "review_id": "8189956108",
+   "title": "Game is total money scam",
+   "name": "Game is total money scam",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "If you want to get spammed by advertisements telling you to buy bull crap all day then DL it. Spent a few dollars and then it spams more. Will be disputing my money for this worthless garbage.",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9848,
+    "negative_probs": 0.0152
+   },
+   "keywords": [
+    "want",
+    "get",
+    "spammed"
+   ]
+  },
+  {
+   "review_id": "8182851676",
+   "title": "Super Fun and Addicting!",
+   "name": "Super Fun and Addicting!",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "I recommend this game to pretty much everyone! You will never get bored with this sweet game! (Pun totally intended)",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9786,
+    "negative_probs": 0.0214
+   },
+   "keywords": [
+    "game",
+    "recommend",
+    "pretty"
+   ]
+  },
+  {
+   "review_id": "8182909676",
+   "title": "App quits",
+   "name": "App quits",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "I’ve bought coins only to have app quit in the middle of a game and I lose everything as a result. Done with this. There is a bug in your app.",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9965,
+    "negative_probs": 0.0035
+   },
+   "keywords": [
+    "app",
+    "ve",
+    "bought"
+   ]
+  },
+  {
+   "review_id": "8183004442",
+   "title": "Robbery",
+   "name": "Robbery",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "I’m not very happy. I was robbed of almost all of my gold bars in exchange for 5 hours of unlimited lives. Deceiving ad that looks just like others except this one takes your gold bars. I don’t even know how it happened I’ve  had to keep looking for that ad to see what happened. I had close to 100 gold bars. Was left with nine. All of those hours of free play were during the night. I want my gold bars back. Get rid of that ad please.",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9956,
+    "negative_probs": 0.0044
+   },
+   "keywords": [
+    "gold",
+    "bars",
+    "ad"
+   ]
+  },
+  {
+   "review_id": "8183237599",
+   "title": "Meh",
+   "name": "Meh",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "Blatantly unfair in hopes you’ll spend money on boosts since most of the levels are impossible with out them. You have to be extremely lucky a lot and redo levels over and over if you don’t want to pay",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9832,
+    "negative_probs": 0.0168
+   },
+   "keywords": [
+    "levels",
+    "over",
+    "Blatantly"
+   ]
+  },
+  {
+   "review_id": "8183333955",
+   "title": "Sandra Grover",
+   "name": "Sandra Grover",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "Candy Crush is my FAVORITE GAME!!  😍❤ I ❤ playing Candy Crush!⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️It is still my favorite game!!🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟My very favorite game!!  😃✨✨✨✨✨✨✨✨✨✨✨✨I still LOVE playing Candy Crush!!  It is my very favorite game!!  (There are two very frustrating items which I could do without: Bombs and Chocolate!)This is my very favorite game!! I love playing it and I like the new features!!  ❤️❤️❤️I LOVE CANDY CRUSH SAGA!!",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9973,
+    "negative_probs": 0.0027
+   },
+   "keywords": [
+    "my",
+    "favorite",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8183575155",
+   "title": "Progreso",
+   "name": "Progreso",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "Me quitaron mi progreso",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5425,
+    "negative_probs": 0.4575
+   },
+   "keywords": [
+    "Me",
+    "quitaron",
+    "mi"
+   ]
+  },
+  {
+   "review_id": "8183587227",
+   "title": "Dear SCAMMERS",
+   "name": "Dear SCAMMERS",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "I HATE THIS STUPID PAY TO WIN CRINGE, 2 CENTS FOR MEGA CHOCOLATE BLASTER I DONT HAVE THAT MONEY BRO, I ONLY HAVE 0.000069 CENTS ON MY BANK ACCOUNT, THIS GAME IS STUPID DONT PLAY GARBAGE GARBAGE GARBAGE GARBAGE JDKGIFJRKFIFTHRKIDFJHRBWIUDFJFB TRASH TRASH GARBAGE ABSOLUTE GARBAGE PAY TO WIN JUST LIKE ROBLOX BEDWARS CRINGE CRINGE STUPID.",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9805,
+    "negative_probs": 0.0195
+   },
+   "keywords": [
+    "GARBAGE",
+    "STUPID",
+    "CRINGE"
+   ]
+  },
+  {
+   "review_id": "8183938705",
+   "title": "Candy Crush",
+   "name": "Candy Crush",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "This is one of the BEST GAMES EVER.🤓🤓🥳🥳🥳😃😌😁",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9638,
+    "negative_probs": 0.0362
+   },
+   "keywords": [
+    "BEST",
+    "GAMES",
+    "EVER"
+   ]
+  },
+  {
+   "review_id": "8184278984",
+   "title": "No Sweet Surprises Here",
+   "name": "No Sweet Surprises Here",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "Keep getting ads and videos about all these great sweet surprises but don’t seem to have any in the app. Deleted and reinstalled. Lost so much progress and extras.",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9934,
+    "negative_probs": 0.0066
+   },
+   "keywords": [
+    "Keep",
+    "getting",
+    "ads"
+   ]
+  },
+  {
+   "review_id": "8184307460",
+   "title": "App closes and takes boosters",
+   "name": "App closes and takes boosters",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "Very frustrating when you are on a winning streak and the game force close itself and takes that streak from you in the middle of a level…fix this bug it’s very annoying",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9962,
+    "negative_probs": 0.0038
+   },
+   "keywords": [
+    "streak",
+    "Very",
+    "frustrating"
+   ]
+  },
+  {
+   "review_id": "8185197288",
+   "title": "problem with saving the game",
+   "name": "problem with saving the game",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "I signed in with my Gmail but my game was restored several times and it comes back from the beginning when I try to connect to my Gmail it gives me an error .",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9958,
+    "negative_probs": 0.0042
+   },
+   "keywords": [
+    "my",
+    "Gmail",
+    "signed"
+   ]
+  },
+  {
+   "review_id": "8185254254",
+   "title": "Mom and me",
+   "name": "Mom and me",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "I played this app no mater how hard i try.And my mom plays it too! She loves it!",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9973,
+    "negative_probs": 0.0027
+   },
+   "keywords": [
+    "played",
+    "app",
+    "no"
+   ]
+  },
+  {
+   "review_id": "8185312030",
+   "title": "Bad changes in new update",
+   "name": "Bad changes in new update",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "I’ve been playing this game for years, have long surpassed 10K levels. This most recent update included a change that makes it so I can no longer see how many boosters I have - it only says “99+”. I choose to use my boosters based on how many I have (who doesn’t?). I will be way less inclined to continue playing.",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9959,
+    "negative_probs": 0.0041
+   },
+   "keywords": [
+    "playing",
+    "how",
+    "many"
+   ]
+  },
+  {
+   "review_id": "8185314515",
+   "title": "Sugar crash",
+   "name": "Sugar crash",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "This game is so much fun with my friend playing this game and it is so fun",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9974,
+    "negative_probs": 0.0026
+   },
+   "keywords": [
+    "game",
+    "so",
+    "fun"
+   ]
+  },
+  {
+   "review_id": "8185388923",
+   "title": "Spending money once ensures no fun",
+   "name": "Spending money once ensures no fun",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "I purchased a nice package over the holiday break for fun and by doing so have looped myself into nothing but manipulation fromlack of moves available and further encouragements to separate me from my money, which I will never do again.  What a unfortunate sham for an otherwise awesome game.",
+   "rating": 2,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9962,
+    "negative_probs": 0.0038
+   },
+   "keywords": [
+    "purchased",
+    "nice",
+    "package"
+   ]
+  },
+  {
+   "review_id": "8185478096",
+   "title": "So dumb",
+   "name": "So dumb",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "My game ALWAYS crashes when I’m on a 5 win streak. It always does this in the middle of the game so I always lose a life and all my extras that I get from streaks. Can’t stand it.",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9966,
+    "negative_probs": 0.0034
+   },
+   "keywords": [
+    "game",
+    "always",
+    "My"
+   ]
+  },
+  {
+   "review_id": "8185537271",
+   "title": "Game consistently crashes on BRAND NEW iPhone 13 PRO MAX",
+   "name": "Game consistently crashes on BRAND NEW iPhone 13 PRO MAX",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "It’s one thing for the game to consistently crash. Things happen. It’s another thing for A.) the game to crash on the latest highest end iPhone model.B.) For any boosters, lives or streaks used during the crash to be lost.It’s ridiculous that this keeps occurring, and at the very least I suggest you implement a feature (like many other apps) to recognize a crash and refund any boosters and reinstate any streaks lost from the crash.",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9954,
+    "negative_probs": 0.0046
+   },
+   "keywords": [
+    "crash",
+    "any",
+    "thing"
+   ]
+  },
+  {
+   "review_id": "8185651505",
+   "title": "Draws you in then goes pay to win",
+   "name": "Draws you in then goes pay to win",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "I got this game when some of my friends had it just to pass the time and have a little fun while waiting in lines and whatnot.It was fun at first and was able to pass most levels without power-ups. Those I did have to use I had gained in-game without money just through playing. However, once I got to about level 161, the “difficulty” of the puzzles changed dramatically. What I mean is that they are actively put against you and unless you buy in-game currency or power-ups, you are essentially confined to rolling the dice over and over again until the setup is finally in a favorable-enough position to let you win after having tried on the same puzzle for 20 rounds.From my perspective, it’s clear the game wants to get you dependent on it by giving easier puzzles, and then makes them so impossibly difficult that you are essentially forced to fork out cash to make the game viable again.",
+   "rating": 2,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9942,
+    "negative_probs": 0.0058
+   },
+   "keywords": [
+    "game",
+    "got",
+    "my"
+   ]
+  },
+  {
+   "review_id": "8185692212",
+   "title": "Its okay………….",
+   "name": "Its okay………….",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "This game isn’t horrible However, it won’t load. And also, not a big fan….",
+   "rating": 3,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 0,
+    "sentiment_key": "negative",
+    "positive_probs": 0.3406,
+    "negative_probs": 0.6594
+   },
+   "keywords": [
+    "game",
+    "isn",
+    "horrible"
+   ]
+  },
+  {
+   "review_id": "8185963023",
+   "title": "Very frustrated",
+   "name": "Very frustrated",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "I have been playing this game for a while, and enjoy it.  However, every time there is an update to the app, I lose all of my boosters.  This will be the 3rd time this has happened.  I will probably delete the app now.",
+   "rating": 3,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9972,
+    "negative_probs": 0.0028
+   },
+   "keywords": [
+    "time",
+    "app",
+    "will"
+   ]
+  },
+  {
+   "review_id": "8186081262",
+   "title": "Scam. Very disappointed.",
+   "name": "Scam. Very disappointed.",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "There are some levels that are very hard to pass. It’s not possible unless you buy boosters. I got stuck on the level 1142 and paid my money to pass it! Still didn’t work. If I get to the point when I pay you my money means I want to get over with the level. Like buying a ticket. That’s quite unfair you still don’t let me pass it. Very disappointed and feeling like I’m being scammed. Deleting this game",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9973,
+    "negative_probs": 0.0027
+   },
+   "keywords": [
+    "pass",
+    "level",
+    "my"
+   ]
+  },
+  {
+   "review_id": "8179290141",
+   "title": "Freeze",
+   "name": "Freeze",
+   "date": "2021-12-29",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "I really love playing this game BUT….when I make a purchase for a certain package that pops up during the game, the screen freezes and you need to completely close the game and then reopen if you want to continue to play. You don’t get the package that you paid for. Not cool!",
+   "rating": 3,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9974,
+    "negative_probs": 0.0026
+   },
+   "keywords": [
+    "game",
+    "package",
+    "really"
+   ]
+  },
+  {
+   "review_id": "8179495257",
+   "title": "Candy crush",
+   "name": "Candy crush",
+   "date": "2021-12-29",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "Fantastic game always feel relax and calm while playing it",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9968,
+    "negative_probs": 0.0032
+   },
+   "keywords": [
+    "Fantastic",
+    "game",
+    "always"
+   ]
+  },
+  {
+   "review_id": "8179584485",
+   "title": "Lost all my gold bars",
+   "name": "Lost all my gold bars",
+   "date": "2021-12-29",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "It looks like the game no longer supports AppleId and Facebook?  So my >100 gold bars are all gone.",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.978,
+    "negative_probs": 0.022
+   },
+   "keywords": [
+    "looks",
+    "like",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8179814021",
+   "title": "All about money",
+   "name": "All about money",
+   "date": "2021-12-29",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "I’ve been playing for almost 10 years. I’m on level 10701 and it’s obvious that this game is only about getting players to send money now. I’ve noticed that the episodes are getting pretty ridiculous now. It’s like they only give you and average of 20 moves to beat any level whether it’s labeled hard or not. It’s pretty clear when you get on a level that even with the help of boosters you’ll need more than 20 moves to beat it. Forcing players to spend money on more bars and boosters. I won’t continue playing. It was from n while it lasted",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9976,
+    "negative_probs": 0.0024
+   },
+   "keywords": [
+    "level",
+    "ve",
+    "playing"
+   ]
+  },
+  {
+   "review_id": "8179941142",
+   "title": "Candi Crus",
+   "name": "Candi Crus",
+   "date": "2021-12-29",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "game very bad men, I try to complete level but won’t let me swipe to get the orange thing. very bad i try everything but still won’t work. need fix.",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9918,
+    "negative_probs": 0.0082
+   },
+   "keywords": [
+    "very",
+    "bad",
+    "try"
+   ]
+  },
+  {
+   "review_id": "8179993707",
+   "title": "Don’t play",
+   "name": "Don’t play",
+   "date": "2021-12-29",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "I don’t want to be frustrated with a candy themed game that makes enough through ads. I will never directly pay them for this. People download this to play and destress not feel pushed around by a level created only for the company to make money.",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9934,
+    "negative_probs": 0.0066
+   },
+   "keywords": [
+    "don",
+    "want",
+    "frustrated"
+   ]
+  },
+  {
+   "review_id": "8180236292",
+   "title": "UGH TOO HARD",
+   "name": "UGH TOO HARD",
+   "date": "2021-12-29",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.217.0.3",
+   "text": "THESE LEVELS ARE TOO HARD I HATE THIS GAME",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9629,
+    "negative_probs": 0.0371
+   },
+   "keywords": [
+    "THESE",
+    "LEVELS",
+    "TOO"
+   ]
+  }
+ ],
+ "page_index": 0,
+ "page_num": 309,
+ "prev_page": null,
+ "next_page": "/v1.3/apps/ios/app/553834731/reviews?start_date=2020-01-01&end_date=2021-12-31&version=all&country=US&rating=all&page_index=1&page_size=100&lang=en",
+ "page_size": 100,
+ "code": 200
+}

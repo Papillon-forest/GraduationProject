@@ -1,0 +1,830 @@
+{
+ "product_id": 1094591345,
+ "publisher_id": 1037205060,
+ "product_name": "Pokémon GO",
+ "device": "ios",
+ "publisher_name": "Niantic, Inc.",
+ "reviews": [
+  {
+   "review_id": "8187108244",
+   "name": "I tried to put a username and password but..",
+   "title": "I tried to put a username and password but..",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "I tried to but it couldn’t let me in. I’ve played it before so I still like it.",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9974,
+    "negative_probs": 0.0026
+   },
+   "keywords": [
+    "tried",
+    "but",
+    "couldn"
+   ]
+  },
+  {
+   "review_id": "8187178847",
+   "name": "Very Buggy For Devices Below iPhone X.",
+   "title": "Very Buggy For Devices Below iPhone X.",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "Tonight I decided to redownload the game and when clicking on a Pokémon, the screen glitches on the AR+ notice screen and won’t let me click off of it, plus the sky doesn’t load in for my device. I also have a difficult time seeing as it takes too long to load every Pokémon in my general vicinity. An update to fix this issue would be greatly appreciated, thank you. Still love the game though.",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9948,
+    "negative_probs": 0.0052
+   },
+   "keywords": [
+    "game",
+    "Pok",
+    "mon"
+   ]
+  },
+  {
+   "review_id": "8188555882",
+   "name": "Add more pokestops",
+   "title": "Add more pokestops",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "Really good but a lot of areas where pokestops are you have to drive to and that’s dumb so just add more poke-stops",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9588,
+    "negative_probs": 0.0412
+   },
+   "keywords": [
+    "Really",
+    "good",
+    "but"
+   ]
+  },
+  {
+   "review_id": "8188739533",
+   "name": "Trading",
+   "title": "Trading",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "I really like Pokémon go but when it says trade to evolve you can’t trade that Pokémon back to the original owner.Very stupid and dumb.",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9944,
+    "negative_probs": 0.0056
+   },
+   "keywords": [
+    "Pok",
+    "mon",
+    "trade"
+   ]
+  },
+  {
+   "review_id": "8188818680",
+   "name": "I LOVE THIS GAME                    BEST GAME EVER",
+   "title": "I LOVE THIS GAME                    BEST GAME EVER",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "I like it a lot",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9936,
+    "negative_probs": 0.0064
+   },
+   "keywords": [
+    "like",
+    "lot"
+   ]
+  },
+  {
+   "review_id": "8188913735",
+   "name": "Please make it easier to log on",
+   "title": "Please make it easier to log on",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "I don’t like it because it is so hard to get in so I deleted the app before I even started to play.",
+   "language": null,
+   "rating": 2,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9941,
+    "negative_probs": 0.0059
+   },
+   "keywords": [
+    "so",
+    "don",
+    "like"
+   ]
+  },
+  {
+   "review_id": "8188935655",
+   "name": "The game that asks for too much.",
+   "title": "The game that asks for too much.",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "Although this game can be fun at times, it’s greatest flaws are the pay to play features, and it’s constant demand for you to give it your all. What do I mean by that? Well there are seasonal Pokémon, Pokémon that only come out during certain times of the year and legendaries that come out once or twice one year. Not a year, but once. It makes it difficult for returning players to get back in the grind set. If you miss a community day you may not see that Pokémon again. And if a Pokémon is only exclusive to raids you can only have one free raid a day, so you’re stuck with whichever iv you get. That is unless you pony up the cash to buy another raid pass. Another issue this game is how much internet it demands. I have a iPhone 11, running it at low settings yet CSGO runs at 120 fps on the same internet without lag, but a master league battle buffers for 5 seconds after each charge move. The lag is so bad that it seems to give opponents 3 shields and causes your own shields to fail. The PVP aspect needs to be patched severely. Overall I think I’ll keep the cycle of only installing this game when something interesting happens because frankly this game wants too much from the player, whether or not it’s asking for grind or for money, I’m done supporting this game. Hopefully you’ll make a wise decision and go invest on another game that rewards your time and effort.",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9969,
+    "negative_probs": 0.0031
+   },
+   "keywords": [
+    "game",
+    "Pok",
+    "mon"
+   ]
+  },
+  {
+   "review_id": "8188963007",
+   "name": "MAKE A BLACK HAIRSTYLE",
+   "title": "MAKE A BLACK HAIRSTYLE",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "i’ve been playing pokémon go since 2016 and they still haven’t made a hairstyle that represents mine. my hair isn’t straight!!!",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9856,
+    "negative_probs": 0.0144
+   },
+   "keywords": [
+    "ve",
+    "been",
+    "playing"
+   ]
+  },
+  {
+   "review_id": "8188996627",
+   "name": "AMAZING! Just one thing!",
+   "title": "AMAZING! Just one thing!",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "I am obsessed with Pokémon Go! The only problem is the Pokémon storage. Event Pokémon take up so much space, and are collectable. So I think event Pokémon shouldn’t count as Pokémon. What I mean is i think they shouldn’t take up room in your Pokémon storage! If Niantic could do this, It would be amazing! Please and thank you!",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9969,
+    "negative_probs": 0.0031
+   },
+   "keywords": [
+    "Pok",
+    "mon",
+    "storage"
+   ]
+  },
+  {
+   "review_id": "8189077785",
+   "name": "Tash",
+   "title": "Tash",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "From Carlos",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.6105,
+    "negative_probs": 0.3895
+   },
+   "keywords": [
+    "Carlos"
+   ]
+  },
+  {
+   "review_id": "8189080865",
+   "name": "Access Always",
+   "title": "Access Always",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "Tracking us always isn’t cool nor wise. Not enjoying being sent each time I log in to my settings.",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9801,
+    "negative_probs": 0.0199
+   },
+   "keywords": [
+    "Tracking",
+    "us",
+    "always"
+   ]
+  },
+  {
+   "review_id": "8189394537",
+   "name": "I love this game, let’s make it even better",
+   "title": "I love this game, let’s make it even better",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "This game is extraordinary. I don’t care what people say, I love this, and nothing can change that.",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9795,
+    "negative_probs": 0.0205
+   },
+   "keywords": [
+    "game",
+    "extraordinary",
+    "don"
+   ]
+  },
+  {
+   "review_id": "8189493475",
+   "name": "Add me",
+   "title": "Add me",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "6527 0154 0274",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.6291,
+    "negative_probs": 0.3709
+   },
+   "keywords": [
+    "6527",
+    "0154",
+    "0274"
+   ]
+  },
+  {
+   "review_id": "8189606550",
+   "name": "Worst support crew",
+   "title": "Worst support crew",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "I tried to retrieve an account that I had in which I knew the email,username,and password but it didn’t allow me to login.I showed clear cut proof that I was the owner of the account with video evidence. The support team was slow to respond and didn’t apply anything to the situation they were simply just a fight to stay in contact with on their end. I was given a long list of extremely detailed questions about an account that I had SIX YEARS AGO…ridiculous. The worst part is was the fact that they had no care for your situation and only about doing the minimum they’re required to do and didn’t care that I showed a VIDEO OF ME LOGGING INTO THE ACCOUNT as I was stopped from logging in. This by far is one of the worst support teams I’ve ever had to deal with. I’ve had other really bad experiences with the support team in which I never was given a shiny pokemon that I caught after a raid which i only received a compensation of a raid pass which doesn’t justify for what happened to me. I’m fed up with it.",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.996,
+    "negative_probs": 0.004
+   },
+   "keywords": [
+    "was",
+    "had",
+    "account"
+   ]
+  },
+  {
+   "review_id": "8189649051",
+   "name": "My mom",
+   "title": "My mom",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "My mom is obsessed with this app it’s really crazy",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9774,
+    "negative_probs": 0.0226
+   },
+   "keywords": [
+    "My",
+    "mom",
+    "obsessed"
+   ]
+  },
+  {
+   "review_id": "8189667192",
+   "name": "Really fun game.",
+   "title": "Really fun game.",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "pokémon go has never been a dead game and i’ve been play since the week it came out. it’s really good and has many updates that are good. the reason i rated it 4 stars is because they’re is many hackers in pvp and why is it so hard to get shundos,hundos, and shinys but the game is good and i recommend it",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9989,
+    "negative_probs": 0.0011
+   },
+   "keywords": [
+    "good",
+    "been",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8189761090",
+   "name": "I MADE SO MANY PROGRESS ON POKÉMON GO",
+   "title": "I MADE SO MANY PROGRESS ON POKÉMON GO",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "IT KEEPS ON SAYING THAT MY ACOUNT WILL BE DELETED IN 25 DAY IM NINE YEARS OLD AND ON THE APP STORE IT SAYS 9+ NIANTIC I HATE YOU WHY WHY WHY ONE TIME I WAS ABOUT TO CATCH A LUGIA AND IT KICKED ME OUT AND PLUS IT WAS SHINY WHY WHY WHY WHY WHY WHY WHY WHY WHY WHY WHY WHY WHY WHY WHY WHY",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9971,
+    "negative_probs": 0.0029
+   },
+   "keywords": [
+    "WHY",
+    "WAS",
+    "KEEPS"
+   ]
+  },
+  {
+   "review_id": "8189922264",
+   "name": "Not getting New Years special anything",
+   "title": "Not getting New Years special anything",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "I’m not getting any New Years special that was supposed to start at 10 this morning and it’s 630 and still nothing!! What’s up with it?",
+   "language": null,
+   "rating": 2,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9857,
+    "negative_probs": 0.0143
+   },
+   "keywords": [
+    "getting",
+    "any",
+    "New"
+   ]
+  },
+  {
+   "review_id": "8189930753",
+   "name": "FOMO Game, So fun.  Wait, wait, wait.  Tap, tap, tap.  Spin, spin, spin.",
+   "title": "FOMO Game, So fun.  Wait, wait, wait.  Tap, tap, tap.  Spin, spin, spin.",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "It’s a waiting game and the same stuff over and over. Always waiting for location. Can’t spin in front of a pokestop. Too much work to wait until app finally recognizes where you are. Turns to a spinner yet you can’t spin. Even more wait for raids with 95% no players for 5 star raids. In real life, you look like a dummy standing there all by yourself. They should have stats on who waits the most and who joins the most raid and can’t battle. Trades are a joke. Who wants to trade for bad Pokémon to trash? Adventure sync is a joke. Need to access my location to show how much I walked? It’s already part of the phone. Everyone should have the same access to auto catch and spin without buying those stupid devices.Lost XPs when friends remove you after leveling up.  This is a mess.  Crashes all the time.  Same Pokémon in raids over and over again.",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9934,
+    "negative_probs": 0.0066
+   },
+   "keywords": [
+    "over",
+    "spin",
+    "raids"
+   ]
+  },
+  {
+   "review_id": "8189949936",
+   "name": "Cards are important",
+   "title": "Cards are important",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "Please add an update so you scan your cards to get what’s on it.",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8783,
+    "negative_probs": 0.1217
+   },
+   "keywords": [
+    "Please",
+    "add",
+    "update"
+   ]
+  },
+  {
+   "review_id": "8189951969",
+   "name": "Boring",
+   "title": "Boring",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "The game is growing very tiring the same Pokémon no matter where you go and nothing but low 2*- and mainly 0* especially in the shiny Pokémon area even when hatching Pokémon they're always the same nothing new and yes I am up to date on the updates given for this app.  Makes a person not want to play when it's just a continuous repeat",
+   "language": null,
+   "rating": 2,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9967,
+    "negative_probs": 0.0033
+   },
+   "keywords": [
+    "Pok",
+    "mon",
+    "same"
+   ]
+  },
+  {
+   "review_id": "8189994344",
+   "name": "Sick of the raids",
+   "title": "Sick of the raids",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "So sick of beating the raids and not getting the Pokémon. Doesn’t matter what berries you use or how excellent your throw is. I have beat the same raid 5 times. Landed every ball on the Pokémon with either a great or an excellent shot along with golden berries used. Still won’t stay in the ball. Then you lose your chance to keep him because of it. It’s completely bull crap is what it is. If you beat the raid you should get the Pokémon simple as that. Not going to keep wasting money on something that doesn’t change.",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9945,
+    "negative_probs": 0.0055
+   },
+   "keywords": [
+    "Pok",
+    "mon",
+    "what"
+   ]
+  },
+  {
+   "review_id": "8182894156",
+   "name": "The worst game ever",
+   "title": "The worst game ever",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "I like to catch Pokémon but why does it take all my balls to catch one Pokémon and all my berries the game is trash never get again",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9969,
+    "negative_probs": 0.0031
+   },
+   "keywords": [
+    "catch",
+    "Pok",
+    "mon"
+   ]
+  },
+  {
+   "review_id": "8183105802",
+   "name": "Your game is bad",
+   "title": "Your game is bad",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "Every time I win a 5 ⭐️ star raid the Pokémon gets away 🤬🤬🤬🤬🤬🤬🤬YOUR GAME IS TRASH 🗑",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.939,
+    "negative_probs": 0.061
+   },
+   "keywords": [
+    "Every",
+    "time",
+    "win"
+   ]
+  },
+  {
+   "review_id": "8183123216",
+   "name": "twas good",
+   "title": "twas good",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "twas good",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9922,
+    "negative_probs": 0.0078
+   },
+   "keywords": [
+    "twas",
+    "good"
+   ]
+  },
+  {
+   "review_id": "8183214325",
+   "name": "Fun but progress kind of stops",
+   "title": "Fun but progress kind of stops",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "So I’ve been playing this game for a couple of months now, and overall it’s a pretty good game but, at a certain point you start to lose your poke balls. And the only way to actually get a good amount of poke balls is to pay for them, or go to poke stops. (Which doesn’t usually have a lot anyways) So at that point, you can’t really make much progress without paying.",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9945,
+    "negative_probs": 0.0055
+   },
+   "keywords": [
+    "poke",
+    "So",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8183565933",
+   "name": "Amazing",
+   "title": "Amazing",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "This is just honestly a very good game and it’s almost endless",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9895,
+    "negative_probs": 0.0105
+   },
+   "keywords": [
+    "just",
+    "honestly",
+    "very"
+   ]
+  },
+  {
+   "review_id": "8183707422",
+   "name": "Isaac’s report",
+   "title": "Isaac’s report",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "(Speechless)",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5836,
+    "negative_probs": 0.4164
+   },
+   "keywords": [
+    "Speechless"
+   ]
+  },
+  {
+   "review_id": "8184093843",
+   "name": "ARE YOU KIDDING?!?!?!?!?!",
+   "title": "ARE YOU KIDDING?!?!?!?!?!",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "WHEN ARE YOU GOING TO OPEN YOUR EYES, AND UNDERSTAND WHAT WE ARE SAYING?!?!?!?!?!?!?! YOU AREN’T IMPROVING OR DOING A THING TO MAKE THIS APP BETTER, YOUR’E BEING PATHETICALLY LAZY!!!!!!!!!!!!!! YOU IDIOTS!!!!!!!!!!!!!! YOU STUPID MORONS!!!!!!!!!!!!!! I’VE HAD IT WITH YOU, LAZY, IDIOTIC JERKS!!!!!!!!!!!!!! YOU HAVEN’T FIXED A THING!!!!!!!!!!!!!! I HATE YOU!!!!!!!!!!!!!! I HATE YOU!!!!!!!!!!!!!! I HATE YOU!!!!!!!!!!!!!! I HATE YOU!!!!!!!!!!!!!! FIX THIS STUPID, AWFUL, BAD, TERRIBLE, STUPID APP!!!!!!!!!!!!!! YOU ARE ALWAYS PLACING POKÉMON THAT ALWAYS HAVE THE TYPE ADVANTAGE OVER MINE IN THIS STUPID BATTLE LEAGUE!!!!!!!!!!!!!! YOU GUYS AT NIANTIC JUST DON’T CARE AT ALL WHAT ME AND OTHERS ARE SAYING!!!!!!!!!!!!!! TERRIBLE CUSTOMER SUPPORT AND SERVICE!!!!!!!!!!!!!! WAKE UP!!!!!!!!!!!!!! FIX THE AWFUL BATTLE LEAGUE!!!!!!!!!!!!!! THERE IS A NEW VARIANT OF THE VIRUS OUT THERE, AND YOU GUYS WANT US TO GET EXPOSED!!!!!!!!!!!!!! THE GOD AWFUL BATTLE LEAGUE IS RIGGED AS WELL, AS WELL AS TOO MANY POKÉMON RUNNING AWAY, TOO MANY POKÉMON TOO WEAK TO BATTLE WHEN WE CATCH THEM!!!!!!!!!!!!!! THE BATTLE LEAGUE ALWAYS PUTS ME AND BATTLE WITH STUPID COMPUTER CONTROLLED TRAINERS WITH TOO MANY OVERLY POWERFUL POKÉMON INCLUDING LEGENDARIES!!!!!!!!!!!!!! ENOUGH OF THE RIGGED LEAGUE LOSES!!!!!!!!!!!!!! STOP IT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! I’M SICK AND TIRED OF ALWAYS BEING STUCK ON LEVEL 20 IN THE PATHETIC, DUMB BATTLE LEAGUE!!!!!!!!!!!!!! FIX THE CRASHES!!!!!!!!!!!!!! INCLUDING COMMUNITY DAYS AND EVENTS THAT COST MONEY!!!!!!!!!!!!!! YOU NIANTIC PEOPLE ARE GREEDY!!!!!!!!!!!!!! GREEDY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!FIX THE BATTLE LEAGUE AND THINGS PEOPLE HERE ARE COMPLAINING ABOUT!!!!!!!!!!!!!! I’M SICK OF THESE IDIOTIC LOSES!!!!!!!!!!!!!! REMOVE THE CHEATERS IN THE BATTLE LEAGUE, OR REMOVE IT!!!!!!!!!!!!!! YOU NIANTIC JERKS!!!!!!!!!!!!!! YOU AWFUL, TERRIBLE COMPANY, DO YOUR JOBS!!!!!!!!!!!!!! IF NOT, YOU HAVE DESTROYED MY INTEREST IN THIS AWFUL APP!!!!!!!!!!!!!! YOU PEOPLE AT NIANTIC A PATHETIC DISGRACE TO SUCH A PATHETIC APP!!!!!!!!!!!!!!😡😡😡😡😡😡😡😡😡😡😡😡😡😡🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9949,
+    "negative_probs": 0.0051
+   },
+   "keywords": [
+    "BATTLE",
+    "LEAGUE",
+    "STUPID"
+   ]
+  },
+  {
+   "review_id": "8184911989",
+   "name": "Game",
+   "title": "Game",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "Okay",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5279,
+    "negative_probs": 0.4721
+   },
+   "keywords": [
+    "Okay"
+   ]
+  },
+  {
+   "review_id": "8184924731",
+   "name": "Game",
+   "title": "Game",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "Okay",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5279,
+    "negative_probs": 0.4721
+   },
+   "keywords": [
+    "Okay"
+   ]
+  },
+  {
+   "review_id": "8185215783",
+   "name": "Need more potions",
+   "title": "Need more potions",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "This is a great game but there is not enough ways to get potions. The only consistent way to get them is raids but you usually don’t do raids often.",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9624,
+    "negative_probs": 0.0376
+   },
+   "keywords": [
+    "but",
+    "get",
+    "raids"
+   ]
+  },
+  {
+   "review_id": "8185230195",
+   "name": "Suggested Improvements",
+   "title": "Suggested Improvements",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "0.191.3",
+   "text": "- add a way to record your battles- add features for car passengers (that’s where I play it the most) [possibly include a way to verify that you are a passenger)- lower the prices in the store OR provide more ways to earn coins [ex: 1 coin=1 battle victory]- raise the daily limit of poke coins you can obtain from gyms in a day - add a feature that will track the distance traveled in a car (maybe have a locked mode where it tracks the distance but only counts 1/2 or 3/4 of that distance towards your buddy Pokémon.)- add ways to battle wild Pokémon to improve the max cp/level/hp of the Pokémon used (like in the Pokémon games on a Nintendo DS)",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9958,
+    "negative_probs": 0.0042
+   },
+   "keywords": [
+    "add",
+    "Pok",
+    "mon"
+   ]
+  }
+ ],
+ "page_index": 0,
+ "page_num": 1142,
+ "prev_page": null,
+ "next_page": "/v1.3/apps/ios/app/1094591345/reviews?start_date=2020-01-01&end_date=2021-12-31&version=all&country=US&rating=all&page_index=1&page_size=100&lang=en",
+ "page_size": 100,
+ "code": 200
+}

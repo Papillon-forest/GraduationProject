@@ -1,0 +1,925 @@
+{
+ "product_id": 420009108,
+ "publisher_id": 284899742,
+ "product_name": "Temple Run",
+ "device": "ios",
+ "publisher_name": "Imangi Studios, LLC",
+ "reviews": [
+  {
+   "review_id": "8186382668",
+   "name": "Temple run",
+   "title": "Temple run",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "Very nostalgic and fun",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9934,
+    "negative_probs": 0.0066
+   },
+   "keywords": [
+    "Very",
+    "nostalgic",
+    "fun"
+   ]
+  },
+  {
+   "review_id": "8188076700",
+   "name": "Too Many Ads",
+   "title": "Too Many Ads",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "text": "PlayerPro23 was right in their review, but they gave 4 stars. I’ll give it *3*. When you fail, the game asks if you want to watch an ad to keep going where you left off or just end. Despite this, they will still show you the same ad when if click “no”. I understand that ads help pay for the game and what not, but this game is (or was, it has been 10 years since this game came out) very popular. You’d think with enough downloads, and everyone watching the occasional ad, it would suffice. I’d say it’s borderline greedy to get the consumer to watch an ad every time they end the game, regardless of if they want to keep going or not. I’ll definitely only be playing one round at a time, and I’ll just close it when I fail lol. Only solution 🤷🏼‍♀️",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9978,
+    "negative_probs": 0.0022
+   },
+   "keywords": [
+    "game",
+    "they",
+    "ad"
+   ]
+  },
+  {
+   "review_id": "8184937661",
+   "name": "Game",
+   "title": "Game",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "text": "Okay",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5279,
+    "negative_probs": 0.4721
+   },
+   "keywords": [
+    "Okay"
+   ]
+  },
+  {
+   "review_id": "8186085527",
+   "name": "Exelente juego",
+   "title": "Exelente juego",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "Muy divertido y adictivo",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.7578,
+    "negative_probs": 0.2422
+   },
+   "keywords": [
+    "Muy",
+    "divertido",
+    "adictivo"
+   ]
+  },
+  {
+   "review_id": "8180977702",
+   "name": "My review",
+   "title": "My review",
+   "date": "2021-12-29",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "This game is moderately good it’s very challenging but fun to play at the same time I wish their were levels instead of running the whole thing over again when you die",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9975,
+    "negative_probs": 0.0025
+   },
+   "keywords": [
+    "game",
+    "moderately",
+    "good"
+   ]
+  },
+  {
+   "review_id": "8181069944",
+   "name": "App",
+   "title": "App",
+   "date": "2021-12-29",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "text": "Okay",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5279,
+    "negative_probs": 0.4721
+   },
+   "keywords": [
+    "Okay"
+   ]
+  },
+  {
+   "review_id": "8181150779",
+   "name": "It is okay",
+   "title": "It is okay",
+   "date": "2021-12-29",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "text": "I hate the game but I love the game can you put new people on the game i.     DON’T LIKE being a boy",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.999,
+    "negative_probs": 0.001
+   },
+   "keywords": [
+    "game",
+    "hate",
+    "but"
+   ]
+  },
+  {
+   "review_id": "8181190857",
+   "name": "App",
+   "title": "App",
+   "date": "2021-12-29",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "text": "Okay",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5279,
+    "negative_probs": 0.4721
+   },
+   "keywords": [
+    "Okay"
+   ]
+  },
+  {
+   "review_id": "8181710473",
+   "name": "Wanna know a thing",
+   "title": "Wanna know a thing",
+   "date": "2021-12-29",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "This is awesome! Just one thing… how long does each level take?",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9463,
+    "negative_probs": 0.0537
+   },
+   "keywords": [
+    "awesome",
+    "Just",
+    "thing"
+   ]
+  },
+  {
+   "review_id": "8181737616",
+   "name": "Full of ads",
+   "title": "Full of ads",
+   "date": "2021-12-29",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "text": "I used to love this game. It can be very addicting and challenging! They had a great idea, but now there are pop up ads all the time. I would be willing to pay a fee for the game to rid myself of useless ads that just make me leave the game and remove the app from my phone, but they don’t even give us that choice. Until they fix this, if ever, don’t waste your time. What a pity and bad move on their part.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9955,
+    "negative_probs": 0.0045
+   },
+   "keywords": [
+    "game",
+    "but",
+    "ads"
+   ]
+  },
+  {
+   "review_id": "8181925249",
+   "name": "Too many advertisements",
+   "title": "Too many advertisements",
+   "date": "2021-12-29",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "text": "Too many advertisements, can’t even play the game because every time I die I have to watch a advertisement for 2 minutes.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9846,
+    "negative_probs": 0.0154
+   },
+   "keywords": [
+    "Too",
+    "many",
+    "advertisements"
+   ]
+  },
+  {
+   "review_id": "8176368198",
+   "name": "Temple run",
+   "title": "Temple run",
+   "date": "2021-12-28",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "text": "They’ve ruined a perfectly great game with all the pop up ads. STOP THE ADS! Games like this you have to get into your rhythm to get a good score. Impossible to do when you’re forced to watch endless ads for games you don’t want.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9862,
+    "negative_probs": 0.0138
+   },
+   "keywords": [
+    "ads",
+    "get",
+    "They"
+   ]
+  },
+  {
+   "review_id": "8176522656",
+   "name": "Ads",
+   "title": "Ads",
+   "date": "2021-12-28",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "text": "I understand a game has to have ads to remain free, and I also understand that there is an option to pay and remove the ads, but I have deleted the game due to the fact that for every game play, you are subjected to 30 seconds worth of ads afterwards. There has to be a balance somewhere between effective ads, and just plain annoyance, especially for a game that is past it’s prime and is no longer as prevalent as it once was. This would be an awesome application if not for the overbearance of ads a player is subjected to.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9947,
+    "negative_probs": 0.0053
+   },
+   "keywords": [
+    "ads",
+    "game",
+    "understand"
+   ]
+  },
+  {
+   "review_id": "8177908800",
+   "name": "Ads on Ads on Ads on Ads",
+   "title": "Ads on Ads on Ads on Ads",
+   "date": "2021-12-28",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 2,
+   "country": "US",
+   "text": "This game has so many ads that the game is not enjoyable anymore. It is also worse than it was a couple of years ago. Wouldn’t recommend anymore.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9796,
+    "negative_probs": 0.0204
+   },
+   "keywords": [
+    "game",
+    "anymore",
+    "so"
+   ]
+  },
+  {
+   "review_id": "8172257453",
+   "name": "ADS",
+   "title": "ADS",
+   "date": "2021-12-27",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "text": "Omg so many ads… and long ones at that. Why?",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 0,
+    "sentiment_key": "negative",
+    "positive_probs": 0.1594,
+    "negative_probs": 0.8406
+   },
+   "keywords": [
+    "Omg",
+    "so",
+    "many"
+   ]
+  },
+  {
+   "review_id": "8172722402",
+   "name": "I like it but so many glitches!",
+   "title": "I like it but so many glitches!",
+   "date": "2021-12-27",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "text": "I loved this as a kid. I’m love to see old and memorable games for me. But half the time I do the controls, do something else!!!! I can’t get very far if I can’t do the game if the controls don’t work!!!! I love it but actually do what I want. If I say slide don’t jump!!!!!",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9957,
+    "negative_probs": 0.0043
+   },
+   "keywords": [
+    "do",
+    "love",
+    "controls"
+   ]
+  },
+  {
+   "review_id": "8168014153",
+   "name": "Awful",
+   "title": "Awful",
+   "date": "2021-12-25",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "text": "Ads are horrendous. Shame. No more respect for this greed and intrusion. Would give 0/5 if possible. Ruined.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9716,
+    "negative_probs": 0.0284
+   },
+   "keywords": [
+    "Ads",
+    "horrendous",
+    "Shame"
+   ]
+  },
+  {
+   "review_id": "8163990595",
+   "name": "lost jungle monsters",
+   "title": "lost jungle monsters",
+   "date": "2021-12-24",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "gold",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.6522,
+    "negative_probs": 0.3478
+   },
+   "keywords": [
+    "gold"
+   ]
+  },
+  {
+   "review_id": "8159050107",
+   "name": "NateTheGreatGaming",
+   "title": "NateTheGreatGaming",
+   "date": "2021-12-23",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "You are the best",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9941,
+    "negative_probs": 0.0059
+   },
+   "keywords": [
+    "best"
+   ]
+  },
+  {
+   "review_id": "8160574764",
+   "name": "Cr",
+   "title": "Cr",
+   "date": "2021-12-23",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "Dis boi b trippin",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 0,
+    "sentiment_key": "negative",
+    "positive_probs": 0.4924,
+    "negative_probs": 0.5076
+   },
+   "keywords": [
+    "Dis",
+    "boi",
+    "trippin"
+   ]
+  },
+  {
+   "review_id": "8155104124",
+   "name": "Ehhhh…",
+   "title": "Ehhhh…",
+   "date": "2021-12-21",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "text": "Too many ads. To many unresponsive events, when you have plenty of time, jump, but no jump happens. Then you die and have to watch another couple ads, which never seem to end. I’m out.And now I can’t post a review until I find an unused nickname! How about Thisgamesucks for a nickname? Oh. It’s taken! Hah!",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9958,
+    "negative_probs": 0.0042
+   },
+   "keywords": [
+    "many",
+    "ads",
+    "jump"
+   ]
+  },
+  {
+   "review_id": "8149245918",
+   "name": "so great!",
+   "title": "so great!",
+   "date": "2021-12-20",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "this game is so nice that i will not foget it!",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9934,
+    "negative_probs": 0.0066
+   },
+   "keywords": [
+    "game",
+    "so",
+    "nice"
+   ]
+  },
+  {
+   "review_id": "8151321349",
+   "name": "I hate it",
+   "title": "I hate it",
+   "date": "2021-12-20",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "text": "The old one was better than the new one. There are more ads and it’s stupid.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9935,
+    "negative_probs": 0.0065
+   },
+   "keywords": [
+    "old",
+    "was",
+    "better"
+   ]
+  },
+  {
+   "review_id": "8144804684",
+   "name": "Game",
+   "title": "Game",
+   "date": "2021-12-19",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "text": "Not fun",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.6105,
+    "negative_probs": 0.3895
+   },
+   "keywords": [
+    "fun"
+   ]
+  },
+  {
+   "review_id": "8145309546",
+   "name": "4 1/2",
+   "title": "4 1/2",
+   "date": "2021-12-19",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "text": "would be a 5 if you could mute the game , i sometimes like to listen to music and play",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9901,
+    "negative_probs": 0.0099
+   },
+   "keywords": [
+    "would",
+    "could",
+    "mute"
+   ]
+  },
+  {
+   "review_id": "8147534250",
+   "name": "Like it",
+   "title": "Like it",
+   "date": "2021-12-19",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "It’s good",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9964,
+    "negative_probs": 0.0036
+   },
+   "keywords": [
+    "good"
+   ]
+  },
+  {
+   "review_id": "8141573590",
+   "name": "It is the best game to play",
+   "title": "It is the best game to play",
+   "date": "2021-12-18",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "I think it is the best game ever in the world",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9989,
+    "negative_probs": 0.0011
+   },
+   "keywords": [
+    "think",
+    "best",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8130854553",
+   "name": "Temple run is going down hill",
+   "title": "Temple run is going down hill",
+   "date": "2021-12-15",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 2,
+   "country": "US",
+   "text": "Game use to be fun. I use to play it all of the time. Re downloaded a few months ago and the game was alright. I downloaded again recently, and they did away with the menu where everything was organized. Can’t change coins, can’t easily navigate around where artifacts are, what characters you’re using. Game is a lot more laggy then when I downloaded it a few months ago. Game was doing great and moving forward a few months ago. Whatever they did here is just ruining the game. The ads can be annoying, but the people complaining about the ads aren’t the brightest. Just turn your phone on airplane mode. It’s a shame that has to be done, but whatever. Look into brining back the menu, and the customization options into the game. Game lacks the ability to stay entertained like it did in the past. I’ll play it for now, but I’m not impressed.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9957,
+    "negative_probs": 0.0043
+   },
+   "keywords": [
+    "Game",
+    "downloaded",
+    "few"
+   ]
+  },
+  {
+   "review_id": "8130915703",
+   "name": "Ads get frustrating",
+   "title": "Ads get frustrating",
+   "date": "2021-12-15",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "Great app… one thing is that when you are online ads pop up like crazy. Offline it’s AWSOME but…",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9914,
+    "negative_probs": 0.0086
+   },
+   "keywords": [
+    "Great",
+    "app",
+    "thing"
+   ]
+  },
+  {
+   "review_id": "8131313259",
+   "name": "Yo mama",
+   "title": "Yo mama",
+   "date": "2021-12-15",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "This is game is so good it equals up to chicken nuggets finally being done and taking a bite out of one",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9916,
+    "negative_probs": 0.0084
+   },
+   "keywords": [
+    "game",
+    "so",
+    "good"
+   ]
+  },
+  {
+   "review_id": "8130615722",
+   "name": "Nah",
+   "title": "Nah",
+   "date": "2021-12-14",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "text": "Nope… not doing it",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5702,
+    "negative_probs": 0.4298
+   },
+   "keywords": [
+    "Nope",
+    "doing"
+   ]
+  },
+  {
+   "review_id": "8122721463",
+   "name": "Not anymore",
+   "title": "Not anymore",
+   "date": "2021-12-12",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "text": "It used to be my favorite game, but overtime, the map changed and I don’t like temple run anymore. The older map had zip lines, and tunnels, and rivers to go through, and everything was in the air which was fun. And there used to be 1 monster and now there are six. I hope that the map can come back and it will be enjoyable. Please bring it back.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9963,
+    "negative_probs": 0.0037
+   },
+   "keywords": [
+    "map",
+    "used",
+    "was"
+   ]
+  },
+  {
+   "review_id": "8122861436",
+   "name": "How good they are",
+   "title": "How good they are",
+   "date": "2021-12-12",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "I love there game",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9733,
+    "negative_probs": 0.0267
+   },
+   "keywords": [
+    "love",
+    "there",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8123819246",
+   "name": "I love it",
+   "title": "I love it",
+   "date": "2021-12-12",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "I find this game incredibly fun and it’s design is on point!",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9927,
+    "negative_probs": 0.0073
+   },
+   "keywords": [
+    "find",
+    "game",
+    "incredibly"
+   ]
+  },
+  {
+   "review_id": "8119454729",
+   "name": "Game",
+   "title": "Game",
+   "date": "2021-12-11",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "text": "This game is definitely not that easy but it’s a no Internet game so it’s really fun to play in the car",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.992,
+    "negative_probs": 0.008
+   },
+   "keywords": [
+    "game",
+    "definitely",
+    "easy"
+   ]
+  },
+  {
+   "review_id": "8109714723",
+   "name": "Too many ads",
+   "title": "Too many ads",
+   "date": "2021-12-09",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "text": "Reinstalled after years of not playing comes to find there’s ad after ad even when you select no ad they make you watch an ad ridiculous",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 0,
+    "sentiment_key": "negative",
+    "positive_probs": 0.2561,
+    "negative_probs": 0.7439
+   },
+   "keywords": [
+    "ad",
+    "after",
+    "Reinstalled"
+   ]
+  },
+  {
+   "review_id": "8110240704",
+   "name": "Glitch in controls",
+   "title": "Glitch in controls",
+   "date": "2021-12-09",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.19.1",
+   "language": null,
+   "rating": 2,
+   "country": "US",
+   "text": "Since 12/6/21 when with added holiday scene, the tilting does not work in any of the scenic modes.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9738,
+    "negative_probs": 0.0262
+   },
+   "keywords": [
+    "Since",
+    "12",
+    "21"
+   ]
+  }
+ ],
+ "page_index": 0,
+ "page_num": 30,
+ "prev_page": null,
+ "next_page": "/v1.3/apps/ios/app/420009108/reviews?start_date=2020-01-01&end_date=2021-12-31&version=all&country=US&rating=all&page_index=1&page_size=100&lang=en",
+ "page_size": 100,
+ "code": 200
+}

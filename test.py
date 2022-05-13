@@ -7,7 +7,9 @@ from pprint import pprint
 
 import jieba.posseg
 import nltk
+import numpy as np
 import requests
+import scipy
 import wordcloud as wordcloud
 from matplotlib import pyplot as plt
 from nltk import word_tokenize
@@ -28,6 +30,7 @@ from nltk import word_tokenize
 # test_set=set(list_old)
 # list_distinct=list(test_set)
 # pprint(list_distinct)
+from scipy.optimize import curve_fit, fsolve, root
 
 from textblob import TextBlob
 
@@ -133,7 +136,7 @@ from textblob import TextBlob
 # plt.axis("off")
 # plt.show()
 
-# filename = 'datasets/data-ai_Intelligence_Single_table_report_2021-01-01_2022-01-31.csv'
+# filename = 'datasets/2021_Subway Surfers_retention.csv'
 # with open(filename,'r') as f:
 #     reader = csv.reader(f)
 #     header_row = next(reader)
@@ -153,14 +156,90 @@ from textblob import TextBlob
 #
 # # pprint(dates)
 #
-# filename = 'datasets/Retention_Subway Surfers.csv'
+# filename = 'datasets/All_Subway Surfers_retention.csv'
 # with open(filename,'w') as f:
 #     writer=csv.writer(f)
 #     writer.writerow(['Retention Days','Start Date','End Date','User Retention'])
 #     writer.writerows(dates)
-date='2021-01-01'
-d='2'
-date_temp=datetime.datetime.strptime(date, "%Y-%m-%d")
-dela=datetime.timedelta(days=1)
-data_new= datetime.date(date_temp.year, date_temp.month, date_temp.day)+dela*float(d)
-print(data_new)
+# date='2021-01-01'
+# d='2'
+# date_temp=datetime.datetime.strptime(date, "%Y-%m-%d")
+# dela=datetime.timedelta(days=1)
+# data_new= datetime.date(date_temp.year, date_temp.month, date_temp.day)+dela*float(d)
+# # print(data_new)
+# str='100.00%'
+# str=str.replace('%','')
+# print(float(str))
+
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn import linear_model, datasets
+
+#
+# from paints import read_csv
+#
+# read = read_csv('datasets/All_Subway Surfers_retention.csv')
+# header_now = next(read)
+# x = []
+# y = []
+# x_date = [1, 2, 3, 4, 5, 6, 7, 8, 15, 31]
+# y_rate = []
+# # print(x_date)
+# for row in read:
+#     y_temp = float(row[3].replace('%', '')) / 100
+#
+#     y.append(y_temp)
+#
+# for y in y[:10]:
+#     y_rate.append(y)
+# pprint(y_rate)
+# x_train = np.array(x_date)
+# y_train = np.array(y_rate)
+#
+# pprint(x_train)
+#
+#
+# def func_power(x, a, b):
+#     return x ** a + b
+#
+#
+# popt, pcov = curve_fit(func_power, x_date, y_rate)
+# pprint(popt)
+# x1 = range(1, 32)
+# y1 = [func_power(i, popt[0], popt[1]) for i in x1]
+# plt.scatter(x_date, y_rate, color="Blue")
+# plt.scatter(x1, y1, color='Red')
+# plt.show()
+
+# def func(i):
+#     a, b = i[0], i[1]
+#     return [
+#         x_date[0] ** a + b - y_rate[0],
+#         x_date[1] ** a + b - y_rate[1],
+#         x_date[2] ** a + b - y_rate[2],
+#         x_date[3] ** a + b - y_rate[3],
+#         x_date[4] ** a + b - y_rate[4],
+#         x_date[5] ** a + b - y_rate[5],
+#         x_date[6] ** a + b - y_rate[6],
+#         x_date[7] ** a + b - y_rate[7],
+#         x_date[8] ** a + b - y_rate[8],
+#         x_date[9] ** a + b - y_rate[9]
+#     ]
+#
+#
+# result = root(func, np.array([0, 0]), method='lm')
+# print(result.x)
+# housing_data=datasets.load_boston()
+# pprint(housing_data.data[0])
+
+# for i in range(0,140,10):
+#     print(i,i+10)
+
+# f = open("datasets/Reviews_Subway Surfers_all.json", "r", encoding='utf-8')
+# str = f.read()
+# pprint(str)
+# str.replace('1', ',')
+# pprint(str)
+x=[1,2,3,4,5,6,7,8]
+x=np.array(x).reshape(-1,1)
+pprint(x)
+pprint(x[:,0])

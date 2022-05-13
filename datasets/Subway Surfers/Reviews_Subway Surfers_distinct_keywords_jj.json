@@ -1,0 +1,12576 @@
+{
+ "5": [
+  {
+   "keywords": "good",
+   "counts": 7241
+  },
+  {
+   "keywords": "fun",
+   "counts": 5459
+  },
+  {
+   "keywords": "s",
+   "counts": 4982
+  },
+  {
+   "keywords": "’",
+   "counts": 4846
+  },
+  {
+   "keywords": "great",
+   "counts": 4689
+  },
+  {
+   "keywords": "much",
+   "counts": 4010
+  },
+  {
+   "keywords": "new",
+   "counts": 3076
+  },
+  {
+   "keywords": "awesome",
+   "counts": 2145
+  },
+  {
+   "keywords": "other",
+   "counts": 1843
+  },
+  {
+   "keywords": "cool",
+   "counts": 1819
+  },
+  {
+   "keywords": "amazing",
+   "counts": 1602
+  },
+  {
+   "keywords": "little",
+   "counts": 1593
+  },
+  {
+   "keywords": "many",
+   "counts": 1420
+  },
+  {
+   "keywords": "old",
+   "counts": 1318
+  },
+  {
+   "keywords": "m",
+   "counts": 1209
+  },
+  {
+   "keywords": "happy",
+   "counts": 1154
+  },
+  {
+   "keywords": "free",
+   "counts": 1122
+  },
+  {
+   "keywords": "t",
+   "counts": 1119
+  },
+  {
+   "keywords": "i",
+   "counts": 1087
+  },
+  {
+   "keywords": "favorite",
+   "counts": 1042
+  },
+  {
+   "keywords": "subway",
+   "counts": 1022
+  },
+  {
+   "keywords": "different",
+   "counts": 1007
+  },
+  {
+   "keywords": "ve",
+   "counts": 945
+  },
+  {
+   "keywords": "Good",
+   "counts": 920
+  },
+  {
+   "keywords": "high",
+   "counts": 914
+  },
+  {
+   "keywords": "u",
+   "counts": 904
+  },
+  {
+   "keywords": "long",
+   "counts": 835
+  },
+  {
+   "keywords": "super",
+   "counts": 821
+  },
+  {
+   "keywords": "bad",
+   "counts": 797
+  },
+  {
+   "keywords": "easy",
+   "counts": 795
+  },
+  {
+   "keywords": "nice",
+   "counts": 780
+  },
+  {
+   "keywords": "Great",
+   "counts": 735
+  },
+  {
+   "keywords": "only",
+   "counts": 718
+  },
+  {
+   "keywords": "first",
+   "counts": 685
+  },
+  {
+   "keywords": "few",
+   "counts": 672
+  },
+  {
+   "keywords": "hard",
+   "counts": 597
+  },
+  {
+   "keywords": "same",
+   "counts": 590
+  },
+  {
+   "keywords": "whole",
+   "counts": 435
+  },
+  {
+   "keywords": "such",
+   "counts": 427
+  },
+  {
+   "keywords": "addictive",
+   "counts": 421
+  },
+  {
+   "keywords": "entertaining",
+   "counts": 412
+  },
+  {
+   "keywords": "ur",
+   "counts": 409
+  },
+  {
+   "keywords": "real",
+   "counts": 403
+  },
+  {
+   "keywords": "update",
+   "counts": 395
+  },
+  {
+   "keywords": "mobile",
+   "counts": 353
+  },
+  {
+   "keywords": "re",
+   "counts": 352
+  },
+  {
+   "keywords": "ll",
+   "counts": 349
+  },
+  {
+   "keywords": "classic",
+   "counts": 330
+  },
+  {
+   "keywords": "last",
+   "counts": 325
+  },
+  {
+   "keywords": "addicting",
+   "counts": 313
+  },
+  {
+   "keywords": "own",
+   "counts": 310
+  },
+  {
+   "keywords": "sad",
+   "counts": 306
+  },
+  {
+   "keywords": "wrong",
+   "counts": 298
+  },
+  {
+   "keywords": "able",
+   "counts": 293
+  },
+  {
+   "keywords": "sure",
+   "counts": 280
+  },
+  {
+   "keywords": "Awesome",
+   "counts": 277
+  },
+  {
+   "keywords": "perfect",
+   "counts": 273
+  },
+  {
+   "keywords": "overall",
+   "counts": 269
+  },
+  {
+   "keywords": "original",
+   "counts": 257
+  },
+  {
+   "keywords": "boring",
+   "counts": 251
+  },
+  {
+   "keywords": "slow",
+   "counts": 232
+  },
+  {
+   "keywords": "next",
+   "counts": 230
+  },
+  {
+   "keywords": "interesting",
+   "counts": 229
+  },
+  {
+   "keywords": "big",
+   "counts": 207
+  },
+  {
+   "keywords": "single",
+   "counts": 203
+  },
+  {
+   "keywords": "ninja",
+   "counts": 198
+  },
+  {
+   "keywords": "true",
+   "counts": 196
+  },
+  {
+   "keywords": "im",
+   "counts": 195
+  },
+  {
+   "keywords": "don",
+   "counts": 190
+  },
+  {
+   "keywords": "couple",
+   "counts": 187
+  },
+  {
+   "keywords": "simple",
+   "counts": 186
+  },
+  {
+   "keywords": "everyday",
+   "counts": 182
+  },
+  {
+   "keywords": "Other",
+   "counts": 179
+  },
+  {
+   "keywords": "second",
+   "counts": 174
+  },
+  {
+   "keywords": "enjoyable",
+   "counts": 171
+  },
+  {
+   "keywords": "beautiful",
+   "counts": 169
+  },
+  {
+   "keywords": "funny",
+   "counts": 166
+  },
+  {
+   "keywords": "wonderful",
+   "counts": 165
+  },
+  {
+   "keywords": "special",
+   "counts": 163
+  },
+  {
+   "keywords": "top",
+   "counts": 161
+  },
+  {
+   "keywords": "daily",
+   "counts": 157
+  },
+  {
+   "keywords": "fine",
+   "counts": 155
+  },
+  {
+   "keywords": "Amazing",
+   "counts": 153
+  },
+  {
+   "keywords": "multiple",
+   "counts": 148
+  },
+  {
+   "keywords": "y",
+   "counts": 146
+  },
+  {
+   "keywords": "bored",
+   "counts": 144
+  },
+  {
+   "keywords": "endless",
+   "counts": 143
+  },
+  {
+   "keywords": "crazy",
+   "counts": 141
+  },
+  {
+   "keywords": "like",
+   "counts": 139
+  },
+  {
+   "keywords": "busy",
+   "counts": 134
+  },
+  {
+   "keywords": "Overall",
+   "counts": 131
+  },
+  {
+   "keywords": "glad",
+   "counts": 129
+  },
+  {
+   "keywords": "girl",
+   "counts": 127
+  },
+  {
+   "keywords": "stop",
+   "counts": 124
+  },
+  {
+   "keywords": "creative",
+   "counts": 122
+  },
+  {
+   "keywords": "please",
+   "counts": 122
+  },
+  {
+   "keywords": "small",
+   "counts": 121
+  },
+  {
+   "keywords": "mad",
+   "counts": 120
+  },
+  {
+   "keywords": "past",
+   "counts": 118
+  },
+  {
+   "keywords": "quick",
+   "counts": 115
+  },
+  {
+   "keywords": "sorry",
+   "counts": 113
+  },
+  {
+   "keywords": "THIS",
+   "counts": 112
+  },
+  {
+   "keywords": "worth",
+   "counts": 112
+  },
+  {
+   "keywords": "extra",
+   "counts": 110
+  },
+  {
+   "keywords": "rid",
+   "counts": 106
+  },
+  {
+   "keywords": "AMAZING",
+   "counts": 106
+  },
+  {
+   "keywords": "entire",
+   "counts": 106
+  },
+  {
+   "keywords": "lol",
+   "counts": 106
+  },
+  {
+   "keywords": "d",
+   "counts": 105
+  },
+  {
+   "keywords": "Nice",
+   "counts": 102
+  },
+  {
+   "keywords": "münchen",
+   "counts": 102
+  },
+  {
+   "keywords": "offline",
+   "counts": 100
+  },
+  {
+   "keywords": "fantastic",
+   "counts": 99
+  },
+  {
+   "keywords": "young",
+   "counts": 98
+  },
+  {
+   "keywords": "limited",
+   "counts": 97
+  },
+  {
+   "keywords": "GREAT",
+   "counts": 97
+  },
+  {
+   "keywords": "na",
+   "counts": 95
+  },
+  {
+   "keywords": "weird",
+   "counts": 92
+  },
+  {
+   "keywords": "possible",
+   "counts": 90
+  },
+  {
+   "keywords": "challenging",
+   "counts": 88
+  },
+  {
+   "keywords": "dumb",
+   "counts": 88
+  },
+  {
+   "keywords": "pretty",
+   "counts": 86
+  },
+  {
+   "keywords": "expensive",
+   "counts": 84
+  },
+  {
+   "keywords": "ok",
+   "counts": 81
+  },
+  {
+   "keywords": "nostalgic",
+   "counts": 80
+  },
+  {
+   "keywords": "anniversary",
+   "counts": 77
+  },
+  {
+   "keywords": "..",
+   "counts": 77
+  },
+  {
+   "keywords": "fast",
+   "counts": 75
+  },
+  {
+   "keywords": "dead",
+   "counts": 74
+  },
+  {
+   "keywords": "current",
+   "counts": 74
+  },
+  {
+   "keywords": "Cool",
+   "counts": 74
+  },
+  {
+   "keywords": "fav",
+   "counts": 73
+  },
+  {
+   "keywords": "key",
+   "counts": 73
+  },
+  {
+   "keywords": "Been",
+   "counts": 72
+  },
+  {
+   "keywords": "outstanding",
+   "counts": 72
+  },
+  {
+   "keywords": "unlock",
+   "counts": 71
+  },
+  {
+   "keywords": "competitive",
+   "counts": 70
+  },
+  {
+   "keywords": "difficult",
+   "counts": 70
+  },
+  {
+   "keywords": "sooo",
+   "counts": 70
+  },
+  {
+   "keywords": "addicted",
+   "counts": 69
+  },
+  {
+   "keywords": "appropriate",
+   "counts": 69
+  },
+  {
+   "keywords": "pride",
+   "counts": 69
+  },
+  {
+   "keywords": "cute",
+   "counts": 68
+  },
+  {
+   "keywords": "constant",
+   "counts": 67
+  },
+  {
+   "keywords": "collect",
+   "counts": 66
+  },
+  {
+   "keywords": "rude",
+   "counts": 66
+  },
+  {
+   "keywords": "incredible",
+   "counts": 66
+  },
+  {
+   "keywords": "hot",
+   "counts": 65
+  },
+  {
+   "keywords": "surf",
+   "counts": 65
+  },
+  {
+   "keywords": "dis",
+   "counts": 63
+  },
+  {
+   "keywords": "random",
+   "counts": 62
+  },
+  {
+   "keywords": "optional",
+   "counts": 61
+  },
+  {
+   "keywords": "major",
+   "counts": 61
+  },
+  {
+   "keywords": "soo",
+   "counts": 61
+  },
+  {
+   "keywords": "doesn",
+   "counts": 61
+  },
+  {
+   "keywords": "popular",
+   "counts": 60
+  },
+  {
+   "keywords": "glitchy",
+   "counts": 60
+  },
+  {
+   "keywords": "updates",
+   "counts": 60
+  },
+  {
+   "keywords": "Only",
+   "counts": 60
+  },
+  {
+   "keywords": "un",
+   "counts": 59
+  },
+  {
+   "keywords": "temple",
+   "counts": 59
+  },
+  {
+   "keywords": "double",
+   "counts": 58
+  },
+  {
+   "keywords": "iconic",
+   "counts": 58
+  },
+  {
+   "keywords": "spray",
+   "counts": 58
+  },
+  {
+   "keywords": "grateful",
+   "counts": 58
+  },
+  {
+   "keywords": "actual",
+   "counts": 58
+  },
+  {
+   "keywords": "scary",
+   "counts": 58
+  },
+  {
+   "keywords": "sooooo",
+   "counts": 57
+  },
+  {
+   "keywords": "helpful",
+   "counts": 57
+  },
+  {
+   "keywords": "delete",
+   "counts": 56
+  },
+  {
+   "keywords": "GOOD",
+   "counts": 56
+  },
+  {
+   "keywords": "hey",
+   "counts": 56
+  },
+  {
+   "keywords": "available",
+   "counts": 56
+  },
+  {
+   "keywords": "middle",
+   "counts": 54
+  },
+  {
+   "keywords": "certain",
+   "counts": 53
+  },
+  {
+   "keywords": "freaking",
+   "counts": 53
+  },
+  {
+   "keywords": "fake",
+   "counts": 52
+  },
+  {
+   "keywords": "ta",
+   "counts": 52
+  },
+  {
+   "keywords": "“",
+   "counts": 52
+  },
+  {
+   "keywords": "Wi-Fi",
+   "counts": 52
+  },
+  {
+   "keywords": "black",
+   "counts": 51
+  },
+  {
+   "keywords": "thx",
+   "counts": 51
+  },
+  {
+   "keywords": "due",
+   "counts": 50
+  },
+  {
+   "keywords": "huge",
+   "counts": 50
+  },
+  {
+   "keywords": "soooo",
+   "counts": 50
+  },
+  {
+   "keywords": "cant",
+   "counts": 50
+  },
+  {
+   "keywords": "wish",
+   "counts": 50
+  },
+  {
+   "keywords": "interested",
+   "counts": 50
+  },
+  {
+   "keywords": "previous",
+   "counts": 49
+  },
+  {
+   "keywords": "app",
+   "counts": 49
+  },
+  {
+   "keywords": "ive",
+   "counts": 49
+  },
+  {
+   "keywords": "non",
+   "counts": 49
+  },
+  {
+   "keywords": "og",
+   "counts": 49
+  },
+  {
+   "keywords": "know",
+   "counts": 48
+  },
+  {
+   "keywords": "specific",
+   "counts": 48
+  },
+  {
+   "keywords": "ready",
+   "counts": 48
+  },
+  {
+   "keywords": "in-game",
+   "counts": 47
+  },
+  {
+   "keywords": "yeah",
+   "counts": 47
+  },
+  {
+   "keywords": "tricky",
+   "counts": 46
+  },
+  {
+   "keywords": "fair",
+   "counts": 46
+  },
+  {
+   "keywords": "safe",
+   "counts": 46
+  },
+  {
+   "keywords": "legendary",
+   "counts": 46
+  },
+  {
+   "keywords": "recent",
+   "counts": 46
+  },
+  {
+   "keywords": "excellent",
+   "counts": 46
+  },
+  {
+   "keywords": "annoying",
+   "counts": 45
+  },
+  {
+   "keywords": "detailed",
+   "counts": 45
+  },
+  {
+   "keywords": "enough",
+   "counts": 44
+  },
+  {
+   "keywords": "Such",
+   "counts": 44
+  },
+  {
+   "keywords": "sub",
+   "counts": 44
+  },
+  {
+   "keywords": "exact",
+   "counts": 43
+  },
+  {
+   "keywords": "golden",
+   "counts": 43
+  },
+  {
+   "keywords": "unique",
+   "counts": 43
+  },
+  {
+   "keywords": "normal",
+   "counts": 43
+  },
+  {
+   "keywords": "internet",
+   "counts": 43
+  },
+  {
+   "keywords": "kinda",
+   "counts": 43
+  },
+  {
+   "keywords": "oh",
+   "counts": 42
+  },
+  {
+   "keywords": "sick",
+   "counts": 42
+  },
+  {
+   "keywords": "yea",
+   "counts": 42
+  },
+  {
+   "keywords": "mean",
+   "counts": 42
+  },
+  {
+   "keywords": "childhood",
+   "counts": 42
+  },
+  {
+   "keywords": "right",
+   "counts": 41
+  },
+  {
+   "keywords": "fifth",
+   "counts": 41
+  },
+  {
+   "keywords": "short",
+   "counts": 41
+  },
+  {
+   "keywords": "couldn",
+   "counts": 41
+  },
+  {
+   "keywords": "excited",
+   "counts": 41
+  },
+  {
+   "keywords": "isn",
+   "counts": 40
+  },
+  {
+   "keywords": "disobedient",
+   "counts": 40
+  },
+  {
+   "keywords": "personal",
+   "counts": 40
+  },
+  {
+   "keywords": "relaxing",
+   "counts": 40
+  },
+  {
+   "keywords": "purple",
+   "counts": 40
+  },
+  {
+   "keywords": "OK",
+   "counts": 40
+  },
+  {
+   "keywords": "intense",
+   "counts": 40
+  },
+  {
+   "keywords": "nostalgia",
+   "counts": 40
+  },
+  {
+   "keywords": "rebellious",
+   "counts": 40
+  },
+  {
+   "keywords": "⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️",
+   "counts": 40
+  },
+  {
+   "keywords": "plz",
+   "counts": 40
+  },
+  {
+   "keywords": "alive",
+   "counts": 39
+  },
+  {
+   "keywords": "playable",
+   "counts": 39
+  },
+  {
+   "keywords": "es",
+   "counts": 38
+  },
+  {
+   "keywords": "horrible",
+   "counts": 37
+  },
+  {
+   "keywords": "angry",
+   "counts": 37
+  },
+  {
+   "keywords": "da",
+   "counts": 37
+  },
+  {
+   "keywords": "boy",
+   "counts": 37
+  },
+  {
+   "keywords": "necessary",
+   "counts": 37
+  },
+  {
+   "keywords": "impressive",
+   "counts": 37
+  },
+  {
+   "keywords": "sister",
+   "counts": 36
+  },
+  {
+   "keywords": "blue",
+   "counts": 36
+  },
+  {
+   "keywords": "important",
+   "counts": 36
+  },
+  {
+   "keywords": "colorful",
+   "counts": 36
+  },
+  {
+   "keywords": "aloud",
+   "counts": 35
+  },
+  {
+   "keywords": "wild",
+   "counts": 35
+  },
+  {
+   "keywords": "smart",
+   "counts": 35
+  },
+  {
+   "keywords": "aware",
+   "counts": 35
+  },
+  {
+   "keywords": "*",
+   "counts": 35
+  },
+  {
+   "keywords": "complete",
+   "counts": 35
+  },
+  {
+   "keywords": "umm",
+   "counts": 35
+  },
+  {
+   "keywords": "6-8",
+   "counts": 34
+  },
+  {
+   "keywords": "haven",
+   "counts": 34
+  },
+  {
+   "keywords": "solid",
+   "counts": 34
+  },
+  {
+   "keywords": "gray",
+   "counts": 34
+  },
+  {
+   "keywords": "bin",
+   "counts": 34
+  },
+  {
+   "keywords": "Many",
+   "counts": 34
+  },
+  {
+   "keywords": "running",
+   "counts": 34
+  },
+  {
+   "keywords": "favourite",
+   "counts": 34
+  },
+  {
+   "keywords": "gud",
+   "counts": 34
+  },
+  {
+   "keywords": "inappropriate",
+   "counts": 33
+  },
+  {
+   "keywords": "recommended",
+   "counts": 33
+  },
+  {
+   "keywords": "online",
+   "counts": 33
+  },
+  {
+   "keywords": "proud",
+   "counts": 33
+  },
+  {
+   "keywords": "general",
+   "counts": 33
+  },
+  {
+   "keywords": "do",
+   "counts": 33
+  },
+  {
+   "keywords": "❤️",
+   "counts": 32
+  },
+  {
+   "keywords": "sweet",
+   "counts": 32
+  },
+  {
+   "keywords": "live",
+   "counts": 31
+  },
+  {
+   "keywords": "immersing",
+   "counts": 31
+  },
+  {
+   "keywords": "infinite",
+   "counts": 31
+  },
+  {
+   "keywords": "stuffs",
+   "counts": 31
+  },
+  {
+   "keywords": "basic",
+   "counts": 31
+  },
+  {
+   "keywords": "mejor",
+   "counts": 31
+  },
+  {
+   "keywords": "obsessed",
+   "counts": 31
+  },
+  {
+   "keywords": "neat",
+   "counts": 31
+  },
+  {
+   "keywords": "video",
+   "counts": 31
+  },
+  {
+   "keywords": "lil",
+   "counts": 30
+  },
+  {
+   "keywords": "speed-up",
+   "counts": 30
+  },
+  {
+   "keywords": "epic",
+   "counts": 30
+  },
+  {
+   "keywords": "friendly",
+   "counts": 30
+  },
+  {
+   "keywords": "weekly",
+   "counts": 30
+  },
+  {
+   "keywords": "her-",
+   "counts": 30
+  },
+  {
+   "keywords": "want",
+   "counts": 30
+  },
+  {
+   "keywords": "tiny",
+   "counts": 30
+  },
+  {
+   "keywords": "soooooo",
+   "counts": 30
+  },
+  {
+   "keywords": "dog",
+   "counts": 29
+  },
+  {
+   "keywords": "tense",
+   "counts": 29
+  },
+  {
+   "keywords": "lazy",
+   "counts": 29
+  },
+  {
+   "keywords": "seasonal",
+   "counts": 29
+  },
+  {
+   "keywords": "fresh",
+   "counts": 29
+  },
+  {
+   "keywords": "pet",
+   "counts": 29
+  },
+  {
+   "keywords": "l",
+   "counts": 29
+  },
+  {
+   "keywords": "stressed",
+   "counts": 28
+  },
+  {
+   "keywords": "vary",
+   "counts": 28
+  },
+  {
+   "keywords": "disappointed",
+   "counts": 28
+  },
+  {
+   "keywords": "negative",
+   "counts": 28
+  },
+  {
+   "keywords": "else",
+   "counts": 28
+  },
+  {
+   "keywords": "rare",
+   "counts": 28
+  },
+  {
+   "keywords": "sonic",
+   "counts": 28
+  },
+  {
+   "keywords": "fancy",
+   "counts": 28
+  },
+  {
+   "keywords": "updated",
+   "counts": 27
+  },
+  {
+   "keywords": "gusta",
+   "counts": 27
+  },
+  {
+   "keywords": "lit",
+   "counts": 27
+  },
+  {
+   "keywords": "wow",
+   "counts": 27
+  },
+  {
+   "keywords": "laggy",
+   "counts": 27
+  },
+  {
+   "keywords": "prizes",
+   "counts": 27
+  },
+  {
+   "keywords": "abt",
+   "counts": 26
+  },
+  {
+   "keywords": "coin",
+   "counts": 26
+  },
+  {
+   "keywords": "احب",
+   "counts": 26
+  },
+  {
+   "keywords": "nervous",
+   "counts": 26
+  },
+  {
+   "keywords": "surprising",
+   "counts": 25
+  },
+  {
+   "keywords": "early",
+   "counts": 25
+  },
+  {
+   "keywords": "snow",
+   "counts": 25
+  },
+  {
+   "keywords": "okay",
+   "counts": 25
+  },
+  {
+   "keywords": "hover",
+   "counts": 25
+  },
+  {
+   "keywords": "red",
+   "counts": 25
+  },
+  {
+   "keywords": "main",
+   "counts": 25
+  },
+  {
+   "keywords": "active",
+   "counts": 25
+  },
+  {
+   "keywords": "five-year-old",
+   "counts": 25
+  },
+  {
+   "keywords": "till",
+   "counts": 25
+  },
+  {
+   "keywords": "positive",
+   "counts": 25
+  },
+  {
+   "keywords": "listen",
+   "counts": 24
+  },
+  {
+   "keywords": "unicorn",
+   "counts": 24
+  },
+  {
+   "keywords": "idk",
+   "counts": 24
+  },
+  {
+   "keywords": "supper",
+   "counts": 24
+  },
+  {
+   "keywords": "exciting",
+   "counts": 24
+  },
+  {
+   "keywords": "casual",
+   "counts": 24
+  },
+  {
+   "keywords": "tree",
+   "counts": 24
+  },
+  {
+   "keywords": "strict",
+   "counts": 24
+  },
+  {
+   "keywords": "uh",
+   "counts": 24
+  },
+  {
+   "keywords": "strong",
+   "counts": 23
+  },
+  {
+   "keywords": "entertained",
+   "counts": 23
+  },
+  {
+   "keywords": "ten",
+   "counts": 23
+  },
+  {
+   "keywords": "late",
+   "counts": 23
+  },
+  {
+   "keywords": "Temple",
+   "counts": 23
+  },
+  {
+   "keywords": "unfair",
+   "counts": 23
+  },
+  {
+   "keywords": "catchy",
+   "counts": 23
+  },
+  {
+   "keywords": "stuck",
+   "counts": 22
+  },
+  {
+   "keywords": "ya",
+   "counts": 22
+  },
+  {
+   "keywords": "First",
+   "counts": 22
+  },
+  {
+   "keywords": "guys",
+   "counts": 22
+  },
+  {
+   "keywords": "back",
+   "counts": 22
+  },
+  {
+   "keywords": "fourth",
+   "counts": 22
+  },
+  {
+   "keywords": "immersive",
+   "counts": 22
+  },
+  {
+   "keywords": "fish",
+   "counts": 22
+  },
+  {
+   "keywords": "Real",
+   "counts": 22
+  },
+  {
+   "keywords": "open",
+   "counts": 22
+  },
+  {
+   "keywords": "god",
+   "counts": 22
+  },
+  {
+   "keywords": "effective",
+   "counts": 21
+  },
+  {
+   "keywords": "on2",
+   "counts": 21
+  },
+  {
+   "keywords": "jurnee",
+   "counts": 21
+  },
+  {
+   "keywords": "ced",
+   "counts": 21
+  },
+  {
+   "keywords": "ez",
+   "counts": 21
+  },
+  {
+   "keywords": "coolest",
+   "counts": 21
+  },
+  {
+   "keywords": "tutorial",
+   "counts": 21
+  },
+  {
+   "keywords": "stuff",
+   "counts": 21
+  },
+  {
+   "keywords": "Marvelous",
+   "counts": 21
+  },
+  {
+   "keywords": "sfswfasge",
+   "counts": 21
+  },
+  {
+   "keywords": "b-lynnnn",
+   "counts": 21
+  },
+  {
+   "keywords": "stilll",
+   "counts": 21
+  },
+  {
+   "keywords": "baby",
+   "counts": 21
+  },
+  {
+   "keywords": "write",
+   "counts": 21
+  },
+  {
+   "keywords": "eatery",
+   "counts": 21
+  },
+  {
+   "keywords": "draw",
+   "counts": 21
+  },
+  {
+   "keywords": "much😙😚😙",
+   "counts": 21
+  },
+  {
+   "keywords": "good😍",
+   "counts": 21
+  },
+  {
+   "keywords": "10th",
+   "counts": 21
+  },
+  {
+   "keywords": "realistic",
+   "counts": 21
+  },
+  {
+   "keywords": "selfish",
+   "counts": 21
+  },
+  {
+   "keywords": "up.❤️❤️❤️❤️❤️❤️❤️🧡🧡🧡🧡🧡🧡🧡🧡💛💛💛💛💛💛💛💛💛💚💚💚💚💚💚💚💚💚💚💙💙💙💙💜💜💜💜💜💜💜💜💖💖💖💖💖💖💖💖💖💖💖💖💖💟💟💟💟💟💟💟💟💟💟💟💟💟💟💟💟💟🥰🥰🥰🥰🥰🥰👻👻👻👻👻👻👻👻👻😻😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😺😸😸😸😸😸😸😸😸😸😸😸😸😸😺😸😺😸😺😸😺😸😺😸😺😸😺😸😺👌🏻👌🏻👌🏻👌🏻👌🏻👌🏻👌🏻👌🏻👌🏻👌🏻👌🏻👌🏻👌🏻👌🏻👌🏻",
+   "counts": 21
+  },
+  {
+   "keywords": "Entertaining",
+   "counts": 21
+  },
+  {
+   "keywords": "addtracktive",
+   "counts": 21
+  },
+  {
+   "keywords": "😎🥋this",
+   "counts": 21
+  },
+  {
+   "keywords": "FUN",
+   "counts": 21
+  },
+  {
+   "keywords": "Sick",
+   "counts": 21
+  },
+  {
+   "keywords": "sry",
+   "counts": 21
+  },
+  {
+   "keywords": "awsweome",
+   "counts": 21
+  },
+  {
+   "keywords": "sfabsfwgafdwwshgewndgsnfen",
+   "counts": 21
+  },
+  {
+   "keywords": "stubborn",
+   "counts": 21
+  },
+  {
+   "keywords": "goose",
+   "counts": 21
+  },
+  {
+   "keywords": "thank",
+   "counts": 21
+  },
+  {
+   "keywords": "guess-",
+   "counts": 21
+  },
+  {
+   "keywords": "queen",
+   "counts": 21
+  },
+  {
+   "keywords": "ton",
+   "counts": 21
+  },
+  {
+   "keywords": "bord",
+   "counts": 21
+  },
+  {
+   "keywords": "joe",
+   "counts": 21
+  },
+  {
+   "keywords": "fat",
+   "counts": 21
+  },
+  {
+   "keywords": "sus",
+   "counts": 21
+  },
+  {
+   "keywords": "messy",
+   "counts": 21
+  },
+  {
+   "keywords": "addictive.👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍",
+   "counts": 21
+  },
+  {
+   "keywords": "ese",
+   "counts": 21
+  },
+  {
+   "keywords": "polished",
+   "counts": 20
+  },
+  {
+   "keywords": "website",
+   "counts": 20
+  },
+  {
+   "keywords": "avoid",
+   "counts": 20
+  },
+  {
+   "keywords": "holy",
+   "counts": 20
+  },
+  {
+   "keywords": "much.the",
+   "counts": 20
+  },
+  {
+   "keywords": "😀😀😀",
+   "counts": 20
+  },
+  {
+   "keywords": "rip-off",
+   "counts": 20
+  },
+  {
+   "keywords": "childish",
+   "counts": 20
+  },
+  {
+   "keywords": "functional",
+   "counts": 20
+  },
+  {
+   "keywords": "wan",
+   "counts": 20
+  },
+  {
+   "keywords": "repeatable",
+   "counts": 20
+  },
+  {
+   "keywords": "gocha",
+   "counts": 20
+  },
+  {
+   "keywords": "suspenseful",
+   "counts": 20
+  },
+  {
+   "keywords": "happymod",
+   "counts": 20
+  },
+  {
+   "keywords": "Classic",
+   "counts": 20
+  },
+  {
+   "keywords": "🚽",
+   "counts": 20
+  },
+  {
+   "keywords": "لعبة",
+   "counts": 20
+  },
+  {
+   "keywords": "reactive",
+   "counts": 20
+  },
+  {
+   "keywords": "curious",
+   "counts": 20
+  },
+  {
+   "keywords": "nostalgic❤️",
+   "counts": 20
+  },
+  {
+   "keywords": "much😍😍😍🥰",
+   "counts": 20
+  },
+  {
+   "keywords": "concentrated",
+   "counts": 20
+  },
+  {
+   "keywords": "pogo",
+   "counts": 20
+  },
+  {
+   "keywords": "attractive",
+   "counts": 20
+  },
+  {
+   "keywords": "unable",
+   "counts": 20
+  },
+  {
+   "keywords": "homophobic",
+   "counts": 20
+  },
+  {
+   "keywords": "plus",
+   "counts": 20
+  },
+  {
+   "keywords": "permanent",
+   "counts": 20
+  },
+  {
+   "keywords": "nut",
+   "counts": 20
+  },
+  {
+   "keywords": "bone",
+   "counts": 20
+  },
+  {
+   "keywords": "kiss",
+   "counts": 20
+  },
+  {
+   "keywords": "this⬇️",
+   "counts": 20
+  },
+  {
+   "keywords": "frozen",
+   "counts": 20
+  },
+  {
+   "keywords": "هذا",
+   "counts": 20
+  },
+  {
+   "keywords": "sleep",
+   "counts": 20
+  },
+  {
+   "keywords": "id",
+   "counts": 20
+  },
+  {
+   "keywords": "left",
+   "counts": 20
+  },
+  {
+   "keywords": "helper",
+   "counts": 20
+  },
+  {
+   "keywords": "unhappy",
+   "counts": 20
+  },
+  {
+   "keywords": "great.perfect",
+   "counts": 20
+  },
+  {
+   "keywords": "awsome",
+   "counts": 20
+  },
+  {
+   "keywords": "Listen",
+   "counts": 20
+  },
+  {
+   "keywords": "reasonable",
+   "counts": 20
+  },
+  {
+   "keywords": "serial",
+   "counts": 20
+  },
+  {
+   "keywords": "all",
+   "counts": 20
+  },
+  {
+   "keywords": "this⤵️website",
+   "counts": 20
+  },
+  {
+   "keywords": "bored😀😃😄😁😆",
+   "counts": 20
+  },
+  {
+   "keywords": "mine",
+   "counts": 19
+  },
+  {
+   "keywords": "humble",
+   "counts": 19
+  },
+  {
+   "keywords": "unlocking",
+   "counts": 19
+  },
+  {
+   "keywords": "👍👁👄👁",
+   "counts": 19
+  },
+  {
+   "keywords": "🤩😊🤩",
+   "counts": 19
+  },
+  {
+   "keywords": "honest",
+   "counts": 19
+  },
+  {
+   "keywords": "assorted",
+   "counts": 19
+  },
+  {
+   "keywords": "adventurous",
+   "counts": 19
+  },
+  {
+   "keywords": "brilliant",
+   "counts": 19
+  },
+  {
+   "keywords": "exuberant",
+   "counts": 19
+  },
+  {
+   "keywords": "اللعبه",
+   "counts": 19
+  },
+  {
+   "keywords": "pro",
+   "counts": 19
+  },
+  {
+   "keywords": "😍I",
+   "counts": 19
+  },
+  {
+   "keywords": "Total",
+   "counts": 19
+  },
+  {
+   "keywords": "genuinely",
+   "counts": 19
+  },
+  {
+   "keywords": "focused",
+   "counts": 19
+  },
+  {
+   "keywords": "mystery",
+   "counts": 19
+  },
+  {
+   "keywords": "disappointing",
+   "counts": 19
+  },
+  {
+   "keywords": "una",
+   "counts": 18
+  },
+  {
+   "keywords": "sooooooooooooooo",
+   "counts": 18
+  },
+  {
+   "keywords": "art",
+   "counts": 18
+  },
+  {
+   "keywords": "Kian",
+   "counts": 18
+  },
+  {
+   "keywords": "very",
+   "counts": 18
+  },
+  {
+   "keywords": "pink",
+   "counts": 18
+  },
+  {
+   "keywords": "hole",
+   "counts": 18
+  },
+  {
+   "keywords": "born",
+   "counts": 18
+  },
+  {
+   "keywords": "freakin",
+   "counts": 18
+  },
+  {
+   "keywords": "awhile",
+   "counts": 18
+  },
+  {
+   "keywords": "since-",
+   "counts": 18
+  },
+  {
+   "keywords": "tus",
+   "counts": 18
+  },
+  {
+   "keywords": "domestic",
+   "counts": 18
+  },
+  {
+   "keywords": "haptic",
+   "counts": 18
+  },
+  {
+   "keywords": "surfers=good",
+   "counts": 18
+  },
+  {
+   "keywords": "co",
+   "counts": 18
+  },
+  {
+   "keywords": "accessible",
+   "counts": 18
+  },
+  {
+   "keywords": "cómo",
+   "counts": 18
+  },
+  {
+   "keywords": "apps",
+   "counts": 18
+  },
+  {
+   "keywords": "alpha",
+   "counts": 18
+  },
+  {
+   "keywords": "us.And",
+   "counts": 18
+  },
+  {
+   "keywords": "upset",
+   "counts": 18
+  },
+  {
+   "keywords": "wi-Fi",
+   "counts": 18
+  },
+  {
+   "keywords": "die",
+   "counts": 18
+  },
+  {
+   "keywords": "aswome",
+   "counts": 18
+  },
+  {
+   "keywords": "make",
+   "counts": 18
+  },
+  {
+   "keywords": "and-….Ok",
+   "counts": 18
+  },
+  {
+   "keywords": "D",
+   "counts": 18
+  },
+  {
+   "keywords": "picky",
+   "counts": 18
+  },
+  {
+   "keywords": "ads.",
+   "counts": 18
+  },
+  {
+   "keywords": "HATE",
+   "counts": 18
+  },
+  {
+   "keywords": "NICE",
+   "counts": 18
+  },
+  {
+   "keywords": "athlete",
+   "counts": 18
+  },
+  {
+   "keywords": "today😁😁😁",
+   "counts": 18
+  },
+  {
+   "keywords": "garten",
+   "counts": 17
+  },
+  {
+   "keywords": "ich",
+   "counts": 17
+  },
+  {
+   "keywords": "😊",
+   "counts": 17
+  },
+  {
+   "keywords": "Sure",
+   "counts": 17
+  },
+  {
+   "keywords": "absolute",
+   "counts": 17
+  },
+  {
+   "keywords": "literary",
+   "counts": 17
+  },
+  {
+   "keywords": "insane",
+   "counts": 17
+  },
+  {
+   "keywords": "rly",
+   "counts": 17
+  },
+  {
+   "keywords": "ridiculous",
+   "counts": 17
+  },
+  {
+   "keywords": "iMovie",
+   "counts": 17
+  },
+  {
+   "keywords": "trare",
+   "counts": 17
+  },
+  {
+   "keywords": "smth",
+   "counts": 17
+  },
+  {
+   "keywords": "bed",
+   "counts": 17
+  },
+  {
+   "keywords": "gettingl",
+   "counts": 17
+  },
+  {
+   "keywords": "harsh",
+   "counts": 17
+  },
+  {
+   "keywords": "balanced",
+   "counts": 17
+  },
+  {
+   "keywords": "fun😍",
+   "counts": 17
+  },
+  {
+   "keywords": "veterinarian",
+   "counts": 17
+  },
+  {
+   "keywords": "heute",
+   "counts": 17
+  },
+  {
+   "keywords": "greay",
+   "counts": 17
+  },
+  {
+   "keywords": "endless-running",
+   "counts": 17
+  },
+  {
+   "keywords": "rich",
+   "counts": 17
+  },
+  {
+   "keywords": "bangn",
+   "counts": 17
+  },
+  {
+   "keywords": "Favorite",
+   "counts": 17
+  },
+  {
+   "keywords": "-wet",
+   "counts": 17
+  },
+  {
+   "keywords": "creepy",
+   "counts": 17
+  },
+  {
+   "keywords": "name",
+   "counts": 17
+  },
+  {
+   "keywords": "police",
+   "counts": 17
+  },
+  {
+   "keywords": "grea",
+   "counts": 17
+  },
+  {
+   "keywords": "before-",
+   "counts": 17
+  },
+  {
+   "keywords": "kid-friendly",
+   "counts": 17
+  },
+  {
+   "keywords": "AWESOME",
+   "counts": 17
+  },
+  {
+   "keywords": "additive",
+   "counts": 17
+  },
+  {
+   "keywords": "....",
+   "counts": 17
+  },
+  {
+   "keywords": "concerned",
+   "counts": 17
+  },
+  {
+   "keywords": "visible",
+   "counts": 17
+  },
+  {
+   "keywords": "meany",
+   "counts": 17
+  },
+  {
+   "keywords": "potential",
+   "counts": 17
+  },
+  {
+   "keywords": "tough",
+   "counts": 16
+  },
+  {
+   "keywords": "above",
+   "counts": 16
+  },
+  {
+   "keywords": "Perfect",
+   "counts": 16
+  },
+  {
+   "keywords": "snap",
+   "counts": 16
+  },
+  {
+   "keywords": "sean",
+   "counts": 16
+  },
+  {
+   "keywords": "stupid",
+   "counts": 16
+  },
+  {
+   "keywords": "fwn",
+   "counts": 16
+  },
+  {
+   "keywords": "countdown",
+   "counts": 16
+  },
+  {
+   "keywords": "todas",
+   "counts": 16
+  },
+  {
+   "keywords": "اللععبة",
+   "counts": 16
+  },
+  {
+   "keywords": "noce",
+   "counts": 16
+  },
+  {
+   "keywords": "spicy",
+   "counts": 16
+  },
+  {
+   "keywords": "2015-2017",
+   "counts": 16
+  },
+  {
+   "keywords": "likely",
+   "counts": 16
+  },
+  {
+   "keywords": "vitriolic",
+   "counts": 16
+  },
+  {
+   "keywords": "WI-FI",
+   "counts": 16
+  },
+  {
+   "keywords": "legit",
+   "counts": 16
+  },
+  {
+   "keywords": "criminal",
+   "counts": 16
+  },
+  {
+   "keywords": "rough",
+   "counts": 16
+  },
+  {
+   "keywords": "Which",
+   "counts": 16
+  },
+  {
+   "keywords": "estudios",
+   "counts": 16
+  },
+  {
+   "keywords": "join",
+   "counts": 16
+  },
+  {
+   "keywords": "te",
+   "counts": 16
+  },
+  {
+   "keywords": "addictive.😀😀😀",
+   "counts": 16
+  },
+  {
+   "keywords": "woodsy",
+   "counts": 16
+  },
+  {
+   "keywords": "shot",
+   "counts": 16
+  },
+  {
+   "keywords": "exotic",
+   "counts": 15
+  },
+  {
+   "keywords": "repetitive",
+   "counts": 15
+  },
+  {
+   "keywords": "are-",
+   "counts": 15
+  },
+  {
+   "keywords": "light",
+   "counts": 15
+  },
+  {
+   "keywords": "fave",
+   "counts": 15
+  },
+  {
+   "keywords": "relaxed",
+   "counts": 15
+  },
+  {
+   "keywords": "braggy",
+   "counts": 15
+  },
+  {
+   "keywords": "unchanging",
+   "counts": 15
+  },
+  {
+   "keywords": "characters.Another",
+   "counts": 15
+  },
+  {
+   "keywords": "familiar",
+   "counts": 15
+  },
+  {
+   "keywords": "SAVAGE",
+   "counts": 15
+  },
+  {
+   "keywords": "paced",
+   "counts": 15
+  },
+  {
+   "keywords": "uGh",
+   "counts": 15
+  },
+  {
+   "keywords": "mAnY",
+   "counts": 15
+  },
+  {
+   "keywords": "agin",
+   "counts": 15
+  },
+  {
+   "keywords": "religious",
+   "counts": 15
+  },
+  {
+   "keywords": "frequent",
+   "counts": 15
+  },
+  {
+   "keywords": "academic",
+   "counts": 15
+  },
+  {
+   "keywords": "hand-eye",
+   "counts": 15
+  },
+  {
+   "keywords": "انا",
+   "counts": 15
+  },
+  {
+   "keywords": "matching",
+   "counts": 15
+  },
+  {
+   "keywords": "wifi",
+   "counts": 15
+  },
+  {
+   "keywords": "common",
+   "counts": 15
+  },
+  {
+   "keywords": "innna",
+   "counts": 15
+  },
+  {
+   "keywords": "skeleton",
+   "counts": 15
+  },
+  {
+   "keywords": "tal",
+   "counts": 15
+  },
+  {
+   "keywords": "-snif-",
+   "counts": 15
+  },
+  {
+   "keywords": "bye-Subway",
+   "counts": 15
+  },
+  {
+   "keywords": "coins.Problem-A",
+   "counts": 15
+  },
+  {
+   "keywords": "Every",
+   "counts": 15
+  },
+  {
+   "keywords": "logical",
+   "counts": 15
+  },
+  {
+   "keywords": "pandemic",
+   "counts": 15
+  },
+  {
+   "keywords": "turkey",
+   "counts": 15
+  },
+  {
+   "keywords": "head",
+   "counts": 15
+  },
+  {
+   "keywords": "decent",
+   "counts": 15
+  },
+  {
+   "keywords": "bestMy",
+   "counts": 15
+  },
+  {
+   "keywords": "wont",
+   "counts": 15
+  },
+  {
+   "keywords": "look",
+   "counts": 15
+  },
+  {
+   "keywords": "adds-Also",
+   "counts": 15
+  },
+  {
+   "keywords": "public",
+   "counts": 15
+  },
+  {
+   "keywords": "flat",
+   "counts": 15
+  },
+  {
+   "keywords": "dark",
+   "counts": 15
+  },
+  {
+   "keywords": "Addictive-THIS",
+   "counts": 15
+  },
+  {
+   "keywords": "buddy",
+   "counts": 14
+  },
+  {
+   "keywords": "extraordinary",
+   "counts": 14
+  },
+  {
+   "keywords": "fun🤪😜",
+   "counts": 14
+  },
+  {
+   "keywords": "عطوني",
+   "counts": 14
+  },
+  {
+   "keywords": "somuch",
+   "counts": 14
+  },
+  {
+   "keywords": ".I",
+   "counts": 14
+  },
+  {
+   "keywords": "4-13",
+   "counts": 14
+  },
+  {
+   "keywords": "funSo",
+   "counts": 14
+  },
+  {
+   "keywords": "lgbtq",
+   "counts": 14
+  },
+  {
+   "keywords": "Little",
+   "counts": 14
+  },
+  {
+   "keywords": "goodrenagade",
+   "counts": 14
+  },
+  {
+   "keywords": "large",
+   "counts": 14
+  },
+  {
+   "keywords": "kid",
+   "counts": 14
+  },
+  {
+   "keywords": "awesome.😎grate",
+   "counts": 14
+  },
+  {
+   "keywords": "Last",
+   "counts": 14
+  },
+  {
+   "keywords": "Funn",
+   "counts": 14
+  },
+  {
+   "keywords": "Subway",
+   "counts": 14
+  },
+  {
+   "keywords": "hungry",
+   "counts": 14
+  },
+  {
+   "keywords": "e",
+   "counts": 14
+  },
+  {
+   "keywords": "que",
+   "counts": 14
+  },
+  {
+   "keywords": "نايس",
+   "counts": 14
+  },
+  {
+   "keywords": "sir/",
+   "counts": 14
+  },
+  {
+   "keywords": "IT",
+   "counts": 14
+  },
+  {
+   "keywords": "lovv",
+   "counts": 14
+  },
+  {
+   "keywords": "spanish",
+   "counts": 14
+  },
+  {
+   "keywords": "koral",
+   "counts": 14
+  },
+  {
+   "keywords": "like-",
+   "counts": 14
+  },
+  {
+   "keywords": "TO",
+   "counts": 14
+  },
+  {
+   "keywords": "gosh",
+   "counts": 14
+  },
+  {
+   "keywords": "doodle",
+   "counts": 14
+  },
+  {
+   "keywords": "ima",
+   "counts": 14
+  },
+  {
+   "keywords": "it…",
+   "counts": 14
+  },
+  {
+   "keywords": "magical",
+   "counts": 14
+  },
+  {
+   "keywords": "eo",
+   "counts": 14
+  },
+  {
+   "keywords": "dem",
+   "counts": 14
+  },
+  {
+   "keywords": "nhiều",
+   "counts": 14
+  },
+  {
+   "keywords": "iOS",
+   "counts": 14
+  },
+  {
+   "keywords": "4-20",
+   "counts": 14
+  },
+  {
+   "keywords": "underdogs",
+   "counts": 14
+  },
+  {
+   "keywords": "wear",
+   "counts": 14
+  },
+  {
+   "keywords": "hooked",
+   "counts": 14
+  },
+  {
+   "keywords": "gorgeous",
+   "counts": 14
+  },
+  {
+   "keywords": "loyal",
+   "counts": 14
+  },
+  {
+   "keywords": "click",
+   "counts": 14
+  },
+  {
+   "keywords": "lucky",
+   "counts": 14
+  },
+  {
+   "keywords": "2014-2021",
+   "counts": 14
+  },
+  {
+   "keywords": "half",
+   "counts": 14
+  },
+  {
+   "keywords": "annd",
+   "counts": 14
+  },
+  {
+   "keywords": "Happy",
+   "counts": 13
+  },
+  {
+   "keywords": "impressed",
+   "counts": 13
+  },
+  {
+   "keywords": "injured",
+   "counts": 13
+  },
+  {
+   "keywords": "🇧🇪-Antwerp",
+   "counts": 13
+  },
+  {
+   "keywords": "이런",
+   "counts": 13
+  },
+  {
+   "keywords": "sexual",
+   "counts": 13
+  },
+  {
+   "keywords": "Low",
+   "counts": 13
+  },
+  {
+   "keywords": "keep",
+   "counts": 13
+  },
+  {
+   "keywords": "skateboard",
+   "counts": 13
+  },
+  {
+   "keywords": "only.This",
+   "counts": 13
+  },
+  {
+   "keywords": "fuuuuuuuuuuuuuuuuuuuuuuunI",
+   "counts": 13
+  },
+  {
+   "keywords": "nap",
+   "counts": 13
+  },
+  {
+   "keywords": "MUCH",
+   "counts": 13
+  },
+  {
+   "keywords": "distracting",
+   "counts": 13
+  },
+  {
+   "keywords": "regular",
+   "counts": 13
+  },
+  {
+   "keywords": "ty",
+   "counts": 13
+  },
+  {
+   "keywords": "Pro",
+   "counts": 13
+  },
+  {
+   "keywords": "emough",
+   "counts": 13
+  },
+  {
+   "keywords": "laid",
+   "counts": 13
+  },
+  {
+   "keywords": "coolI",
+   "counts": 13
+  },
+  {
+   "keywords": "inter",
+   "counts": 13
+  },
+  {
+   "keywords": "simalar",
+   "counts": 13
+  },
+  {
+   "keywords": "supportive",
+   "counts": 13
+  },
+  {
+   "keywords": "birthday",
+   "counts": 13
+  },
+  {
+   "keywords": "teh",
+   "counts": 13
+  },
+  {
+   "keywords": "female",
+   "counts": 13
+  },
+  {
+   "keywords": "radf💪",
+   "counts": 13
+  },
+  {
+   "keywords": "barley",
+   "counts": 12
+  },
+  {
+   "keywords": "idiotic",
+   "counts": 12
+  },
+  {
+   "keywords": "appreciate",
+   "counts": 12
+  },
+  {
+   "keywords": "senior",
+   "counts": 12
+  },
+  {
+   "keywords": "uninstall",
+   "counts": 12
+  },
+  {
+   "keywords": "distant",
+   "counts": 12
+  },
+  {
+   "keywords": "away.I",
+   "counts": 12
+  },
+  {
+   "keywords": "playerr",
+   "counts": 12
+  },
+  {
+   "keywords": "wouldn",
+   "counts": 12
+  },
+  {
+   "keywords": "slight",
+   "counts": 12
+  },
+  {
+   "keywords": "awful",
+   "counts": 12
+  },
+  {
+   "keywords": "ocean",
+   "counts": 12
+  },
+  {
+   "keywords": "bugs",
+   "counts": 12
+  },
+  {
+   "keywords": "jetpack-running",
+   "counts": 12
+  },
+  {
+   "keywords": "play.I",
+   "counts": 12
+  },
+  {
+   "keywords": "useful",
+   "counts": 12
+  },
+  {
+   "keywords": "nowhere",
+   "counts": 12
+  },
+  {
+   "keywords": "total",
+   "counts": 12
+  },
+  {
+   "keywords": "thumbs",
+   "counts": 12
+  },
+  {
+   "keywords": "MANY",
+   "counts": 12
+  },
+  {
+   "keywords": "it.The",
+   "counts": 12
+  },
+  {
+   "keywords": "tankbot",
+   "counts": 12
+  },
+  {
+   "keywords": "6-7",
+   "counts": 12
+  },
+  {
+   "keywords": "hoverboard-riding",
+   "counts": 12
+  },
+  {
+   "keywords": "keys.This",
+   "counts": 12
+  },
+  {
+   "keywords": "⭐️",
+   "counts": 12
+  },
+  {
+   "keywords": "@",
+   "counts": 12
+  },
+  {
+   "keywords": "invent",
+   "counts": 12
+  },
+  {
+   "keywords": "ethical",
+   "counts": 12
+  },
+  {
+   "keywords": "token",
+   "counts": 12
+  },
+  {
+   "keywords": "aesthetic",
+   "counts": 12
+  },
+  {
+   "keywords": "convenient",
+   "counts": 12
+  },
+  {
+   "keywords": "nooo",
+   "counts": 12
+  },
+  {
+   "keywords": "loiblue",
+   "counts": 12
+  },
+  {
+   "keywords": "multi",
+   "counts": 12
+  },
+  {
+   "keywords": "Spraycan",
+   "counts": 12
+  },
+  {
+   "keywords": "explanatory",
+   "counts": 12
+  },
+  {
+   "keywords": "nasty",
+   "counts": 12
+  },
+  {
+   "keywords": "hood",
+   "counts": 12
+  },
+  {
+   "keywords": "future",
+   "counts": 12
+  },
+  {
+   "keywords": "Long",
+   "counts": 11
+  },
+  {
+   "keywords": "fun.love",
+   "counts": 11
+  },
+  {
+   "keywords": "themed",
+   "counts": 11
+  },
+  {
+   "keywords": "unicorns.🤗🙂",
+   "counts": 11
+  },
+  {
+   "keywords": "fundamental",
+   "counts": 11
+  },
+  {
+   "keywords": "uhhhhh",
+   "counts": 11
+  },
+  {
+   "keywords": "fortnitewap",
+   "counts": 11
+  },
+  {
+   "keywords": "powerful",
+   "counts": 11
+  },
+  {
+   "keywords": "fustrating",
+   "counts": 11
+  },
+  {
+   "keywords": "goth",
+   "counts": 11
+  },
+  {
+   "keywords": "thissss",
+   "counts": 11
+  },
+  {
+   "keywords": "❤️❤️❤️❤️❤️❤️❤️❤️❤️🤟❤️❤️❤️❤️❤️❤️❤️❤️❤️🤟🤟🤟🤟🤟🤟🤟🤟🤟🤟❤️❤️❤️❤️❤️😍😍😍🤣😍🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣😁😁😁😁😁😁😁😁😁😁🤪🤪🤪🤪🤪🤪🤪🤪🤪🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈☀️🌈🌈🌈🌈🌈☀️☀️☀️☀️😁😁😁🤣🤣😂😂😂😂😂😂😂😍😍😍😍😍😍🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤪🤟🤟🤟🤟🤟🤟🤟🤟🤟🤟😁😁😁😁😁😏😏😏😏😏😏😏😏😏😏😏😏",
+   "counts": 11
+  },
+  {
+   "keywords": "text",
+   "counts": 11
+  },
+  {
+   "keywords": "run-on",
+   "counts": 11
+  },
+  {
+   "keywords": "interactive",
+   "counts": 11
+  },
+  {
+   "keywords": "stressful",
+   "counts": 11
+  },
+  {
+   "keywords": "impeccable",
+   "counts": 11
+  },
+  {
+   "keywords": "song",
+   "counts": 11
+  },
+  {
+   "keywords": "eight-year-old",
+   "counts": 11
+  },
+  {
+   "keywords": "perfecto",
+   "counts": 11
+  },
+  {
+   "keywords": "uhm",
+   "counts": 11
+  },
+  {
+   "keywords": "faverat",
+   "counts": 11
+  },
+  {
+   "keywords": "belated",
+   "counts": 11
+  },
+  {
+   "keywords": "map",
+   "counts": 11
+  },
+  {
+   "keywords": "Thiss",
+   "counts": 11
+  },
+  {
+   "keywords": "oby",
+   "counts": 11
+  },
+  {
+   "keywords": "runig",
+   "counts": 11
+  },
+  {
+   "keywords": "extreme",
+   "counts": 11
+  },
+  {
+   "keywords": "valuable",
+   "counts": 11
+  },
+  {
+   "keywords": "Сука",
+   "counts": 11
+  },
+  {
+   "keywords": "up",
+   "counts": 11
+  },
+  {
+   "keywords": "mwa",
+   "counts": 11
+  },
+  {
+   "keywords": "girly",
+   "counts": 11
+  },
+  {
+   "keywords": "diverse",
+   "counts": 11
+  },
+  {
+   "keywords": "unlimited",
+   "counts": 11
+  },
+  {
+   "keywords": "w/e",
+   "counts": 11
+  },
+  {
+   "keywords": "handsome",
+   "counts": 11
+  },
+  {
+   "keywords": "sunshine",
+   "counts": 11
+  },
+  {
+   "keywords": "elusive",
+   "counts": 11
+  },
+  {
+   "keywords": "underrated",
+   "counts": 11
+  },
+  {
+   "keywords": "underground",
+   "counts": 11
+  },
+  {
+   "keywords": "Complete",
+   "counts": 11
+  },
+  {
+   "keywords": "pog",
+   "counts": 11
+  },
+  {
+   "keywords": "—/—",
+   "counts": 11
+  },
+  {
+   "keywords": "lgbtq+",
+   "counts": 11
+  },
+  {
+   "keywords": "exclusive",
+   "counts": 11
+  },
+  {
+   "keywords": "bop",
+   "counts": 11
+  },
+  {
+   "keywords": "🤣this",
+   "counts": 11
+  },
+  {
+   "keywords": "btw",
+   "counts": 11
+  },
+  {
+   "keywords": "covid",
+   "counts": 11
+  },
+  {
+   "keywords": "juego",
+   "counts": 10
+  },
+  {
+   "keywords": "um",
+   "counts": 10
+  },
+  {
+   "keywords": "old/fat",
+   "counts": 10
+  },
+  {
+   "keywords": "GREAt",
+   "counts": 10
+  },
+  {
+   "keywords": "stress-easing",
+   "counts": 10
+  },
+  {
+   "keywords": "hi",
+   "counts": 10
+  },
+  {
+   "keywords": "educational",
+   "counts": 10
+  },
+  {
+   "keywords": "glitches",
+   "counts": 10
+  },
+  {
+   "keywords": "Second",
+   "counts": 10
+  },
+  {
+   "keywords": "sizde",
+   "counts": 10
+  },
+  {
+   "keywords": "several",
+   "counts": 10
+  },
+  {
+   "keywords": "5-6",
+   "counts": 10
+  },
+  {
+   "keywords": "😎",
+   "counts": 10
+  },
+  {
+   "keywords": "infancia",
+   "counts": 10
+  },
+  {
+   "keywords": "tokyo",
+   "counts": 10
+  },
+  {
+   "keywords": "pls",
+   "counts": 10
+  },
+  {
+   "keywords": "nunca",
+   "counts": 10
+  },
+  {
+   "keywords": "world-",
+   "counts": 10
+  },
+  {
+   "keywords": "🔥👍the",
+   "counts": 10
+  },
+  {
+   "keywords": "ordonary",
+   "counts": 10
+  },
+  {
+   "keywords": "muy",
+   "counts": 10
+  },
+  {
+   "keywords": "legitimate",
+   "counts": 10
+  },
+  {
+   "keywords": "EASY",
+   "counts": 10
+  },
+  {
+   "keywords": "ran",
+   "counts": 10
+  },
+  {
+   "keywords": "white",
+   "counts": 10
+  },
+  {
+   "keywords": "el",
+   "counts": 10
+  },
+  {
+   "keywords": "Big",
+   "counts": 10
+  },
+  {
+   "keywords": "addicting…",
+   "counts": 10
+  },
+  {
+   "keywords": "unlocked",
+   "counts": 10
+  },
+  {
+   "keywords": "low",
+   "counts": 10
+  },
+  {
+   "keywords": "coolMy",
+   "counts": 10
+  },
+  {
+   "keywords": "trae",
+   "counts": 10
+  },
+  {
+   "keywords": "outfit",
+   "counts": 10
+  },
+  {
+   "keywords": "❤️😥boy",
+   "counts": 10
+  },
+  {
+   "keywords": "itShe",
+   "counts": 10
+  },
+  {
+   "keywords": "ENTERTAINING",
+   "counts": 10
+  },
+  {
+   "keywords": "recuerdos",
+   "counts": 10
+  },
+  {
+   "keywords": "tiempo",
+   "counts": 10
+  },
+  {
+   "keywords": "ly",
+   "counts": 10
+  },
+  {
+   "keywords": "sutible",
+   "counts": 10
+  },
+  {
+   "keywords": "satisfied",
+   "counts": 10
+  },
+  {
+   "keywords": "pleas",
+   "counts": 10
+  },
+  {
+   "keywords": "sticky",
+   "counts": 10
+  },
+  {
+   "keywords": "speechless",
+   "counts": 10
+  },
+  {
+   "keywords": "personajes",
+   "counts": 10
+  },
+  {
+   "keywords": "well-",
+   "counts": 10
+  },
+  {
+   "keywords": "fue",
+   "counts": 10
+  },
+  {
+   "keywords": "give-",
+   "counts": 10
+  },
+  {
+   "keywords": "básico",
+   "counts": 10
+  },
+  {
+   "keywords": "dat",
+   "counts": 9
+  },
+  {
+   "keywords": "joyful",
+   "counts": 9
+  },
+  {
+   "keywords": "miss",
+   "counts": 9
+  },
+  {
+   "keywords": "nintendo",
+   "counts": 9
+  },
+  {
+   "keywords": "finish",
+   "counts": 9
+  },
+  {
+   "keywords": "como",
+   "counts": 9
+  },
+  {
+   "keywords": "cool😩Thank",
+   "counts": 9
+  },
+  {
+   "keywords": "human",
+   "counts": 9
+  },
+  {
+   "keywords": "kidI",
+   "counts": 9
+  },
+  {
+   "keywords": "saw",
+   "counts": 9
+  },
+  {
+   "keywords": "stumble",
+   "counts": 9
+  },
+  {
+   "keywords": "LAGGY",
+   "counts": 9
+  },
+  {
+   "keywords": "advanced",
+   "counts": 9
+  },
+  {
+   "keywords": "looooong",
+   "counts": 9
+  },
+  {
+   "keywords": "jumbo",
+   "counts": 9
+  },
+  {
+   "keywords": "sudden",
+   "counts": 9
+  },
+  {
+   "keywords": "chungus",
+   "counts": 9
+  },
+  {
+   "keywords": "personalized",
+   "counts": 9
+  },
+  {
+   "keywords": "expertacular",
+   "counts": 9
+  },
+  {
+   "keywords": "sky",
+   "counts": 9
+  },
+  {
+   "keywords": "5-15",
+   "counts": 9
+  },
+  {
+   "keywords": "mischief",
+   "counts": 9
+  },
+  {
+   "keywords": "local",
+   "counts": 9
+  },
+  {
+   "keywords": "limited.-",
+   "counts": 9
+  },
+  {
+   "keywords": "xc",
+   "counts": 9
+  },
+  {
+   "keywords": "bean",
+   "counts": 9
+  },
+  {
+   "keywords": "recommend",
+   "counts": 9
+  },
+  {
+   "keywords": "tired",
+   "counts": 9
+  },
+  {
+   "keywords": "near",
+   "counts": 9
+  },
+  {
+   "keywords": "aCertain",
+   "counts": 9
+  },
+  {
+   "keywords": "😇Overall",
+   "counts": 9
+  },
+  {
+   "keywords": "achievement",
+   "counts": 9
+  },
+  {
+   "keywords": "bc",
+   "counts": 9
+  },
+  {
+   "keywords": "genial",
+   "counts": 9
+  },
+  {
+   "keywords": "minor",
+   "counts": 9
+  },
+  {
+   "keywords": "bus",
+   "counts": 9
+  },
+  {
+   "keywords": "electric",
+   "counts": 9
+  },
+  {
+   "keywords": "usual",
+   "counts": 9
+  },
+  {
+   "keywords": "so",
+   "counts": 9
+  },
+  {
+   "keywords": "chill",
+   "counts": 9
+  },
+  {
+   "keywords": "careful",
+   "counts": 9
+  },
+  {
+   "keywords": "Bye",
+   "counts": 9
+  },
+  {
+   "keywords": "bo",
+   "counts": 9
+  },
+  {
+   "keywords": "Addictive",
+   "counts": 9
+  },
+  {
+   "keywords": "adult",
+   "counts": 9
+  },
+  {
+   "keywords": "further",
+   "counts": 9
+  },
+  {
+   "keywords": "❤️~FoxGirl",
+   "counts": 9
+  },
+  {
+   "keywords": "contribute",
+   "counts": 9
+  },
+  {
+   "keywords": "sheet",
+   "counts": 8
+  },
+  {
+   "keywords": "dizzy",
+   "counts": 8
+  },
+  {
+   "keywords": "believe",
+   "counts": 8
+  },
+  {
+   "keywords": "]",
+   "counts": 8
+  },
+  {
+   "keywords": "Sad",
+   "counts": 8
+  },
+  {
+   "keywords": "frown",
+   "counts": 8
+  },
+  {
+   "keywords": "freedom",
+   "counts": 8
+  },
+  {
+   "keywords": "cropped",
+   "counts": 8
+  },
+  {
+   "keywords": "screen",
+   "counts": 8
+  },
+  {
+   "keywords": "unisex",
+   "counts": 8
+  },
+  {
+   "keywords": "nine-year-old",
+   "counts": 8
+  },
+  {
+   "keywords": "ups",
+   "counts": 8
+  },
+  {
+   "keywords": "ripped",
+   "counts": 8
+  },
+  {
+   "keywords": "Russian",
+   "counts": 8
+  },
+  {
+   "keywords": "full",
+   "counts": 8
+  },
+  {
+   "keywords": "satisfying",
+   "counts": 8
+  },
+  {
+   "keywords": "happier",
+   "counts": 8
+  },
+  {
+   "keywords": "diffrent",
+   "counts": 8
+  },
+  {
+   "keywords": "non-binary",
+   "counts": 8
+  },
+  {
+   "keywords": "Expensive",
+   "counts": 8
+  },
+  {
+   "keywords": "lotttttt",
+   "counts": 8
+  },
+  {
+   "keywords": "omg",
+   "counts": 8
+  },
+  {
+   "keywords": "shocking",
+   "counts": 8
+  },
+  {
+   "keywords": "trickys",
+   "counts": 8
+  },
+  {
+   "keywords": "happpy",
+   "counts": 8
+  },
+  {
+   "keywords": "confident",
+   "counts": 8
+  },
+  {
+   "keywords": "elementary",
+   "counts": 8
+  },
+  {
+   "keywords": "upgraded",
+   "counts": 8
+  },
+  {
+   "keywords": "best",
+   "counts": 8
+  },
+  {
+   "keywords": "co-op",
+   "counts": 8
+  },
+  {
+   "keywords": "animated",
+   "counts": 8
+  },
+  {
+   "keywords": "Beautiful",
+   "counts": 8
+  },
+  {
+   "keywords": "+-",
+   "counts": 8
+  },
+  {
+   "keywords": "SURE",
+   "counts": 8
+  },
+  {
+   "keywords": "animal",
+   "counts": 8
+  },
+  {
+   "keywords": "-+",
+   "counts": 8
+  },
+  {
+   "keywords": "sooooooooo",
+   "counts": 8
+  },
+  {
+   "keywords": "smooth",
+   "counts": 8
+  },
+  {
+   "keywords": "let",
+   "counts": 8
+  },
+  {
+   "keywords": "clever",
+   "counts": 8
+  },
+  {
+   "keywords": "FOR",
+   "counts": 8
+  },
+  {
+   "keywords": "train",
+   "counts": 8
+  },
+  {
+   "keywords": "Mobile",
+   "counts": 8
+  },
+  {
+   "keywords": "savior",
+   "counts": 8
+  },
+  {
+   "keywords": "surfer",
+   "counts": 8
+  },
+  {
+   "keywords": "help",
+   "counts": 8
+  },
+  {
+   "keywords": "toucan",
+   "counts": 8
+  },
+  {
+   "keywords": "pure",
+   "counts": 8
+  },
+  {
+   "keywords": "fin",
+   "counts": 8
+  },
+  {
+   "keywords": "😤😭😢😰😥🥺😩😫😖😣😔😟😕🙁☹️🤭😵🤧🤮👎🏻He",
+   "counts": 8
+  },
+  {
+   "keywords": "nonstop",
+   "counts": 8
+  },
+  {
+   "keywords": "☞",
+   "counts": 8
+  },
+  {
+   "keywords": "arabic",
+   "counts": 8
+  },
+  {
+   "keywords": "electronic",
+   "counts": 8
+  },
+  {
+   "keywords": "everybody",
+   "counts": 8
+  },
+  {
+   "keywords": "25-100",
+   "counts": 8
+  },
+  {
+   "keywords": "perfect.If",
+   "counts": 7
+  },
+  {
+   "keywords": "raceing",
+   "counts": 7
+  },
+  {
+   "keywords": "eyed",
+   "counts": 7
+  },
+  {
+   "keywords": "diabetic",
+   "counts": 7
+  },
+  {
+   "keywords": "invisible",
+   "counts": 7
+  },
+  {
+   "keywords": "lgbt+",
+   "counts": 7
+  },
+  {
+   "keywords": "stick",
+   "counts": 7
+  },
+  {
+   "keywords": "soooooooo",
+   "counts": 7
+  },
+  {
+   "keywords": "fly",
+   "counts": 7
+  },
+  {
+   "keywords": "unexpected",
+   "counts": 7
+  },
+  {
+   "keywords": "judgmental",
+   "counts": 7
+  },
+  {
+   "keywords": "😎🦋🦋🤩😜😜😜",
+   "counts": 7
+  },
+  {
+   "keywords": "mindless",
+   "counts": 7
+  },
+  {
+   "keywords": "…",
+   "counts": 7
+  },
+  {
+   "keywords": "confused",
+   "counts": 7
+  },
+  {
+   "keywords": "inclusive",
+   "counts": 7
+  },
+  {
+   "keywords": "add",
+   "counts": 7
+  },
+  {
+   "keywords": "hangout",
+   "counts": 7
+  },
+  {
+   "keywords": "various",
+   "counts": 7
+  },
+  {
+   "keywords": "weired",
+   "counts": 7
+  },
+  {
+   "keywords": "al",
+   "counts": 7
+  },
+  {
+   "keywords": "😁I",
+   "counts": 7
+  },
+  {
+   "keywords": "gnarly",
+   "counts": 7
+  },
+  {
+   "keywords": "january",
+   "counts": 7
+  },
+  {
+   "keywords": "less",
+   "counts": 7
+  },
+  {
+   "keywords": "fricken",
+   "counts": 7
+  },
+  {
+   "keywords": "equal",
+   "counts": 7
+  },
+  {
+   "keywords": "sorta",
+   "counts": 7
+  },
+  {
+   "keywords": "alll",
+   "counts": 7
+  },
+  {
+   "keywords": "uour",
+   "counts": 7
+  },
+  {
+   "keywords": "tho",
+   "counts": 7
+  },
+  {
+   "keywords": "NOTHING",
+   "counts": 7
+  },
+  {
+   "keywords": "tubular",
+   "counts": 7
+  },
+  {
+   "keywords": "forAll",
+   "counts": 7
+  },
+  {
+   "keywords": "hot🤤🥶🍔😈🇺🇸",
+   "counts": 7
+  },
+  {
+   "keywords": ".Me",
+   "counts": 7
+  },
+  {
+   "keywords": "preference",
+   "counts": 7
+  },
+  {
+   "keywords": "soooooooooo",
+   "counts": 7
+  },
+  {
+   "keywords": "dinosaur",
+   "counts": 7
+  },
+  {
+   "keywords": "boombot",
+   "counts": 7
+  },
+  {
+   "keywords": "throng",
+   "counts": 7
+  },
+  {
+   "keywords": "entertaning",
+   "counts": 7
+  },
+  {
+   "keywords": "lovely",
+   "counts": 7
+  },
+  {
+   "keywords": "overweight",
+   "counts": 7
+  },
+  {
+   "keywords": "collected",
+   "counts": 7
+  },
+  {
+   "keywords": "useless",
+   "counts": 7
+  },
+  {
+   "keywords": "stationary",
+   "counts": 7
+  },
+  {
+   "keywords": "opposite",
+   "counts": 7
+  },
+  {
+   "keywords": "high-quality",
+   "counts": 7
+  },
+  {
+   "keywords": "high-tech",
+   "counts": 7
+  },
+  {
+   "keywords": "traditional",
+   "counts": 6
+  },
+  {
+   "keywords": "concentrating",
+   "counts": 6
+  },
+  {
+   "keywords": "overpriced",
+   "counts": 6
+  },
+  {
+   "keywords": "cheap",
+   "counts": 6
+  },
+  {
+   "keywords": "mabye",
+   "counts": 6
+  },
+  {
+   "keywords": "present",
+   "counts": 6
+  },
+  {
+   "keywords": "App",
+   "counts": 6
+  },
+  {
+   "keywords": "stupendous",
+   "counts": 6
+  },
+  {
+   "keywords": "⭐️⭐️⭐️⭐️⭐️",
+   "counts": 6
+  },
+  {
+   "keywords": "everything.So",
+   "counts": 6
+  },
+  {
+   "keywords": "enjoying",
+   "counts": 6
+  },
+  {
+   "keywords": "ohh",
+   "counts": 6
+  },
+  {
+   "keywords": "songHup",
+   "counts": 6
+  },
+  {
+   "keywords": "AWSOME",
+   "counts": 6
+  },
+  {
+   "keywords": "r-r-r",
+   "counts": 6
+  },
+  {
+   "keywords": "occupying",
+   "counts": 6
+  },
+  {
+   "keywords": "ᴘʟᴀʏᴇᴅ",
+   "counts": 6
+  },
+  {
+   "keywords": "re-downloaded",
+   "counts": 6
+  },
+  {
+   "keywords": "hup",
+   "counts": 6
+  },
+  {
+   "keywords": "international",
+   "counts": 6
+  },
+  {
+   "keywords": "aren",
+   "counts": 6
+  },
+  {
+   "keywords": "Due",
+   "counts": 6
+  },
+  {
+   "keywords": "two-year",
+   "counts": 6
+  },
+  {
+   "keywords": "blank",
+   "counts": 6
+  },
+  {
+   "keywords": "forced",
+   "counts": 6
+  },
+  {
+   "keywords": "timeI",
+   "counts": 6
+  },
+  {
+   "keywords": "100-5,000",
+   "counts": 6
+  },
+  {
+   "keywords": "along",
+   "counts": 6
+  },
+  {
+   "keywords": "zippy",
+   "counts": 6
+  },
+  {
+   "keywords": "heigh",
+   "counts": 6
+  },
+  {
+   "keywords": "upgrades",
+   "counts": 6
+  },
+  {
+   "keywords": "wasn",
+   "counts": 6
+  },
+  {
+   "keywords": "it.it",
+   "counts": 6
+  },
+  {
+   "keywords": "❌",
+   "counts": 6
+  },
+  {
+   "keywords": "ompa",
+   "counts": 6
+  },
+  {
+   "keywords": "rhe",
+   "counts": 6
+  },
+  {
+   "keywords": "freeFrom",
+   "counts": 6
+  },
+  {
+   "keywords": "caut",
+   "counts": 6
+  },
+  {
+   "keywords": "read",
+   "counts": 6
+  },
+  {
+   "keywords": "fix",
+   "counts": 6
+  },
+  {
+   "keywords": "unbl",
+   "counts": 6
+  },
+  {
+   "keywords": "..........",
+   "counts": 6
+  },
+  {
+   "keywords": "🤩-_-",
+   "counts": 6
+  },
+  {
+   "keywords": "pricey",
+   "counts": 6
+  },
+  {
+   "keywords": "Gorgeous",
+   "counts": 6
+  },
+  {
+   "keywords": "trixy",
+   "counts": 5
+  },
+  {
+   "keywords": "content",
+   "counts": 5
+  },
+  {
+   "keywords": "surprised",
+   "counts": 5
+  },
+  {
+   "keywords": "android",
+   "counts": 5
+  },
+  {
+   "keywords": "impossible",
+   "counts": 5
+  },
+  {
+   "keywords": "customizable",
+   "counts": 5
+  },
+  {
+   "keywords": "bright",
+   "counts": 5
+  },
+  {
+   "keywords": "soooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooopmuch",
+   "counts": 5
+  },
+  {
+   "keywords": "sooooooooooooooooooooooooo",
+   "counts": 5
+  },
+  {
+   "keywords": "mine.This",
+   "counts": 5
+  },
+  {
+   "keywords": "o",
+   "counts": 5
+  },
+  {
+   "keywords": "2015-2016",
+   "counts": 5
+  },
+  {
+   "keywords": "accurate",
+   "counts": 5
+  },
+  {
+   "keywords": "intro",
+   "counts": 5
+  },
+  {
+   "keywords": "fasho",
+   "counts": 5
+  },
+  {
+   "keywords": "-͎",
+   "counts": 5
+  },
+  {
+   "keywords": "it-",
+   "counts": 5
+  },
+  {
+   "keywords": "cry",
+   "counts": 5
+  },
+  {
+   "keywords": "game.Sincerely",
+   "counts": 5
+  },
+  {
+   "keywords": "great❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️🤘🏿",
+   "counts": 5
+  },
+  {
+   "keywords": "close",
+   "counts": 5
+  },
+  {
+   "keywords": "modern",
+   "counts": 5
+  },
+  {
+   "keywords": "҈",
+   "counts": 5
+  },
+  {
+   "keywords": "mite",
+   "counts": 5
+  },
+  {
+   "keywords": "funnn",
+   "counts": 5
+  },
+  {
+   "keywords": "problemwith",
+   "counts": 5
+  },
+  {
+   "keywords": "҉",
+   "counts": 5
+  },
+  {
+   "keywords": "competitive.My",
+   "counts": 5
+  },
+  {
+   "keywords": "well-made",
+   "counts": 5
+  },
+  {
+   "keywords": "ă̈",
+   "counts": 5
+  },
+  {
+   "keywords": "valid",
+   "counts": 5
+  },
+  {
+   "keywords": "ducking",
+   "counts": 5
+  },
+  {
+   "keywords": "2013-2014",
+   "counts": 5
+  },
+  {
+   "keywords": "itt",
+   "counts": 5
+  },
+  {
+   "keywords": "similar",
+   "counts": 5
+  },
+  {
+   "keywords": "refund",
+   "counts": 5
+  },
+  {
+   "keywords": "͎B͎e͎s͎t͎r͎a͎t͎e͎r͎ኗዐዐዕ",
+   "counts": 5
+  },
+  {
+   "keywords": "mk",
+   "counts": 5
+  },
+  {
+   "keywords": "BEST",
+   "counts": 4
+  },
+  {
+   "keywords": "offensive",
+   "counts": 4
+  },
+  {
+   "keywords": "divertido",
+   "counts": 4
+  },
+  {
+   "keywords": "👋🏻",
+   "counts": 4
+  },
+  {
+   "keywords": "👏😘boy",
+   "counts": 4
+  },
+  {
+   "keywords": "left/right",
+   "counts": 4
+  },
+  {
+   "keywords": "😓",
+   "counts": 4
+  },
+  {
+   "keywords": "scared",
+   "counts": 4
+  },
+  {
+   "keywords": "goooooddddd",
+   "counts": 4
+  },
+  {
+   "keywords": "RAD",
+   "counts": 4
+  },
+  {
+   "keywords": "fortnite",
+   "counts": 4
+  },
+  {
+   "keywords": "ⓘ",
+   "counts": 4
+  },
+  {
+   "keywords": "sir",
+   "counts": 4
+  },
+  {
+   "keywords": "willing",
+   "counts": 4
+  },
+  {
+   "keywords": "etc",
+   "counts": 4
+  },
+  {
+   "keywords": "high-jumping",
+   "counts": 4
+  },
+  {
+   "keywords": "league",
+   "counts": 4
+  },
+  {
+   "keywords": "nightmaresThis",
+   "counts": 4
+  },
+  {
+   "keywords": "dry",
+   "counts": 4
+  },
+  {
+   "keywords": "straight",
+   "counts": 4
+  },
+  {
+   "keywords": "sandwich",
+   "counts": 4
+  },
+  {
+   "keywords": "monkey",
+   "counts": 4
+  },
+  {
+   "keywords": "otra",
+   "counts": 4
+  },
+  {
+   "keywords": "✌🏼👍🏼👍🏼👍🏼✌🏼✌🏼👍🏼✌🏼✌🏼👍🏼✌🏼✌🏼😃",
+   "counts": 4
+  },
+  {
+   "keywords": "Much",
+   "counts": 4
+  },
+  {
+   "keywords": "nighttime",
+   "counts": 4
+  },
+  {
+   "keywords": "clown",
+   "counts": 4
+  },
+  {
+   "keywords": "SATISFYING",
+   "counts": 4
+  },
+  {
+   "keywords": "utter",
+   "counts": 4
+  },
+  {
+   "keywords": "quiero",
+   "counts": 4
+  },
+  {
+   "keywords": "perfect.😍😜",
+   "counts": 4
+  },
+  {
+   "keywords": "‘",
+   "counts": 4
+  },
+  {
+   "keywords": "😋",
+   "counts": 4
+  },
+  {
+   "keywords": "funnnnnn",
+   "counts": 4
+  },
+  {
+   "keywords": "ever-Famous",
+   "counts": 4
+  },
+  {
+   "keywords": "allsome",
+   "counts": 4
+  },
+  {
+   "keywords": "facebook",
+   "counts": 4
+  },
+  {
+   "keywords": "wean",
+   "counts": 4
+  },
+  {
+   "keywords": "𝓽𝓱𝓪𝓽",
+   "counts": 4
+  },
+  {
+   "keywords": "fun.it",
+   "counts": 4
+  },
+  {
+   "keywords": "old🤣",
+   "counts": 4
+  },
+  {
+   "keywords": "cried",
+   "counts": 4
+  },
+  {
+   "keywords": "frank",
+   "counts": 4
+  },
+  {
+   "keywords": "free.I",
+   "counts": 4
+  },
+  {
+   "keywords": "down",
+   "counts": 4
+  },
+  {
+   "keywords": "profile",
+   "counts": 4
+  },
+  {
+   "keywords": "insteadAnd",
+   "counts": 4
+  },
+  {
+   "keywords": "gotcha",
+   "counts": 4
+  },
+  {
+   "keywords": "break",
+   "counts": 4
+  },
+  {
+   "keywords": "shup",
+   "counts": 4
+  },
+  {
+   "keywords": "inspiring",
+   "counts": 4
+  },
+  {
+   "keywords": "hablar",
+   "counts": 4
+  },
+  {
+   "keywords": "tat",
+   "counts": 4
+  },
+  {
+   "keywords": "platformer",
+   "counts": 4
+  },
+  {
+   "keywords": "Deep",
+   "counts": 3
+  },
+  {
+   "keywords": "r-r-r-roll💿up⬆️to2️⃣the🤩party🥳with🧶my🧚crazy🤪pink💝wig💇🏼‍♀️but🍑I😍cant😔get😎through😡the💫door🙃because😇my🎂bootys😱too2️⃣big😉one1️⃣percent",
+   "counts": 3
+  },
+  {
+   "keywords": "bronze",
+   "counts": 3
+  },
+  {
+   "keywords": "manny",
+   "counts": 3
+  },
+  {
+   "keywords": "CLASSIC",
+   "counts": 3
+  },
+  {
+   "keywords": "quita",
+   "counts": 3
+  },
+  {
+   "keywords": "🛏yes",
+   "counts": 3
+  },
+  {
+   "keywords": "SOO",
+   "counts": 3
+  },
+  {
+   "keywords": "tik",
+   "counts": 3
+  },
+  {
+   "keywords": "fun.the",
+   "counts": 3
+  },
+  {
+   "keywords": "deaf",
+   "counts": 3
+  },
+  {
+   "keywords": "empty",
+   "counts": 3
+  },
+  {
+   "keywords": "subway-",
+   "counts": 3
+  },
+  {
+   "keywords": "fire",
+   "counts": 3
+  },
+  {
+   "keywords": "pretty.5",
+   "counts": 3
+  },
+  {
+   "keywords": "🆓",
+   "counts": 3
+  },
+  {
+   "keywords": "cartoon",
+   "counts": 3
+  },
+  {
+   "keywords": "disabled",
+   "counts": 3
+  },
+  {
+   "keywords": "skating",
+   "counts": 3
+  },
+  {
+   "keywords": "easyReconstructive",
+   "counts": 3
+  },
+  {
+   "keywords": "fellow",
+   "counts": 3
+  },
+  {
+   "keywords": "surfers😃",
+   "counts": 3
+  },
+  {
+   "keywords": "fun.It",
+   "counts": 3
+  },
+  {
+   "keywords": "jugando",
+   "counts": 3
+  },
+  {
+   "keywords": "thankful",
+   "counts": 3
+  },
+  {
+   "keywords": "clean",
+   "counts": 3
+  },
+  {
+   "keywords": "easy.The",
+   "counts": 3
+  },
+  {
+   "keywords": "excessive",
+   "counts": 3
+  },
+  {
+   "keywords": "😳",
+   "counts": 3
+  },
+  {
+   "keywords": "third",
+   "counts": 3
+  },
+  {
+   "keywords": "informative",
+   "counts": 3
+  },
+  {
+   "keywords": "🔥🔥🔥great",
+   "counts": 2
+  },
+  {
+   "keywords": "Next",
+   "counts": 2
+  },
+  {
+   "keywords": "3-5",
+   "counts": 2
+  },
+  {
+   "keywords": "literal",
+   "counts": 2
+  },
+  {
+   "keywords": "wee",
+   "counts": 2
+  },
+  {
+   "keywords": "visual",
+   "counts": 2
+  },
+  {
+   "keywords": "fun.—————————-_———————————————",
+   "counts": 2
+  },
+  {
+   "keywords": "famous",
+   "counts": 2
+  },
+  {
+   "keywords": "hermanos",
+   "counts": 2
+  },
+  {
+   "keywords": "gubthe",
+   "counts": 2
+  },
+  {
+   "keywords": "relaly",
+   "counts": 2
+  },
+  {
+   "keywords": "PERMANENT",
+   "counts": 2
+  },
+  {
+   "keywords": "ofmy",
+   "counts": 2
+  },
+  {
+   "keywords": "much.❤️",
+   "counts": 2
+  },
+  {
+   "keywords": "haha.long",
+   "counts": 2
+  },
+  {
+   "keywords": "it.I",
+   "counts": 2
+  },
+  {
+   "keywords": "boundary",
+   "counts": 2
+  },
+  {
+   "keywords": "daddy",
+   "counts": 2
+  },
+  {
+   "keywords": "واو",
+   "counts": 2
+  },
+  {
+   "keywords": "shoe",
+   "counts": 2
+  },
+  {
+   "keywords": "familia",
+   "counts": 2
+  },
+  {
+   "keywords": "haha",
+   "counts": 2
+  },
+  {
+   "keywords": "son",
+   "counts": 2
+  },
+  {
+   "keywords": "😁😁😁🤪☺️🤗🥳🤩😊😁😁😁😁this",
+   "counts": 2
+  },
+  {
+   "keywords": "green",
+   "counts": 2
+  },
+  {
+   "keywords": "adds.My",
+   "counts": 2
+  },
+  {
+   "keywords": "experienced",
+   "counts": 2
+  },
+  {
+   "keywords": "wide",
+   "counts": 2
+  },
+  {
+   "keywords": "welcome",
+   "counts": 2
+  },
+  {
+   "keywords": "envy",
+   "counts": 2
+  },
+  {
+   "keywords": "now.I",
+   "counts": 2
+  },
+  {
+   "keywords": "annoyed",
+   "counts": 2
+  },
+  {
+   "keywords": "require",
+   "counts": 2
+  },
+  {
+   "keywords": "5-6yrs",
+   "counts": 2
+  },
+  {
+   "keywords": "fun🤩🤩🤩🤩🤩🤩",
+   "counts": 2
+  },
+  {
+   "keywords": "worthy",
+   "counts": 2
+  },
+  {
+   "keywords": "charactersImprove",
+   "counts": 2
+  },
+  {
+   "keywords": "bagang",
+   "counts": 2
+  },
+  {
+   "keywords": "secret",
+   "counts": 2
+  },
+  {
+   "keywords": "bear",
+   "counts": 2
+  },
+  {
+   "keywords": "weewee",
+   "counts": 2
+  },
+  {
+   "keywords": "bless",
+   "counts": 2
+  },
+  {
+   "keywords": "customized",
+   "counts": 2
+  },
+  {
+   "keywords": "more.-Don",
+   "counts": 2
+  },
+  {
+   "keywords": "🔯🔯",
+   "counts": 2
+  },
+  {
+   "keywords": "avatars.I",
+   "counts": 2
+  },
+  {
+   "keywords": "poc",
+   "counts": 2
+  },
+  {
+   "keywords": "sooooooooooo",
+   "counts": 2
+  },
+  {
+   "keywords": "stranger",
+   "counts": 2
+  },
+  {
+   "keywords": "sooooooo",
+   "counts": 2
+  },
+  {
+   "keywords": "tow",
+   "counts": 2
+  },
+  {
+   "keywords": "diamond",
+   "counts": 2
+  },
+  {
+   "keywords": "neutral",
+   "counts": 2
+  },
+  {
+   "keywords": "upgrade🛹",
+   "counts": 2
+  },
+  {
+   "keywords": "10-15",
+   "counts": 2
+  },
+  {
+   "keywords": "cellular",
+   "counts": 2
+  },
+  {
+   "keywords": "people,20",
+   "counts": 2
+  },
+  {
+   "keywords": "la",
+   "counts": 2
+  },
+  {
+   "keywords": "it😍",
+   "counts": 2
+  },
+  {
+   "keywords": "encanta",
+   "counts": 2
+  },
+  {
+   "keywords": "bridge",
+   "counts": 2
+  },
+  {
+   "keywords": "لعبه",
+   "counts": 1
+  },
+  {
+   "keywords": "gameAwesome",
+   "counts": 1
+  },
+  {
+   "keywords": "surfers😊",
+   "counts": 1
+  },
+  {
+   "keywords": "genius",
+   "counts": 1
+  },
+  {
+   "keywords": "Thant",
+   "counts": 1
+  },
+  {
+   "keywords": "mindful",
+   "counts": 1
+  },
+  {
+   "keywords": "fun😋🍕",
+   "counts": 1
+  },
+  {
+   "keywords": "ㅑㅅ",
+   "counts": 1
+  },
+  {
+   "keywords": "Special",
+   "counts": 1
+  },
+  {
+   "keywords": "dnndbf",
+   "counts": 1
+  },
+  {
+   "keywords": "revive",
+   "counts": 1
+  },
+  {
+   "keywords": "capable",
+   "counts": 1
+  },
+  {
+   "keywords": "skin",
+   "counts": 1
+  },
+  {
+   "keywords": "los",
+   "counts": 1
+  },
+  {
+   "keywords": "standstill",
+   "counts": 1
+  },
+  {
+   "keywords": "subo",
+   "counts": 1
+  },
+  {
+   "keywords": "roblox",
+   "counts": 1
+  },
+  {
+   "keywords": "othher",
+   "counts": 1
+  },
+  {
+   "keywords": "learning",
+   "counts": 1
+  },
+  {
+   "keywords": "fun🤠",
+   "counts": 1
+  },
+  {
+   "keywords": "هل",
+   "counts": 1
+  },
+  {
+   "keywords": "appThis",
+   "counts": 1
+  },
+  {
+   "keywords": "خاصه",
+   "counts": 1
+  },
+  {
+   "keywords": "4-6",
+   "counts": 1
+  },
+  {
+   "keywords": "bunny",
+   "counts": 1
+  },
+  {
+   "keywords": "✍🏾I",
+   "counts": 1
+  },
+  {
+   "keywords": "removable",
+   "counts": 1
+  },
+  {
+   "keywords": "infenent",
+   "counts": 1
+  },
+  {
+   "keywords": "everyone.A",
+   "counts": 1
+  },
+  {
+   "keywords": "grate",
+   "counts": 1
+  },
+  {
+   "keywords": "🅃🄷🄴",
+   "counts": 1
+  },
+  {
+   "keywords": "definite",
+   "counts": 1
+  },
+  {
+   "keywords": "now😍❤️😘💕",
+   "counts": 1
+  },
+  {
+   "keywords": "💕this",
+   "counts": 1
+  },
+  {
+   "keywords": "phenomenal",
+   "counts": 1
+  },
+  {
+   "keywords": "✨El",
+   "counts": 1
+  },
+  {
+   "keywords": "n",
+   "counts": 1
+  },
+  {
+   "keywords": "download",
+   "counts": 1
+  },
+  {
+   "keywords": "❤️🖤🥰Even",
+   "counts": 1
+  },
+  {
+   "keywords": "winter",
+   "counts": 1
+  },
+  {
+   "keywords": "prizes.I",
+   "counts": 1
+  },
+  {
+   "keywords": "fndkks",
+   "counts": 1
+  },
+  {
+   "keywords": "coming",
+   "counts": 1
+  },
+  {
+   "keywords": "brawl",
+   "counts": 1
+  },
+  {
+   "keywords": "awesomeness",
+   "counts": 1
+  },
+  {
+   "keywords": "eny",
+   "counts": 1
+  },
+  {
+   "keywords": "make-your-own",
+   "counts": 1
+  },
+  {
+   "keywords": "objetos",
+   "counts": 1
+  },
+  {
+   "keywords": "shush",
+   "counts": 1
+  },
+  {
+   "keywords": "liek",
+   "counts": 1
+  },
+  {
+   "keywords": "🤩",
+   "counts": 1
+  },
+  {
+   "keywords": "🏄",
+   "counts": 1
+  },
+  {
+   "keywords": "meny",
+   "counts": 1
+  },
+  {
+   "keywords": "successful",
+   "counts": 1
+  },
+  {
+   "keywords": "batman",
+   "counts": 1
+  },
+  {
+   "keywords": "fo",
+   "counts": 1
+  },
+  {
+   "keywords": "loose",
+   "counts": 1
+  },
+  {
+   "keywords": "rad",
+   "counts": 1
+  },
+  {
+   "keywords": "rong",
+   "counts": 1
+  },
+  {
+   "keywords": "loading",
+   "counts": 1
+  },
+  {
+   "keywords": "everything🤔☹️😤",
+   "counts": 1
+  },
+  {
+   "keywords": "hdhdhfbdj",
+   "counts": 1
+  },
+  {
+   "keywords": "Endless",
+   "counts": 1
+  },
+  {
+   "keywords": "Different",
+   "counts": 1
+  },
+  {
+   "keywords": "beast",
+   "counts": 1
+  },
+  {
+   "keywords": "odd",
+   "counts": 1
+  },
+  {
+   "keywords": "🐸😍I",
+   "counts": 1
+  },
+  {
+   "keywords": "overal",
+   "counts": 1
+  },
+  {
+   "keywords": "landscape",
+   "counts": 1
+  },
+  {
+   "keywords": "mini",
+   "counts": 1
+  },
+  {
+   "keywords": "terrible",
+   "counts": 1
+  },
+  {
+   "keywords": "اتمنة",
+   "counts": 1
+  },
+  {
+   "keywords": "loud",
+   "counts": 1
+  }
+ ],
+ "4": [
+  {
+   "keywords": "’",
+   "counts": 2245
+  },
+  {
+   "keywords": "good",
+   "counts": 1822
+  },
+  {
+   "keywords": "s",
+   "counts": 1492
+  },
+  {
+   "keywords": "great",
+   "counts": 1062
+  },
+  {
+   "keywords": "fun",
+   "counts": 941
+  },
+  {
+   "keywords": "new",
+   "counts": 878
+  },
+  {
+   "keywords": "other",
+   "counts": 772
+  },
+  {
+   "keywords": "much",
+   "counts": 588
+  },
+  {
+   "keywords": "many",
+   "counts": 559
+  },
+  {
+   "keywords": "little",
+   "counts": 554
+  },
+  {
+   "keywords": "t",
+   "counts": 515
+  },
+  {
+   "keywords": "only",
+   "counts": 473
+  },
+  {
+   "keywords": "bad",
+   "counts": 399
+  },
+  {
+   "keywords": "hard",
+   "counts": 392
+  },
+  {
+   "keywords": "same",
+   "counts": 366
+  },
+  {
+   "keywords": "different",
+   "counts": 363
+  },
+  {
+   "keywords": "amazing",
+   "counts": 339
+  },
+  {
+   "keywords": "subway",
+   "counts": 328
+  },
+  {
+   "keywords": "old",
+   "counts": 304
+  },
+  {
+   "keywords": "free",
+   "counts": 304
+  },
+  {
+   "keywords": "awesome",
+   "counts": 301
+  },
+  {
+   "keywords": "cool",
+   "counts": 295
+  },
+  {
+   "keywords": "few",
+   "counts": 294
+  },
+  {
+   "keywords": "i",
+   "counts": 275
+  },
+  {
+   "keywords": "wrong",
+   "counts": 259
+  },
+  {
+   "keywords": "high",
+   "counts": 258
+  },
+  {
+   "keywords": "u",
+   "counts": 252
+  },
+  {
+   "keywords": "able",
+   "counts": 232
+  },
+  {
+   "keywords": "expensive",
+   "counts": 227
+  },
+  {
+   "keywords": "real",
+   "counts": 219
+  },
+  {
+   "keywords": "long",
+   "counts": 219
+  },
+  {
+   "keywords": "overall",
+   "counts": 205
+  },
+  {
+   "keywords": "favorite",
+   "counts": 201
+  },
+  {
+   "keywords": "nice",
+   "counts": 198
+  },
+  {
+   "keywords": "ve",
+   "counts": 191
+  },
+  {
+   "keywords": "super",
+   "counts": 184
+  },
+  {
+   "keywords": "first",
+   "counts": 184
+  },
+  {
+   "keywords": "m",
+   "counts": 183
+  },
+  {
+   "keywords": "sure",
+   "counts": 179
+  },
+  {
+   "keywords": "next",
+   "counts": 170
+  },
+  {
+   "keywords": "boring",
+   "counts": 152
+  },
+  {
+   "keywords": "easy",
+   "counts": 145
+  },
+  {
+   "keywords": "please",
+   "counts": 137
+  },
+  {
+   "keywords": "original",
+   "counts": 136
+  },
+  {
+   "keywords": "re",
+   "counts": 134
+  },
+  {
+   "keywords": "update",
+   "counts": 133
+  },
+  {
+   "keywords": "slow",
+   "counts": 131
+  },
+  {
+   "keywords": "Other",
+   "counts": 125
+  },
+  {
+   "keywords": "main",
+   "counts": 124
+  },
+  {
+   "keywords": "pls",
+   "counts": 113
+  },
+  {
+   "keywords": "Great",
+   "counts": 111
+  },
+  {
+   "keywords": "“",
+   "counts": 108
+  },
+  {
+   "keywords": "whole",
+   "counts": 107
+  },
+  {
+   "keywords": "mobile",
+   "counts": 106
+  },
+  {
+   "keywords": "ok",
+   "counts": 99
+  },
+  {
+   "keywords": "last",
+   "counts": 97
+  },
+  {
+   "keywords": "addictive",
+   "counts": 96
+  },
+  {
+   "keywords": "Overall",
+   "counts": 92
+  },
+  {
+   "keywords": "ur",
+   "counts": 92
+  },
+  {
+   "keywords": "top",
+   "counts": 91
+  },
+  {
+   "keywords": "right",
+   "counts": 90
+  },
+  {
+   "keywords": "fine",
+   "counts": 89
+  },
+  {
+   "keywords": "ll",
+   "counts": 88
+  },
+  {
+   "keywords": "big",
+   "counts": 87
+  },
+  {
+   "keywords": "own",
+   "counts": 86
+  },
+  {
+   "keywords": "second",
+   "counts": 84
+  },
+  {
+   "keywords": "birthday",
+   "counts": 84
+  },
+  {
+   "keywords": "kinda",
+   "counts": 73
+  },
+  {
+   "keywords": "addicting",
+   "counts": 71
+  },
+  {
+   "keywords": "classic",
+   "counts": 69
+  },
+  {
+   "keywords": "mad",
+   "counts": 69
+  },
+  {
+   "keywords": "possible",
+   "counts": 68
+  },
+  {
+   "keywords": "laggy",
+   "counts": 68
+  },
+  {
+   "keywords": "d",
+   "counts": 66
+  },
+  {
+   "keywords": "random",
+   "counts": 64
+  },
+  {
+   "keywords": "such",
+   "counts": 62
+  },
+  {
+   "keywords": "sad",
+   "counts": 61
+  },
+  {
+   "keywords": "full",
+   "counts": 61
+  },
+  {
+   "keywords": "horrible",
+   "counts": 60
+  },
+  {
+   "keywords": "add",
+   "counts": 60
+  },
+  {
+   "keywords": "white",
+   "counts": 60
+  },
+  {
+   "keywords": "ridiculous",
+   "counts": 59
+  },
+  {
+   "keywords": "don",
+   "counts": 59
+  },
+  {
+   "keywords": "pretty",
+   "counts": 59
+  },
+  {
+   "keywords": "certain",
+   "counts": 58
+  },
+  {
+   "keywords": "actual",
+   "counts": 58
+  },
+  {
+   "keywords": "annoying",
+   "counts": 56
+  },
+  {
+   "keywords": "interesting",
+   "counts": 56
+  },
+  {
+   "keywords": "Good",
+   "counts": 55
+  },
+  {
+   "keywords": "entire",
+   "counts": 54
+  },
+  {
+   "keywords": "like",
+   "counts": 53
+  },
+  {
+   "keywords": "special",
+   "counts": 52
+  },
+  {
+   "keywords": "isn",
+   "counts": 50
+  },
+  {
+   "keywords": "doesn",
+   "counts": 50
+  },
+  {
+   "keywords": "app",
+   "counts": 49
+  },
+  {
+   "keywords": "wonderful",
+   "counts": 49
+  },
+  {
+   "keywords": "entertaining",
+   "counts": 48
+  },
+  {
+   "keywords": "glitchy",
+   "counts": 47
+  },
+  {
+   "keywords": "og",
+   "counts": 47
+  },
+  {
+   "keywords": "simple",
+   "counts": 46
+  },
+  {
+   "keywords": "happy",
+   "counts": 45
+  },
+  {
+   "keywords": "rid",
+   "counts": 44
+  },
+  {
+   "keywords": "upset",
+   "counts": 44
+  },
+  {
+   "keywords": "unique",
+   "counts": 44
+  },
+  {
+   "keywords": "stupid",
+   "counts": 43
+  },
+  {
+   "keywords": "general",
+   "counts": 43
+  },
+  {
+   "keywords": "weird",
+   "counts": 43
+  },
+  {
+   "keywords": "normal",
+   "counts": 42
+  },
+  {
+   "keywords": "AMAZING",
+   "counts": 42
+  },
+  {
+   "keywords": "wish",
+   "counts": 42
+  },
+  {
+   "keywords": "pride",
+   "counts": 42
+  },
+  {
+   "keywords": "small",
+   "counts": 40
+  },
+  {
+   "keywords": "perfect",
+   "counts": 40
+  },
+  {
+   "keywords": "oh",
+   "counts": 39
+  },
+  {
+   "keywords": "busy",
+   "counts": 39
+  },
+  {
+   "keywords": "bc",
+   "counts": 38
+  },
+  {
+   "keywords": "tiny",
+   "counts": 38
+  },
+  {
+   "keywords": "frustrating",
+   "counts": 37
+  },
+  {
+   "keywords": "available",
+   "counts": 37
+  },
+  {
+   "keywords": "cant",
+   "counts": 36
+  },
+  {
+   "keywords": "offline",
+   "counts": 36
+  },
+  {
+   "keywords": "un",
+   "counts": 35
+  },
+  {
+   "keywords": "hot",
+   "counts": 35
+  },
+  {
+   "keywords": "disappointed",
+   "counts": 35
+  },
+  {
+   "keywords": "true",
+   "counts": 35
+  },
+  {
+   "keywords": "na",
+   "counts": 34
+  },
+  {
+   "keywords": "não",
+   "counts": 34
+  },
+  {
+   "keywords": "unfair",
+   "counts": 33
+  },
+  {
+   "keywords": "minimal",
+   "counts": 32
+  },
+  {
+   "keywords": "due",
+   "counts": 32
+  },
+  {
+   "keywords": "sorry",
+   "counts": 32
+  },
+  {
+   "keywords": "personal",
+   "counts": 31
+  },
+  {
+   "keywords": "lil",
+   "counts": 31
+  },
+  {
+   "keywords": "key",
+   "counts": 31
+  },
+  {
+   "keywords": "fresh",
+   "counts": 30
+  },
+  {
+   "keywords": "alarm",
+   "counts": 30
+  },
+  {
+   "keywords": "go",
+   "counts": 30
+  },
+  {
+   "keywords": "stuff",
+   "counts": 30
+  },
+  {
+   "keywords": "video",
+   "counts": 30
+  },
+  {
+   "keywords": "sound",
+   "counts": 30
+  },
+  {
+   "keywords": "unnecessary",
+   "counts": 29
+  },
+  {
+   "keywords": "particular",
+   "counts": 29
+  },
+  {
+   "keywords": "black",
+   "counts": 28
+  },
+  {
+   "keywords": "regular",
+   "counts": 28
+  },
+  {
+   "keywords": "open",
+   "counts": 28
+  },
+  {
+   "keywords": "magnetic",
+   "counts": 27
+  },
+  {
+   "keywords": "limited",
+   "counts": 27
+  },
+  {
+   "keywords": "cute",
+   "counts": 27
+  },
+  {
+   "keywords": "primary",
+   "counts": 27
+  },
+  {
+   "keywords": "rare",
+   "counts": 26
+  },
+  {
+   "keywords": "surf",
+   "counts": 26
+  },
+  {
+   "keywords": "straight",
+   "counts": 26
+  },
+  {
+   "keywords": "fix",
+   "counts": 26
+  },
+  {
+   "keywords": "single",
+   "counts": 25
+  },
+  {
+   "keywords": "red",
+   "counts": 25
+  },
+  {
+   "keywords": "worth",
+   "counts": 25
+  },
+  {
+   "keywords": "past",
+   "counts": 25
+  },
+  {
+   "keywords": "frozen",
+   "counts": 24
+  },
+  {
+   "keywords": "stressful",
+   "counts": 24
+  },
+  {
+   "keywords": "glad",
+   "counts": 24
+  },
+  {
+   "keywords": "interactive",
+   "counts": 24
+  },
+  {
+   "keywords": "Awesome",
+   "counts": 23
+  },
+  {
+   "keywords": "enough",
+   "counts": 23
+  },
+  {
+   "keywords": "funny",
+   "counts": 23
+  },
+  {
+   "keywords": "didn",
+   "counts": 22
+  },
+  {
+   "keywords": "previous",
+   "counts": 22
+  },
+  {
+   "keywords": "fat",
+   "counts": 22
+  },
+  {
+   "keywords": "angry",
+   "counts": 22
+  },
+  {
+   "keywords": "Japanese",
+   "counts": 22
+  },
+  {
+   "keywords": "several",
+   "counts": 22
+  },
+  {
+   "keywords": "off-sale",
+   "counts": 22
+  },
+  {
+   "keywords": "plz",
+   "counts": 22
+  },
+  {
+   "keywords": "uncomfortable",
+   "counts": 21
+  },
+  {
+   "keywords": "download",
+   "counts": 21
+  },
+  {
+   "keywords": "daily",
+   "counts": 21
+  },
+  {
+   "keywords": "fun.But",
+   "counts": 21
+  },
+  {
+   "keywords": "deep",
+   "counts": 21
+  },
+  {
+   "keywords": "appropriate",
+   "counts": 21
+  },
+  {
+   "keywords": "repetitive",
+   "counts": 21
+  },
+  {
+   "keywords": "dope",
+   "counts": 21
+  },
+  {
+   "keywords": "optional",
+   "counts": 21
+  },
+  {
+   "keywords": "average",
+   "counts": 21
+  },
+  {
+   "keywords": "soooo",
+   "counts": 21
+  },
+  {
+   "keywords": "excellent",
+   "counts": 21
+  },
+  {
+   "keywords": "su",
+   "counts": 21
+  },
+  {
+   "keywords": "frank",
+   "counts": 21
+  },
+  {
+   "keywords": "mean",
+   "counts": 21
+  },
+  {
+   "keywords": "mystery",
+   "counts": 21
+  },
+  {
+   "keywords": "okay",
+   "counts": 21
+  },
+  {
+   "keywords": "rly",
+   "counts": 21
+  },
+  {
+   "keywords": "basic",
+   "counts": 21
+  },
+  {
+   "keywords": "harsh",
+   "counts": 21
+  },
+  {
+   "keywords": "pricey",
+   "counts": 21
+  },
+  {
+   "keywords": "wasn",
+   "counts": 21
+  },
+  {
+   "keywords": "Cool",
+   "counts": 21
+  },
+  {
+   "keywords": "docs",
+   "counts": 21
+  },
+  {
+   "keywords": "COMPLETE",
+   "counts": 21
+  },
+  {
+   "keywords": "fun.Overall",
+   "counts": 21
+  },
+  {
+   "keywords": "impossible",
+   "counts": 20
+  },
+  {
+   "keywords": "coarse",
+   "counts": 20
+  },
+  {
+   "keywords": "caga",
+   "counts": 20
+  },
+  {
+   "keywords": "rude",
+   "counts": 20
+  },
+  {
+   "keywords": "التطبيق",
+   "counts": 20
+  },
+  {
+   "keywords": "ups",
+   "counts": 20
+  },
+  {
+   "keywords": "enojado",
+   "counts": 20
+  },
+  {
+   "keywords": "hagan",
+   "counts": 20
+  },
+  {
+   "keywords": "algo",
+   "counts": 20
+  },
+  {
+   "keywords": "yo",
+   "counts": 20
+  },
+  {
+   "keywords": "somethings.I",
+   "counts": 20
+  },
+  {
+   "keywords": "😳",
+   "counts": 20
+  },
+  {
+   "keywords": "randomized",
+   "counts": 20
+  },
+  {
+   "keywords": "crazy",
+   "counts": 20
+  },
+  {
+   "keywords": "ohh",
+   "counts": 20
+  },
+  {
+   "keywords": "satisfied",
+   "counts": 19
+  },
+  {
+   "keywords": "extra",
+   "counts": 19
+  },
+  {
+   "keywords": "freezes",
+   "counts": 19
+  },
+  {
+   "keywords": "double",
+   "counts": 19
+  },
+  {
+   "keywords": "huge",
+   "counts": 19
+  },
+  {
+   "keywords": "amusing",
+   "counts": 19
+  },
+  {
+   "keywords": "alright",
+   "counts": 19
+  },
+  {
+   "keywords": "cellular",
+   "counts": 19
+  },
+  {
+   "keywords": "alive",
+   "counts": 19
+  },
+  {
+   "keywords": "pack",
+   "counts": 18
+  },
+  {
+   "keywords": "unlock-able",
+   "counts": 18
+  },
+  {
+   "keywords": "lose",
+   "counts": 18
+  },
+  {
+   "keywords": "Many",
+   "counts": 18
+  },
+  {
+   "keywords": "jet",
+   "counts": 18
+  },
+  {
+   "keywords": "jump",
+   "counts": 18
+  },
+  {
+   "keywords": "still…",
+   "counts": 18
+  },
+  {
+   "keywords": "either2",
+   "counts": 18
+  },
+  {
+   "keywords": "👍",
+   "counts": 17
+  },
+  {
+   "keywords": "impressed",
+   "counts": 17
+  },
+  {
+   "keywords": "freaky",
+   "counts": 17
+  },
+  {
+   "keywords": "boy",
+   "counts": 17
+  },
+  {
+   "keywords": "giant",
+   "counts": 17
+  },
+  {
+   "keywords": "GREAT",
+   "counts": 17
+  },
+  {
+   "keywords": "reputational",
+   "counts": 17
+  },
+  {
+   "keywords": "isso",
+   "counts": 17
+  },
+  {
+   "keywords": "broken",
+   "counts": 17
+  },
+  {
+   "keywords": "b-ynnnn",
+   "counts": 17
+  },
+  {
+   "keywords": "willing",
+   "counts": 17
+  },
+  {
+   "keywords": "needed",
+   "counts": 17
+  },
+  {
+   "keywords": "após",
+   "counts": 17
+  },
+  {
+   "keywords": "visible",
+   "counts": 17
+  },
+  {
+   "keywords": "grand",
+   "counts": 17
+  },
+  {
+   "keywords": "update-",
+   "counts": 17
+  },
+  {
+   "keywords": "ecstatic",
+   "counts": 17
+  },
+  {
+   "keywords": "relatable",
+   "counts": 16
+  },
+  {
+   "keywords": "Grown-ups.So",
+   "counts": 16
+  },
+  {
+   "keywords": "lags",
+   "counts": 16
+  },
+  {
+   "keywords": "overpriced",
+   "counts": 16
+  },
+  {
+   "keywords": "frog",
+   "counts": 16
+  },
+  {
+   "keywords": "infinite",
+   "counts": 16
+  },
+  {
+   "keywords": "moronic",
+   "counts": 16
+  },
+  {
+   "keywords": "running",
+   "counts": 16
+  },
+  {
+   "keywords": "Often",
+   "counts": 16
+  },
+  {
+   "keywords": "unreal",
+   "counts": 16
+  },
+  {
+   "keywords": "appreciate.my",
+   "counts": 16
+  },
+  {
+   "keywords": "conscious",
+   "counts": 16
+  },
+  {
+   "keywords": "kids",
+   "counts": 16
+  },
+  {
+   "keywords": "various",
+   "counts": 16
+  },
+  {
+   "keywords": "slick",
+   "counts": 16
+  },
+  {
+   "keywords": "necessary",
+   "counts": 16
+  },
+  {
+   "keywords": "reptilian",
+   "counts": 16
+  },
+  {
+   "keywords": "smart",
+   "counts": 16
+  },
+  {
+   "keywords": "major",
+   "counts": 16
+  },
+  {
+   "keywords": "skillful",
+   "counts": 16
+  },
+  {
+   "keywords": "third",
+   "counts": 16
+  },
+  {
+   "keywords": "bottom",
+   "counts": 16
+  },
+  {
+   "keywords": "noticeable",
+   "counts": 16
+  },
+  {
+   "keywords": "upgrades",
+   "counts": 16
+  },
+  {
+   "keywords": "negative",
+   "counts": 16
+  },
+  {
+   "keywords": "pax",
+   "counts": 16
+  },
+  {
+   "keywords": "half",
+   "counts": 16
+  },
+  {
+   "keywords": "boring👎👍",
+   "counts": 16
+  },
+  {
+   "keywords": "inaccessible",
+   "counts": 15
+  },
+  {
+   "keywords": "competitive",
+   "counts": 15
+  },
+  {
+   "keywords": "accessible",
+   "counts": 15
+  },
+  {
+   "keywords": "Normal",
+   "counts": 15
+  },
+  {
+   "keywords": "missing",
+   "counts": 15
+  },
+  {
+   "keywords": "BIPOC",
+   "counts": 15
+  },
+  {
+   "keywords": "pleased",
+   "counts": 15
+  },
+  {
+   "keywords": "racial",
+   "counts": 15
+  },
+  {
+   "keywords": "cultural",
+   "counts": 15
+  },
+  {
+   "keywords": "disabled",
+   "counts": 15
+  },
+  {
+   "keywords": "common",
+   "counts": 15
+  },
+  {
+   "keywords": "public",
+   "counts": 15
+  },
+  {
+   "keywords": "unsuccessful",
+   "counts": 15
+  },
+  {
+   "keywords": "welcome",
+   "counts": 15
+  },
+  {
+   "keywords": "multiple",
+   "counts": 15
+  },
+  {
+   "keywords": "lucky",
+   "counts": 15
+  },
+  {
+   "keywords": "collectible",
+   "counts": 15
+  },
+  {
+   "keywords": "purple",
+   "counts": 14
+  },
+  {
+   "keywords": "😊😊",
+   "counts": 14
+  },
+  {
+   "keywords": "frustrated",
+   "counts": 14
+  },
+  {
+   "keywords": "pet",
+   "counts": 14
+  },
+  {
+   "keywords": "sync",
+   "counts": 14
+  },
+  {
+   "keywords": "childhood",
+   "counts": 14
+  },
+  {
+   "keywords": "geared",
+   "counts": 14
+  },
+  {
+   "keywords": "jackpot",
+   "counts": 14
+  },
+  {
+   "keywords": "fair",
+   "counts": 14
+  },
+  {
+   "keywords": "forced",
+   "counts": 14
+  },
+  {
+   "keywords": "rewarding",
+   "counts": 14
+  },
+  {
+   "keywords": "select",
+   "counts": 14
+  },
+  {
+   "keywords": "understandable",
+   "counts": 14
+  },
+  {
+   "keywords": "20-30",
+   "counts": 14
+  },
+  {
+   "keywords": "suuuuuper",
+   "counts": 14
+  },
+  {
+   "keywords": "bots",
+   "counts": 14
+  },
+  {
+   "keywords": "tho",
+   "counts": 14
+  },
+  {
+   "keywords": "Same",
+   "counts": 14
+  },
+  {
+   "keywords": "ipad",
+   "counts": 14
+  },
+  {
+   "keywords": "cringy",
+   "counts": 14
+  },
+  {
+   "keywords": "😁😌",
+   "counts": 14
+  },
+  {
+   "keywords": "social",
+   "counts": 14
+  },
+  {
+   "keywords": "Terrible",
+   "counts": 14
+  },
+  {
+   "keywords": "jk",
+   "counts": 14
+  },
+  {
+   "keywords": "intuitive",
+   "counts": 14
+  },
+  {
+   "keywords": "ninja",
+   "counts": 14
+  },
+  {
+   "keywords": "fantastic",
+   "counts": 14
+  },
+  {
+   "keywords": "upsetI",
+   "counts": 14
+  },
+  {
+   "keywords": "reasonable",
+   "counts": 13
+  },
+  {
+   "keywords": "decent",
+   "counts": 13
+  },
+  {
+   "keywords": "great.My",
+   "counts": 13
+  },
+  {
+   "keywords": "non-stop",
+   "counts": 13
+  },
+  {
+   "keywords": "𝑰𝒎",
+   "counts": 13
+  },
+  {
+   "keywords": "annoying…",
+   "counts": 13
+  },
+  {
+   "keywords": "young",
+   "counts": 13
+  },
+  {
+   "keywords": "9-04-21",
+   "counts": 13
+  },
+  {
+   "keywords": "fun🎉🤩",
+   "counts": 13
+  },
+  {
+   "keywords": "clear",
+   "counts": 13
+  },
+  {
+   "keywords": "sudden",
+   "counts": 13
+  },
+  {
+   "keywords": "to.This",
+   "counts": 13
+  },
+  {
+   "keywords": "internet",
+   "counts": 13
+  },
+  {
+   "keywords": "loading",
+   "counts": 13
+  },
+  {
+   "keywords": "lag",
+   "counts": 13
+  },
+  {
+   "keywords": "iil",
+   "counts": 13
+  },
+  {
+   "keywords": "similar",
+   "counts": 13
+  },
+  {
+   "keywords": "click",
+   "counts": 13
+  },
+  {
+   "keywords": "low",
+   "counts": 13
+  },
+  {
+   "keywords": "PERFECT",
+   "counts": 13
+  },
+  {
+   "keywords": "quiet",
+   "counts": 13
+  },
+  {
+   "keywords": "irl",
+   "counts": 12
+  },
+  {
+   "keywords": "recommend",
+   "counts": 12
+  },
+  {
+   "keywords": "vlassic",
+   "counts": 12
+  },
+  {
+   "keywords": "dumb",
+   "counts": 12
+  },
+  {
+   "keywords": "hehehehehhehhehhehehrhrhehehehehehehehrhhehehehrbrbbhebhevbrggehrhehrhrhrhehehehhehehehehhehehrhhehehehehehehhehehehehheehhehehhehhehhehehehehehhehghrbrhhhehhehehhehehehehehhehehehehehegehehehehehehehehhhwhehehe",
+   "counts": 12
+  },
+  {
+   "keywords": "useless",
+   "counts": 12
+  },
+  {
+   "keywords": "guys",
+   "counts": 12
+  },
+  {
+   "keywords": "save",
+   "counts": 12
+  },
+  {
+   "keywords": "flat",
+   "counts": 12
+  },
+  {
+   "keywords": "token",
+   "counts": 12
+  },
+  {
+   "keywords": "favourite",
+   "counts": 12
+  },
+  {
+   "keywords": "unable",
+   "counts": 12
+  },
+  {
+   "keywords": "seasonal",
+   "counts": 12
+  },
+  {
+   "keywords": "recent",
+   "counts": 12
+  },
+  {
+   "keywords": "beep",
+   "counts": 11
+  },
+  {
+   "keywords": "downloaded",
+   "counts": 11
+  },
+  {
+   "keywords": "Sybo",
+   "counts": 11
+  },
+  {
+   "keywords": "non-owned",
+   "counts": 11
+  },
+  {
+   "keywords": "monthly",
+   "counts": 11
+  },
+  {
+   "keywords": "skip",
+   "counts": 11
+  },
+  {
+   "keywords": "outstanding",
+   "counts": 11
+  },
+  {
+   "keywords": "im",
+   "counts": 11
+  },
+  {
+   "keywords": "speak",
+   "counts": 11
+  },
+  {
+   "keywords": "un-appealing",
+   "counts": 11
+  },
+  {
+   "keywords": "temple",
+   "counts": 11
+  },
+  {
+   "keywords": "scammy",
+   "counts": 11
+  },
+  {
+   "keywords": "smack",
+   "counts": 11
+  },
+  {
+   "keywords": "on-sale",
+   "counts": 11
+  },
+  {
+   "keywords": "6-12",
+   "counts": 11
+  },
+  {
+   "keywords": "functional",
+   "counts": 11
+  },
+  {
+   "keywords": "messy",
+   "counts": 11
+  },
+  {
+   "keywords": "pairs",
+   "counts": 11
+  },
+  {
+   "keywords": "‘",
+   "counts": 11
+  },
+  {
+   "keywords": "timed",
+   "counts": 11
+  },
+  {
+   "keywords": "late",
+   "counts": 11
+  },
+  {
+   "keywords": "Classic",
+   "counts": 11
+  },
+  {
+   "keywords": "god",
+   "counts": 11
+  },
+  {
+   "keywords": "persuasive",
+   "counts": 11
+  },
+  {
+   "keywords": "permanent",
+   "counts": 11
+  },
+  {
+   "keywords": "tokyo",
+   "counts": 11
+  },
+  {
+   "keywords": "boys",
+   "counts": 11
+  },
+  {
+   "keywords": "non-buggy",
+   "counts": 11
+  },
+  {
+   "keywords": "balanced",
+   "counts": 10
+  },
+  {
+   "keywords": "else",
+   "counts": 10
+  },
+  {
+   "keywords": "empty-headed",
+   "counts": 10
+  },
+  {
+   "keywords": "Several",
+   "counts": 10
+  },
+  {
+   "keywords": "vacuous",
+   "counts": 10
+  },
+  {
+   "keywords": "thick-witted",
+   "counts": 10
+  },
+  {
+   "keywords": "large",
+   "counts": 10
+  },
+  {
+   "keywords": "spray",
+   "counts": 10
+  },
+  {
+   "keywords": "8/10-",
+   "counts": 10
+  },
+  {
+   "keywords": "poor",
+   "counts": 10
+  },
+  {
+   "keywords": "OK",
+   "counts": 10
+  },
+  {
+   "keywords": "half-witted",
+   "counts": 10
+  },
+  {
+   "keywords": "stuck",
+   "counts": 10
+  },
+  {
+   "keywords": "dorky",
+   "counts": 10
+  },
+  {
+   "keywords": "slow-witted",
+   "counts": 10
+  },
+  {
+   "keywords": "soft",
+   "counts": 10
+  },
+  {
+   "keywords": "gormless",
+   "counts": 10
+  },
+  {
+   "keywords": "compatible",
+   "counts": 10
+  },
+  {
+   "keywords": "true🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅🙅🙅🙅🙅🙅🙅🙅🙅🙅🙅🙅🙅🙅🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️The",
+   "counts": 10
+  },
+  {
+   "keywords": "unintelligent",
+   "counts": 10
+  },
+  {
+   "keywords": "doltish",
+   "counts": 10
+  },
+  {
+   "keywords": "weak-minded",
+   "counts": 10
+  },
+  {
+   "keywords": "fatuous",
+   "counts": 10
+  },
+  {
+   "keywords": "bye",
+   "counts": 10
+  },
+  {
+   "keywords": "gustaría",
+   "counts": 10
+  },
+  {
+   "keywords": "mental",
+   "counts": 10
+  },
+  {
+   "keywords": "glitches",
+   "counts": 10
+  },
+  {
+   "keywords": "❤this",
+   "counts": 10
+  },
+  {
+   "keywords": "enclosed",
+   "counts": 10
+  },
+  {
+   "keywords": "tuviese",
+   "counts": 10
+  },
+  {
+   "keywords": "fortnite",
+   "counts": 10
+  },
+  {
+   "keywords": "close",
+   "counts": 10
+  },
+  {
+   "keywords": "dog",
+   "counts": 10
+  },
+  {
+   "keywords": "doll",
+   "counts": 10
+  },
+  {
+   "keywords": "careful",
+   "counts": 10
+  },
+  {
+   "keywords": "conclusion",
+   "counts": 10
+  },
+  {
+   "keywords": "fourth",
+   "counts": 10
+  },
+  {
+   "keywords": "worried",
+   "counts": 10
+  },
+  {
+   "keywords": "titan",
+   "counts": 10
+  },
+  {
+   "keywords": "que",
+   "counts": 10
+  },
+  {
+   "keywords": "oafish",
+   "counts": 10
+  },
+  {
+   "keywords": "final",
+   "counts": 10
+  },
+  {
+   "keywords": "wordy",
+   "counts": 10
+  },
+  {
+   "keywords": "brain-dead",
+   "counts": 10
+  },
+  {
+   "keywords": "overwhelming",
+   "counts": 10
+  },
+  {
+   "keywords": "lol",
+   "counts": 10
+  },
+  {
+   "keywords": "unsmart",
+   "counts": 10
+  },
+  {
+   "keywords": "pro",
+   "counts": 10
+  },
+  {
+   "keywords": "Ok",
+   "counts": 10
+  },
+  {
+   "keywords": "sensory",
+   "counts": 10
+  },
+  {
+   "keywords": "useful",
+   "counts": 10
+  },
+  {
+   "keywords": "dim-witted",
+   "counts": 10
+  },
+  {
+   "keywords": "re-downloaded",
+   "counts": 10
+  },
+  {
+   "keywords": "ohmmmmmm",
+   "counts": 10
+  },
+  {
+   "keywords": "relaxing",
+   "counts": 9
+  },
+  {
+   "keywords": "safe",
+   "counts": 9
+  },
+  {
+   "keywords": "important",
+   "counts": 9
+  },
+  {
+   "keywords": "updated",
+   "counts": 9
+  },
+  {
+   "keywords": "popular",
+   "counts": 9
+  },
+  {
+   "keywords": "strange",
+   "counts": 9
+  },
+  {
+   "keywords": "tou",
+   "counts": 9
+  },
+  {
+   "keywords": "stole",
+   "counts": 9
+  },
+  {
+   "keywords": "diamond",
+   "counts": 9
+  },
+  {
+   "keywords": "infinity",
+   "counts": 9
+  },
+  {
+   "keywords": "up",
+   "counts": 9
+  },
+  {
+   "keywords": "online",
+   "counts": 9
+  },
+  {
+   "keywords": "musical",
+   "counts": 9
+  },
+  {
+   "keywords": "aIs",
+   "counts": 9
+  },
+  {
+   "keywords": "epic",
+   "counts": 9
+  },
+  {
+   "keywords": "fastAnd",
+   "counts": 9
+  },
+  {
+   "keywords": "upbeat",
+   "counts": 9
+  },
+  {
+   "keywords": "down",
+   "counts": 9
+  },
+  {
+   "keywords": "wireless",
+   "counts": 9
+  },
+  {
+   "keywords": "dG",
+   "counts": 8
+  },
+  {
+   "keywords": "bored",
+   "counts": 8
+  },
+  {
+   "keywords": "coolAnd",
+   "counts": 8
+  },
+  {
+   "keywords": "finish",
+   "counts": 8
+  },
+  {
+   "keywords": "valuable",
+   "counts": 8
+  },
+  {
+   "keywords": "WiFi",
+   "counts": 8
+  },
+  {
+   "keywords": "wouldn",
+   "counts": 8
+  },
+  {
+   "keywords": "current",
+   "counts": 8
+  },
+  {
+   "keywords": "systematic",
+   "counts": 8
+  },
+  {
+   "keywords": "Event",
+   "counts": 8
+  },
+  {
+   "keywords": "witch",
+   "counts": 8
+  },
+  {
+   "keywords": "positive",
+   "counts": 8
+  },
+  {
+   "keywords": "set",
+   "counts": 8
+  },
+  {
+   "keywords": "fav",
+   "counts": 8
+  },
+  {
+   "keywords": "gust",
+   "counts": 8
+  },
+  {
+   "keywords": "complicated",
+   "counts": 8
+  },
+  {
+   "keywords": "Every",
+   "counts": 8
+  },
+  {
+   "keywords": "tier",
+   "counts": 8
+  },
+  {
+   "keywords": "ready",
+   "counts": 7
+  },
+  {
+   "keywords": "Happy",
+   "counts": 7
+  },
+  {
+   "keywords": "baddie",
+   "counts": 7
+  },
+  {
+   "keywords": "uhhh",
+   "counts": 7
+  },
+  {
+   "keywords": "worthwhile",
+   "counts": 7
+  },
+  {
+   "keywords": "bro",
+   "counts": 7
+  },
+  {
+   "keywords": "exact",
+   "counts": 7
+  },
+  {
+   "keywords": "Such",
+   "counts": 7
+  },
+  {
+   "keywords": "def",
+   "counts": 7
+  },
+  {
+   "keywords": "scary",
+   "counts": 7
+  },
+  {
+   "keywords": "tricky",
+   "counts": 6
+  },
+  {
+   "keywords": "invincible",
+   "counts": 6
+  },
+  {
+   "keywords": "hesitant",
+   "counts": 6
+  },
+  {
+   "keywords": "cooler",
+   "counts": 6
+  },
+  {
+   "keywords": "W",
+   "counts": 6
+  },
+  {
+   "keywords": "minor",
+   "counts": 6
+  },
+  {
+   "keywords": "devs",
+   "counts": 6
+  },
+  {
+   "keywords": "rich",
+   "counts": 6
+  },
+  {
+   "keywords": "usual",
+   "counts": 6
+  },
+  {
+   "keywords": "much❤️",
+   "counts": 6
+  },
+  {
+   "keywords": "poppy",
+   "counts": 6
+  },
+  {
+   "keywords": "2017-2019",
+   "counts": 6
+  },
+  {
+   "keywords": "SUPER",
+   "counts": 6
+  },
+  {
+   "keywords": "..",
+   "counts": 6
+  },
+  {
+   "keywords": "neat",
+   "counts": 6
+  },
+  {
+   "keywords": "creative",
+   "counts": 6
+  },
+  {
+   "keywords": "back",
+   "counts": 6
+  },
+  {
+   "keywords": "comfortable",
+   "counts": 6
+  },
+  {
+   "keywords": "dette",
+   "counts": 5
+  },
+  {
+   "keywords": "calm",
+   "counts": 5
+  },
+  {
+   "keywords": "confusing",
+   "counts": 5
+  },
+  {
+   "keywords": "weakly",
+   "counts": 5
+  },
+  {
+   "keywords": "hypersexual",
+   "counts": 5
+  },
+  {
+   "keywords": "godt",
+   "counts": 5
+  },
+  {
+   "keywords": "thingies.One",
+   "counts": 5
+  },
+  {
+   "keywords": "itll",
+   "counts": 5
+  },
+  {
+   "keywords": "sleepy",
+   "counts": 5
+  },
+  {
+   "keywords": "ThIS",
+   "counts": 5
+  },
+  {
+   "keywords": "solid",
+   "counts": 5
+  },
+  {
+   "keywords": "underneath",
+   "counts": 5
+  },
+  {
+   "keywords": "af",
+   "counts": 5
+  },
+  {
+   "keywords": "irritating.Besides",
+   "counts": 5
+  },
+  {
+   "keywords": "alt",
+   "counts": 5
+  },
+  {
+   "keywords": "ive",
+   "counts": 5
+  },
+  {
+   "keywords": "offord",
+   "counts": 5
+  },
+  {
+   "keywords": "beneficial",
+   "counts": 5
+  },
+  {
+   "keywords": "alien",
+   "counts": 5
+  },
+  {
+   "keywords": "Second",
+   "counts": 5
+  },
+  {
+   "keywords": "live",
+   "counts": 5
+  },
+  {
+   "keywords": "undskyld",
+   "counts": 5
+  },
+  {
+   "keywords": "halloween",
+   "counts": 5
+  },
+  {
+   "keywords": "ny",
+   "counts": 5
+  },
+  {
+   "keywords": "separate",
+   "counts": 5
+  },
+  {
+   "keywords": "complete",
+   "counts": 5
+  },
+  {
+   "keywords": "itUpdate",
+   "counts": 5
+  },
+  {
+   "keywords": "flawless",
+   "counts": 5
+  },
+  {
+   "keywords": "det",
+   "counts": 5
+  },
+  {
+   "keywords": "die",
+   "counts": 5
+  },
+  {
+   "keywords": "professional",
+   "counts": 5
+  },
+  {
+   "keywords": "proper",
+   "counts": 5
+  },
+  {
+   "keywords": "idle",
+   "counts": 5
+  },
+  {
+   "keywords": "dead",
+   "counts": 5
+  },
+  {
+   "keywords": "characteristic",
+   "counts": 5
+  },
+  {
+   "keywords": "Tricky",
+   "counts": 4
+  },
+  {
+   "keywords": "tried",
+   "counts": 4
+  },
+  {
+   "keywords": "vary",
+   "counts": 4
+  },
+  {
+   "keywords": "African",
+   "counts": 4
+  },
+  {
+   "keywords": "stale",
+   "counts": 4
+  },
+  {
+   "keywords": "girl",
+   "counts": 4
+  },
+  {
+   "keywords": "nostalgic",
+   "counts": 4
+  },
+  {
+   "keywords": "30-1:00",
+   "counts": 4
+  },
+  {
+   "keywords": "👁👄👁",
+   "counts": 4
+  },
+  {
+   "keywords": "ads❤️🙏🏼",
+   "counts": 4
+  },
+  {
+   "keywords": "absolute",
+   "counts": 4
+  },
+  {
+   "keywords": "affordable",
+   "counts": 4
+  },
+  {
+   "keywords": "classical",
+   "counts": 4
+  },
+  {
+   "keywords": "concerned",
+   "counts": 4
+  },
+  {
+   "keywords": "childish",
+   "counts": 4
+  },
+  {
+   "keywords": "payed",
+   "counts": 4
+  },
+  {
+   "keywords": "😍",
+   "counts": 4
+  },
+  {
+   "keywords": "T-T",
+   "counts": 4
+  },
+  {
+   "keywords": "yahoo",
+   "counts": 4
+  },
+  {
+   "keywords": "give",
+   "counts": 4
+  },
+  {
+   "keywords": "leaderboard",
+   "counts": 4
+  },
+  {
+   "keywords": "disappointing",
+   "counts": 4
+  },
+  {
+   "keywords": "unicorn",
+   "counts": 4
+  },
+  {
+   "keywords": "teaches-ish",
+   "counts": 4
+  },
+  {
+   "keywords": "realistic",
+   "counts": 4
+  },
+  {
+   "keywords": "fifteenth",
+   "counts": 4
+  },
+  {
+   "keywords": "Confused",
+   "counts": 3
+  },
+  {
+   "keywords": "littler",
+   "counts": 3
+  },
+  {
+   "keywords": "amaztastic",
+   "counts": 3
+  },
+  {
+   "keywords": "bold",
+   "counts": 3
+  },
+  {
+   "keywords": "y",
+   "counts": 3
+  },
+  {
+   "keywords": "fun-",
+   "counts": 3
+  },
+  {
+   "keywords": "human",
+   "counts": 3
+  },
+  {
+   "keywords": "naruto",
+   "counts": 3
+  },
+  {
+   "keywords": "thing-",
+   "counts": 3
+  },
+  {
+   "keywords": "😉",
+   "counts": 3
+  },
+  {
+   "keywords": "⭐️⭐️⭐️⭐️⭐️",
+   "counts": 3
+  },
+  {
+   "keywords": "slooooooowwwwww",
+   "counts": 3
+  },
+  {
+   "keywords": "treasure",
+   "counts": 3
+  },
+  {
+   "keywords": "glich",
+   "counts": 3
+  },
+  {
+   "keywords": "sooooo",
+   "counts": 3
+  },
+  {
+   "keywords": "killed",
+   "counts": 3
+  },
+  {
+   "keywords": "”",
+   "counts": 2
+  },
+  {
+   "keywords": "rascal",
+   "counts": 2
+  },
+  {
+   "keywords": "iPod",
+   "counts": 2
+  },
+  {
+   "keywords": "thankful",
+   "counts": 2
+  },
+  {
+   "keywords": "blocky",
+   "counts": 2
+  },
+  {
+   "keywords": "teir",
+   "counts": 2
+  },
+  {
+   "keywords": "detailed",
+   "counts": 2
+  },
+  {
+   "keywords": "oblivious",
+   "counts": 2
+  },
+  {
+   "keywords": "exciting",
+   "counts": 2
+  },
+  {
+   "keywords": "frequent",
+   "counts": 2
+  },
+  {
+   "keywords": "fast.goo",
+   "counts": 2
+  },
+  {
+   "keywords": "non-limited",
+   "counts": 2
+  },
+  {
+   "keywords": "terrible",
+   "counts": 2
+  },
+  {
+   "keywords": "Recent",
+   "counts": 2
+  },
+  {
+   "keywords": "screen",
+   "counts": 2
+  },
+  {
+   "keywords": "Chinese",
+   "counts": 2
+  },
+  {
+   "keywords": "beautiful",
+   "counts": 2
+  },
+  {
+   "keywords": "conclusionin",
+   "counts": 1
+  },
+  {
+   "keywords": "lagging",
+   "counts": 1
+  },
+  {
+   "keywords": "sorta",
+   "counts": 1
+  },
+  {
+   "keywords": "FUN",
+   "counts": 1
+  },
+  {
+   "keywords": "enjoyable",
+   "counts": 1
+  },
+  {
+   "keywords": "خرافية",
+   "counts": 1
+  },
+  {
+   "keywords": "awful",
+   "counts": 1
+  },
+  {
+   "keywords": "countless",
+   "counts": 1
+  },
+  {
+   "keywords": "Stupid",
+   "counts": 1
+  },
+  {
+   "keywords": "again.In",
+   "counts": 1
+  },
+  {
+   "keywords": "unlocked",
+   "counts": 1
+  },
+  {
+   "keywords": "clever",
+   "counts": 1
+  },
+  {
+   "keywords": "future",
+   "counts": 1
+  }
+ ],
+ "3": [
+  {
+   "keywords": "cuz",
+   "counts": 0
+  },
+  {
+   "keywords": "happy",
+   "counts": 0
+  },
+  {
+   "keywords": "impossible",
+   "counts": 0
+  },
+  {
+   "keywords": "uncomfortable",
+   "counts": 0
+  },
+  {
+   "keywords": "awesome",
+   "counts": 0
+  },
+  {
+   "keywords": "it.NO",
+   "counts": 0
+  },
+  {
+   "keywords": "christmasy",
+   "counts": 0
+  },
+  {
+   "keywords": "safe",
+   "counts": 0
+  },
+  {
+   "keywords": "tricky",
+   "counts": 0
+  },
+  {
+   "keywords": "baggy",
+   "counts": 0
+  },
+  {
+   "keywords": "single",
+   "counts": 0
+  },
+  {
+   "keywords": "next",
+   "counts": 0
+  },
+  {
+   "keywords": "weekly",
+   "counts": 0
+  },
+  {
+   "keywords": "”",
+   "counts": 0
+  },
+  {
+   "keywords": "only",
+   "counts": 0
+  },
+  {
+   "keywords": "☝︎",
+   "counts": 0
+  },
+  {
+   "keywords": "isn",
+   "counts": 0
+  },
+  {
+   "keywords": "invincible",
+   "counts": 0
+  },
+  {
+   "keywords": "ketchup",
+   "counts": 0
+  },
+  {
+   "keywords": "cosmetic",
+   "counts": 0
+  },
+  {
+   "keywords": "thank",
+   "counts": 0
+  },
+  {
+   "keywords": "dizzy",
+   "counts": 0
+  },
+  {
+   "keywords": "unlock",
+   "counts": 0
+  },
+  {
+   "keywords": "large",
+   "counts": 0
+  },
+  {
+   "keywords": "fake",
+   "counts": 0
+  },
+  {
+   "keywords": "-a",
+   "counts": 0
+  },
+  {
+   "keywords": "traditional",
+   "counts": 0
+  },
+  {
+   "keywords": "old",
+   "counts": 0
+  },
+  {
+   "keywords": "required…",
+   "counts": 0
+  },
+  {
+   "keywords": "top",
+   "counts": 0
+  },
+  {
+   "keywords": "spray",
+   "counts": 0
+  },
+  {
+   "keywords": "Overall",
+   "counts": 0
+  },
+  {
+   "keywords": "tough",
+   "counts": 0
+  },
+  {
+   "keywords": "couple",
+   "counts": 0
+  },
+  {
+   "keywords": "worth",
+   "counts": 0
+  },
+  {
+   "keywords": "stupid",
+   "counts": 0
+  },
+  {
+   "keywords": "lame",
+   "counts": 0
+  },
+  {
+   "keywords": "rid",
+   "counts": 0
+  },
+  {
+   "keywords": "offensive",
+   "counts": 0
+  },
+  {
+   "keywords": "indescribable",
+   "counts": 0
+  },
+  {
+   "keywords": "5-6x",
+   "counts": 0
+  },
+  {
+   "keywords": "years.The",
+   "counts": 0
+  },
+  {
+   "keywords": "daily",
+   "counts": 0
+  },
+  {
+   "keywords": "fresh",
+   "counts": 0
+  },
+  {
+   "keywords": "updated",
+   "counts": 0
+  },
+  {
+   "keywords": "🤬🤬it",
+   "counts": 0
+  },
+  {
+   "keywords": "head",
+   "counts": 0
+  },
+  {
+   "keywords": "hard",
+   "counts": 0
+  },
+  {
+   "keywords": "m",
+   "counts": 0
+  },
+  {
+   "keywords": "poor",
+   "counts": 0
+  },
+  {
+   "keywords": "surf",
+   "counts": 0
+  },
+  {
+   "keywords": "quick",
+   "counts": 0
+  },
+  {
+   "keywords": "popular",
+   "counts": 0
+  },
+  {
+   "keywords": "decent",
+   "counts": 0
+  },
+  {
+   "keywords": "lit",
+   "counts": 0
+  },
+  {
+   "keywords": "OK",
+   "counts": 0
+  },
+  {
+   "keywords": "s",
+   "counts": 0
+  },
+  {
+   "keywords": "appropriate",
+   "counts": 0
+  },
+  {
+   "keywords": "small",
+   "counts": 0
+  },
+  {
+   "keywords": "lose",
+   "counts": 0
+  },
+  {
+   "keywords": "pls",
+   "counts": 0
+  },
+  {
+   "keywords": "ur",
+   "counts": 0
+  },
+  {
+   "keywords": "thousand",
+   "counts": 0
+  },
+  {
+   "keywords": "real",
+   "counts": 0
+  },
+  {
+   "keywords": "repetitive",
+   "counts": 0
+  },
+  {
+   "keywords": "frustrated",
+   "counts": 0
+  },
+  {
+   "keywords": "concentrating",
+   "counts": 0
+  },
+  {
+   "keywords": "strange",
+   "counts": 0
+  },
+  {
+   "keywords": "entire",
+   "counts": 0
+  },
+  {
+   "keywords": "bright",
+   "counts": 0
+  },
+  {
+   "keywords": "iPad",
+   "counts": 0
+  },
+  {
+   "keywords": "violent",
+   "counts": 0
+  },
+  {
+   "keywords": "scammed",
+   "counts": 0
+  },
+  {
+   "keywords": "unsupported",
+   "counts": 0
+  },
+  {
+   "keywords": "didn",
+   "counts": 0
+  },
+  {
+   "keywords": "straight",
+   "counts": 0
+  },
+  {
+   "keywords": "stuck",
+   "counts": 0
+  },
+  {
+   "keywords": "ridiculous",
+   "counts": 0
+  },
+  {
+   "keywords": "+8",
+   "counts": 0
+  },
+  {
+   "keywords": "caught",
+   "counts": 0
+  },
+  {
+   "keywords": "such",
+   "counts": 0
+  },
+  {
+   "keywords": "aware",
+   "counts": 0
+  },
+  {
+   "keywords": "ups",
+   "counts": 0
+  },
+  {
+   "keywords": "........",
+   "counts": 0
+  },
+  {
+   "keywords": "minor",
+   "counts": 0
+  },
+  {
+   "keywords": "special",
+   "counts": 0
+  },
+  {
+   "keywords": "adorable",
+   "counts": 0
+  },
+  {
+   "keywords": "Ridiculous",
+   "counts": 0
+  },
+  {
+   "keywords": "longtime",
+   "counts": 0
+  },
+  {
+   "keywords": "able",
+   "counts": 0
+  },
+  {
+   "keywords": "certain",
+   "counts": 0
+  },
+  {
+   "keywords": "extra",
+   "counts": 0
+  },
+  {
+   "keywords": "frozen",
+   "counts": 0
+  },
+  {
+   "keywords": "helpful",
+   "counts": 0
+  },
+  {
+   "keywords": "good",
+   "counts": 0
+  },
+  {
+   "keywords": "North",
+   "counts": 0
+  },
+  {
+   "keywords": "natural",
+   "counts": 0
+  },
+  {
+   "keywords": "wont",
+   "counts": 0
+  },
+  {
+   "keywords": "global",
+   "counts": 0
+  },
+  {
+   "keywords": "til",
+   "counts": 0
+  },
+  {
+   "keywords": "freezes",
+   "counts": 0
+  },
+  {
+   "keywords": "easy",
+   "counts": 0
+  },
+  {
+   "keywords": "Endless",
+   "counts": 0
+  },
+  {
+   "keywords": "literal",
+   "counts": 0
+  },
+  {
+   "keywords": "bored",
+   "counts": 0
+  },
+  {
+   "keywords": "gray",
+   "counts": 0
+  },
+  {
+   "keywords": "same",
+   "counts": 0
+  },
+  {
+   "keywords": "Seasonal",
+   "counts": 0
+  },
+  {
+   "keywords": "sooooooooooooooo",
+   "counts": 0
+  },
+  {
+   "keywords": "60-100",
+   "counts": 0
+  },
+  {
+   "keywords": "happen",
+   "counts": 0
+  },
+  {
+   "keywords": "own",
+   "counts": 0
+  },
+  {
+   "keywords": "invisible",
+   "counts": 0
+  },
+  {
+   "keywords": "royale",
+   "counts": 0
+  },
+  {
+   "keywords": "a🤬🤬😡🤬😡🤬",
+   "counts": 0
+  },
+  {
+   "keywords": "stressful",
+   "counts": 0
+  },
+  {
+   "keywords": "Different",
+   "counts": 0
+  },
+  {
+   "keywords": "boring",
+   "counts": 0
+  },
+  {
+   "keywords": "unfair",
+   "counts": 0
+  },
+  {
+   "keywords": "mine",
+   "counts": 0
+  },
+  {
+   "keywords": "dumb",
+   "counts": 0
+  },
+  {
+   "keywords": "normal",
+   "counts": 0
+  },
+  {
+   "keywords": "accessible",
+   "counts": 0
+  },
+  {
+   "keywords": "endless",
+   "counts": 0
+  },
+  {
+   "keywords": "personal",
+   "counts": 0
+  },
+  {
+   "keywords": "bit",
+   "counts": 0
+  },
+  {
+   "keywords": "early",
+   "counts": 0
+  },
+  {
+   "keywords": "Other",
+   "counts": 0
+  },
+  {
+   "keywords": "amazing🤩🤩🤩🤩🤩I",
+   "counts": 0
+  },
+  {
+   "keywords": "meme",
+   "counts": 0
+  },
+  {
+   "keywords": "supper",
+   "counts": 0
+  },
+  {
+   "keywords": "ya",
+   "counts": 0
+  },
+  {
+   "keywords": "diving",
+   "counts": 0
+  },
+  {
+   "keywords": "doesn",
+   "counts": 0
+  },
+  {
+   "keywords": "double",
+   "counts": 0
+  },
+  {
+   "keywords": "infinite",
+   "counts": 0
+  },
+  {
+   "keywords": "ve",
+   "counts": 0
+  },
+  {
+   "keywords": "skip",
+   "counts": 0
+  },
+  {
+   "keywords": "classic",
+   "counts": 0
+  },
+  {
+   "keywords": "picture",
+   "counts": 0
+  },
+  {
+   "keywords": "super",
+   "counts": 0
+  },
+  {
+   "keywords": "many",
+   "counts": 0
+  },
+  {
+   "keywords": "solid",
+   "counts": 0
+  },
+  {
+   "keywords": "previous",
+   "counts": 0
+  },
+  {
+   "keywords": "simple",
+   "counts": 0
+  },
+  {
+   "keywords": "missing",
+   "counts": 0
+  },
+  {
+   "keywords": "finish",
+   "counts": 0
+  },
+  {
+   "keywords": "blocky",
+   "counts": 0
+  },
+  {
+   "keywords": "general",
+   "counts": 0
+  },
+  {
+   "keywords": "1-2",
+   "counts": 0
+  },
+  {
+   "keywords": "do",
+   "counts": 0
+  },
+  {
+   "keywords": "gotten",
+   "counts": 0
+  },
+  {
+   "keywords": "wifi",
+   "counts": 0
+  },
+  {
+   "keywords": "due",
+   "counts": 0
+  },
+  {
+   "keywords": "kid",
+   "counts": 0
+  },
+  {
+   "keywords": "worked",
+   "counts": 0
+  },
+  {
+   "keywords": "fixed",
+   "counts": 0
+  },
+  {
+   "keywords": "AMAZING",
+   "counts": 0
+  },
+  {
+   "keywords": "go-to",
+   "counts": 0
+  },
+  {
+   "keywords": "young",
+   "counts": 0
+  },
+  {
+   "keywords": "app",
+   "counts": 0
+  },
+  {
+   "keywords": "addicted",
+   "counts": 0
+  },
+  {
+   "keywords": "im",
+   "counts": 0
+  },
+  {
+   "keywords": "horrible",
+   "counts": 0
+  },
+  {
+   "keywords": "fair",
+   "counts": 0
+  },
+  {
+   "keywords": "girl",
+   "counts": 0
+  },
+  {
+   "keywords": "glitchy",
+   "counts": 0
+  },
+  {
+   "keywords": "Lousy",
+   "counts": 0
+  },
+  {
+   "keywords": "annoying",
+   "counts": 0
+  },
+  {
+   "keywords": "plain",
+   "counts": 0
+  },
+  {
+   "keywords": "nostalgic",
+   "counts": 0
+  },
+  {
+   "keywords": "limited",
+   "counts": 0
+  },
+  {
+   "keywords": "useless",
+   "counts": 0
+  },
+  {
+   "keywords": "illegal.I",
+   "counts": 0
+  },
+  {
+   "keywords": "light",
+   "counts": 0
+  },
+  {
+   "keywords": "base",
+   "counts": 0
+  },
+  {
+   "keywords": "don",
+   "counts": 0
+  },
+  {
+   "keywords": "sad",
+   "counts": 0
+  },
+  {
+   "keywords": "possible",
+   "counts": 0
+  },
+  {
+   "keywords": "mor",
+   "counts": 0
+  },
+  {
+   "keywords": "watch",
+   "counts": 0
+  },
+  {
+   "keywords": "black",
+   "counts": 0
+  },
+  {
+   "keywords": "different",
+   "counts": 0
+  },
+  {
+   "keywords": "wish",
+   "counts": 0
+  },
+  {
+   "keywords": "trash",
+   "counts": 0
+  },
+  {
+   "keywords": "y",
+   "counts": 0
+  },
+  {
+   "keywords": "huge",
+   "counts": 0
+  },
+  {
+   "keywords": "inclusive",
+   "counts": 0
+  },
+  {
+   "keywords": "Music",
+   "counts": 0
+  },
+  {
+   "keywords": "sudden",
+   "counts": 0
+  },
+  {
+   "keywords": "right",
+   "counts": 0
+  },
+  {
+   "keywords": "weird",
+   "counts": 0
+  },
+  {
+   "keywords": "pride",
+   "counts": 0
+  },
+  {
+   "keywords": "*",
+   "counts": 0
+  },
+  {
+   "keywords": "big",
+   "counts": 0
+  },
+  {
+   "keywords": "human",
+   "counts": 0
+  },
+  {
+   "keywords": "slight",
+   "counts": 0
+  },
+  {
+   "keywords": "agonist",
+   "counts": 0
+  },
+  {
+   "keywords": "yutanis",
+   "counts": 0
+  },
+  {
+   "keywords": "absolute",
+   "counts": 0
+  },
+  {
+   "keywords": "broken",
+   "counts": 0
+  },
+  {
+   "keywords": "enjoyable",
+   "counts": 0
+  },
+  {
+   "keywords": "neutered",
+   "counts": 0
+  },
+  {
+   "keywords": "iconic",
+   "counts": 0
+  },
+  {
+   "keywords": "beneficial",
+   "counts": 0
+  },
+  {
+   "keywords": "fortnite",
+   "counts": 0
+  },
+  {
+   "keywords": "busy",
+   "counts": 0
+  },
+  {
+   "keywords": "ok",
+   "counts": 0
+  },
+  {
+   "keywords": "costly",
+   "counts": 0
+  },
+  {
+   "keywords": "forty",
+   "counts": 0
+  },
+  {
+   "keywords": "upset",
+   "counts": 0
+  },
+  {
+   "keywords": "classical",
+   "counts": 0
+  },
+  {
+   "keywords": "chill",
+   "counts": 0
+  },
+  {
+   "keywords": "watching",
+   "counts": 0
+  },
+  {
+   "keywords": "current",
+   "counts": 0
+  },
+  {
+   "keywords": "added",
+   "counts": 0
+  },
+  {
+   "keywords": "“",
+   "counts": 0
+  },
+  {
+   "keywords": "suitable",
+   "counts": 0
+  },
+  {
+   "keywords": "exciting",
+   "counts": 0
+  },
+  {
+   "keywords": "fix",
+   "counts": 0
+  },
+  {
+   "keywords": "known",
+   "counts": 0
+  },
+  {
+   "keywords": "entertaining",
+   "counts": 0
+  },
+  {
+   "keywords": "istg",
+   "counts": 0
+  },
+  {
+   "keywords": "now-",
+   "counts": 0
+  },
+  {
+   "keywords": "roo",
+   "counts": 0
+  },
+  {
+   "keywords": "angry",
+   "counts": 0
+  },
+  {
+   "keywords": "overall",
+   "counts": 0
+  },
+  {
+   "keywords": "l",
+   "counts": 0
+  },
+  {
+   "keywords": "hot",
+   "counts": 0
+  },
+  {
+   "keywords": "يجب",
+   "counts": 0
+  },
+  {
+   "keywords": "little",
+   "counts": 0
+  },
+  {
+   "keywords": "amazing",
+   "counts": 0
+  },
+  {
+   "keywords": "exact",
+   "counts": 0
+  },
+  {
+   "keywords": "playing",
+   "counts": 0
+  },
+  {
+   "keywords": "u",
+   "counts": 0
+  },
+  {
+   "keywords": "full",
+   "counts": 0
+  },
+  {
+   "keywords": "ughhh",
+   "counts": 0
+  },
+  {
+   "keywords": "unbelievable",
+   "counts": 0
+  },
+  {
+   "keywords": "famous",
+   "counts": 0
+  },
+  {
+   "keywords": "alright",
+   "counts": 0
+  },
+  {
+   "keywords": "golden",
+   "counts": 0
+  },
+  {
+   "keywords": "second",
+   "counts": 0
+  },
+  {
+   "keywords": "leap",
+   "counts": 0
+  },
+  {
+   "keywords": "awful",
+   "counts": 0
+  },
+  {
+   "keywords": "use",
+   "counts": 0
+  },
+  {
+   "keywords": "close",
+   "counts": 0
+  },
+  {
+   "keywords": "cool",
+   "counts": 0
+  },
+  {
+   "keywords": "white",
+   "counts": 0
+  },
+  {
+   "keywords": "pretty",
+   "counts": 0
+  },
+  {
+   "keywords": "horrendous",
+   "counts": 0
+  },
+  {
+   "keywords": "anniversary",
+   "counts": 0
+  },
+  {
+   "keywords": "upgrade",
+   "counts": 0
+  },
+  {
+   "keywords": "bad",
+   "counts": 0
+  },
+  {
+   "keywords": "slow",
+   "counts": 0
+  },
+  {
+   "keywords": "tik",
+   "counts": 0
+  },
+  {
+   "keywords": "lab",
+   "counts": 0
+  },
+  {
+   "keywords": "appreciated",
+   "counts": 0
+  },
+  {
+   "keywords": "several",
+   "counts": 0
+  },
+  {
+   "keywords": "prior",
+   "counts": 0
+  },
+  {
+   "keywords": "other",
+   "counts": 0
+  },
+  {
+   "keywords": "modern",
+   "counts": 0
+  },
+  {
+   "keywords": "new",
+   "counts": 0
+  },
+  {
+   "keywords": "mad",
+   "counts": 0
+  },
+  {
+   "keywords": "high",
+   "counts": 0
+  },
+  {
+   "keywords": "funny",
+   "counts": 0
+  },
+  {
+   "keywords": "parkour",
+   "counts": 0
+  },
+  {
+   "keywords": "great",
+   "counts": 0
+  },
+  {
+   "keywords": "mystery",
+   "counts": 0
+  },
+  {
+   "keywords": "positive",
+   "counts": 0
+  },
+  {
+   "keywords": "install",
+   "counts": 0
+  },
+  {
+   "keywords": "automatic",
+   "counts": 0
+  },
+  {
+   "keywords": "uhhhhhh",
+   "counts": 0
+  },
+  {
+   "keywords": "okay",
+   "counts": 0
+  },
+  {
+   "keywords": "difficult",
+   "counts": 0
+  },
+  {
+   "keywords": "Third",
+   "counts": 0
+  },
+  {
+   "keywords": "token",
+   "counts": 0
+  },
+  {
+   "keywords": "dark",
+   "counts": 0
+  },
+  {
+   "keywords": "birthday",
+   "counts": 0
+  },
+  {
+   "keywords": "Wi-Fi",
+   "counts": 0
+  },
+  {
+   "keywords": "unsuitable",
+   "counts": 0
+  },
+  {
+   "keywords": "specific",
+   "counts": 0
+  },
+  {
+   "keywords": "long",
+   "counts": 0
+  },
+  {
+   "keywords": "know",
+   "counts": 0
+  },
+  {
+   "keywords": "update",
+   "counts": 0
+  },
+  {
+   "keywords": "regular",
+   "counts": 0
+  },
+  {
+   "keywords": "goodbye",
+   "counts": 0
+  },
+  {
+   "keywords": "nice",
+   "counts": 0
+  },
+  {
+   "keywords": "fun",
+   "counts": 0
+  },
+  {
+   "keywords": "problem.The",
+   "counts": 0
+  },
+  {
+   "keywords": "ez",
+   "counts": 0
+  },
+  {
+   "keywords": "undated",
+   "counts": 0
+  },
+  {
+   "keywords": "fast.The",
+   "counts": 0
+  },
+  {
+   "keywords": "😉",
+   "counts": 0
+  },
+  {
+   "keywords": "vest.This",
+   "counts": 0
+  },
+  {
+   "keywords": "sooooooooo",
+   "counts": 0
+  },
+  {
+   "keywords": "favourite",
+   "counts": 0
+  },
+  {
+   "keywords": "cant",
+   "counts": 0
+  },
+  {
+   "keywords": "that…",
+   "counts": 0
+  },
+  {
+   "keywords": "brown",
+   "counts": 0
+  },
+  {
+   "keywords": "last",
+   "counts": 0
+  },
+  {
+   "keywords": "😤Imma",
+   "counts": 0
+  },
+  {
+   "keywords": "better.No",
+   "counts": 0
+  },
+  {
+   "keywords": "whole",
+   "counts": 0
+  },
+  {
+   "keywords": "short",
+   "counts": 0
+  },
+  {
+   "keywords": "na",
+   "counts": 0
+  },
+  {
+   "keywords": "offline",
+   "counts": 0
+  },
+  {
+   "keywords": "..",
+   "counts": 0
+  },
+  {
+   "keywords": "’",
+   "counts": 0
+  },
+  {
+   "keywords": "wonderful",
+   "counts": 0
+  },
+  {
+   "keywords": "first",
+   "counts": 0
+  },
+  {
+   "keywords": "subway",
+   "counts": 0
+  },
+  {
+   "keywords": "re",
+   "counts": 0
+  },
+  {
+   "keywords": "hotI",
+   "counts": 0
+  },
+  {
+   "keywords": "unable",
+   "counts": 0
+  },
+  {
+   "keywords": "disappointed",
+   "counts": 0
+  },
+  {
+   "keywords": "unique",
+   "counts": 0
+  },
+  {
+   "keywords": "terrible",
+   "counts": 0
+  },
+  {
+   "keywords": "main",
+   "counts": 0
+  },
+  {
+   "keywords": "bec",
+   "counts": 0
+  },
+  {
+   "keywords": "seasonal",
+   "counts": 0
+  },
+  {
+   "keywords": "initial",
+   "counts": 0
+  },
+  {
+   "keywords": "creative",
+   "counts": 0
+  },
+  {
+   "keywords": "major",
+   "counts": 0
+  },
+  {
+   "keywords": "up/",
+   "counts": 0
+  },
+  {
+   "keywords": "honest",
+   "counts": 0
+  },
+  {
+   "keywords": "i",
+   "counts": 0
+  },
+  {
+   "keywords": "key",
+   "counts": 0
+  },
+  {
+   "keywords": "recent",
+   "counts": 0
+  },
+  {
+   "keywords": "constant",
+   "counts": 0
+  },
+  {
+   "keywords": "frustrating",
+   "counts": 0
+  },
+  {
+   "keywords": "late",
+   "counts": 0
+  },
+  {
+   "keywords": "amsterdam",
+   "counts": 0
+  },
+  {
+   "keywords": "so-",
+   "counts": 0
+  },
+  {
+   "keywords": "open",
+   "counts": 0
+  },
+  {
+   "keywords": "garbage",
+   "counts": 0
+  },
+  {
+   "keywords": "perfect",
+   "counts": 0
+  },
+  {
+   "keywords": "triggering",
+   "counts": 0
+  },
+  {
+   "keywords": "afraid",
+   "counts": 0
+  },
+  {
+   "keywords": "lol",
+   "counts": 0
+  },
+  {
+   "keywords": "social",
+   "counts": 0
+  },
+  {
+   "keywords": "free",
+   "counts": 0
+  },
+  {
+   "keywords": "game.Every",
+   "counts": 0
+  },
+  {
+   "keywords": "comfortable",
+   "counts": 0
+  },
+  {
+   "keywords": "much",
+   "counts": 0
+  },
+  {
+   "keywords": "gold",
+   "counts": 0
+  },
+  {
+   "keywords": "video",
+   "counts": 0
+  },
+  {
+   "keywords": "visible",
+   "counts": 0
+  },
+  {
+   "keywords": "days-",
+   "counts": 0
+  },
+  {
+   "keywords": "please",
+   "counts": 0
+  },
+  {
+   "keywords": "interesting",
+   "counts": 0
+  },
+  {
+   "keywords": "atrocious",
+   "counts": 0
+  },
+  {
+   "keywords": "complicated",
+   "counts": 0
+  },
+  {
+   "keywords": "sure",
+   "counts": 0
+  },
+  {
+   "keywords": "happened",
+   "counts": 0
+  },
+  {
+   "keywords": "d",
+   "counts": 0
+  },
+  {
+   "keywords": "negative",
+   "counts": 0
+  },
+  {
+   "keywords": "past",
+   "counts": 0
+  },
+  {
+   "keywords": "+",
+   "counts": 0
+  },
+  {
+   "keywords": "disappointing",
+   "counts": 0
+  },
+  {
+   "keywords": "sound",
+   "counts": 0
+  },
+  {
+   "keywords": "t",
+   "counts": 0
+  },
+  {
+   "keywords": "expensive",
+   "counts": 0
+  },
+  {
+   "keywords": "ngl",
+   "counts": 0
+  },
+  {
+   "keywords": "loud",
+   "counts": 0
+  },
+  {
+   "keywords": "screen",
+   "counts": 0
+  },
+  {
+   "keywords": "scary",
+   "counts": 0
+  },
+  {
+   "keywords": "didnt",
+   "counts": 0
+  },
+  {
+   "keywords": "actual",
+   "counts": 0
+  },
+  {
+   "keywords": "multiple",
+   "counts": 0
+  },
+  {
+   "keywords": "dead",
+   "counts": 0
+  },
+  {
+   "keywords": "original",
+   "counts": 0
+  },
+  {
+   "keywords": "down",
+   "counts": 0
+  },
+  {
+   "keywords": "Every",
+   "counts": 0
+  },
+  {
+   "keywords": "excited",
+   "counts": 0
+  },
+  {
+   "keywords": "laggy",
+   "counts": 0
+  },
+  {
+   "keywords": "sensitive",
+   "counts": 0
+  },
+  {
+   "keywords": "available",
+   "counts": 0
+  },
+  {
+   "keywords": "few",
+   "counts": 0
+  },
+  {
+   "keywords": "ll",
+   "counts": 0
+  },
+  {
+   "keywords": "fast",
+   "counts": 0
+  },
+  {
+   "keywords": "og",
+   "counts": 0
+  },
+  {
+   "keywords": "Good",
+   "counts": 0
+  },
+  {
+   "keywords": "fine",
+   "counts": 0
+  },
+  {
+   "keywords": "useful",
+   "counts": 0
+  },
+  {
+   "keywords": "half",
+   "counts": 0
+  },
+  {
+   "keywords": "wrong",
+   "counts": 0
+  },
+  {
+   "keywords": "missed",
+   "counts": 0
+  },
+  {
+   "keywords": "indecipherable",
+   "counts": 0
+  },
+  {
+   "keywords": "tokyo",
+   "counts": 0
+  },
+  {
+   "keywords": "kinda",
+   "counts": 0
+  },
+  {
+   "keywords": "buggy",
+   "counts": 0
+  },
+  {
+   "keywords": "sorry",
+   "counts": 0
+  },
+  {
+   "keywords": "crazy",
+   "counts": 0
+  },
+  {
+   "keywords": "favorite",
+   "counts": 0
+  },
+  {
+   "keywords": "game.okay",
+   "counts": 0
+  },
+  {
+   "keywords": "Chinese",
+   "counts": 0
+  },
+  {
+   "keywords": "persistent",
+   "counts": 0
+  },
+  {
+   "keywords": "beautiful",
+   "counts": 0
+  },
+  {
+   "keywords": "random",
+   "counts": 0
+  },
+  {
+   "keywords": "mobile",
+   "counts": 0
+  }
+ ],
+ "2": [
+  {
+   "keywords": "’",
+   "counts": 704
+  },
+  {
+   "keywords": "new",
+   "counts": 520
+  },
+  {
+   "keywords": "s",
+   "counts": 424
+  },
+  {
+   "keywords": "other",
+   "counts": 298
+  },
+  {
+   "keywords": "i",
+   "counts": 297
+  },
+  {
+   "keywords": "good",
+   "counts": 263
+  },
+  {
+   "keywords": "t",
+   "counts": 249
+  },
+  {
+   "keywords": "much",
+   "counts": 226
+  },
+  {
+   "keywords": "m",
+   "counts": 224
+  },
+  {
+   "keywords": "old",
+   "counts": 204
+  },
+  {
+   "keywords": "many",
+   "counts": 162
+  },
+  {
+   "keywords": "last",
+   "counts": 149
+  },
+  {
+   "keywords": "ve",
+   "counts": 133
+  },
+  {
+   "keywords": "little",
+   "counts": 125
+  },
+  {
+   "keywords": "high",
+   "counts": 125
+  },
+  {
+   "keywords": "fun",
+   "counts": 115
+  },
+  {
+   "keywords": "original",
+   "counts": 112
+  },
+  {
+   "keywords": "great",
+   "counts": 109
+  },
+  {
+   "keywords": "weird",
+   "counts": 107
+  },
+  {
+   "keywords": "update",
+   "counts": 104
+  },
+  {
+   "keywords": "top",
+   "counts": 99
+  },
+  {
+   "keywords": "please",
+   "counts": 99
+  },
+  {
+   "keywords": "same",
+   "counts": 92
+  },
+  {
+   "keywords": "super",
+   "counts": 90
+  },
+  {
+   "keywords": "real",
+   "counts": 87
+  },
+  {
+   "keywords": "only",
+   "counts": 86
+  },
+  {
+   "keywords": "disappointed",
+   "counts": 85
+  },
+  {
+   "keywords": "sure",
+   "counts": 85
+  },
+  {
+   "keywords": "special",
+   "counts": 77
+  },
+  {
+   "keywords": "long",
+   "counts": 76
+  },
+  {
+   "keywords": "black",
+   "counts": 68
+  },
+  {
+   "keywords": "hard",
+   "counts": 67
+  },
+  {
+   "keywords": "fine",
+   "counts": 66
+  },
+  {
+   "keywords": "entire",
+   "counts": 65
+  },
+  {
+   "keywords": "trash",
+   "counts": 64
+  },
+  {
+   "keywords": "bad",
+   "counts": 63
+  },
+  {
+   "keywords": "single",
+   "counts": 61
+  },
+  {
+   "keywords": "u",
+   "counts": 59
+  },
+  {
+   "keywords": "wrong",
+   "counts": 59
+  },
+  {
+   "keywords": "inappropriate",
+   "counts": 58
+  },
+  {
+   "keywords": "few",
+   "counts": 57
+  },
+  {
+   "keywords": "stupid",
+   "counts": 56
+  },
+  {
+   "keywords": "main",
+   "counts": 54
+  },
+  {
+   "keywords": "free",
+   "counts": 50
+  },
+  {
+   "keywords": "past",
+   "counts": 50
+  },
+  {
+   "keywords": "different",
+   "counts": 49
+  },
+  {
+   "keywords": "certain",
+   "counts": 48
+  },
+  {
+   "keywords": "young",
+   "counts": 47
+  },
+  {
+   "keywords": "first",
+   "counts": 44
+  },
+  {
+   "keywords": "mad",
+   "counts": 44
+  },
+  {
+   "keywords": "frustrating",
+   "counts": 43
+  },
+  {
+   "keywords": "sad",
+   "counts": 42
+  },
+  {
+   "keywords": "short",
+   "counts": 36
+  },
+  {
+   "keywords": "app",
+   "counts": 36
+  },
+  {
+   "keywords": "boring",
+   "counts": 36
+  },
+  {
+   "keywords": "horrible",
+   "counts": 34
+  },
+  {
+   "keywords": "ridiculous",
+   "counts": 34
+  },
+  {
+   "keywords": "nice",
+   "counts": 33
+  },
+  {
+   "keywords": "wide",
+   "counts": 32
+  },
+  {
+   "keywords": "unfair",
+   "counts": 32
+  },
+  {
+   "keywords": "expensive",
+   "counts": 31
+  },
+  {
+   "keywords": "whole",
+   "counts": 29
+  },
+  {
+   "keywords": "“",
+   "counts": 29
+  },
+  {
+   "keywords": "recommended",
+   "counts": 29
+  },
+  {
+   "keywords": "unicorn",
+   "counts": 29
+  },
+  {
+   "keywords": "daemonic",
+   "counts": 29
+  },
+  {
+   "keywords": "commercial",
+   "counts": 29
+  },
+  {
+   "keywords": "fav",
+   "counts": 29
+  },
+  {
+   "keywords": "upset",
+   "counts": 29
+  },
+  {
+   "keywords": "overall",
+   "counts": 28
+  },
+  {
+   "keywords": "subway",
+   "counts": 26
+  },
+  {
+   "keywords": "in-game",
+   "counts": 25
+  },
+  {
+   "keywords": "limited",
+   "counts": 24
+  },
+  {
+   "keywords": "solid",
+   "counts": 22
+  },
+  {
+   "keywords": "slow",
+   "counts": 22
+  },
+  {
+   "keywords": "right",
+   "counts": 22
+  },
+  {
+   "keywords": "awesome",
+   "counts": 21
+  },
+  {
+   "keywords": "nut",
+   "counts": 21
+  },
+  {
+   "keywords": "addictive",
+   "counts": 21
+  },
+  {
+   "keywords": "sick",
+   "counts": 21
+  },
+  {
+   "keywords": "Great",
+   "counts": 21
+  },
+  {
+   "keywords": "token",
+   "counts": 21
+  },
+  {
+   "keywords": "laggy",
+   "counts": 21
+  },
+  {
+   "keywords": "extra",
+   "counts": 21
+  },
+  {
+   "keywords": "fix",
+   "counts": 20
+  },
+  {
+   "keywords": "double",
+   "counts": 20
+  },
+  {
+   "keywords": "due",
+   "counts": 20
+  },
+  {
+   "keywords": "willing",
+   "counts": 20
+  },
+  {
+   "keywords": "ive",
+   "counts": 20
+  },
+  {
+   "keywords": "5star",
+   "counts": 20
+  },
+  {
+   "keywords": "complete",
+   "counts": 20
+  },
+  {
+   "keywords": "able",
+   "counts": 20
+  },
+  {
+   "keywords": "2-3",
+   "counts": 20
+  },
+  {
+   "keywords": "Tried",
+   "counts": 20
+  },
+  {
+   "keywords": "enjoyable",
+   "counts": 20
+  },
+  {
+   "keywords": "own",
+   "counts": 20
+  },
+  {
+   "keywords": "na",
+   "counts": 19
+  },
+  {
+   "keywords": "..",
+   "counts": 19
+  },
+  {
+   "keywords": "tu",
+   "counts": 19
+  },
+  {
+   "keywords": "cool",
+   "counts": 19
+  },
+  {
+   "keywords": "los",
+   "counts": 19
+  },
+  {
+   "keywords": "d",
+   "counts": 19
+  },
+  {
+   "keywords": "repetitive",
+   "counts": 19
+  },
+  {
+   "keywords": "mobile",
+   "counts": 19
+  },
+  {
+   "keywords": "wasted",
+   "counts": 19
+  },
+  {
+   "keywords": "low",
+   "counts": 19
+  },
+  {
+   "keywords": "noce",
+   "counts": 18
+  },
+  {
+   "keywords": "help",
+   "counts": 18
+  },
+  {
+   "keywords": "LAME",
+   "counts": 18
+  },
+  {
+   "keywords": "waster",
+   "counts": 18
+  },
+  {
+   "keywords": "classic",
+   "counts": 18
+  },
+  {
+   "keywords": "up…",
+   "counts": 18
+  },
+  {
+   "keywords": "rid",
+   "counts": 18
+  },
+  {
+   "keywords": "hungry",
+   "counts": 18
+  },
+  {
+   "keywords": "screen",
+   "counts": 18
+  },
+  {
+   "keywords": "y",
+   "counts": 18
+  },
+  {
+   "keywords": "alternate",
+   "counts": 18
+  },
+  {
+   "keywords": "helpful",
+   "counts": 18
+  },
+  {
+   "keywords": "autistic",
+   "counts": 18
+  },
+  {
+   "keywords": "kinda",
+   "counts": 18
+  },
+  {
+   "keywords": "🌪🌪🌪🌪‼️📸🥺",
+   "counts": 18
+  },
+  {
+   "keywords": "run",
+   "counts": 18
+  },
+  {
+   "keywords": "heaven",
+   "counts": 18
+  },
+  {
+   "keywords": "unable",
+   "counts": 17
+  },
+  {
+   "keywords": "ppl",
+   "counts": 17
+  },
+  {
+   "keywords": "exact",
+   "counts": 17
+  },
+  {
+   "keywords": "mid",
+   "counts": 17
+  },
+  {
+   "keywords": "random",
+   "counts": 17
+  },
+  {
+   "keywords": "cheep",
+   "counts": 16
+  },
+  {
+   "keywords": "aSafe",
+   "counts": 16
+  },
+  {
+   "keywords": "1-12",
+   "counts": 16
+  },
+  {
+   "keywords": "disappear",
+   "counts": 16
+  },
+  {
+   "keywords": "nasty",
+   "counts": 16
+  },
+  {
+   "keywords": "decent",
+   "counts": 16
+  },
+  {
+   "keywords": "don",
+   "counts": 16
+  },
+  {
+   "keywords": "pointless",
+   "counts": 16
+  },
+  {
+   "keywords": "😩",
+   "counts": 16
+  },
+  {
+   "keywords": "twelfth",
+   "counts": 16
+  },
+  {
+   "keywords": "unlimited",
+   "counts": 16
+  },
+  {
+   "keywords": "total",
+   "counts": 16
+  },
+  {
+   "keywords": "🏆",
+   "counts": 15
+  },
+  {
+   "keywords": "previous",
+   "counts": 15
+  },
+  {
+   "keywords": "fifteen",
+   "counts": 15
+  },
+  {
+   "keywords": "alive",
+   "counts": 15
+  },
+  {
+   "keywords": "iPad",
+   "counts": 15
+  },
+  {
+   "keywords": "okay",
+   "counts": 15
+  },
+  {
+   "keywords": "huge",
+   "counts": 15
+  },
+  {
+   "keywords": "fast",
+   "counts": 15
+  },
+  {
+   "keywords": "smooth",
+   "counts": 14
+  },
+  {
+   "keywords": "political",
+   "counts": 14
+  },
+  {
+   "keywords": "Terrible",
+   "counts": 14
+  },
+  {
+   "keywords": "Same",
+   "counts": 14
+  },
+  {
+   "keywords": "spin",
+   "counts": 14
+  },
+  {
+   "keywords": "clear",
+   "counts": 14
+  },
+  {
+   "keywords": "pride",
+   "counts": 14
+  },
+  {
+   "keywords": "ليه",
+   "counts": 14
+  },
+  {
+   "keywords": "second",
+   "counts": 13
+  },
+  {
+   "keywords": "true",
+   "counts": 13
+  },
+  {
+   "keywords": "annoying",
+   "counts": 13
+  },
+  {
+   "keywords": "Major",
+   "counts": 13
+  },
+  {
+   "keywords": "meant",
+   "counts": 13
+  },
+  {
+   "keywords": "cant",
+   "counts": 13
+  },
+  {
+   "keywords": "everyday",
+   "counts": 13
+  },
+  {
+   "keywords": "re",
+   "counts": 12
+  },
+  {
+   "keywords": "obnoxious",
+   "counts": 12
+  },
+  {
+   "keywords": "seasonal",
+   "counts": 12
+  },
+  {
+   "keywords": "simple",
+   "counts": 12
+  },
+  {
+   "keywords": "Native",
+   "counts": 12
+  },
+  {
+   "keywords": "daily",
+   "counts": 12
+  },
+  {
+   "keywords": "popular",
+   "counts": 12
+  },
+  {
+   "keywords": "running",
+   "counts": 12
+  },
+  {
+   "keywords": "___",
+   "counts": 12
+  },
+  {
+   "keywords": "fractured",
+   "counts": 12
+  },
+  {
+   "keywords": "frequently.It",
+   "counts": 12
+  },
+  {
+   "keywords": "dumb",
+   "counts": 11
+  },
+  {
+   "keywords": "😤",
+   "counts": 11
+  },
+  {
+   "keywords": "bec",
+   "counts": 11
+  },
+  {
+   "keywords": "deleted",
+   "counts": 11
+  },
+  {
+   "keywords": "Been",
+   "counts": 11
+  },
+  {
+   "keywords": "gold",
+   "counts": 11
+  },
+  {
+   "keywords": "oranganal",
+   "counts": 11
+  },
+  {
+   "keywords": "rude",
+   "counts": 11
+  },
+  {
+   "keywords": "Such",
+   "counts": 11
+  },
+  {
+   "keywords": "Third",
+   "counts": 11
+  },
+  {
+   "keywords": "ups",
+   "counts": 11
+  },
+  {
+   "keywords": "og",
+   "counts": 11
+  },
+  {
+   "keywords": "literal",
+   "counts": 11
+  },
+  {
+   "keywords": "fortnite",
+   "counts": 11
+  },
+  {
+   "keywords": "happy",
+   "counts": 10
+  },
+  {
+   "keywords": "amazing",
+   "counts": 10
+  },
+  {
+   "keywords": "micro",
+   "counts": 10
+  },
+  {
+   "keywords": "lose",
+   "counts": 10
+  },
+  {
+   "keywords": "non-ad",
+   "counts": 10
+  },
+  {
+   "keywords": "such",
+   "counts": 10
+  },
+  {
+   "keywords": "rough",
+   "counts": 10
+  },
+  {
+   "keywords": "stuipid",
+   "counts": 10
+  },
+  {
+   "keywords": "blank",
+   "counts": 9
+  },
+  {
+   "keywords": "changed",
+   "counts": 9
+  },
+  {
+   "keywords": "fave",
+   "counts": 9
+  },
+  {
+   "keywords": "freezes",
+   "counts": 9
+  },
+  {
+   "keywords": "favorite",
+   "counts": 9
+  },
+  {
+   "keywords": "furious",
+   "counts": 8
+  },
+  {
+   "keywords": "afoul",
+   "counts": 8
+  },
+  {
+   "keywords": "added",
+   "counts": 8
+  },
+  {
+   "keywords": "inicent",
+   "counts": 8
+  },
+  {
+   "keywords": "dare",
+   "counts": 8
+  },
+  {
+   "keywords": "irrelevant",
+   "counts": 8
+  },
+  {
+   "keywords": "outi",
+   "counts": 8
+  },
+  {
+   "keywords": "finger-game",
+   "counts": 8
+  },
+  {
+   "keywords": "pretty",
+   "counts": 8
+  },
+  {
+   "keywords": "enough",
+   "counts": 8
+  },
+  {
+   "keywords": "mucho",
+   "counts": 8
+  },
+  {
+   "keywords": "curious",
+   "counts": 7
+  },
+  {
+   "keywords": "veteran",
+   "counts": 7
+  },
+  {
+   "keywords": "blah",
+   "counts": 7
+  },
+  {
+   "keywords": "cellular",
+   "counts": 7
+  },
+  {
+   "keywords": "guys",
+   "counts": 7
+  },
+  {
+   "keywords": "instant",
+   "counts": 6
+  },
+  {
+   "keywords": "endless",
+   "counts": 6
+  },
+  {
+   "keywords": "isn",
+   "counts": 6
+  },
+  {
+   "keywords": "cosmetic",
+   "counts": 6
+  },
+  {
+   "keywords": "American",
+   "counts": 6
+  },
+  {
+   "keywords": "iOS",
+   "counts": 6
+  },
+  {
+   "keywords": "terrific",
+   "counts": 6
+  },
+  {
+   "keywords": "awful",
+   "counts": 6
+  },
+  {
+   "keywords": "professional",
+   "counts": 6
+  },
+  {
+   "keywords": "illegal",
+   "counts": 6
+  },
+  {
+   "keywords": "sluggish",
+   "counts": 6
+  },
+  {
+   "keywords": "desired",
+   "counts": 6
+  },
+  {
+   "keywords": "responsive",
+   "counts": 6
+  },
+  {
+   "keywords": "difficultly-",
+   "counts": 6
+  },
+  {
+   "keywords": "add",
+   "counts": 6
+  },
+  {
+   "keywords": "intriguing",
+   "counts": 6
+  },
+  {
+   "keywords": "ll",
+   "counts": 6
+  },
+  {
+   "keywords": "experienced",
+   "counts": 6
+  },
+  {
+   "keywords": "animated",
+   "counts": 6
+  },
+  {
+   "keywords": "enjoyable-",
+   "counts": 6
+  },
+  {
+   "keywords": "African",
+   "counts": 6
+  },
+  {
+   "keywords": "go-to.",
+   "counts": 6
+  },
+  {
+   "keywords": "impossible",
+   "counts": 5
+  },
+  {
+   "keywords": "uncomfortable",
+   "counts": 5
+  },
+  {
+   "keywords": "incomplete",
+   "counts": 5
+  },
+  {
+   "keywords": "blue",
+   "counts": 5
+  },
+  {
+   "keywords": "tacky",
+   "counts": 5
+  },
+  {
+   "keywords": "recent",
+   "counts": 5
+  },
+  {
+   "keywords": "full",
+   "counts": 5
+  },
+  {
+   "keywords": "red",
+   "counts": 5
+  },
+  {
+   "keywords": "addicting",
+   "counts": 5
+  },
+  {
+   "keywords": "fake",
+   "counts": 5
+  },
+  {
+   "keywords": "daredevil",
+   "counts": 5
+  },
+  {
+   "keywords": "stable",
+   "counts": 5
+  },
+  {
+   "keywords": "increased",
+   "counts": 5
+  },
+  {
+   "keywords": "ONLY",
+   "counts": 5
+  },
+  {
+   "keywords": "pay",
+   "counts": 5
+  },
+  {
+   "keywords": "Unbelievable",
+   "counts": 5
+  },
+  {
+   "keywords": "realistic",
+   "counts": 5
+  },
+  {
+   "keywords": "absurd",
+   "counts": 5
+  },
+  {
+   "keywords": "covered",
+   "counts": 5
+  },
+  {
+   "keywords": "Wordy",
+   "counts": 5
+  },
+  {
+   "keywords": "ok",
+   "counts": 5
+  },
+  {
+   "keywords": "online",
+   "counts": 4
+  },
+  {
+   "keywords": "next",
+   "counts": 4
+  },
+  {
+   "keywords": "heavy",
+   "counts": 4
+  },
+  {
+   "keywords": "fb",
+   "counts": 4
+  },
+  {
+   "keywords": "interesting",
+   "counts": 4
+  },
+  {
+   "keywords": "racist",
+   "counts": 4
+  },
+  {
+   "keywords": "loose",
+   "counts": 4
+  },
+  {
+   "keywords": "noble",
+   "counts": 4
+  },
+  {
+   "keywords": "big",
+   "counts": 4
+  },
+  {
+   "keywords": "APPALLED",
+   "counts": 4
+  },
+  {
+   "keywords": "c",
+   "counts": 4
+  },
+  {
+   "keywords": "future",
+   "counts": 4
+  },
+  {
+   "keywords": "fat",
+   "counts": 3
+  },
+  {
+   "keywords": "da",
+   "counts": 3
+  },
+  {
+   "keywords": "general",
+   "counts": 3
+  },
+  {
+   "keywords": "open",
+   "counts": 3
+  },
+  {
+   "keywords": "usual",
+   "counts": 3
+  },
+  {
+   "keywords": "AMAZING",
+   "counts": 3
+  },
+  {
+   "keywords": "white",
+   "counts": 3
+  },
+  {
+   "keywords": "Racist",
+   "counts": 3
+  },
+  {
+   "keywords": "offline",
+   "counts": 2
+  },
+  {
+   "keywords": "honest",
+   "counts": 2
+  },
+  {
+   "keywords": "third",
+   "counts": 2
+  },
+  {
+   "keywords": "sudden",
+   "counts": 2
+  },
+  {
+   "keywords": "concerned",
+   "counts": 1
+  },
+  {
+   "keywords": "following",
+   "counts": 1
+  },
+  {
+   "keywords": "weekly",
+   "counts": 1
+  },
+  {
+   "keywords": "minimal",
+   "counts": 1
+  },
+  {
+   "keywords": "Wish",
+   "counts": 1
+  },
+  {
+   "keywords": "awkward",
+   "counts": 1
+  },
+  {
+   "keywords": "worse",
+   "counts": 1
+  },
+  {
+   "keywords": "plz",
+   "counts": 1
+  },
+  {
+   "keywords": "noticeable",
+   "counts": 1
+  },
+  {
+   "keywords": "several",
+   "counts": 1
+  },
+  {
+   "keywords": "ur",
+   "counts": 1
+  },
+  {
+   "keywords": "disappointing",
+   "counts": 1
+  },
+  {
+   "keywords": "difficult",
+   "counts": 1
+  },
+  {
+   "keywords": "subs",
+   "counts": 1
+  },
+  {
+   "keywords": "wish",
+   "counts": 1
+  },
+  {
+   "keywords": "tech",
+   "counts": 1
+  },
+  {
+   "keywords": "optional",
+   "counts": 1
+  },
+  {
+   "keywords": "similar",
+   "counts": 1
+  },
+  {
+   "keywords": "present",
+   "counts": 1
+  },
+  {
+   "keywords": "ok👌🏼",
+   "counts": 1
+  },
+  {
+   "keywords": "cyber",
+   "counts": 1
+  },
+  {
+   "keywords": "manny",
+   "counts": 1
+  }
+ ],
+ "1": [
+  {
+   "keywords": "’",
+   "counts": 1795
+  },
+  {
+   "keywords": "new",
+   "counts": 832
+  },
+  {
+   "keywords": "t",
+   "counts": 686
+  },
+  {
+   "keywords": "s",
+   "counts": 641
+  },
+  {
+   "keywords": "many",
+   "counts": 625
+  },
+  {
+   "keywords": "i",
+   "counts": 446
+  },
+  {
+   "keywords": "bad",
+   "counts": 441
+  },
+  {
+   "keywords": "good",
+   "counts": 402
+  },
+  {
+   "keywords": "high",
+   "counts": 402
+  },
+  {
+   "keywords": "m",
+   "counts": 388
+  },
+  {
+   "keywords": "last",
+   "counts": 339
+  },
+  {
+   "keywords": "other",
+   "counts": 301
+  },
+  {
+   "keywords": "update",
+   "counts": 291
+  },
+  {
+   "keywords": "old",
+   "counts": 290
+  },
+  {
+   "keywords": "horrible",
+   "counts": 276
+  },
+  {
+   "keywords": "hard",
+   "counts": 274
+  },
+  {
+   "keywords": "able",
+   "counts": 267
+  },
+  {
+   "keywords": "much",
+   "counts": 240
+  },
+  {
+   "keywords": "fun",
+   "counts": 229
+  },
+  {
+   "keywords": "first",
+   "counts": 193
+  },
+  {
+   "keywords": "ve",
+   "counts": 188
+  },
+  {
+   "keywords": "same",
+   "counts": 170
+  },
+  {
+   "keywords": "ll",
+   "counts": 170
+  },
+  {
+   "keywords": "white",
+   "counts": 152
+  },
+  {
+   "keywords": "stupid",
+   "counts": 148
+  },
+  {
+   "keywords": "few",
+   "counts": 143
+  },
+  {
+   "keywords": "disappointed",
+   "counts": 138
+  },
+  {
+   "keywords": "whole",
+   "counts": 135
+  },
+  {
+   "keywords": "“",
+   "counts": 133
+  },
+  {
+   "keywords": "d",
+   "counts": 120
+  },
+  {
+   "keywords": "free",
+   "counts": 112
+  },
+  {
+   "keywords": "original",
+   "counts": 112
+  },
+  {
+   "keywords": "black",
+   "counts": 110
+  },
+  {
+   "keywords": "great",
+   "counts": 110
+  },
+  {
+   "keywords": "next",
+   "counts": 105
+  },
+  {
+   "keywords": "subway",
+   "counts": 105
+  },
+  {
+   "keywords": "recent",
+   "counts": 105
+  },
+  {
+   "keywords": "second",
+   "counts": 100
+  },
+  {
+   "keywords": "daily",
+   "counts": 99
+  },
+  {
+   "keywords": "long",
+   "counts": 99
+  },
+  {
+   "keywords": "wrong",
+   "counts": 96
+  },
+  {
+   "keywords": "don",
+   "counts": 95
+  },
+  {
+   "keywords": "mad",
+   "counts": 95
+  },
+  {
+   "keywords": "fine",
+   "counts": 95
+  },
+  {
+   "keywords": "several",
+   "counts": 88
+  },
+  {
+   "keywords": "only",
+   "counts": 87
+  },
+  {
+   "keywords": "super",
+   "counts": 87
+  },
+  {
+   "keywords": "little",
+   "counts": 87
+  },
+  {
+   "keywords": "favorite",
+   "counts": 87
+  },
+  {
+   "keywords": "own",
+   "counts": 86
+  },
+  {
+   "keywords": "sad",
+   "counts": 86
+  },
+  {
+   "keywords": "available",
+   "counts": 85
+  },
+  {
+   "keywords": "single",
+   "counts": 81
+  },
+  {
+   "keywords": "happy",
+   "counts": 80
+  },
+  {
+   "keywords": "app",
+   "counts": 80
+  },
+  {
+   "keywords": "re",
+   "counts": 79
+  },
+  {
+   "keywords": "special",
+   "counts": 75
+  },
+  {
+   "keywords": "u",
+   "counts": 74
+  },
+  {
+   "keywords": "uglier",
+   "counts": 72
+  },
+  {
+   "keywords": "upset",
+   "counts": 69
+  },
+  {
+   "keywords": "sure",
+   "counts": 69
+  },
+  {
+   "keywords": "trash",
+   "counts": 68
+  },
+  {
+   "keywords": "top",
+   "counts": 67
+  },
+  {
+   "keywords": "token",
+   "counts": 67
+  },
+  {
+   "keywords": "true",
+   "counts": 67
+  },
+  {
+   "keywords": "big",
+   "counts": 65
+  },
+  {
+   "keywords": "please",
+   "counts": 65
+  },
+  {
+   "keywords": "right",
+   "counts": 64
+  },
+  {
+   "keywords": "fix",
+   "counts": 64
+  },
+  {
+   "keywords": "key",
+   "counts": 64
+  },
+  {
+   "keywords": "pls",
+   "counts": 62
+  },
+  {
+   "keywords": "terrible",
+   "counts": 60
+  },
+  {
+   "keywords": "rid",
+   "counts": 59
+  },
+  {
+   "keywords": "different",
+   "counts": 59
+  },
+  {
+   "keywords": "unplayable",
+   "counts": 59
+  },
+  {
+   "keywords": "doesn",
+   "counts": 58
+  },
+  {
+   "keywords": "sudden",
+   "counts": 57
+  },
+  {
+   "keywords": "pro",
+   "counts": 57
+  },
+  {
+   "keywords": "open",
+   "counts": 54
+  },
+  {
+   "keywords": "double",
+   "counts": 53
+  },
+  {
+   "keywords": "full",
+   "counts": 51
+  },
+  {
+   "keywords": "red",
+   "counts": 50
+  },
+  {
+   "keywords": "cool",
+   "counts": 50
+  },
+  {
+   "keywords": "easy",
+   "counts": 49
+  },
+  {
+   "keywords": "Horrible",
+   "counts": 48
+  },
+  {
+   "keywords": "boring",
+   "counts": 48
+  },
+  {
+   "keywords": "dumb",
+   "counts": 48
+  },
+  {
+   "keywords": "slow",
+   "counts": 46
+  },
+  {
+   "keywords": "Other",
+   "counts": 45
+  },
+  {
+   "keywords": "past",
+   "counts": 44
+  },
+  {
+   "keywords": "isn",
+   "counts": 43
+  },
+  {
+   "keywords": "didn",
+   "counts": 43
+  },
+  {
+   "keywords": "such",
+   "counts": 43
+  },
+  {
+   "keywords": "sick",
+   "counts": 43
+  },
+  {
+   "keywords": "nice",
+   "counts": 43
+  },
+  {
+   "keywords": "oh",
+   "counts": 42
+  },
+  {
+   "keywords": "early",
+   "counts": 41
+  },
+  {
+   "keywords": "close",
+   "counts": 41
+  },
+  {
+   "keywords": "unresponsive",
+   "counts": 41
+  },
+  {
+   "keywords": "ridiculous",
+   "counts": 40
+  },
+  {
+   "keywords": "laggy",
+   "counts": 40
+  },
+  {
+   "keywords": "crazy",
+   "counts": 40
+  },
+  {
+   "keywords": "allotted",
+   "counts": 39
+  },
+  {
+   "keywords": "playable",
+   "counts": 39
+  },
+  {
+   "keywords": "coral",
+   "counts": 39
+  },
+  {
+   "keywords": "third",
+   "counts": 39
+  },
+  {
+   "keywords": "collect",
+   "counts": 39
+  },
+  {
+   "keywords": "real",
+   "counts": 38
+  },
+  {
+   "keywords": "mega",
+   "counts": 38
+  },
+  {
+   "keywords": "hot",
+   "counts": 38
+  },
+  {
+   "keywords": "inappropriate",
+   "counts": 38
+  },
+  {
+   "keywords": "worth",
+   "counts": 37
+  },
+  {
+   "keywords": "due",
+   "counts": 37
+  },
+  {
+   "keywords": "actual",
+   "counts": 37
+  },
+  {
+   "keywords": "multiple",
+   "counts": 37
+  },
+  {
+   "keywords": "rough",
+   "counts": 36
+  },
+  {
+   "keywords": "wouldn",
+   "counts": 36
+  },
+  {
+   "keywords": "childish",
+   "counts": 36
+  },
+  {
+   "keywords": "na",
+   "counts": 36
+  },
+  {
+   "keywords": "glitchy",
+   "counts": 35
+  },
+  {
+   "keywords": "wont",
+   "counts": 34
+  },
+  {
+   "keywords": "proud",
+   "counts": 34
+  },
+  {
+   "keywords": "impossible",
+   "counts": 33
+  },
+  {
+   "keywords": "uncomfortable",
+   "counts": 33
+  },
+  {
+   "keywords": "inaccessible",
+   "counts": 33
+  },
+  {
+   "keywords": "extra",
+   "counts": 33
+  },
+  {
+   "keywords": "accessible",
+   "counts": 33
+  },
+  {
+   "keywords": "classic",
+   "counts": 33
+  },
+  {
+   "keywords": "BIPOC",
+   "counts": 33
+  },
+  {
+   "keywords": "racial",
+   "counts": 33
+  },
+  {
+   "keywords": "cultural",
+   "counts": 33
+  },
+  {
+   "keywords": "unable",
+   "counts": 33
+  },
+  {
+   "keywords": "back",
+   "counts": 33
+  },
+  {
+   "keywords": "updated",
+   "counts": 32
+  },
+  {
+   "keywords": "racist",
+   "counts": 32
+  },
+  {
+   "keywords": "wish",
+   "counts": 32
+  },
+  {
+   "keywords": "numerous",
+   "counts": 32
+  },
+  {
+   "keywords": "bye",
+   "counts": 31
+  },
+  {
+   "keywords": "pride",
+   "counts": 31
+  },
+  {
+   "keywords": "tried",
+   "counts": 30
+  },
+  {
+   "keywords": "y",
+   "counts": 30
+  },
+  {
+   "keywords": "weird",
+   "counts": 30
+  },
+  {
+   "keywords": "serious",
+   "counts": 30
+  },
+  {
+   "keywords": "awful",
+   "counts": 30
+  },
+  {
+   "keywords": "awesome",
+   "counts": 29
+  },
+  {
+   "keywords": "purple",
+   "counts": 29
+  },
+  {
+   "keywords": "..",
+   "counts": 29
+  },
+  {
+   "keywords": "dark",
+   "counts": 28
+  },
+  {
+   "keywords": "late",
+   "counts": 28
+  },
+  {
+   "keywords": "expensive",
+   "counts": 28
+  },
+  {
+   "keywords": "ohh",
+   "counts": 28
+  },
+  {
+   "keywords": "pretty",
+   "counts": 27
+  },
+  {
+   "keywords": "difficult",
+   "counts": 27
+  },
+  {
+   "keywords": "iPad",
+   "counts": 25
+  },
+  {
+   "keywords": "young",
+   "counts": 25
+  },
+  {
+   "keywords": "unlocked",
+   "counts": 25
+  },
+  {
+   "keywords": "lgbtq",
+   "counts": 25
+  },
+  {
+   "keywords": "commercial",
+   "counts": 25
+  },
+  {
+   "keywords": "overall",
+   "counts": 24
+  },
+  {
+   "keywords": "regular",
+   "counts": 24
+  },
+  {
+   "keywords": "Terrible",
+   "counts": 24
+  },
+  {
+   "keywords": "outrageous",
+   "counts": 23
+  },
+  {
+   "keywords": "entire",
+   "counts": 23
+  },
+  {
+   "keywords": "bright",
+   "counts": 23
+  },
+  {
+   "keywords": "frozen",
+   "counts": 23
+  },
+  {
+   "keywords": "curious",
+   "counts": 22
+  },
+  {
+   "keywords": "solid",
+   "counts": 22
+  },
+  {
+   "keywords": "absolute",
+   "counts": 22
+  },
+  {
+   "keywords": "enough",
+   "counts": 22
+  },
+  {
+   "keywords": "ha",
+   "counts": 22
+  },
+  {
+   "keywords": "main",
+   "counts": 22
+  },
+  {
+   "keywords": "dead",
+   "counts": 22
+  },
+  {
+   "keywords": "graphic",
+   "counts": 21
+  },
+  {
+   "keywords": "crouch",
+   "counts": 21
+  },
+  {
+   "keywords": "horrific",
+   "counts": 21
+  },
+  {
+   "keywords": "broken",
+   "counts": 21
+  },
+  {
+   "keywords": "money-hungry",
+   "counts": 21
+  },
+  {
+   "keywords": "come",
+   "counts": 21
+  },
+  {
+   "keywords": "sloppy",
+   "counts": 21
+  },
+  {
+   "keywords": "game-jayden",
+   "counts": 21
+  },
+  {
+   "keywords": "harmless",
+   "counts": 21
+  },
+  {
+   "keywords": "friendly",
+   "counts": 21
+  },
+  {
+   "keywords": "local",
+   "counts": 21
+  },
+  {
+   "keywords": "interesting",
+   "counts": 21
+  },
+  {
+   "keywords": "anywhere",
+   "counts": 20
+  },
+  {
+   "keywords": "official",
+   "counts": 20
+  },
+  {
+   "keywords": "experiencing.I",
+   "counts": 20
+  },
+  {
+   "keywords": "intro",
+   "counts": 20
+  },
+  {
+   "keywords": "pathetic",
+   "counts": 20
+  },
+  {
+   "keywords": "5-year",
+   "counts": 20
+  },
+  {
+   "keywords": "THIS",
+   "counts": 20
+  },
+  {
+   "keywords": "furious",
+   "counts": 19
+  },
+  {
+   "keywords": "12/2021-",
+   "counts": 19
+  },
+  {
+   "keywords": "chase",
+   "counts": 19
+  },
+  {
+   "keywords": "skippable",
+   "counts": 19
+  },
+  {
+   "keywords": "⟟",
+   "counts": 19
+  },
+  {
+   "keywords": "minor",
+   "counts": 19
+  },
+  {
+   "keywords": "marathon",
+   "counts": 19
+  },
+  {
+   "keywords": "Multiple",
+   "counts": 19
+  },
+  {
+   "keywords": "updatesAre",
+   "counts": 19
+  },
+  {
+   "keywords": "alien",
+   "counts": 19
+  },
+  {
+   "keywords": "amazing",
+   "counts": 19
+  },
+  {
+   "keywords": "sweet",
+   "counts": 19
+  },
+  {
+   "keywords": "cant",
+   "counts": 19
+  },
+  {
+   "keywords": "screen",
+   "counts": 19
+  },
+  {
+   "keywords": "lost.😩",
+   "counts": 18
+  },
+  {
+   "keywords": "100th",
+   "counts": 18
+  },
+  {
+   "keywords": "gd",
+   "counts": 18
+  },
+  {
+   "keywords": "middle",
+   "counts": 18
+  },
+  {
+   "keywords": "sad…",
+   "counts": 18
+  },
+  {
+   "keywords": "selectable",
+   "counts": 18
+  },
+  {
+   "keywords": "current",
+   "counts": 18
+  },
+  {
+   "keywords": "angry",
+   "counts": 18
+  },
+  {
+   "keywords": "frequent",
+   "counts": 18
+  },
+  {
+   "keywords": "Event",
+   "counts": 18
+  },
+  {
+   "keywords": "political",
+   "counts": 18
+  },
+  {
+   "keywords": "‘",
+   "counts": 18
+  },
+  {
+   "keywords": "powerful",
+   "counts": 18
+  },
+  {
+   "keywords": "menu",
+   "counts": 18
+  },
+  {
+   "keywords": "⭐️",
+   "counts": 18
+  },
+  {
+   "keywords": "successful",
+   "counts": 18
+  },
+  {
+   "keywords": "false",
+   "counts": 17
+  },
+  {
+   "keywords": "poor",
+   "counts": 17
+  },
+  {
+   "keywords": "character/board",
+   "counts": 17
+  },
+  {
+   "keywords": "restart",
+   "counts": 17
+  },
+  {
+   "keywords": "load",
+   "counts": 17
+  },
+  {
+   "keywords": "sin",
+   "counts": 17
+  },
+  {
+   "keywords": "EVERY",
+   "counts": 17
+  },
+  {
+   "keywords": "MANY",
+   "counts": 17
+  },
+  {
+   "keywords": "tbe",
+   "counts": 17
+  },
+  {
+   "keywords": "Major",
+   "counts": 17
+  },
+  {
+   "keywords": "dysfunctional",
+   "counts": 17
+  },
+  {
+   "keywords": "pleased",
+   "counts": 17
+  },
+  {
+   "keywords": "upsetting",
+   "counts": 17
+  },
+  {
+   "keywords": "eome",
+   "counts": 17
+  },
+  {
+   "keywords": "de",
+   "counts": 17
+  },
+  {
+   "keywords": "SHORT",
+   "counts": 17
+  },
+  {
+   "keywords": "online",
+   "counts": 17
+  },
+  {
+   "keywords": "fat",
+   "counts": 17
+  },
+  {
+   "keywords": "sexist",
+   "counts": 17
+  },
+  {
+   "keywords": "anime",
+   "counts": 17
+  },
+  {
+   "keywords": "final",
+   "counts": 17
+  },
+  {
+   "keywords": "seasonal",
+   "counts": 17
+  },
+  {
+   "keywords": "Stupid",
+   "counts": 17
+  },
+  {
+   "keywords": "sound",
+   "counts": 17
+  },
+  {
+   "keywords": "tiny",
+   "counts": 17
+  },
+  {
+   "keywords": "”",
+   "counts": 16
+  },
+  {
+   "keywords": "awkward",
+   "counts": 16
+  },
+  {
+   "keywords": "simple",
+   "counts": 16
+  },
+  {
+   "keywords": "Many",
+   "counts": 16
+  },
+  {
+   "keywords": "LIKE",
+   "counts": 16
+  },
+  {
+   "keywords": "coin",
+   "counts": 16
+  },
+  {
+   "keywords": "m-m-man",
+   "counts": 16
+  },
+  {
+   "keywords": "clean",
+   "counts": 16
+  },
+  {
+   "keywords": "yahoo",
+   "counts": 16
+  },
+  {
+   "keywords": "anxious",
+   "counts": 16
+  },
+  {
+   "keywords": "dharr…",
+   "counts": 16
+  },
+  {
+   "keywords": "mandatory",
+   "counts": 15
+  },
+  {
+   "keywords": "lame",
+   "counts": 15
+  },
+  {
+   "keywords": "it.😕",
+   "counts": 15
+  },
+  {
+   "keywords": "sandwich",
+   "counts": 15
+  },
+  {
+   "keywords": "fun🤩🤩🤩I",
+   "counts": 15
+  },
+  {
+   "keywords": "certain",
+   "counts": 15
+  },
+  {
+   "keywords": "personal",
+   "counts": 15
+  },
+  {
+   "keywords": "previous",
+   "counts": 15
+  },
+  {
+   "keywords": "im",
+   "counts": 15
+  },
+  {
+   "keywords": "sucky",
+   "counts": 15
+  },
+  {
+   "keywords": "hab",
+   "counts": 15
+  },
+  {
+   "keywords": "busy",
+   "counts": 15
+  },
+  {
+   "keywords": "Such",
+   "counts": 15
+  },
+  {
+   "keywords": "stuff",
+   "counts": 15
+  },
+  {
+   "keywords": "disappear",
+   "counts": 15
+  },
+  {
+   "keywords": "Any",
+   "counts": 15
+  },
+  {
+   "keywords": "Great",
+   "counts": 15
+  },
+  {
+   "keywords": "restored",
+   "counts": 15
+  },
+  {
+   "keywords": "extremus",
+   "counts": 14
+  },
+  {
+   "keywords": "empty-headed",
+   "counts": 14
+  },
+  {
+   "keywords": "vacuous",
+   "counts": 14
+  },
+  {
+   "keywords": "thick-witted",
+   "counts": 14
+  },
+  {
+   "keywords": "bugged",
+   "counts": 14
+  },
+  {
+   "keywords": "reputable",
+   "counts": 14
+  },
+  {
+   "keywords": "😐😐😡😡😡",
+   "counts": 14
+  },
+  {
+   "keywords": "half-witted",
+   "counts": 14
+  },
+  {
+   "keywords": "um",
+   "counts": 14
+  },
+  {
+   "keywords": "frustrated",
+   "counts": 14
+  },
+  {
+   "keywords": "unchecked",
+   "counts": 14
+  },
+  {
+   "keywords": "native",
+   "counts": 14
+  },
+  {
+   "keywords": "power-ups",
+   "counts": 14
+  },
+  {
+   "keywords": "dorky",
+   "counts": 14
+  },
+  {
+   "keywords": "monthly",
+   "counts": 14
+  },
+  {
+   "keywords": "slow-witted",
+   "counts": 14
+  },
+  {
+   "keywords": "soft",
+   "counts": 14
+  },
+  {
+   "keywords": "gormless",
+   "counts": 14
+  },
+  {
+   "keywords": "true🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅‍♀️🙅🙅🙅🙅🙅🙅🙅🙅🙅🙅🙅🙅🙅🙅🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️🙅‍♂️The",
+   "counts": 14
+  },
+  {
+   "keywords": "unintelligent",
+   "counts": 14
+  },
+  {
+   "keywords": "doltish",
+   "counts": 14
+  },
+  {
+   "keywords": "weak-minded",
+   "counts": 14
+  },
+  {
+   "keywords": "fatuous",
+   "counts": 14
+  },
+  {
+   "keywords": "NOT",
+   "counts": 14
+  },
+  {
+   "keywords": "sleep",
+   "counts": 14
+  },
+  {
+   "keywords": "fair",
+   "counts": 14
+  },
+  {
+   "keywords": "mental",
+   "counts": 14
+  },
+  {
+   "keywords": "glitches",
+   "counts": 14
+  },
+  {
+   "keywords": "vid",
+   "counts": 14
+  },
+  {
+   "keywords": "possible",
+   "counts": 14
+  },
+  {
+   "keywords": "huge",
+   "counts": 14
+  },
+  {
+   "keywords": "private",
+   "counts": 14
+  },
+  {
+   "keywords": "unnoticed",
+   "counts": 14
+  },
+  {
+   "keywords": "ok",
+   "counts": 14
+  },
+  {
+   "keywords": "exact",
+   "counts": 14
+  },
+  {
+   "keywords": "funny",
+   "counts": 14
+  },
+  {
+   "keywords": "fourth",
+   "counts": 14
+  },
+  {
+   "keywords": "okay",
+   "counts": 14
+  },
+  {
+   "keywords": "national",
+   "counts": 14
+  },
+  {
+   "keywords": "unhappy",
+   "counts": 14
+  },
+  {
+   "keywords": "missing…",
+   "counts": 14
+  },
+  {
+   "keywords": "specific",
+   "counts": 14
+  },
+  {
+   "keywords": "bam",
+   "counts": 14
+  },
+  {
+   "keywords": "oafish",
+   "counts": 14
+  },
+  {
+   "keywords": "reliable",
+   "counts": 14
+  },
+  {
+   "keywords": "identifiable",
+   "counts": 14
+  },
+  {
+   "keywords": "incredible",
+   "counts": 14
+  },
+  {
+   "keywords": "brain-dead",
+   "counts": 14
+  },
+  {
+   "keywords": "cat",
+   "counts": 14
+  },
+  {
+   "keywords": "pent",
+   "counts": 14
+  },
+  {
+   "keywords": "highway",
+   "counts": 14
+  },
+  {
+   "keywords": "text",
+   "counts": 14
+  },
+  {
+   "keywords": "unsmart",
+   "counts": 14
+  },
+  {
+   "keywords": "negative",
+   "counts": 14
+  },
+  {
+   "keywords": "goofy",
+   "counts": 14
+  },
+  {
+   "keywords": "dim-witted",
+   "counts": 14
+  },
+  {
+   "keywords": "prizes",
+   "counts": 14
+  },
+  {
+   "keywords": "ohmmmmmm",
+   "counts": 14
+  },
+  {
+   "keywords": "potential",
+   "counts": 14
+  },
+  {
+   "keywords": "Been",
+   "counts": 13
+  },
+  {
+   "keywords": "quick",
+   "counts": 13
+  },
+  {
+   "keywords": "darkish",
+   "counts": 13
+  },
+  {
+   "keywords": "indistinguishable",
+   "counts": 13
+  },
+  {
+   "keywords": "🤹🏻‍♀️April",
+   "counts": 13
+  },
+  {
+   "keywords": "frustrating",
+   "counts": 13
+  },
+  {
+   "keywords": "mobile",
+   "counts": 13
+  },
+  {
+   "keywords": "instant",
+   "counts": 12
+  },
+  {
+   "keywords": "surf",
+   "counts": 12
+  },
+  {
+   "keywords": "ur",
+   "counts": 12
+  },
+  {
+   "keywords": "Unrealistic",
+   "counts": 12
+  },
+  {
+   "keywords": "invasive",
+   "counts": 12
+  },
+  {
+   "keywords": "nonfunctional",
+   "counts": 12
+  },
+  {
+   "keywords": "fr",
+   "counts": 12
+  },
+  {
+   "keywords": "NEW",
+   "counts": 12
+  },
+  {
+   "keywords": "sudbdngd",
+   "counts": 12
+  },
+  {
+   "keywords": "fictitious",
+   "counts": 12
+  },
+  {
+   "keywords": "microscopic",
+   "counts": 12
+  },
+  {
+   "keywords": "retarded",
+   "counts": 12
+  },
+  {
+   "keywords": "uceuejdh",
+   "counts": 12
+  },
+  {
+   "keywords": "wonderful",
+   "counts": 12
+  },
+  {
+   "keywords": "loud",
+   "counts": 12
+  },
+  {
+   "keywords": "TO",
+   "counts": 12
+  },
+  {
+   "keywords": "lucky",
+   "counts": 12
+  },
+  {
+   "keywords": "sorry",
+   "counts": 12
+  },
+  {
+   "keywords": "safe",
+   "counts": 11
+  },
+  {
+   "keywords": "I-phone",
+   "counts": 11
+  },
+  {
+   "keywords": "called",
+   "counts": 11
+  },
+  {
+   "keywords": "optional",
+   "counts": 11
+  },
+  {
+   "keywords": "literal",
+   "counts": 11
+  },
+  {
+   "keywords": "😤",
+   "counts": 11
+  },
+  {
+   "keywords": "forced",
+   "counts": 11
+  },
+  {
+   "keywords": "I-pad",
+   "counts": 11
+  },
+  {
+   "keywords": "fortnite",
+   "counts": 11
+  },
+  {
+   "keywords": "cellular",
+   "counts": 11
+  },
+  {
+   "keywords": "Dear",
+   "counts": 11
+  },
+  {
+   "keywords": "Third",
+   "counts": 11
+  },
+  {
+   "keywords": "stop",
+   "counts": 11
+  },
+  {
+   "keywords": "bec",
+   "counts": 11
+  },
+  {
+   "keywords": "nartuo",
+   "counts": 11
+  },
+  {
+   "keywords": "wiped",
+   "counts": 11
+  },
+  {
+   "keywords": "gold",
+   "counts": 11
+  },
+  {
+   "keywords": "og",
+   "counts": 11
+  },
+  {
+   "keywords": "half",
+   "counts": 11
+  },
+  {
+   "keywords": "I-pod",
+   "counts": 11
+  },
+  {
+   "keywords": "unfortunate",
+   "counts": 10
+  },
+  {
+   "keywords": "vary",
+   "counts": 10
+  },
+  {
+   "keywords": "sensible",
+   "counts": 10
+  },
+  {
+   "keywords": "mine",
+   "counts": 10
+  },
+  {
+   "keywords": ".Stupid",
+   "counts": 10
+  },
+  {
+   "keywords": "useless",
+   "counts": 10
+  },
+  {
+   "keywords": "graffiti",
+   "counts": 10
+  },
+  {
+   "keywords": "horrible.",
+   "counts": 10
+  },
+  {
+   "keywords": "severe",
+   "counts": 10
+  },
+  {
+   "keywords": "appalled",
+   "counts": 10
+  },
+  {
+   "keywords": "smart",
+   "counts": 10
+  },
+  {
+   "keywords": "slam",
+   "counts": 10
+  },
+  {
+   "keywords": "monotonous",
+   "counts": 10
+  },
+  {
+   "keywords": "Chinese",
+   "counts": 10
+  },
+  {
+   "keywords": "4-year-old",
+   "counts": 9
+  },
+  {
+   "keywords": "looooong",
+   "counts": 9
+  },
+  {
+   "keywords": "okey",
+   "counts": 9
+  },
+  {
+   "keywords": "skateboard",
+   "counts": 9
+  },
+  {
+   "keywords": "Which",
+   "counts": 9
+  },
+  {
+   "keywords": "technical",
+   "counts": 9
+  },
+  {
+   "keywords": "clear",
+   "counts": 9
+  },
+  {
+   "keywords": "grown",
+   "counts": 9
+  },
+  {
+   "keywords": "suitable",
+   "counts": 9
+  },
+  {
+   "keywords": "virtual",
+   "counts": 9
+  },
+  {
+   "keywords": "tutorial",
+   "counts": 9
+  },
+  {
+   "keywords": "short",
+   "counts": 9
+  },
+  {
+   "keywords": "homophobic",
+   "counts": 9
+  },
+  {
+   "keywords": "booty",
+   "counts": 9
+  },
+  {
+   "keywords": "sexual",
+   "counts": 9
+  },
+  {
+   "keywords": "Every",
+   "counts": 9
+  },
+  {
+   "keywords": "typical",
+   "counts": 9
+  },
+  {
+   "keywords": "musty",
+   "counts": 8
+  },
+  {
+   "keywords": "additional",
+   "counts": 8
+  },
+  {
+   "keywords": "straight",
+   "counts": 8
+  },
+  {
+   "keywords": "gross",
+   "counts": 8
+  },
+  {
+   "keywords": "reset",
+   "counts": 8
+  },
+  {
+   "keywords": "Last",
+   "counts": 8
+  },
+  {
+   "keywords": "complete",
+   "counts": 8
+  },
+  {
+   "keywords": "wordy",
+   "counts": 8
+  },
+  {
+   "keywords": "necessary",
+   "counts": 8
+  },
+  {
+   "keywords": "time-limited",
+   "counts": 8
+  },
+  {
+   "keywords": "fast",
+   "counts": 8
+  },
+  {
+   "keywords": "toAn",
+   "counts": 8
+  },
+  {
+   "keywords": "idk",
+   "counts": 8
+  },
+  {
+   "keywords": "Several",
+   "counts": 7
+  },
+  {
+   "keywords": "SUBWAY",
+   "counts": 7
+  },
+  {
+   "keywords": "offensive",
+   "counts": 7
+  },
+  {
+   "keywords": "appropriate",
+   "counts": 7
+  },
+  {
+   "keywords": "inaccurate",
+   "counts": 7
+  },
+  {
+   "keywords": "pansexual",
+   "counts": 7
+  },
+  {
+   "keywords": "homosexual",
+   "counts": 7
+  },
+  {
+   "keywords": "oppressive",
+   "counts": 7
+  },
+  {
+   "keywords": "iPhone",
+   "counts": 7
+  },
+  {
+   "keywords": "golden",
+   "counts": 7
+  },
+  {
+   "keywords": "save",
+   "counts": 7
+  },
+  {
+   "keywords": "flat",
+   "counts": 7
+  },
+  {
+   "keywords": "opposite",
+   "counts": 7
+  },
+  {
+   "keywords": "unavailable",
+   "counts": 7
+  },
+  {
+   "keywords": "excited",
+   "counts": 7
+  },
+  {
+   "keywords": "Good",
+   "counts": 7
+  },
+  {
+   "keywords": "lying",
+   "counts": 6
+  },
+  {
+   "keywords": "lgbtq+😐",
+   "counts": 6
+  },
+  {
+   "keywords": "infront",
+   "counts": 6
+  },
+  {
+   "keywords": "annoying",
+   "counts": 6
+  },
+  {
+   "keywords": "sooo",
+   "counts": 6
+  },
+  {
+   "keywords": "skip😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡",
+   "counts": 6
+  },
+  {
+   "keywords": "ogs",
+   "counts": 6
+  },
+  {
+   "keywords": "utter",
+   "counts": 6
+  },
+  {
+   "keywords": "callum",
+   "counts": 6
+  },
+  {
+   "keywords": "ran",
+   "counts": 6
+  },
+  {
+   "keywords": "gun",
+   "counts": 6
+  },
+  {
+   "keywords": "unbelievable",
+   "counts": 6
+  },
+  {
+   "keywords": "ONLY",
+   "counts": 6
+  },
+  {
+   "keywords": "paypal",
+   "counts": 6
+  },
+  {
+   "keywords": "separate",
+   "counts": 6
+  },
+  {
+   "keywords": "Disappointed",
+   "counts": 6
+  },
+  {
+   "keywords": "😡It",
+   "counts": 6
+  },
+  {
+   "keywords": "social",
+   "counts": 6
+  },
+  {
+   "keywords": "📉",
+   "counts": 6
+  },
+  {
+   "keywords": "female",
+   "counts": 6
+  },
+  {
+   "keywords": "febreze",
+   "counts": 5
+  },
+  {
+   "keywords": "Unavoidable",
+   "counts": 5
+  },
+  {
+   "keywords": "Overall",
+   "counts": 5
+  },
+  {
+   "keywords": "decent",
+   "counts": 5
+  },
+  {
+   "keywords": "small",
+   "counts": 5
+  },
+  {
+   "keywords": "visual",
+   "counts": 5
+  },
+  {
+   "keywords": "oncoming",
+   "counts": 5
+  },
+  {
+   "keywords": "classical",
+   "counts": 5
+  },
+  {
+   "keywords": "here.Do",
+   "counts": 5
+  },
+  {
+   "keywords": "hella",
+   "counts": 5
+  },
+  {
+   "keywords": "unavoidable",
+   "counts": 5
+  },
+  {
+   "keywords": "continuous",
+   "counts": 5
+  },
+  {
+   "keywords": "cartoonish",
+   "counts": 5
+  },
+  {
+   "keywords": "uhmmm",
+   "counts": 5
+  },
+  {
+   "keywords": "idelete",
+   "counts": 5
+  },
+  {
+   "keywords": "constant",
+   "counts": 5
+  },
+  {
+   "keywords": "basic",
+   "counts": 5
+  },
+  {
+   "keywords": "Cant",
+   "counts": 5
+  },
+  {
+   "keywords": "depressing",
+   "counts": 4
+  },
+  {
+   "keywords": "fake",
+   "counts": 4
+  },
+  {
+   "keywords": "deleted",
+   "counts": 4
+  },
+  {
+   "keywords": "popular",
+   "counts": 4
+  },
+  {
+   "keywords": "sluggish",
+   "counts": 4
+  },
+  {
+   "keywords": "near",
+   "counts": 4
+  },
+  {
+   "keywords": "appreciated.-",
+   "counts": 4
+  },
+  {
+   "keywords": "doubled",
+   "counts": 4
+  },
+  {
+   "keywords": "Ridiculous",
+   "counts": 4
+  },
+  {
+   "keywords": "helpful",
+   "counts": 4
+  },
+  {
+   "keywords": "total",
+   "counts": 4
+  },
+  {
+   "keywords": "x",
+   "counts": 4
+  },
+  {
+   "keywords": "uninstall",
+   "counts": 4
+  },
+  {
+   "keywords": "cheap",
+   "counts": 4
+  },
+  {
+   "keywords": "re-added",
+   "counts": 4
+  },
+  {
+   "keywords": "finish",
+   "counts": 4
+  },
+  {
+   "keywords": "kitchen",
+   "counts": 4
+  },
+  {
+   "keywords": "user",
+   "counts": 4
+  },
+  {
+   "keywords": "girl",
+   "counts": 4
+  },
+  {
+   "keywords": "nostalgic",
+   "counts": 4
+  },
+  {
+   "keywords": "sus",
+   "counts": 4
+  },
+  {
+   "keywords": "creepy",
+   "counts": 4
+  },
+  {
+   "keywords": "upTo",
+   "counts": 4
+  },
+  {
+   "keywords": "correct",
+   "counts": 4
+  },
+  {
+   "keywords": "catchy",
+   "counts": 4
+  },
+  {
+   "keywords": "anemic",
+   "counts": 4
+  },
+  {
+   "keywords": "AN",
+   "counts": 4
+  },
+  {
+   "keywords": "@",
+   "counts": 4
+  },
+  {
+   "keywords": "godawful",
+   "counts": 4
+  },
+  {
+   "keywords": "cancel",
+   "counts": 3
+  },
+  {
+   "keywords": "unfair",
+   "counts": 3
+  },
+  {
+   "keywords": "WiFi",
+   "counts": 3
+  },
+  {
+   "keywords": "add",
+   "counts": 3
+  },
+  {
+   "keywords": "TOTALLY",
+   "counts": 3
+  },
+  {
+   "keywords": "ughhhhhh",
+   "counts": 3
+  },
+  {
+   "keywords": "random",
+   "counts": 3
+  },
+  {
+   "keywords": "strong",
+   "counts": 2
+  },
+  {
+   "keywords": "nowhere",
+   "counts": 2
+  },
+  {
+   "keywords": "whene",
+   "counts": 2
+  },
+  {
+   "keywords": "swagI",
+   "counts": 2
+  },
+  {
+   "keywords": "addicting",
+   "counts": 2
+  },
+  {
+   "keywords": "horrendous",
+   "counts": 2
+  },
+  {
+   "keywords": "dont",
+   "counts": 2
+  },
+  {
+   "keywords": "mystery",
+   "counts": 2
+  },
+  {
+   "keywords": "IT",
+   "counts": 2
+  },
+  {
+   "keywords": "upad",
+   "counts": 2
+  },
+  {
+   "keywords": "unsatisfied",
+   "counts": 2
+  },
+  {
+   "keywords": "disappointing",
+   "counts": 2
+  },
+  {
+   "keywords": "wasn",
+   "counts": 2
+  },
+  {
+   "keywords": "xp",
+   "counts": 2
+  },
+  {
+   "keywords": "let",
+   "counts": 2
+  },
+  {
+   "keywords": "yeah",
+   "counts": 2
+  },
+  {
+   "keywords": "pleasant",
+   "counts": 1
+  },
+  {
+   "keywords": "important",
+   "counts": 1
+  },
+  {
+   "keywords": "hi-tec",
+   "counts": 1
+  },
+  {
+   "keywords": "everyday",
+   "counts": 1
+  },
+  {
+   "keywords": "crap",
+   "counts": 1
+  },
+  {
+   "keywords": "garvage",
+   "counts": 1
+  },
+  {
+   "keywords": "addictive",
+   "counts": 1
+  },
+  {
+   "keywords": "write",
+   "counts": 1
+  },
+  {
+   "keywords": "advertisement",
+   "counts": 1
+  },
+  {
+   "keywords": "famous",
+   "counts": 1
+  },
+  {
+   "keywords": "Sucky",
+   "counts": 1
+  },
+  {
+   "keywords": "willing",
+   "counts": 1
+  },
+  {
+   "keywords": "terrible😭",
+   "counts": 1
+  },
+  {
+   "keywords": "hack",
+   "counts": 1
+  },
+  {
+   "keywords": "BORING",
+   "counts": 1
+  },
+  {
+   "keywords": "major",
+   "counts": 1
+  },
+  {
+   "keywords": "in-app",
+   "counts": 1
+  },
+  {
+   "keywords": "vibrant",
+   "counts": 1
+  },
+  {
+   "keywords": "outer",
+   "counts": 1
+  },
+  {
+   "keywords": "passes",
+   "counts": 1
+  },
+  {
+   "keywords": "kudos",
+   "counts": 1
+  },
+  {
+   "keywords": "2-3",
+   "counts": 1
+  },
+  {
+   "keywords": "update.Now",
+   "counts": 1
+  },
+  {
+   "keywords": "tge",
+   "counts": 1
+  }
+ ]
+}

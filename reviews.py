@@ -1,3 +1,4 @@
+import csv
 import json
 import datetime
 from pprint import pprint
@@ -11,9 +12,12 @@ import time
 from textblob import TextBlob
 
 # read = json.load(open('Reviews_Subway Surfers_all.json', 'r', encoding="utf-8"))
+from main import read_json
+
+senta = hub.Module(name='senta_bilstm')
 
 
-def find_reviews(start_date='2021-01-01',
+def find_reviews(start_date='2020-01-01',
                  end_date='2021-12-31',
                  version='all',
                  country='US',
@@ -33,15 +37,17 @@ def find_reviews(start_date='2021-01-01',
 
 
 def get_reviews(page_index_temp):
+    time.sleep(6)
     payload = find_reviews(page_index=page_index_temp)
     # product_id_temp = input("请输入product_id：")
     # market_temp = input("请输入market：")
-    query = f"https://api.data.ai/v1.3/apps/ios/app/512939461/reviews"
-    api_key = '06f7b2a02a5b78c3ec95ba206c71569f55487533'
+    query = f"https://api.data.ai/v1.3/apps/ios/app/1491074310/reviews"
+    api_key = 'b8d45ab5aa36a5dd757e07d70eb796a5bca9e9c4'
     headers = {"Authorization": "Bearer " + api_key}
     r = requests.get(query, params=payload, headers=headers)
     # print(r.text)
     output = json.loads(r.text)
+    # pprint(output)
     print(f"第{page_index_temp + 1}页：")
     print("总共的Reviews数量为：")
     print(len(output['reviews']))
@@ -75,74 +81,131 @@ def get_reviews(page_index_temp):
         output['reviews'][i]['keywords'] = keywords
         print(f"第{page_index_temp + 1}页,第{i + 1}条评论分析完成")
     print(f"第{page_index_temp + 1}页装载完成")
-    time.sleep(5)
+
     return output
 
 
-reviews_list_all = []
-
-
 def get_reviews_all(start_n, end_n):
+    reviews_list_all = []
     for i in range(start_n, end_n):
         reviews_list_all.extend(get_reviews(i)['reviews'])
     return reviews_list_all
 
 
 def write_reviews():
-    output = get_reviews(0)
+    output = get_reviews(146)
     data = json.dumps(output, indent=1, ensure_ascii=False)
-    with open("datasets/Reviews_Subway Surfers.json", 'w', newline='\n') as f:
+    with open("datasets/Sample/Reviews_Tetris.json", 'w', newline='\n') as f:
         f.write(data)
         print("样本成功写入文件")
 
 
 def write_reviews_all(start_n, end_n):
     data = json.dumps(get_reviews_all(start_n, end_n), indent=1, ensure_ascii=False)
-    with open("datasets/Reviews_Subway Surfers_all.json", 'a', newline='\n') as f:
+    with open("datasets/Tetris/Reviews_Tetris_all.json", 'a', newline='\n') as f:
         f.write(data)
         print(f"第{start_n + 1}页到第{end_n}页评论成功写入文件")
 
 
-senta = hub.Module(name='senta_bilstm')
-# write_reviews()
-write_reviews_all(0, 10)
-time.sleep(120)
-write_reviews_all(10, 20)
-time.sleep(120)
-write_reviews_all(20, 30)
-time.sleep(120)
-write_reviews_all(30, 40)
-time.sleep(120)
-write_reviews_all(40, 50)
-time.sleep(120)
-write_reviews_all(50, 60)
-time.sleep(120)
-write_reviews_all(60, 70)
-time.sleep(120)
-write_reviews_all(70, 80)
-time.sleep(120)
-write_reviews_all(80, 90)
-time.sleep(120)
-write_reviews_all(90, 100)
-time.sleep(120)
-write_reviews_all(100, 110)
-time.sleep(120)
-write_reviews_all(110, 120)
-time.sleep(120)
-write_reviews_all(120, 130)
-time.sleep(120)
-write_reviews_all(130, 140)
-time.sleep(120)
-write_reviews_all(140, 150)
-time.sleep(120)
-write_reviews_all(150, 160)
-time.sleep(120)
-write_reviews_all(160, 170)
-time.sleep(120)
-write_reviews_all(170, 180)
-time.sleep(120)
-write_reviews_all(180, 190)
-time.sleep(120)
-write_reviews_all(190, 200)
-time.sleep(120)
-write_reviews_all(200, 213)
+def get_reviews_sentiment():
+    read = read_json("datasets/Reviews_Tetris_all.json")
+    date_senti_dict = {
+        'keywords': '',
+        'counts': 0,
+        'positive_percent': 0
+    }
+    date_senti_list_all = []
+    date_senti_list = []
+    for i in range(len(read)):
+        date_senti_list.append(read[i]['date'])
+    test_date_senti_list = set(date_senti_list)
+    date_senti_list_distinct = list()
+    for item in test_date_senti_list:
+        count = 0
+        for i in range(len(read)):
+            if item == read[i]['date'] and read[i]['sentiment']['sentiment_key'] == 'positive':
+                count = count + 1
+        date_dict = {'keywords': item, 'counts': date_senti_list.count(item),
+                     'positive_percent': count / date_senti_list.count(item)}
+        date_senti_list_all.append(date_dict)
+        date_senti_list_all = sorted(date_senti_list_all, key=lambda x: x['keywords'], reverse=False)
+    return date_senti_list_all
+
+
+def write_reviews_sentiment():
+    date_list_all = get_reviews_sentiment()
+    data = json.dumps(date_list_all, indent=1, ensure_ascii=False)
+    with open("datasets/Tetris/Reviews_Tetris_all_sentiment_percent.json", 'w', newline='\n') as f:
+        f.write(data)
+
+
+def get_reviews_rating():
+    read = read_json("datasets/Reviews_Tetris_all.json")
+    date_rating_dict = {
+        'keywords': '',
+        'counts_5': 0,
+        'counts_4': 0,
+        'counts_3': 0,
+        'counts_2': 0,
+        'counts_1': 0,
+        'rating_percent': 0
+    }
+    date_rating_list_all = []
+    date_rating_list = []
+    for i in range(len(read)):
+        date_rating_list.append(read[i]['date'])
+    test_date_rating_list = set(date_rating_list)
+    date_rating_list_distinct = list()
+    for item in test_date_rating_list:
+        counts_5 = 0
+        counts_4 = 0
+        counts_3 = 0
+        counts_2 = 0
+        counts_1 = 0
+        for i in range(len(read)):
+            if item == read[i]['date']:
+                if read[i]['rating'] == 5:
+                    counts_5 = counts_5 + 1
+                elif read[i]['rating'] == 4:
+                    counts_4 = counts_4 + 1
+                elif read[i]['rating'] == 3:
+                    counts_3 = counts_3 + 1
+                elif read[i]['rating'] == 2:
+                    counts_2 = counts_2 + 1
+                elif read[i]['rating'] == 1:
+                    counts_1 = counts_1 + 1
+        date_dict = {
+            'keywords': item,
+            'counts_5': counts_5,
+            'counts_4': counts_4,
+            'counts_3': counts_3,
+            'counts_2': counts_2,
+            'counts_1': counts_1,
+            'rating_5_percent': (counts_5) / (counts_5 + counts_4 + counts_3 + counts_2 + counts_1),
+            'rating_4_percent': (counts_4) / (counts_5 + counts_4 + counts_3 + counts_2 + counts_1),
+            'rating_3_percent': (counts_3) / (counts_5 + counts_4 + counts_3 + counts_2 + counts_1),
+            'rating_2_percent': (counts_2) / (counts_5 + counts_4 + counts_3 + counts_2 + counts_1),
+            'rating_1_percent': (counts_1) / (counts_5 + counts_4 + counts_3 + counts_2 + counts_1),
+            'rating_average': (counts_5 * 5 + counts_4 * 4 + counts_3 * 3 + counts_2 * 2 + counts_1) / (
+                    counts_5 + counts_4 + counts_3 + counts_2 + counts_1)
+        }
+        date_rating_list_all.append(date_dict)
+        date_rating_list_all = sorted(date_rating_list_all, key=lambda x: x['keywords'], reverse=False)
+    return date_rating_list_all
+
+
+def write_reviews_rating():
+    date_rating_list_all = get_reviews_rating()
+    data = json.dumps(date_rating_list_all, indent=1, ensure_ascii=False)
+    with open("datasets/Tetris/Reviews_Tetris_all_rating_percent_average.json", 'w', newline='\n') as f:
+        f.write(data)
+
+
+write_reviews()
+# for i in range(10, 140, 10):
+#     write_reviews_all(i, i + 10)
+#     time.sleep(120)
+#
+# write_reviews_all(140, 146)
+# write_reviews_sentiment()
+# write_reviews_rating()

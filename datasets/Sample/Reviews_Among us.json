@@ -1,0 +1,1109 @@
+{
+ "product_id": 1351168404,
+ "publisher_id": 957995279,
+ "product_name": "Among Us!",
+ "device": "ios",
+ "publisher_name": "InnerSloth LLC",
+ "reviews": [
+  {
+   "review_id": "8186441125",
+   "date": "2021-12-31",
+   "name": "Stop with the fast chat",
+   "title": "Stop with the fast chat",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 1,
+   "text": "I hate I can not type and have to use this control panel",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9899,
+    "negative_probs": 0.0101
+   },
+   "keywords": [
+    "hate",
+    "type",
+    "use"
+   ]
+  },
+  {
+   "review_id": "8186475651",
+   "date": "2021-12-31",
+   "name": "things that I want back or changed or add new things",
+   "title": "things that I want back or changed or add new things",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 5,
+   "text": "I like the game but the chat is hard the manage can you put back where we could type. My second thought is could you make teams where your on different teams up to 3 people And you could choose free for all or teams but 1 team would be the imposters and other teams could chat to each other and help each other. And could you make a imposter chat.And can you make when the lights get sabotaged they would have a flashlight. It would be nicer if you could bring back where you don’t have to have a account to make your name. If you made the things happen it will be nice and everyone would be happy.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9974,
+    "negative_probs": 0.0026
+   },
+   "keywords": [
+    "could",
+    "make",
+    "teams"
+   ]
+  },
+  {
+   "review_id": "8186479432",
+   "date": "2021-12-31",
+   "name": "Mods",
+   "title": "Mods",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 5,
+   "text": "I wish you could buy lunch with in the game for like 60,000 beans or something like that",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9975,
+    "negative_probs": 0.0025
+   },
+   "keywords": [
+    "like",
+    "wish",
+    "could"
+   ]
+  },
+  {
+   "review_id": "8186484285",
+   "date": "2021-12-31",
+   "name": "Personally what I think",
+   "title": "Personally what I think",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 1,
+   "text": "Here what I think about this app, it’s great fun yeah but to me it’s boring.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8709,
+    "negative_probs": 0.1291
+   },
+   "keywords": [
+    "Here",
+    "what",
+    "think"
+   ]
+  },
+  {
+   "review_id": "8186520619",
+   "date": "2021-12-31",
+   "name": "Good but kinda bad game",
+   "title": "Good but kinda bad game",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 4,
+   "text": "This is one of my FAVORITE games. But the only problem that’s really annoying is the quick chat. I can’t say important stuff like if I want someone to watch me scan or do shields or trash I know it’s probably because people are saying bad words but it’s not that good also I can’t change my username when I wanna be Henry because I also like Henry too so that’s my review.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9949,
+    "negative_probs": 0.0051
+   },
+   "keywords": [
+    "my",
+    "like",
+    "because"
+   ]
+  },
+  {
+   "review_id": "8186539224",
+   "date": "2021-12-31",
+   "name": "Why can’t I speak or change my name to names I like",
+   "title": "Why can’t I speak or change my name to names I like",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 4,
+   "text": "It never lets me speak I always have to press this icon on the side of the screen it’s annoying and atleast let me put in my own username just why can’t I it’s annoying I have to sign in with my Apple ID like why ? I loved original among us but the among us now is way worse just let us speak or put in a username !",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9973,
+    "negative_probs": 0.0027
+   },
+   "keywords": [
+    "us",
+    "me",
+    "speak"
+   ]
+  },
+  {
+   "review_id": "8186589785",
+   "date": "2021-12-31",
+   "name": "Great game but unplayable for me",
+   "title": "Great game but unplayable for me",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 5,
+   "text": "I used to have an amazing time playing this with my friends but now I can’t get into a game without the game completely crashing, it’s happened every single time I play and I just uninstalled it since I legitimately can’t play a single round",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9971,
+    "negative_probs": 0.0029
+   },
+   "keywords": [
+    "time",
+    "game",
+    "single"
+   ]
+  },
+  {
+   "review_id": "8186589899",
+   "date": "2021-12-31",
+   "name": "Name, accounts, and chat",
+   "title": "Name, accounts, and chat",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 1,
+   "text": "I used to play this everyday but now I can’t change my name, create an account, or say something other than what is in the stupid quick chat! Have not played in 9 months.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.995,
+    "negative_probs": 0.005
+   },
+   "keywords": [
+    "used",
+    "play",
+    "everyday"
+   ]
+  },
+  {
+   "review_id": "8186638900",
+   "date": "2021-12-31",
+   "name": "Great game",
+   "title": "Great game",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 5,
+   "text": "Honestly, among us is definitely the best mobile game for many reasons. The only bad part is some of the players. Sometimes players would be cheating by being in discord calls with their friends and teaming, or being mean, and it’s annoying. But apart from that the game is one of the best.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9973,
+    "negative_probs": 0.0027
+   },
+   "keywords": [
+    "best",
+    "game",
+    "players"
+   ]
+  },
+  {
+   "review_id": "8186660147",
+   "date": "2021-12-31",
+   "name": "Get it NOW",
+   "title": "Get it NOW",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 5,
+   "text": "This game is so fun and addictive it’s so fun when you get the imposter you can kill everybody although I do have one complaint, there is a lot of lag sometimes And that makes it really hard to play. Otherwise it is a really fun game and I totally recommend it. (P.s. sumtimes pepol wil rage if they dont get impstwr)",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9951,
+    "negative_probs": 0.0049
+   },
+   "keywords": [
+    "fun",
+    "game",
+    "so"
+   ]
+  },
+  {
+   "review_id": "8186673177",
+   "date": "2021-12-31",
+   "name": "This game is fun but…",
+   "title": "This game is fun but…",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 3,
+   "text": "I really like this game, it’s super fun. I really like the new update, but, the divide I play on is ok, it’s not the best, so it crashes a lot. When it crashes it won’t let you back on the game for five minutes. If it crashes again it won’t let you on for 10 minutes, and the 15, 20, 25 etc. It doesn’t restart ether so you can get up to an hour. That really ticks me off because I really like the game.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9956,
+    "negative_probs": 0.0044
+   },
+   "keywords": [
+    "really",
+    "like",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8186674551",
+   "date": "2021-12-31",
+   "name": "Good To Bad",
+   "title": "Good To Bad",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 5,
+   "text": "I use to always play among us i had so much fun playing i met alot of friends who then sadly had to go i hope 8n the future innersloth will add a friend feature i had my most fun until the free chat update where i have to use quick chat i cant log in a account which pisses me off because i love the games updates but never can play i keep be8ng accused sus because i have quick chat its so annoying plus i really want my old name back before the update innersloth if your reading this fix it please its a pain for me to not be able to play among us.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9949,
+    "negative_probs": 0.0051
+   },
+   "keywords": [
+    "play",
+    "had",
+    "chat"
+   ]
+  },
+  {
+   "review_id": "8186689724",
+   "date": "2021-12-31",
+   "name": "New updates and...",
+   "title": "New updates and...",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 1,
+   "text": "I used to like in 2020 it was very fun but after the updates it kinda became the worst game ever and people stop playing it to im not a big fan of among us anymore...",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9919,
+    "negative_probs": 0.0081
+   },
+   "keywords": [
+    "used",
+    "like",
+    "2020"
+   ]
+  },
+  {
+   "review_id": "8186698067",
+   "date": "2021-12-31",
+   "name": "Voice chat/Proximity chat",
+   "title": "Voice chat/Proximity chat",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 1,
+   "text": "You really need to have voice chat enabled in game. Implement boice chat into the game please. Im done playing this until i get boice chat. The game is so unfun having to type everything out on a phone keyboard. This game has been the same game for the past 3 years. Pc has mods that allow voice chat. You would think that you would take the hint and put it in the game.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9955,
+    "negative_probs": 0.0045
+   },
+   "keywords": [
+    "game",
+    "chat",
+    "voice"
+   ]
+  },
+  {
+   "review_id": "8186701170",
+   "date": "2021-12-31",
+   "name": "Amoung us was good but……..WAS GOOD",
+   "title": "Amoung us was good but……..WAS GOOD",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 5,
+   "text": "Amoung us was a really good game untill the new update it’s changed everything. Now u need parents email to chat and make ur own name . Well I tried that guess what nothing. I honestly don’t know why I gave this 5 stars ⭐️⭐️⭐️⭐️⭐️ but at least u can still play.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9959,
+    "negative_probs": 0.0041
+   },
+   "keywords": [
+    "Amoung",
+    "us",
+    "was"
+   ]
+  },
+  {
+   "review_id": "8186727636",
+   "date": "2021-12-31",
+   "name": "Quick Chat",
+   "title": "Quick Chat",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 1,
+   "text": "Among us can you please remove quick chat",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5829,
+    "negative_probs": 0.4171
+   },
+   "keywords": [
+    "Among",
+    "us",
+    "please"
+   ]
+  },
+  {
+   "review_id": "8186747137",
+   "date": "2021-12-31",
+   "name": "You should make more roles",
+   "title": "You should make more roles",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 4,
+   "text": "There are only four roles you guys should make ten or more and I’m just giving ideas for you guys and I love the gameplay You put a lot of effort in the game",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9979,
+    "negative_probs": 0.0021
+   },
+   "keywords": [
+    "guys",
+    "There",
+    "only"
+   ]
+  },
+  {
+   "review_id": "8186769938",
+   "date": "2021-12-31",
+   "name": "Among us has redeemed! 4/5 stars",
+   "title": "Among us has redeemed! 4/5 stars",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 5,
+   "text": "Among us has finally redeemed itself! It has added 4 new roles, cosmocubes, more costumes, more hats, more pets, visors, nameplates, and many more! We also have levels now too in among us. I am level 30 in among us and working on the snowflake cosmicube. One thing among us should definitely add though is that after a game of among us ends it shows all the players and their roles. That way when the game ends I don’t know who the inpostors are or scientist, engineer, and etc. This would really help a lot and I think a lot of players would agree! Also I don’t know if among us added friends but if not please add friends list so I can friend others! Thank you for listening and have a good day! 12/30/21 (I will add more if I think among us should add something or remove)",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9958,
+    "negative_probs": 0.0042
+   },
+   "keywords": [
+    "us",
+    "among",
+    "more"
+   ]
+  },
+  {
+   "review_id": "8186841759",
+   "date": "2021-12-31",
+   "name": "It’s good but updates",
+   "title": "It’s good but updates",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 4,
+   "text": "It’s ok but on Xbox are anything that they can play on I don’t think that you really need to sign in and stuff",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9932,
+    "negative_probs": 0.0068
+   },
+   "keywords": [
+    "ok",
+    "but",
+    "Xbox"
+   ]
+  },
+  {
+   "review_id": "8186855645",
+   "date": "2021-12-31",
+   "name": "Ehhh",
+   "title": "Ehhh",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 3,
+   "text": "I love the new update! The more roles are incredibly fun and even more nerve racking- on the Steam version- on the mobile you can't even join the same lobby your friend is in. We try, we even put the code in correctly, after double-checking the code even, it says the room is not available, even if it's not full, or the game isn't even starting. It's incredibly annoying :(",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9968,
+    "negative_probs": 0.0032
+   },
+   "keywords": [
+    "even",
+    "more",
+    "incredibly"
+   ]
+  },
+  {
+   "review_id": "8186863728",
+   "date": "2021-12-31",
+   "name": "There’s a big problem >:(",
+   "title": "There’s a big problem >:(",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 2,
+   "text": "So when I first started playing it was really fun and I bought stuff like pets and clothes and I leave for a couple months and the have new updates and took away all the stuff I bought and I didn’t even get my money back or nothing >:(",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9968,
+    "negative_probs": 0.0032
+   },
+   "keywords": [
+    "bought",
+    "stuff",
+    "So"
+   ]
+  },
+  {
+   "review_id": "8186885655",
+   "date": "2021-12-31",
+   "name": "How do I restore my purchases? (Sorry if you find typos)",
+   "title": "How do I restore my purchases? (Sorry if you find typos)",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 4,
+   "text": "I LOVE among us. It’s very fun, and I play it a lot. So, maybe when I was about 8, I got my flu shot. Seince I am terrifie of needles, I got a reward after it. I got 4 among us pets. Then, when I turned 9, I got a new iPad and it restarted among us. I no longer have my pets, and that frustrated me because needles are like #2 on my terrifying list and I was really happy to get the pets. Is there any way I cn restore my purchases?",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9919,
+    "negative_probs": 0.0081
+   },
+   "keywords": [
+    "got",
+    "my",
+    "among"
+   ]
+  },
+  {
+   "review_id": "8186891394",
+   "date": "2021-12-31",
+   "name": "Keeps crashing",
+   "title": "Keeps crashing",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 2,
+   "text": "The game is great and a great way to always play with my friends, but it keeps crashing on my iPad 6th gen. I don’t want to keep crashing and ruining my fun!!",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9974,
+    "negative_probs": 0.0026
+   },
+   "keywords": [
+    "my",
+    "great",
+    "crashing"
+   ]
+  },
+  {
+   "review_id": "8186903710",
+   "date": "2021-12-31",
+   "name": "Keeps kicking me off",
+   "title": "Keeps kicking me off",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 4,
+   "text": "Among us is a very fun game- I haven’t gotten bored yet. And the new roles update makes it even better. However, since getting the update, I’ve noticed that I have been kicked out of games way more than I ever had before. I don’t mean getting the ‘six pings’ error. I mean getting kicked off the app entirely. This happens frequently, and the airship map kicks me off immediately every turn. If you could fix this, (soon?), it would make playing the game way easier and more fun, especially when trying to get friends all on one room. Thank you!",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9965,
+    "negative_probs": 0.0035
+   },
+   "keywords": [
+    "getting",
+    "fun",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8186948055",
+   "date": "2021-12-31",
+   "name": "Getting Kicked out",
+   "title": "Getting Kicked out",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 1,
+   "text": "I was playing with my friends and every round I got into kicked me out.I thought the game would be better with all the hype around it.I play on mobile and I thought it would be better.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9968,
+    "negative_probs": 0.0032
+   },
+   "keywords": [
+    "thought",
+    "would",
+    "better"
+   ]
+  },
+  {
+   "review_id": "8186975359",
+   "date": "2021-12-31",
+   "name": "Very good but it likes to Launch me out of the game.",
+   "title": "Very good but it likes to Launch me out of the game.",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 4,
+   "text": "Idk why but it does that . I think you guys should fix the bug because. I will give you an example. I am dead but I want to text in the chat. But it launches me out when I press done.(I’m on iPad)",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9957,
+    "negative_probs": 0.0043
+   },
+   "keywords": [
+    "but",
+    "Idk",
+    "why"
+   ]
+  },
+  {
+   "review_id": "8186995989",
+   "date": "2021-12-31",
+   "name": "Good but a few fixes",
+   "title": "Good but a few fixes",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 4,
+   "text": "Among Us is a amazing game but it's not working right anymore I'm on an iOS apple iPad that's updated to iOS 15.2 but like every time a game starts my game crashes I try to play the airship in free play mode but it just CRASHES AGAIN innersloth please fix this.Among Us is depending on You",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.998,
+    "negative_probs": 0.002
+   },
+   "keywords": [
+    "game",
+    "but",
+    "Among"
+   ]
+  },
+  {
+   "review_id": "8187009985",
+   "date": "2021-12-31",
+   "name": "Great game but….",
+   "title": "Great game but….",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 4,
+   "text": "Dear Innersloth,This is an iconic game and I play everyday. But the thing is, every time I join a game and become imposter, half way through the round the game kicks me! Please fix this!",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9964,
+    "negative_probs": 0.0036
+   },
+   "keywords": [
+    "game",
+    "Dear",
+    "Innersloth"
+   ]
+  },
+  {
+   "review_id": "8187010153",
+   "date": "2021-12-31",
+   "name": "Amogus",
+   "title": "Amogus",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 5,
+   "text": "This app is very great, but my problem is that its kinda sus.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9905,
+    "negative_probs": 0.0095
+   },
+   "keywords": [
+    "app",
+    "very",
+    "great"
+   ]
+  },
+  {
+   "review_id": "8187019996",
+   "date": "2021-12-31",
+   "name": "Crash",
+   "title": "Crash",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 1,
+   "text": "Keeps crashing on iPad :(",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8626,
+    "negative_probs": 0.1374
+   },
+   "keywords": [
+    "Keeps",
+    "crashing",
+    "iPad"
+   ]
+  },
+  {
+   "review_id": "8187025824",
+   "date": "2021-12-31",
+   "name": "TARABLE MOBILE GAME",
+   "title": "TARABLE MOBILE GAME",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 1,
+   "text": "F You",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.6105,
+    "negative_probs": 0.3895
+   },
+   "keywords": []
+  },
+  {
+   "review_id": "8187079321",
+   "date": "2021-12-31",
+   "name": "Good game except…",
+   "title": "Good game except…",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 3,
+   "text": "I think this game but I’ve played over 100 times and I’ve never gotten imposter or a special role!",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.995,
+    "negative_probs": 0.005
+   },
+   "keywords": [
+    "ve",
+    "think",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8187193027",
+   "date": "2021-12-31",
+   "name": "Why it’s 4 star",
+   "title": "Why it’s 4 star",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 4,
+   "text": "We can’t spell no more only on the PC Computer and Nintendo But about us mobiles",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9226,
+    "negative_probs": 0.0774
+   },
+   "keywords": [
+    "spell",
+    "no",
+    "more"
+   ]
+  },
+  {
+   "review_id": "8187239318",
+   "date": "2021-12-31",
+   "name": "I love this game, but….",
+   "title": "I love this game, but….",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 2,
+   "text": "I keep getting booted. I think I’ve only finished 1 or 2 games to the end.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9936,
+    "negative_probs": 0.0064
+   },
+   "keywords": [
+    "keep",
+    "getting",
+    "booted"
+   ]
+  },
+  {
+   "review_id": "8187242290",
+   "date": "2021-12-31",
+   "name": "texting and time",
+   "title": "texting and time",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 3,
+   "text": "i don’t like that if you left like 4 times it makes you wait 5 minutes i also don’t like that new update that makes the phone talk for you it’s so annoying just let me type what i want to type",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9934,
+    "negative_probs": 0.0066
+   },
+   "keywords": [
+    "like",
+    "don",
+    "makes"
+   ]
+  },
+  {
+   "review_id": "8187250706",
+   "date": "2021-12-31",
+   "name": "BEST FREE MOBILE GAME!!",
+   "title": "BEST FREE MOBILE GAME!!",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 5,
+   "text": "i love this game. Its soooo fun, and with the new update its even more fun and versatile so we don’t get bored playing the same map. The shapeshifter, engineer and scientist update is the best update the creators came up with. Honestly grateful for it. They even gave us the outfits we had to buy before. Its also worth paying for stars.. not just to look good but to have fun with your fits.  The cosmiccubes are also really cool. I havent had this much fun playing a game everyday since roblox (roblox is still OG and the best game, LEGENDARY status). I believe among us will reach legendary status one day.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9967,
+    "negative_probs": 0.0033
+   },
+   "keywords": [
+    "fun",
+    "game",
+    "update"
+   ]
+  },
+  {
+   "review_id": "8187286710",
+   "date": "2021-12-31",
+   "name": "Good",
+   "title": "Good",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 2,
+   "text": "It’s a fun game but every time I get a win the app crashes the game runs smooth and it’s fun but I’m not getting any rewards Bc of this glitch",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9976,
+    "negative_probs": 0.0024
+   },
+   "keywords": [
+    "fun",
+    "game",
+    "but"
+   ]
+  },
+  {
+   "review_id": "8187290104",
+   "date": "2021-12-31",
+   "name": "Good",
+   "title": "Good",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 5,
+   "text": "Fun",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.6639,
+    "negative_probs": 0.3361
+   },
+   "keywords": [
+    "Fun"
+   ]
+  },
+  {
+   "review_id": "8187407619",
+   "date": "2021-12-31",
+   "name": "idk",
+   "title": "idk",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 5,
+   "text": "if ur reading this your are sus 😳😳😳😳😳",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.85,
+    "negative_probs": 0.15
+   },
+   "keywords": [
+    "ur",
+    "reading",
+    "your"
+   ]
+  },
+  {
+   "review_id": "8187443573",
+   "date": "2021-12-31",
+   "name": "Some problems…",
+   "title": "Some problems…",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 5,
+   "text": "When we type in Chinese, we cannot type coherently, only one word at a time.Sorry my English is poor   orz",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9761,
+    "negative_probs": 0.0239
+   },
+   "keywords": [
+    "type",
+    "When",
+    "Chinese"
+   ]
+  },
+  {
+   "review_id": "8187469596",
+   "date": "2021-12-31",
+   "name": "It is a great game but it kicks me out every time there is an emergency meeting",
+   "title": "It is a great game but it kicks me out every time there is an emergency meeting",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 4,
+   "text": "Ok so every time I join a public server on my iPad version of among us and I get into an emergency meeting or there is a dead body the game kicks me out, Can you please fix this bug",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9923,
+    "negative_probs": 0.0077
+   },
+   "keywords": [
+    "Ok",
+    "so",
+    "every"
+   ]
+  },
+  {
+   "review_id": "8187472979",
+   "date": "2021-12-31",
+   "name": "Horrendous SJW Update",
+   "title": "Horrendous SJW Update",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 1,
+   "text": "SJW Developers force you to sign in so cheating can prosper and online play is cheating groups win only. Don’t get the game.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.6841,
+    "negative_probs": 0.3159
+   },
+   "keywords": [
+    "cheating",
+    "SJW",
+    "Developers"
+   ]
+  },
+  {
+   "review_id": "8187478160",
+   "date": "2021-12-31",
+   "name": "Very Fun But Some Issues",
+   "title": "Very Fun But Some Issues",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 4,
+   "text": "This is probably the third review I’m writing about this game. It’s really fun, it really is, but there is some issues with the game. Not sure if it’s just me, but I can’t play the new Airship map. When the game starts, my whole screen goes black, then the game crashes and it kicks me out of the game. Also, when I play in other maps, I disconnect out of the game for absolutely no reason. I don’t see why this could be happening. I’ve downloaded Among Us on my phone and it seems to be working perfectly fine. My main in on my iPad, so maybe this issue has to do with something about that? Not sure. But overall, great game, but please fix this issue if you can. It’s part of the reason I’m trying to link my account to my phone. I can’t seem to figure it out. If it all possible, please respond to this review. I really want some feedback. Sincerely, An Among Us Player.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.995,
+    "negative_probs": 0.005
+   },
+   "keywords": [
+    "game",
+    "my",
+    "really"
+   ]
+  },
+  {
+   "review_id": "8187482455",
+   "date": "2021-12-31",
+   "name": "garbage",
+   "title": "garbage",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2021.12.15",
+   "country": "US",
+   "language": null,
+   "rating": 1,
+   "text": "A garbage truck comes everytime I open this.",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.948,
+    "negative_probs": 0.052
+   },
+   "keywords": [
+    "garbage",
+    "truck",
+    "comes"
+   ]
+  }
+ ],
+ "page_index": 0,
+ "page_num": 3534,
+ "prev_page": null,
+ "next_page": "/v1.3/apps/ios/app/1351168404/reviews?start_date=2020-01-01&end_date=2021-12-31&version=all&country=US&rating=all&page_index=1&page_size=100&lang=en",
+ "page_size": 100,
+ "code": 200
+}

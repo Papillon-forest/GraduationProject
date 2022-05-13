@@ -4,6 +4,7 @@ import json
 import time
 from pprint import pprint
 import matplotlib.pyplot as plt
+import numpy as np
 import wordcloud as wc
 
 # import json
@@ -16,49 +17,13 @@ import wordcloud as wc
 #     papers.append(dic)
 #
 # print(len(papers))
+from sklearn import preprocessing
+
+from main import read_json, read_csv
 from retentions import get_retention
+from reviews import get_reviews_rating, get_reviews_sentiment
 
-
-def read_json(json_str):
-    read = json.load(open(json_str, 'r', encoding="utf-8"))
-    return read
-
-
-def read_csv(csv_str):
-    read = csv.reader(open(csv_str, 'r', encoding='utf-8'))
-    return read
-
-
-def get_reviews_sentiment():
-    read = read_json('datasets/Reviews_Subway Surfers_all.json')
-    date_senti_dict = {
-        'keywords': '',
-        'counts': 0,
-        'positive_percent': 0
-    }
-    date_senti_list_all = []
-    date_senti_list = []
-    for i in range(len(read)):
-        date_senti_list.append(read[i]['date'])
-    test_date_senti_list = set(date_senti_list)
-    date_senti_list_distinct = list()
-    for item in test_date_senti_list:
-        count = 0
-        for i in range(len(read)):
-            if item == read[i]['date'] and read[i]['sentiment']['sentiment_key'] == 'positive':
-                count = count + 1
-        date_dict = {'keywords': item, 'counts': date_senti_list.count(item),
-                     'positive_percent': count / date_senti_list.count(item)}
-        date_senti_list_all.append(date_dict)
-        date_senti_list_all = sorted(date_senti_list_all, key=lambda x: x['keywords'], reverse=False)
-    return date_senti_list_all
-
-
-def write_reviews_sentiment():
-    date_list_all = get_reviews_sentiment()
-    data = json.dumps(date_list_all, indent=1, ensure_ascii=False)
-    with open("datasets/Reviews_Subway Surfers_all_sentiment_percent.json", 'w', newline='\n') as f:
-        f.write(data)
+data_scaler = preprocessing.MinMaxScaler(feature_range=(0, 1))
 
 
 def paint_sentiment_line():
@@ -67,17 +32,17 @@ def paint_sentiment_line():
     x = []
     y = []
     for i in range(len(date_list_all)):
-        # date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
-        # if date.year == 2022 and date.month == 0o4:
-        x.append(date_list_all[i]['keywords'])
+        date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
+        if date.year == 2021 and date.month == 0o1:
+            x.append(date_list_all[i]['keywords'])
     for i in range(len(date_list_all)):
-        # date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
-        # if date.year == 2022 and date.month == 0o4:
-        y.append(date_list_all[i]['positive_percent'])
+        date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
+        if date.year == 2021 and date.month == 0o1:
+            y.append(date_list_all[i]['positive_percent'])
 
     pprint(x)
     pprint(y)
-
+    y = data_scaler.fit_transform(np.array(y).reshape(-1, 1))
     plt.style.use('seaborn')
     fig, ax = plt.subplots()
     fig.autofmt_xdate()
@@ -89,81 +54,23 @@ def paint_sentiment_line():
     plt.show()
 
 
-def get_reviews_rating():
-    read = read_json('datasets/Reviews_Subway Surfers_all.json')
-    date_rating_dict = {
-        'keywords': '',
-        'counts_5': 0,
-        'counts_4': 0,
-        'counts_3': 0,
-        'counts_2': 0,
-        'counts_1': 0,
-        'rating_percent': 0
-    }
-    date_rating_list_all = []
-    date_rating_list = []
-    for i in range(len(read)):
-        date_rating_list.append(read[i]['date'])
-    test_date_rating_list = set(date_rating_list)
-    date_rating_list_distinct = list()
-    for item in test_date_rating_list:
-        counts_5 = 0
-        counts_4 = 0
-        counts_3 = 0
-        counts_2 = 0
-        counts_1 = 0
-        for i in range(len(read)):
-            if item == read[i]['date']:
-                if read[i]['rating'] == 5:
-                    counts_5 = counts_5 + 1
-                elif read[i]['rating'] == 4:
-                    counts_4 = counts_4 + 1
-                elif read[i]['rating'] == 3:
-                    counts_3 = counts_3 + 1
-                elif read[i]['rating'] == 2:
-                    counts_2 = counts_2 + 1
-                elif read[i]['rating'] == 1:
-                    counts_1 = counts_1 + 1
-        date_dict = {
-            'keywords': item,
-            'counts_5': counts_5,
-            'counts_4': counts_4,
-            'counts_3': counts_3,
-            'counts_2': counts_2,
-            'counts_1': counts_1,
-            'rating_percent': (counts_5) / (counts_5 + counts_4 + counts_3 + counts_2 + counts_1),
-            'rating_average': (counts_5 * 5 + counts_4 * 4 + counts_3 * 3 + counts_2 * 2 + counts_1) / (
-                    counts_5 + counts_4 + counts_3 + counts_2 + counts_1)
-        }
-        date_rating_list_all.append(date_dict)
-        date_rating_list_all = sorted(date_rating_list_all, key=lambda x: x['keywords'], reverse=False)
-    return date_rating_list_all
-
-
-def write_reviews_rating():
-    date_rating_list_all = get_reviews_rating()
-    data = json.dumps(date_rating_list_all, indent=1, ensure_ascii=False)
-    with open("datasets/Reviews_Subway Surfers_all_rating_percent_average.json", 'w', newline='\n') as f:
-        f.write(data)
-
-
 def paint_rating_line():
     date_rating_list_all = get_reviews_rating()
 
     x = []
     y = []
     for i in range(len(date_rating_list_all)):
-        # date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
-        # if date.year == 2022 and date.month == 0o4:
-        x.append(date_rating_list_all[i]['keywords'])
+        date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
+        if date.year == 2021 and date.month == 0o1:
+            x.append(date_rating_list_all[i]['keywords'])
     for i in range(len(date_rating_list_all)):
-        # date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
-        # if date.year == 2022 and date.month == 0o4:
-        y.append(date_rating_list_all[i]['rating_average'])
+        date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
+        if date.year == 2021 and date.month == 0o1:
+            y.append(date_rating_list_all[i]['rating_average'])
 
     pprint(x)
     pprint(y)
-
+    y = data_scaler.fit_transform(np.array(y).reshape(-1, 1))
     plt.style.use('seaborn')
     fig, ax = plt.subplots()
     fig.autofmt_xdate()
@@ -181,13 +88,13 @@ def paint_all():
     x1 = []
     y1 = []
     for i in range(len(date_list_all)):
-        # date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
-        # if date.year == 2021 and date.month == 0o4:
-        x1.append(date_list_all[i]['keywords'])
+        date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
+        if date.year == 2021 and date.month == 0o1:
+            x1.append(date_list_all[i]['keywords'])
     for i in range(len(date_list_all)):
-        # date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
-        # if date.year == 2021 and date.month == 0o4:
-        y1.append(date_list_all[i]['positive_percent'])
+        date = datetime.datetime.strptime(date_list_all[i]['keywords'], "%Y-%m-%d")
+        if date.year == 2021 and date.month == 0o1:
+            y1.append(date_list_all[i]['positive_percent'])
 
     pprint(x1)
     pprint(y1)
@@ -204,28 +111,71 @@ def paint_all():
     date_rating_list_all = get_reviews_rating()
 
     x2 = []
-    y2 = []
+    y2_average = []
+    y2_5 = []
+    y2_4 = []
+    y2_3 = []
+    y2_2 = []
+    y2_1 = []
     for i in range(len(date_rating_list_all)):
-        # date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
-        # if date.year == 2022 and date.month == 0o4:
-        x2.append(date_rating_list_all[i]['keywords'])
+        date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
+        if date.year == 2021 and date.month == 0o1:
+            x2.append(date_rating_list_all[i]['keywords'])
     for i in range(len(date_rating_list_all)):
-        # date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
-        # if date.year == 2022 and date.month == 0o4:
-        y2.append(date_rating_list_all[i]['rating_percent'])
+        date = datetime.datetime.strptime(date_rating_list_all[i]['keywords'], "%Y-%m-%d")
+        if date.year == 2021 and date.month == 0o1:
+            y2_average.append(date_rating_list_all[i]['rating_average'])
+            y2_5.append(date_rating_list_all[i]['rating_5_percent'])
+            y2_4.append(date_rating_list_all[i]['rating_4_percent'])
+            y2_3.append(date_rating_list_all[i]['rating_3_percent'])
+            y2_2.append(date_rating_list_all[i]['rating_2_percent'])
+            y2_1.append(date_rating_list_all[i]['rating_1_percent'])
 
-    pprint(x2)
-    pprint(y2)
+    # pprint(x2)
+    # pprint(y2)
+
+    read = read_csv('datasets/All_Subway Surfers_retention.csv')
+    header_now = next(read)
+    x3 = []
+    y3 = []
+    x3_date = []
+    y3_rate = []
+    for row in read:
+        x3_temp = row[0]
+        y3_temp = float(row[3].replace('%', '')) / 100
+        x3.append(x3_temp)
+        y3.append(y3_temp)
+
+    # x3_date.append(0)
+    # y3_rate.append(1)
+    for x3 in x3[:9]:
+        x3_date.append(x3)
+    for y3 in y3[:9]:
+        y3_rate.append(y3)
+
+    y1 = data_scaler.fit_transform(np.array(y1).reshape(-1, 1))
+    y2_average = data_scaler.fit_transform(np.array(y2_average).reshape(-1, 1))
+    y2_5 = data_scaler.fit_transform(np.array(y2_5).reshape(-1, 1))
+    y2_4 = data_scaler.fit_transform(np.array(y2_4).reshape(-1, 1))
+    y2_3 = data_scaler.fit_transform(np.array(y2_3).reshape(-1, 1))
+    y2_2 = data_scaler.fit_transform(np.array(y2_2).reshape(-1, 1))
+    y2_1 = data_scaler.fit_transform(np.array(y2_1).reshape(-1, 1))
 
     plt.style.use('seaborn')
     # fig, ax = plt.subplots()
     fig = plt.figure()
-    plt.title("User Sentiment and Rating Change Map", fontsize=24)
+    plt.title("Changes in user reviews and ratings related to retention", fontsize=24)
     plt.xlabel("Date", fontsize=14)
     plt.ylabel("Degree", fontsize=14)
     fig.autofmt_xdate()
-    plt.plot(x1, y1, label='Senti', color='Red', linewidth=3, linestyle='-', marker='o')
-    plt.plot(x2, y2, label='Rating', color='Blue', linewidth=3, linestyle='-', marker='^')
+    plt.plot(x1, y1, label='Sentiment', color='Red', linewidth=3, linestyle='-', marker='o')
+    plt.plot(x2, y2_average, label='Rating_Ave', color='Blue', linewidth=3, linestyle='-', marker='^')
+    plt.plot(x2, y2_5, label='Rating_5', color='Blue', linewidth=1, linestyle='-', marker='^')
+    # plt.plot(x2, y2_4, label='Rating_4', color='Blue', linewidth=3, linestyle='-', marker='^')
+    # plt.plot(x2, y2_3, label='Rating_3', color='Blue', linewidth=3, linestyle='-', marker='^')
+    # plt.plot(x2, y2_2, label='Rating_2', color='Blue', linewidth=3, linestyle='-', marker='^')
+    # plt.plot(x2, y2_1, label='Rating_1', color='Blue', linewidth=3, linestyle='-', marker='^')
+    plt.plot(x3_date, y3_rate, label='Retention', color='Green', linewidth=3, linestyle='-', marker='s')
     plt.legend()  # 让图例生效
     plt.show()
 
@@ -263,7 +213,7 @@ def paint_keywords_jj_wordcloud():
 
 
 def paint_user_retention():
-    read = read_csv('datasets/Retention_Subway Surfers.csv')
+    read = read_csv('datasets/All_Subway Surfers_retention.csv')
     header_now = next(read)
     x = []
     y = []
@@ -271,13 +221,17 @@ def paint_user_retention():
     y_rate = []
     for row in read:
         x_temp = row[0]
-        y_temp = row[3]
+        y_temp = float(row[3].replace('%', '')) / 100
         x.append(x_temp)
         y.append(y_temp)
     for x in x[:10]:
         x_date.append(x)
     for y in y[:10]:
         y_rate.append(y)
+    # pprint(y_rate)
+    #
+    #
+    # pprint(y_rate)
     plt.style.use('seaborn')
     fig, ax = plt.subplots()
     fig.autofmt_xdate()
@@ -288,5 +242,4 @@ def paint_user_retention():
     plt.show()
 
 
-
-paint_user_retention()
+paint_all()

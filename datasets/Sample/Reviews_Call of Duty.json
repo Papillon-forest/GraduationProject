@@ -1,0 +1,910 @@
+{
+ "product_id": 1287282214,
+ "publisher_id": 285005466,
+ "product_name": "Call of Duty®: Mobile",
+ "device": "ios",
+ "publisher_name": "Activision Publishing, Inc.",
+ "reviews": [
+  {
+   "review_id": "8186401324",
+   "name": "Why",
+   "title": "Why",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "I logged in to my account via apple and I kept my level and rank but all my skins were gone, and I had a gold skin on my M4,I had an epic player skin, and so much stuff that I lost",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9976,
+    "negative_probs": 0.0024
+   },
+   "keywords": [
+    "my",
+    "had",
+    "skin"
+   ]
+  },
+  {
+   "review_id": "8186427832",
+   "name": "Selling and Lag",
+   "title": "Selling and Lag",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "This game is amazing and super fun, but there is a couple things. I’ve been playing this since it came out and I have over 12GB of data on it b/c I can’t get rid of anything. I would love to sell a bunch of camos for guns and skins that I don’t use anymore. We could sell them as an option for cod points or credits depending on the value it holds like common to legendary. And the lag is kinda bad, meaning it doesn’t happen all the time. In Battle Royals I would get random lag spikes and sometimes it would just lag out for like 10 seconds or more. I would lag back in and be dead. It’s really frustrating trying to get to legendary when you keep lagging out even with good service. Overall this game is really great but the less I have that I don’t use, the faster the game runs. The action and graphics are great in this game for a MOBILE game. Y’all did a really good job on this; just need to add a sell option.",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9931,
+    "negative_probs": 0.0069
+   },
+   "keywords": [
+    "game",
+    "would",
+    "lag"
+   ]
+  },
+  {
+   "review_id": "8186483059",
+   "name": "F THIS GAME",
+   "title": "F THIS GAME",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "FIX YOUR GAME BRUH I CANT EVEN GET MY NA45 GOLD BECAUSE ALL I GET ARE STUCKS BUT THEY DONT COUNT AS LONG RANGE",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9874,
+    "negative_probs": 0.0126
+   },
+   "keywords": [
+    "GET",
+    "FIX",
+    "YOUR"
+   ]
+  },
+  {
+   "review_id": "8186538875",
+   "name": "Hi",
+   "title": "Hi",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "Call of duty mobile is good I’ve been playing sense global release the only issue I have with it is the hit box someone could be aiming like 5 or 10 yards to my left and still kill me.",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9962,
+    "negative_probs": 0.0038
+   },
+   "keywords": [
+    "Call",
+    "duty",
+    "mobile"
+   ]
+  },
+  {
+   "review_id": "8186679727",
+   "name": "Add ons",
+   "title": "Add ons",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "If you would owner of this game add the Mac-10",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.881,
+    "negative_probs": 0.119
+   },
+   "keywords": [
+    "would",
+    "owner",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8186747643",
+   "name": "Amazing game",
+   "title": "Amazing game",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "This game is great the graphics are amazing and the gameplay is outstanding. I’m not going to write a whole long review but I will say something’s that bother about the game. When you first start out you go against bots which is kinda annoying. It takes a little while to get to play against real competition. And it also takes a while to play ranked. Over all tho it’s an amazing game and it definitely deserves 5 stars.",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9957,
+    "negative_probs": 0.0043
+   },
+   "keywords": [
+    "game",
+    "amazing",
+    "against"
+   ]
+  },
+  {
+   "review_id": "8186748325",
+   "name": "Elianna😌",
+   "title": "Elianna😌",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "I love you about 😔🛏yes😎😅😋✌️😍😂",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9778,
+    "negative_probs": 0.0222
+   },
+   "keywords": [
+    "love",
+    "about",
+    "yes"
+   ]
+  },
+  {
+   "review_id": "8187157968",
+   "name": "Decent game",
+   "title": "Decent game",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "This is a great game seeing the price tag, only problem I have is my controller won’t connect to only this game, it works on literally any other game",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9974,
+    "negative_probs": 0.0026
+   },
+   "keywords": [
+    "game",
+    "only",
+    "great"
+   ]
+  },
+  {
+   "review_id": "8187161162",
+   "name": "Cod mobile",
+   "title": "Cod mobile",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "Love this game",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8577,
+    "negative_probs": 0.1423
+   },
+   "keywords": [
+    "Love",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8187583389",
+   "name": "Hackers",
+   "title": "Hackers",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "This game is full of hackers, how you ask well tell these selfish people to fix the problem. Money will make u wins always, then somehow they still can’t fix the movement hack that was in the game since the beginning of the games life",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9992,
+    "negative_probs": 0.0008
+   },
+   "keywords": [
+    "game",
+    "fix",
+    "full"
+   ]
+  },
+  {
+   "review_id": "8187850261",
+   "name": "Me",
+   "title": "Me",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "Honey badger next please",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8485,
+    "negative_probs": 0.1515
+   },
+   "keywords": [
+    "Honey",
+    "badger",
+    "next"
+   ]
+  },
+  {
+   "review_id": "8187862590",
+   "name": "My opinion",
+   "title": "My opinion",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "I gave it five starts this game is really fun you can play with all your friends and it will keep you intertained for hours I really recommend this game I got to make a lot of new friends playing this game this game is amazing❤️",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9984,
+    "negative_probs": 0.0016
+   },
+   "keywords": [
+    "game",
+    "really",
+    "friends"
+   ]
+  },
+  {
+   "review_id": "8188159138",
+   "name": "IT TAKES FOREVER TO DOWNLOAD",
+   "title": "IT TAKES FOREVER TO DOWNLOAD",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "Frown",
+   "language": null,
+   "rating": 2,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.6105,
+    "negative_probs": 0.3895
+   },
+   "keywords": [
+    "Frown"
+   ]
+  },
+  {
+   "review_id": "8188429405",
+   "name": "Cool",
+   "title": "Cool",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "Nice game",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.6105,
+    "negative_probs": 0.3895
+   },
+   "keywords": [
+    "Nice",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8188869984",
+   "name": "Hackers & cheaters galore",
+   "title": "Hackers & cheaters galore",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "Holiday season is here and so are the hackers and cheaters. Seeing some serious coding to enable impossible scenarios and abilities by some players. Here comes another 1GB+ update to get rid of these cheaters...",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9902,
+    "negative_probs": 0.0098
+   },
+   "keywords": [
+    "cheaters",
+    "some",
+    "Holiday"
+   ]
+  },
+  {
+   "review_id": "8188899316",
+   "name": "idk",
+   "title": "idk",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "It’s the best mobile fighting game for me graphics are insane",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9916,
+    "negative_probs": 0.0084
+   },
+   "keywords": [
+    "best",
+    "mobile",
+    "fighting"
+   ]
+  },
+  {
+   "review_id": "8188916234",
+   "name": "Disgusting tactics",
+   "title": "Disgusting tactics",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "They keep placing me into matches that are over half over. I don’t want to waste my time, so I leave and try to rejoin a new match, but I get a notice saying I’m temporarily banned from joining a rated match because I recently quit a match early. Disgusting that it’s not a two way street.Update: COD support tried blaming my internet connection for kicking me out of the match early, after I clearly stated that I purposely left the match because it was over half over. They said it is impossible for them to assist even though it’s their fault.",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9942,
+    "negative_probs": 0.0058
+   },
+   "keywords": [
+    "match",
+    "over",
+    "They"
+   ]
+  },
+  {
+   "review_id": "8189012788",
+   "name": "…",
+   "title": "…",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "Lower the lucky drawsssss!!!!!",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9467,
+    "negative_probs": 0.0533
+   },
+   "keywords": [
+    "Lower",
+    "lucky",
+    "drawsssss"
+   ]
+  },
+  {
+   "review_id": "8189191620",
+   "name": "Cod is a good game but...",
+   "title": "Cod is a good game but...",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "The game kicks me out every 5 minutes.",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5081,
+    "negative_probs": 0.4919
+   },
+   "keywords": [
+    "game",
+    "kicks",
+    "me"
+   ]
+  },
+  {
+   "review_id": "8189267550",
+   "name": "Needs to stop with the updates every 3 days",
+   "title": "Needs to stop with the updates every 3 days",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "Too many updates every time",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.6114,
+    "negative_probs": 0.3886
+   },
+   "keywords": [
+    "Too",
+    "many",
+    "updates"
+   ]
+  },
+  {
+   "review_id": "8189306503",
+   "name": "Mad",
+   "title": "Mad",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "It wont let me play the game and i download it on an iphone5s",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9978,
+    "negative_probs": 0.0022
+   },
+   "keywords": [
+    "wont",
+    "let",
+    "me"
+   ]
+  },
+  {
+   "review_id": "8189455875",
+   "name": "Come on",
+   "title": "Come on",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "Stop acting like I can’t play because of “regional regulations” and tell me you’re not letting me play because of my age. Age was never a problem in the past and it shouldn’t be now. I have to wait 2 hours to play the game now because you’d rather me lie about my age",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9965,
+    "negative_probs": 0.0035
+   },
+   "keywords": [
+    "play",
+    "because",
+    "me"
+   ]
+  },
+  {
+   "review_id": "8189462508",
+   "name": "Hacking has to stop",
+   "title": "Hacking has to stop",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "I will rate this game 1 star every day until call of duty banned all hackers. Trust me  1 star",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9977,
+    "negative_probs": 0.0023
+   },
+   "keywords": [
+    "star",
+    "will",
+    "rate"
+   ]
+  },
+  {
+   "review_id": "8189477964",
+   "name": "To Activision: from GRS77",
+   "title": "To Activision: from GRS77",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "Your game is good it is just that you guys need to add dual pistols or any another dual guns then the game could be more fun",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9984,
+    "negative_probs": 0.0016
+   },
+   "keywords": [
+    "game",
+    "dual",
+    "Your"
+   ]
+  },
+  {
+   "review_id": "8189659086",
+   "name": "Kinda bad",
+   "title": "Kinda bad",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "You can glitch and you can fall out of the map but everything else is good.",
+   "language": null,
+   "rating": 4,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9947,
+    "negative_probs": 0.0053
+   },
+   "keywords": [
+    "glitch",
+    "fall",
+    "out"
+   ]
+  },
+  {
+   "review_id": "8189673652",
+   "name": "Hackers hackers hackers",
+   "title": "Hackers hackers hackers",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "The game is overrun with cheaters. I was legendary level for 12 seasons in a row. Now? It’s unplayable. Completely and utterly unplayable. Don’t bother.",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9886,
+    "negative_probs": 0.0114
+   },
+   "keywords": [
+    "unplayable",
+    "game",
+    "overrun"
+   ]
+  },
+  {
+   "review_id": "8189702708",
+   "name": "Bring back controller",
+   "title": "Bring back controller",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "Given it 2 because how great they just like on the Xbox or ps, but I like to play it with the controller",
+   "language": null,
+   "rating": 2,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.998,
+    "negative_probs": 0.002
+   },
+   "keywords": [
+    "like",
+    "Given",
+    "because"
+   ]
+  },
+  {
+   "review_id": "8189749555",
+   "name": "It’s fine.",
+   "title": "It’s fine.",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "It’s fine. It’s fun enough to play, it’s not *entirely* pay to win, although the amount of stuff you can only buy with real money is a bit excessive, it’s mostly all cosmetic and mostly doesn’t give any real in game advantages. It’s fairly buggy and with the latest update, at least for me, the lag has picked up quite a bit, but it’s mostly just annoying stuff (except for the scope on my Rytec is broken in every game mode no matter what, it just shows up hot pink and you can’t see through it. When you look down the sites you can still see your reticle, but other than that it’s just a hot pink blob and it makes using the gun impossible. TMI I know). Despite all of the bugs and the lagginess and the certifiably toxic player base, it’s still a fun game though. I recommend it, just with a little bit of caution.",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9958,
+    "negative_probs": 0.0042
+   },
+   "keywords": [
+    "just",
+    "bit",
+    "mostly"
+   ]
+  },
+  {
+   "review_id": "8189839328",
+   "name": "love it but",
+   "title": "love it but",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "i love this game and i’ve been playing for years now. one big problem i’ve had with it though is that i’ve spent near $100 on skins and camos. i have been so excited about it until i played with my sister and realized that only i was seeing my skins and camos but nobody else could. i contacted cod mobile personally to see if there was something i could do to make my skins visible to other people and they never got back. im pretty upset about this considering i spent so much money even though nothing is visible to them and all they see are the basic skins and camos. i think this really needs to be fixed because im sure half of the people that have bought skins don’t even know that we can’t see them.",
+   "language": null,
+   "rating": 2,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9947,
+    "negative_probs": 0.0053
+   },
+   "keywords": [
+    "skins",
+    "ve",
+    "camos"
+   ]
+  },
+  {
+   "review_id": "8189911190",
+   "name": "C.O.D.M",
+   "title": "C.O.D.M",
+   "date": "2021-12-31",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "I was so happy that C.O.D came to mobile. I’m having so much fun now. I’ve played this game over 3 years now and I already love playing this game. I’m almost addicted to playing.    Samurai°WØŁF",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9972,
+    "negative_probs": 0.0028
+   },
+   "keywords": [
+    "so",
+    "now",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8182832566",
+   "name": "Cheating",
+   "title": "Cheating",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "A lot of cheating!",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5105,
+    "negative_probs": 0.4895
+   },
+   "keywords": [
+    "lot",
+    "cheating"
+   ]
+  },
+  {
+   "review_id": "8182862960",
+   "name": "Zombies",
+   "title": "Zombies",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "I think you should add the infinity old mode when you did not have to protect the cargo",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9152,
+    "negative_probs": 0.0848
+   },
+   "keywords": [
+    "think",
+    "should",
+    "add"
+   ]
+  },
+  {
+   "review_id": "8183041464",
+   "name": "Bring back zombies",
+   "title": "Bring back zombies",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "Would be nice to have the classic zombies back",
+   "language": null,
+   "rating": 5,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9925,
+    "negative_probs": 0.0075
+   },
+   "keywords": [
+    "Would",
+    "nice",
+    "classic"
+   ]
+  },
+  {
+   "review_id": "8183054707",
+   "name": "Changed my name without my authorization",
+   "title": "Changed my name without my authorization",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "The game changed my username without my authorization. And now they want to charge me to change it back. F**K YOU!!!! TOTAL SCAM!!",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8781,
+    "negative_probs": 0.1219
+   },
+   "keywords": [
+    "my",
+    "game",
+    "changed"
+   ]
+  },
+  {
+   "review_id": "8183064036",
+   "name": "They killed me from a mile away",
+   "title": "They killed me from a mile away",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "They just called me from a mile away with a Knife.",
+   "language": null,
+   "rating": 1,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5084,
+    "negative_probs": 0.4916
+   },
+   "keywords": [
+    "They",
+    "just",
+    "called"
+   ]
+  },
+  {
+   "review_id": "8183187314",
+   "name": "Be better call of duty",
+   "title": "Be better call of duty",
+   "date": "2021-12-30",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.29",
+   "text": "So I’m killing people with my samurai sword and I’m level twelve and next thing you know I’m going against level 100s like WTH my username is acey_aj2.0 also I might quit the game for this Tom foolery.",
+   "language": null,
+   "rating": 3,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9942,
+    "negative_probs": 0.0058
+   },
+   "keywords": [
+    "my",
+    "level",
+    "So"
+   ]
+  }
+ ],
+ "page_index": 0,
+ "page_num": 2261,
+ "prev_page": null,
+ "next_page": "/v1.3/apps/ios/app/1287282214/reviews?start_date=2020-01-01&end_date=2021-12-31&version=all&country=US&rating=all&page_index=1&page_size=100&lang=en",
+ "page_size": 100,
+ "code": 200
+}

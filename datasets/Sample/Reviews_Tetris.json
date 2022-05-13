@@ -1,0 +1,661 @@
+{
+ "product_id": 1491074310,
+ "publisher_id": 624795774,
+ "product_name": "Tetris®",
+ "device": "ios",
+ "publisher_name": "PlayStudios",
+ "reviews": [
+  {
+   "review_id": "5439082253",
+   "date": "2020-01-23",
+   "title": "Ugly UI",
+   "name": "Ugly UI",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 2,
+   "text": "The interface is ugly and distracting and game play is slow. Back to the drawing board, please.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9856,
+    "negative_probs": 0.0144
+   },
+   "keywords": [
+    "interface",
+    "ugly",
+    "distracting"
+   ]
+  },
+  {
+   "review_id": "5439153944",
+   "date": "2020-01-23",
+   "title": "Unrefined with intrusive ads and terrible UI",
+   "name": "Unrefined with intrusive ads and terrible UI",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 1,
+   "text": "This app may have some potential, but it’s nowhere near complete. The ads are the kind of intrusive I’ve come to expect from suspicious apps made by small, foreign developers and don’t implement any obvious forms of security (e.g., no use of the well-established AdSense platform). Of course, despite the oversight in security, the arbitration clause in the ToS is airtight; clearly written by a decent lawyer on retainer. The app itself plays like a beta, with occasional glitches and seemingly rushed UI elements. On the subject of UI, everything about this app is TINY. You basically need a magnifying glass to tell what you’re doing. The whole experience feels like a step backwards since the release of Tetris 2011.Bottom line:I’ll be removing this app from my phone and wouldn’t recommend it to others. It does not implement any obvious security, is presented in a manner that feels like an early work in progress, and contains a lengthy arbitration clause in the ToS that reeks of bad faith.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.995,
+    "negative_probs": 0.005
+   },
+   "keywords": [
+    "app",
+    "security",
+    "like"
+   ]
+  },
+  {
+   "review_id": "5439172048",
+   "date": "2020-01-23",
+   "title": "Good but could use some tweaks",
+   "name": "Good but could use some tweaks",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 3,
+   "text": "I agree with most of the tweaks others have mentioned in their reviews. You should be able to drop quickly with a swipe from anywhere on screen and the game should save and resume when closing and reopening the app.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9968,
+    "negative_probs": 0.0032
+   },
+   "keywords": [
+    "should",
+    "agree",
+    "most"
+   ]
+  },
+  {
+   "review_id": "5439338712",
+   "date": "2020-01-23",
+   "title": "Great addictive gameplay but..",
+   "name": "Great addictive gameplay but..",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 5,
+   "text": "Smoother menus please",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.7257,
+    "negative_probs": 0.2743
+   },
+   "keywords": [
+    "Smoother",
+    "menus",
+    "please"
+   ]
+  },
+  {
+   "review_id": "5439366574",
+   "date": "2020-01-23",
+   "title": "Thank You",
+   "name": "Thank You",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 5,
+   "text": "Thank you for taking over this app and this franchise from money-grubbing EA! I trust these devs infinitely more.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9755,
+    "negative_probs": 0.0245
+   },
+   "keywords": [
+    "Thank",
+    "taking",
+    "over"
+   ]
+  },
+  {
+   "review_id": "5439460647",
+   "date": "2020-01-23",
+   "title": "Not good",
+   "name": "Not good",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 1,
+   "text": "The ads are too much.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 0,
+    "sentiment_key": "negative",
+    "positive_probs": 0.2268,
+    "negative_probs": 0.7732
+   },
+   "keywords": [
+    "ads",
+    "too",
+    "much"
+   ]
+  },
+  {
+   "review_id": "5439483718",
+   "date": "2020-01-23",
+   "title": "Disappointed",
+   "name": "Disappointed",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 1,
+   "text": "Seems clunky and slow. Loved the EA version. Unfortunately it doesn’t work for me anymore.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9695,
+    "negative_probs": 0.0305
+   },
+   "keywords": [
+    "Seems",
+    "clunky",
+    "slow"
+   ]
+  },
+  {
+   "review_id": "5439490810",
+   "date": "2020-01-23",
+   "title": "Background makes it hard to see",
+   "name": "Background makes it hard to see",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 1,
+   "text": "The background of the game is too complex and makes it very hard to see what you’re doing and where blocks are being placed. Also no way to save game????",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 0,
+    "sentiment_key": "negative",
+    "positive_probs": 0.0849,
+    "negative_probs": 0.9151
+   },
+   "keywords": [
+    "game",
+    "background",
+    "too"
+   ]
+  },
+  {
+   "review_id": "5439491415",
+   "date": "2020-01-23",
+   "title": "A Promising Start",
+   "name": "A Promising Start",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 4,
+   "text": "So far I enjoy the game. The controls are responsive and tight. The sound design and minimalist art direction of the game match perfectly. It suits the game well. I’d hope to find more themes and modes in the future, because so far the base game is good",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9991,
+    "negative_probs": 0.0009
+   },
+   "keywords": [
+    "game",
+    "far",
+    "So"
+   ]
+  },
+  {
+   "review_id": "5439550504",
+   "date": "2020-01-23",
+   "title": "Terrible graphics",
+   "name": "Terrible graphics",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 1,
+   "text": "What is wrong with the graphics on here, they are abysmal. How about an option to just use regular graphics.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.7183,
+    "negative_probs": 0.2817
+   },
+   "keywords": [
+    "graphics",
+    "What",
+    "wrong"
+   ]
+  },
+  {
+   "review_id": "5439613662",
+   "date": "2020-01-23",
+   "title": "Why does it matter that my name was taken?",
+   "name": "Why does it matter that my name was taken?",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 1,
+   "text": "The first thing the game asks is to enter your name.  I put in the same nickname I use for all games, but I wasn’t allowed to use it because the name was taken.  I tried a couple numbered variations on the same name.  They were all taken.  I tried my real name, which of course was taken.  Why should I have to use a stupid name to play this game?  Just don’t put me on a leaderboard if you don’t want duplicate names.  I deleted the game without ever playing it.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9973,
+    "negative_probs": 0.0027
+   },
+   "keywords": [
+    "name",
+    "game",
+    "use"
+   ]
+  },
+  {
+   "review_id": "5439635657",
+   "date": "2020-01-23",
+   "title": "Controls need work",
+   "name": "Controls need work",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 2,
+   "text": "Controlling the pieces rotation and location is horrible with the touch interface. Tucking pieces is almost impossible. While EA’s controls weren’t the best, they were far better than this version. This game desperately needs Bluetooth controller support if you want to have a chance at a semi-decent game.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.991,
+    "negative_probs": 0.009
+   },
+   "keywords": [
+    "pieces",
+    "game",
+    "Controlling"
+   ]
+  },
+  {
+   "review_id": "5439656598",
+   "date": "2020-01-23",
+   "title": "Hard drops controls aren’t sensitive enough",
+   "name": "Hard drops controls aren’t sensitive enough",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 1,
+   "text": "You have to drag down quite a long way before the game will perform a hard drop.It would be nice to have a setting to adjust the vertical sensitivity also.I like the game but I can’t play until this is fixed.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9962,
+    "negative_probs": 0.0038
+   },
+   "keywords": [
+    "game",
+    "drag",
+    "down"
+   ]
+  },
+  {
+   "review_id": "5439683849",
+   "date": "2020-01-23",
+   "title": "A complete disservice to Tetris",
+   "name": "A complete disservice to Tetris",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 1,
+   "text": "EA’s mobile Tetris was one of the best modern implementations around. The field was clear and large, next/held pieces were large, and the next next piece had its background colored to match the piece. You could immediately tell via that color in the corner of your eye which piece was next. It was a perfect Tetris for basic Marathon play. This release by N3twork, on the other hand, is garbage. Why are the pieces pseudo-3d? Who wants that? Why is the field so tiny, with an inch and a half of dead space above it? Why are the held and next pieces so tiny? Why are they so pale that you can barely distinguish them by color? Everything about this is a regression from EA’s release. Gotta keep the wheels of capitalism grinding somehow, eh, Pajitnov? Everyone involved in this should be ashamed. I hope N3twork’s Tetris Royale isn’t such a shoddy mess.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9937,
+    "negative_probs": 0.0063
+   },
+   "keywords": [
+    "next",
+    "was",
+    "Why"
+   ]
+  },
+  {
+   "review_id": "5439723049",
+   "date": "2020-01-23",
+   "title": "Controller Support Please",
+   "name": "Controller Support Please",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 4,
+   "text": "The game is gorgeous and it runs well. I especially love the Game Boy/Game Boy Color theme (please add the Game Boy Color theme as a permanent one rather than just a limited time in the Game Boy theme!)The only reason this doesn’t get five stars from me is because this game is begging for controller support (Xbox One/PlayStation 4). The touch controls are serviceable, but sometimes I would like just the option to break out a controller to play it more precisely if I want to.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9937,
+    "negative_probs": 0.0063
+   },
+   "keywords": [
+    "Game",
+    "Boy",
+    "theme"
+   ]
+  },
+  {
+   "review_id": "5439818874",
+   "date": "2020-01-23",
+   "title": "Like this version",
+   "name": "Like this version",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 4,
+   "text": "I do like this version but have been playing original for years so it will take some adjustment. I can’t find way to turn off ghost pieces so with smaller game surface it’s really busy. A lot of ads on free version",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9964,
+    "negative_probs": 0.0036
+   },
+   "keywords": [
+    "version",
+    "so",
+    "do"
+   ]
+  },
+  {
+   "review_id": "5439995673",
+   "date": "2020-01-23",
+   "title": "Bad controls",
+   "name": "Bad controls",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 2,
+   "text": "The games controls are not fluent at all. hard drops are the main offenders, it takes a hard swipe down or multiple swipes Down to preform a hard drop unlike the EA Tetris where it is just a fluent swipe down, the other movements are okay but they could use improvement with being more fluent and faster. In this state I would consider the game unplayable",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9969,
+    "negative_probs": 0.0031
+   },
+   "keywords": [
+    "fluent",
+    "hard",
+    "swipe"
+   ]
+  },
+  {
+   "review_id": "5440023861",
+   "date": "2020-01-23",
+   "title": "No classic music",
+   "name": "No classic music",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 3,
+   "text": "That is all",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9831,
+    "negative_probs": 0.0169
+   },
+   "keywords": []
+  },
+  {
+   "review_id": "5440080815",
+   "date": "2020-01-23",
+   "title": "Cool but it’s too simple",
+   "name": "Cool but it’s too simple",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 4,
+   "text": "With EA’s Tetris being replaced with this, I’ll say it’s a pretty fair version of Tetris. However I feel like there is a couple of stuff missing. While it visually looks great with its themes, it’s aesthetic and more, it sorta feels too simple, and lacking in generalIn EA’s Tetris, you could previously choose a starting level and you were able to save your game so you can continue later. Sadly this game does not have these features, as I often find myself quitting the game to continue later with EA’s Tetris. It would be really nice if you guys could add these features in a future update, developers.Another thing that slightly bugs me, is the aesthetic of being extremely simple. While the interface looks pretty cool in general, stuff that makes me slightly bothered are the lack of total lines cleared, seeing detailed stats at the end of your game, being able to change game options mid-game, and a quick restart button.N3TWORK developers, if it’s possible to add the features listed here in a future update, that would be great, and I’d probably raise my rating to 5 stars.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9944,
+    "negative_probs": 0.0056
+   },
+   "keywords": [
+    "game",
+    "Tetris",
+    "EA"
+   ]
+  },
+  {
+   "review_id": "5440113506",
+   "date": "2020-01-23",
+   "title": "Good design",
+   "name": "Good design",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 5,
+   "text": "Im enjoying this new Tetris",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9226,
+    "negative_probs": 0.0774
+   },
+   "keywords": [
+    "Im",
+    "enjoying",
+    "new"
+   ]
+  },
+  {
+   "review_id": "5440127283",
+   "date": "2020-01-23",
+   "title": "Control Options",
+   "name": "Control Options",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 5,
+   "text": "Game is nice and fluid, however extra control options would be appreciated.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9884,
+    "negative_probs": 0.0116
+   },
+   "keywords": [
+    "Game",
+    "nice",
+    "fluid"
+   ]
+  },
+  {
+   "review_id": "5440167060",
+   "date": "2020-01-23",
+   "title": "New Company, New Issues",
+   "name": "New Company, New Issues",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 3,
+   "text": "The old app had issues. Now we have a new app which I am very excited about. Thank you to the company for picking up the game. My issues are with the haptics. I can’t move as quick as I used to in the old app. I have to really try, sometimes two swipes to get the blocks down all the way. I like to send blocks as fast as I can see them to get early back to backs. I also don’t like the themes. Would love one with solid colors the whole way through the block.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9954,
+    "negative_probs": 0.0046
+   },
+   "keywords": [
+    "app",
+    "old",
+    "issues"
+   ]
+  },
+  {
+   "review_id": "5440242706",
+   "date": "2020-01-23",
+   "title": "Ugly/convoluted",
+   "name": "Ugly/convoluted",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 1,
+   "text": "The game board is ugly and quite convoluted. It also has annoying lines everywhere, like a graph sheet you used to use in math class. They are distracting and constantly in the way. The EA Version was significantly better than this",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9978,
+    "negative_probs": 0.0022
+   },
+   "keywords": [
+    "game",
+    "board",
+    "ugly"
+   ]
+  },
+  {
+   "review_id": "5440296812",
+   "date": "2020-01-23",
+   "title": "This is game is good but it could be a whole lot better",
+   "name": "This is game is good but it could be a whole lot better",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 4,
+   "text": "Add a battle mode like Tetris 99.Add some more modes and skins that you unlock by playing the base game.Add a scoring system to see how you match up with people around the world.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9955,
+    "negative_probs": 0.0045
+   },
+   "keywords": [
+    "Add",
+    "battle",
+    "mode"
+   ]
+  },
+  {
+   "review_id": "5440406331",
+   "date": "2020-01-23",
+   "title": "The control and lag are terrible",
+   "name": "The control and lag are terrible",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 1,
+   "text": "I had such high hopes for a “new” iOS Tetris and after playing for only a few minutes am terribly disappointed.  Add the poor controls and it not allowing you to leave the game and go back in and I give it 1 star.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9979,
+    "negative_probs": 0.0021
+   },
+   "keywords": [
+    "had",
+    "such",
+    "high"
+   ]
+  },
+  {
+   "review_id": "5440469793",
+   "date": "2020-01-23",
+   "title": "No Expectations",
+   "name": "No Expectations",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "1.0.0",
+   "rating": 1,
+   "text": "I had no expectations because at this point it’s clear that the Tetris Company is not interested in innovating the game in any way. The mobile controls stress your thumbs, there is only one game mode, and there are no other features.",
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9957,
+    "negative_probs": 0.0043
+   },
+   "keywords": [
+    "no",
+    "game",
+    "there"
+   ]
+  }
+ ],
+ "page_index": 146,
+ "page_num": 147,
+ "prev_page": "/v1.3/apps/ios/app/1491074310/reviews?start_date=2020-01-01&end_date=2021-12-31&version=all&country=US&rating=all&page_index=145&page_size=100&lang=en",
+ "next_page": null,
+ "page_size": 100,
+ "code": 200
+}

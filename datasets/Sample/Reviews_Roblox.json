@@ -1,0 +1,1432 @@
+{
+ "product_id": 431946152,
+ "publisher_id": 431946155,
+ "product_name": "Roblox",
+ "device": "ios",
+ "publisher_name": "Roblox Corporation",
+ "reviews": [
+  {
+   "review_id": "8186381144",
+   "date": "2021-12-31",
+   "name": "Hi",
+   "title": "Hi",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "So grate I use it everyday",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.991,
+    "negative_probs": 0.009
+   },
+   "keywords": [
+    "So",
+    "grate",
+    "use"
+   ]
+  },
+  {
+   "review_id": "8186383148",
+   "date": "2021-12-31",
+   "name": "Yea",
+   "title": "Yea",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Every time i try to play a game about 2 minutes in it kicks me out",
+   "rating": 2,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5188,
+    "negative_probs": 0.4812
+   },
+   "keywords": [
+    "Every",
+    "time",
+    "try"
+   ]
+  },
+  {
+   "review_id": "8186383820",
+   "date": "2021-12-31",
+   "name": "Shut up 🤐",
+   "title": "Shut up 🤐",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "I’m giving  this app 1 star because you keep sending me ads 😡😡😡😡😡 if I didn’t got your ads I wouldn’t do this but I got an ad so I’m doing it rn btw I don’t like roblox anyway some people wouldn’t wanna get someones game if they are being annoying by their ads so please stop making me watch your annoying ads please bye",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9979,
+    "negative_probs": 0.0021
+   },
+   "keywords": [
+    "ads",
+    "me",
+    "got"
+   ]
+  },
+  {
+   "review_id": "8186392296",
+   "date": "2021-12-31",
+   "name": "So many problems",
+   "title": "So many problems",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "First of all your safe chat is super unnecessary and tags so many words that isn’t even bad. And second of all can you please fix the camera glitch on mobile? It’s super annoying you guys are a billion dollar company you should be able to fix a few glitches. I could be playing a game and my camera randomly gets stuck and dosent let me move it and it’s super inconvenient. There has been so many times when I’ve lost opportunities to win a game because of this stupid glitch. It’s really annoying",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9959,
+    "negative_probs": 0.0041
+   },
+   "keywords": [
+    "super",
+    "so",
+    "many"
+   ]
+  },
+  {
+   "review_id": "8186396326",
+   "date": "2021-12-31",
+   "name": "(Joke)",
+   "title": "(Joke)",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "mY DÆUGHŒR… HÆS NOT RECEIVED HER MONTHLY… ROBUX!!!! SHE HÆS ONLY SOMETHING ROBUX. HER USER IS Pinguina315…. Thanks 🧍‍♀️",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5952,
+    "negative_probs": 0.4048
+   },
+   "keywords": [
+    "HER",
+    "ROBUX",
+    "mY"
+   ]
+  },
+  {
+   "review_id": "8186399332",
+   "date": "2021-12-31",
+   "name": "False Warning",
+   "title": "False Warning",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "I was just making a mansion game, but it got me a warning. Please fix it! User XXX_Minji",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9554,
+    "negative_probs": 0.0446
+   },
+   "keywords": [
+    "was",
+    "just",
+    "making"
+   ]
+  },
+  {
+   "review_id": "8186399640",
+   "date": "2021-12-31",
+   "name": "F",
+   "title": "F",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "5,.",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.6177,
+    "negative_probs": 0.3823
+   },
+   "keywords": []
+  },
+  {
+   "review_id": "8186400395",
+   "date": "2021-12-31",
+   "name": "awesome but please read this",
+   "title": "awesome but please read this",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "the whole game is pretty good but in club roblox there’s a glitch for most people that there and my elf girl baby at the age of toddler you can’t interact with her and also please make more people to like ban i saw youtube people do some expose stuff and please do more like i had a sis in brook haven and we were teens and i went in her house and i saw her naked with a boy so please stop online dating it not child friendly. now this sentence is way different i think roblox should be 8 plus but the kids need a adult to supervise. and please give the beginning every one get 100 robux",
+   "rating": 4,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.998,
+    "negative_probs": 0.002
+   },
+   "keywords": [
+    "please",
+    "people",
+    "her"
+   ]
+  },
+  {
+   "review_id": "8186400955",
+   "date": "2021-12-31",
+   "name": "Needs new reporting system",
+   "title": "Needs new reporting system",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "I love Roblox, it’s filled with new friends and nice people. The games are fun and everyone is super nice! But there is just one problem. The reporting system is a bit under protected. I think there should be screen shots for proof, screen recording proof, etc. The reason I’m recommending this is because today when I logged onto Roblox it said that I had to agree to terms and conditions to start my account. I read what it said. It had said that Roblox was asking me this because Roblox moderators determined that I was being “racist” and “hateful” I don’t know if it was because of my all lives matter group or because somebody falsely reported me because they were mad at me etc. All I’m saying is that Roblox should get a proof system or something close to that. I have gotten falsely reported so many times because people have gotten mad at me or I have gotten mad at them. I love Roblox but honestly you guys probably need this.",
+   "rating": 4,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9965,
+    "negative_probs": 0.0035
+   },
+   "keywords": [
+    "Roblox",
+    "because",
+    "me"
+   ]
+  },
+  {
+   "review_id": "8186404784",
+   "date": "2021-12-31",
+   "name": "❤️❤️❤️❤️❤️❤️❤️OMG AWESOME❤️❤️❤️❤️❤️❤️❤️",
+   "title": "❤️❤️❤️❤️❤️❤️❤️OMG AWESOME❤️❤️❤️❤️❤️❤️❤️",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "I have played many games and a mean MANY but this was the best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best best game of all it gives variety and evreything I look for it occasionally tags out okay things but all in all it I would buy this game 100000000000 times more",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9982,
+    "negative_probs": 0.0018
+   },
+   "keywords": [
+    "best",
+    "but",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8186408386",
+   "date": "2021-12-31",
+   "name": "I LOVE ROBLOX!!!!!!",
+   "title": "I LOVE ROBLOX!!!!!!",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "i love roblox. 5 stars. add me - leanlollipops",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9812,
+    "negative_probs": 0.0188
+   },
+   "keywords": [
+    "love",
+    "roblox",
+    "stars"
+   ]
+  },
+  {
+   "review_id": "8186413356",
+   "date": "2021-12-31",
+   "name": "The almost best",
+   "title": "The almost best",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "It would be the best but some games have inappropriate tags to their names and internet dating and other weird stuff",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9969,
+    "negative_probs": 0.0031
+   },
+   "keywords": [
+    "would",
+    "best",
+    "but"
+   ]
+  },
+  {
+   "review_id": "8186413497",
+   "date": "2021-12-31",
+   "name": "A great game",
+   "title": "A great game",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "This is a great game but I'm annoyed that some games lag me out of Roblox and I would like if their were more bug fixes. But otherwise it's a good game and I highly recommend it.",
+   "rating": 4,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9968,
+    "negative_probs": 0.0032
+   },
+   "keywords": [
+    "game",
+    "great",
+    "but"
+   ]
+  },
+  {
+   "review_id": "8186423930",
+   "date": "2021-12-31",
+   "name": "Roblox",
+   "title": "Roblox",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Es muy divertido asemos cosas y aser amigos",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.7542,
+    "negative_probs": 0.2458
+   },
+   "keywords": [
+    "Es",
+    "muy",
+    "divertido"
+   ]
+  },
+  {
+   "review_id": "8186427087",
+   "date": "2021-12-31",
+   "name": "Fun",
+   "title": "Fun",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "They just have to fix some stuff but it’s fun I love playing this game it’s my favorite game",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9948,
+    "negative_probs": 0.0052
+   },
+   "keywords": [
+    "game",
+    "They",
+    "just"
+   ]
+  },
+  {
+   "review_id": "8186436848",
+   "date": "2021-12-31",
+   "name": "Needs more safety",
+   "title": "Needs more safety",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "I got hacked and can’t get my acct back",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9786,
+    "negative_probs": 0.0214
+   },
+   "keywords": [
+    "got",
+    "hacked",
+    "get"
+   ]
+  },
+  {
+   "review_id": "8186462984",
+   "date": "2021-12-31",
+   "name": "Love it . Amazing",
+   "title": "Love it . Amazing",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "It’s soamzing my favorite game ever is twilight Daycare LOVE IT SO MUCH!!!!!!!!!!!!",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9896,
+    "negative_probs": 0.0104
+   },
+   "keywords": [
+    "soamzing",
+    "my",
+    "favorite"
+   ]
+  },
+  {
+   "review_id": "8186470756",
+   "date": "2021-12-31",
+   "name": "Great game overall",
+   "title": "Great game overall",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Great game overall, I just think the tags should be fixed to make more sense ig.",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.7979,
+    "negative_probs": 0.2021
+   },
+   "keywords": [
+    "Great",
+    "game",
+    "overall"
+   ]
+  },
+  {
+   "review_id": "8186484290",
+   "date": "2021-12-31",
+   "name": "Won’t let me update",
+   "title": "Won’t let me update",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "..",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 0,
+    "sentiment_key": "negative",
+    "positive_probs": 0.4841,
+    "negative_probs": 0.5159
+   },
+   "keywords": [
+    ".."
+   ]
+  },
+  {
+   "review_id": "8186492989",
+   "date": "2021-12-31",
+   "name": "9999 out of 5",
+   "title": "9999 out of 5",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Roblox is fun and awesome and cool",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9989,
+    "negative_probs": 0.0011
+   },
+   "keywords": [
+    "Roblox",
+    "fun",
+    "awesome"
+   ]
+  },
+  {
+   "review_id": "8186493117",
+   "date": "2021-12-31",
+   "name": "It’s good but…",
+   "title": "It’s good but…",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "It’s a great game but it could use some updates it’s really laggy on my iPad and x me out.But otherwise great game and I totally recommend this app.😁✌️",
+   "rating": 4,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9968,
+    "negative_probs": 0.0032
+   },
+   "keywords": [
+    "great",
+    "game",
+    "but"
+   ]
+  },
+  {
+   "review_id": "8186496705",
+   "date": "2021-12-31",
+   "name": "Roblox is THE BEST GAME",
+   "title": "Roblox is THE BEST GAME",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "I love Roblox. I’ve been playing since 2017. Roblox has changed so much and it is still awesome. I don’t know the hype about Minecraft. On my opinion Roblox is wayyyyyy better!!! You can get fun jobs for example bamboo restaurant like I work there. You can rolplay! Build houses in bloxburg! Dress up in royal high. And Roblox even supports lgbtq+! That’s amazing for the people who are in that. Roblox is fun, amazing, imaginable and great! PLAY IT NOW!!!",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9971,
+    "negative_probs": 0.0029
+   },
+   "keywords": [
+    "Roblox",
+    "fun",
+    "amazing"
+   ]
+  },
+  {
+   "review_id": "8186501493",
+   "date": "2021-12-31",
+   "name": "Pls fix this",
+   "title": "Pls fix this",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "I wish I could really see my password on Roblox on the settings you know how it’s tagged I really want Roblox to untag it because I change my password a few months ago and it didn’t reset on my settings on my phone it still says my old password and now I’m trying to log in and idk my password I have to verify my email and I don’t know how to do that I really wanna know my password so I can log in on my laptop I don’t remember it and I try and guessing it 40 time and I still don’t know it so pls untag the password on setting a lot of us have other devices and want to log in but doesn’t know out password so if you guys (Roblox) would untag it , it would really help me out 😊",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.996,
+    "negative_probs": 0.004
+   },
+   "keywords": [
+    "my",
+    "password",
+    "know"
+   ]
+  },
+  {
+   "review_id": "8186506496",
+   "date": "2021-12-31",
+   "name": "It’s OKAY :/",
+   "title": "It’s OKAY :/",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Hi so my names Camilla I have had Roblox for 6 years and it was been a crazy experience. so one thing I want to address is the FREAKING ONLINE DATING so I have been on Brookhaven (game on Roblox) a few times and I have seen some EXTREMELY disturbing chats this just freaks me out but yeah that’s it for online dating. Next thing I want to address is the FREAKING CYBER BULLYING this is absolutely disgusting I can  not with this like some stuff I have been said is death threats, rude comments, and my avatar, BUT besides from that I like Roblox a lot ! 🤠",
+   "rating": 3,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.998,
+    "negative_probs": 0.002
+   },
+   "keywords": [
+    "so",
+    "Roblox",
+    "been"
+   ]
+  },
+  {
+   "review_id": "8186513157",
+   "date": "2021-12-31",
+   "name": "Game",
+   "title": "Game",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "I love it",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9977,
+    "negative_probs": 0.0023
+   },
+   "keywords": [
+    "love"
+   ]
+  },
+  {
+   "review_id": "8186514912",
+   "date": "2021-12-31",
+   "name": ".",
+   "title": ".",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Make Roblox endears I deceased game because of it stupid people in the dumb game",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9907,
+    "negative_probs": 0.0093
+   },
+   "keywords": [
+    "game",
+    "Make",
+    "Roblox"
+   ]
+  },
+  {
+   "review_id": "8186516909",
+   "date": "2021-12-31",
+   "name": "Hi roblox",
+   "title": "Hi roblox",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Can you please make it so people on moble can play with key boards",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8421,
+    "negative_probs": 0.1579
+   },
+   "keywords": [
+    "please",
+    "make",
+    "so"
+   ]
+  },
+  {
+   "review_id": "8186517611",
+   "date": "2021-12-31",
+   "name": "Chill.",
+   "title": "Chill.",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Stop harassing me to rate I already left my rate and yah keep pullin me away from roblox to rate it’s anoyying chill df out.",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9023,
+    "negative_probs": 0.0977
+   },
+   "keywords": [
+    "rate",
+    "me",
+    "Stop"
+   ]
+  },
+  {
+   "review_id": "8186518433",
+   "date": "2021-12-31",
+   "name": "Good",
+   "title": "Good",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Keeps me entertained",
+   "rating": 4,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.6905,
+    "negative_probs": 0.3095
+   },
+   "keywords": [
+    "Keeps",
+    "me",
+    "entertained"
+   ]
+  },
+  {
+   "review_id": "8186539038",
+   "date": "2021-12-31",
+   "name": "Badddd",
+   "title": "Badddd",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "First of alll y’all banded my accc so give me. My shi*** or I will rock yo shi****",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 0,
+    "sentiment_key": "negative",
+    "positive_probs": 0.2706,
+    "negative_probs": 0.7294
+   },
+   "keywords": [
+    "shi",
+    "First",
+    "alll"
+   ]
+  },
+  {
+   "review_id": "8186539331",
+   "date": "2021-12-31",
+   "name": "Boring",
+   "title": "Boring",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Boring fun do you want to build like a snowman",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8539,
+    "negative_probs": 0.1461
+   },
+   "keywords": [
+    "Boring",
+    "fun",
+    "do"
+   ]
+  },
+  {
+   "review_id": "8186544830",
+   "date": "2021-12-31",
+   "name": "It a good game",
+   "title": "It a good game",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "It a good game thanks Roblox",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.994,
+    "negative_probs": 0.006
+   },
+   "keywords": [
+    "good",
+    "game",
+    "thanks"
+   ]
+  },
+  {
+   "review_id": "8186547887",
+   "date": "2021-12-31",
+   "name": "Listen . . .",
+   "title": "Listen . . .",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "It’s a great game and all, but the thing is i’ll get boring after around 3 weeks.",
+   "rating": 3,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.993,
+    "negative_probs": 0.007
+   },
+   "keywords": [
+    "great",
+    "game",
+    "but"
+   ]
+  },
+  {
+   "review_id": "8186548082",
+   "date": "2021-12-31",
+   "name": "AMAZING",
+   "title": "AMAZING",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "One of the best role play apps I’ve ever downloaded!! So fun. Only complaint is that it drains battery, only play if device is plugged in is what I suggest if you don’t want a dead tablet in 30 min.",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9946,
+    "negative_probs": 0.0054
+   },
+   "keywords": [
+    "play",
+    "best",
+    "role"
+   ]
+  },
+  {
+   "review_id": "8186562331",
+   "date": "2021-12-31",
+   "name": "Just play it",
+   "title": "Just play it",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "No need for a reason...",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.531,
+    "negative_probs": 0.469
+   },
+   "keywords": [
+    "No",
+    "need",
+    "reason"
+   ]
+  },
+  {
+   "review_id": "8186565942",
+   "date": "2021-12-31",
+   "name": "Please fix the tags",
+   "title": "Please fix the tags",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "The tags are very annoying especially when I’m trying to say something like my name or “meet” or even sometimes my friend tries to say “OK” and it doesn’t work and some other words will get tagged even though they are not bad words, I understand if I try to say a very bad word and it gets tagged because Bad words aren’t supposed to be for kids. Developer can you please fix the tags almost all of my friends are annoyed of it and same with my siblings.thank you!",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9962,
+    "negative_probs": 0.0038
+   },
+   "keywords": [
+    "my",
+    "say",
+    "words"
+   ]
+  },
+  {
+   "review_id": "8186571675",
+   "date": "2021-12-31",
+   "name": "Wont let me buy robux",
+   "title": "Wont let me buy robux",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "It keeps saying “you have canceled this purchase or an error has occurred. Please try again later.” I have “TRIED AGAIN” for 5 days in a row. Please fix this.",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9844,
+    "negative_probs": 0.0156
+   },
+   "keywords": [
+    "Please",
+    "keeps",
+    "saying"
+   ]
+  },
+  {
+   "review_id": "8186575322",
+   "date": "2021-12-31",
+   "name": "Roblox is fun but something is wrong with my friend",
+   "title": "Roblox is fun but something is wrong with my friend",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "I like this game a lot it’s my favorite game I play it so much! I will put some pros and cons then I will tell you sth.Pros:• Game• The experiences• The avatars!!!• Ugc items <3Cons:• Tags• Max friends• Lag • Slenders• OdersThe problem:My friend (jordantheawesome422) is lagging a lot and he is very upset about it… can you make some bug fixes pls… he needs it! Ty Roblox! <3 Also make sure all players are happy! Bye!!!",
+   "rating": 4,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9958,
+    "negative_probs": 0.0042
+   },
+   "keywords": [
+    "game",
+    "lot",
+    "will"
+   ]
+  },
+  {
+   "review_id": "8186578529",
+   "date": "2021-12-31",
+   "name": "Deez nuts",
+   "title": "Deez nuts",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Why rate when you can look at deez nuts.",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.5182,
+    "negative_probs": 0.4818
+   },
+   "keywords": [
+    "Why",
+    "rate",
+    "when"
+   ]
+  },
+  {
+   "review_id": "8186586311",
+   "date": "2021-12-31",
+   "name": "AMAZING GAME",
+   "title": "AMAZING GAME",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Please play this amazing game.I love it 🟥❤️",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9976,
+    "negative_probs": 0.0024
+   },
+   "keywords": [
+    "Please",
+    "play",
+    "amazing"
+   ]
+  },
+  {
+   "review_id": "8186589999",
+   "date": "2021-12-31",
+   "name": "I love this game but there is a little problem",
+   "title": "I love this game but there is a little problem",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "So roblox is like the best game I ever played and also for a ton of people but there is a little problem that I would appreciate being fixed because it’s really annoying for me: When I join a game sometimes it brings me out of roblox to my Home Screen and if I try again the same thing happens again so like if you were like kreek or someone who was in the 3rd RB battles and you were about to win 1M robux and then that happens so if you could fix it I would be happy and be able to play my games without being annoyed.",
+   "rating": 4,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9966,
+    "negative_probs": 0.0034
+   },
+   "keywords": [
+    "like",
+    "roblox",
+    "game"
+   ]
+  },
+  {
+   "review_id": "8186595487",
+   "date": "2021-12-31",
+   "name": "plz fix",
+   "title": "plz fix",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "These games are fun and all but there really glitchy . why does everything have to have robux involved.",
+   "rating": 2,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9689,
+    "negative_probs": 0.0311
+   },
+   "keywords": [
+    "These",
+    "games",
+    "fun"
+   ]
+  },
+  {
+   "review_id": "8186600286",
+   "date": "2021-12-31",
+   "name": "So good!!!!!!!!",
+   "title": "So good!!!!!!!!",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "It’s so good and I love it!!!!!!!!!",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9959,
+    "negative_probs": 0.0041
+   },
+   "keywords": [
+    "so",
+    "good",
+    "love"
+   ]
+  },
+  {
+   "review_id": "8186602467",
+   "date": "2021-12-31",
+   "name": "Idk",
+   "title": "Idk",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Pls fix some games for me and this is SUPER FUN",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9889,
+    "negative_probs": 0.0111
+   },
+   "keywords": [
+    "Pls",
+    "fix",
+    "some"
+   ]
+  },
+  {
+   "review_id": "8186604187",
+   "date": "2021-12-31",
+   "name": "What did I get banned for",
+   "title": "What did I get banned for",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "What did I get banned for Roblox it said that I was banned for seven days???",
+   "rating": 2,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8979,
+    "negative_probs": 0.1021
+   },
+   "keywords": [
+    "banned",
+    "What",
+    "did"
+   ]
+  },
+  {
+   "review_id": "8186604543",
+   "date": "2021-12-31",
+   "name": "Robux",
+   "title": "Robux",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "I think they should add robux that u get for free every holiday!!!",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9846,
+    "negative_probs": 0.0154
+   },
+   "keywords": [
+    "think",
+    "they",
+    "should"
+   ]
+  },
+  {
+   "review_id": "8186607123",
+   "date": "2021-12-31",
+   "name": "10 out of 10",
+   "title": "10 out of 10",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Actually 1 million out of 10 I get to interact with my best friend in case her phone dies she has an iPad with Roblox on it",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9985,
+    "negative_probs": 0.0015
+   },
+   "keywords": [
+    "Actually",
+    "million",
+    "out"
+   ]
+  },
+  {
+   "review_id": "8186607515",
+   "date": "2021-12-31",
+   "name": "THE BEST GAME IN THE WORLD",
+   "title": "THE BEST GAME IN THE WORLD",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "I love the game!!! It’s so much fun I’m so happy it exists!!! The moment I got it I was so happy it’s so leafing meeting new freinds doing roleyplays!! It teaches you so much!!! I love you roblox you work so hard I am so happy for u to succeed so much!!! Bye have a great Day if your hearing this!!",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9967,
+    "negative_probs": 0.0033
+   },
+   "keywords": [
+    "so",
+    "much",
+    "happy"
+   ]
+  },
+  {
+   "review_id": "8186611862",
+   "date": "2021-12-31",
+   "name": "Add more realistic physics",
+   "title": "Add more realistic physics",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "I want you to add more realistic physics because the physics are just weird in unusual ways",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9949,
+    "negative_probs": 0.0051
+   },
+   "keywords": [
+    "physics",
+    "want",
+    "add"
+   ]
+  },
+  {
+   "review_id": "8186615754",
+   "date": "2021-12-31",
+   "name": "Omg",
+   "title": "Omg",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "The games keeps crashing",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8687,
+    "negative_probs": 0.1313
+   },
+   "keywords": [
+    "games",
+    "keeps",
+    "crashing"
+   ]
+  },
+  {
+   "review_id": "8186628868",
+   "date": "2021-12-31",
+   "name": "I love it since it’s my favorite game I don’t want to play Minecraft",
+   "title": "I love it since it’s my favorite game I don’t want to play Minecraft",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Say hello at people on roblox",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9617,
+    "negative_probs": 0.0383
+   },
+   "keywords": [
+    "Say",
+    "hello",
+    "people"
+   ]
+  },
+  {
+   "review_id": "8186634423",
+   "date": "2021-12-31",
+   "name": "Good but A few lags",
+   "title": "Good but A few lags",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Sometimes it can freeze and also can kick you out but overall it’s great!",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.989,
+    "negative_probs": 0.011
+   },
+   "keywords": [
+    "Sometimes",
+    "freeze",
+    "also"
+   ]
+  },
+  {
+   "review_id": "8186636937",
+   "date": "2021-12-31",
+   "name": "Tags",
+   "title": "Tags",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Bad words and bad words and different languages should be tagged but everything else should not be tags",
+   "rating": 4,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9935,
+    "negative_probs": 0.0065
+   },
+   "keywords": [
+    "words",
+    "should",
+    "Bad"
+   ]
+  },
+  {
+   "review_id": "8186639502",
+   "date": "2021-12-31",
+   "name": "I love this game but...",
+   "title": "I love this game but...",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "I love this game and I work hard in games but people don’t like that there’s always hackers like someone’s hacking me rn I got hacked 1 time and many people are trying to hack me roblox fix this issue Bc this is ridiculous honestly and you constantly get kicked it’s rlly annoying",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9966,
+    "negative_probs": 0.0034
+   },
+   "keywords": [
+    "people",
+    "like",
+    "me"
+   ]
+  },
+  {
+   "review_id": "8186640809",
+   "date": "2021-12-31",
+   "name": "I’m Dying in the game too much and hackers in the game I will never play again forever",
+   "title": "I’m Dying in the game too much and hackers in the game I will never play again forever",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "Never play Roblox again!!!!!!!!!!       ... joke",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.8908,
+    "negative_probs": 0.1092
+   },
+   "keywords": [
+    "Never",
+    "play",
+    "Roblox"
+   ]
+  },
+  {
+   "review_id": "8186644735",
+   "date": "2021-12-31",
+   "name": "Not giving stuff",
+   "title": "Not giving stuff",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "I was spending money or roebucks however you wanna say it I don’t even know what to spell roebucks anymore I hate this so much if I bought a shirt she didn’t let me have my shirt I also think when I buy VIP I should get my VIP it’s so annoying when it doesn’t give you it and this is basically all I had not to mention A lot of the games cost money and I shouldn’t be wasting real money on a darn game",
+   "rating": 1,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9975,
+    "negative_probs": 0.0025
+   },
+   "keywords": [
+    "money",
+    "roebucks",
+    "so"
+   ]
+  },
+  {
+   "review_id": "8186645681",
+   "date": "2021-12-31",
+   "name": "WORST GAME OF ALL TIME1!!1!",
+   "title": "WORST GAME OF ALL TIME1!!1!",
+   "device": "ios-all",
+   "market_code": "apple-store",
+   "version": "2.506.608",
+   "text": "The “Adopt Me” Mommy and Daddy seggs scene was absolutely terrible, it looks like it was recorded on a Ford F-150.There are WAAAAYYY too many n00bs in this game and ruin the experience of being able to role play as a cute seggsy dragon wolf 😡😡😡!!!!1!!1!!1!!!!- 6wolftalonbabe9/j",
+   "rating": 5,
+   "language": null,
+   "country": "US",
+   "reviewer": "",
+   "sentiment": {
+    "sentiment_label": 1,
+    "sentiment_key": "positive",
+    "positive_probs": 0.9977,
+    "negative_probs": 0.0023
+   },
+   "keywords": [
+    "was",
+    "Adopt",
+    "Me"
+   ]
+  }
+ ],
+ "page_index": 0,
+ "page_num": 17509,
+ "prev_page": null,
+ "next_page": "/v1.3/apps/ios/app/431946152/reviews?start_date=2020-01-01&end_date=2021-12-31&version=all&country=US&rating=all&page_index=1&page_size=100&lang=en",
+ "page_size": 100,
+ "code": 200
+}

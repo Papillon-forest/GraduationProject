@@ -1,0 +1,3657 @@
+[
+ {
+  "keywords": "2020-01-01",
+  "counts": 8,
+  "positive_percent": 0.875
+ },
+ {
+  "keywords": "2020-01-02",
+  "counts": 57,
+  "positive_percent": 0.9122807017543859
+ },
+ {
+  "keywords": "2020-01-03",
+  "counts": 49,
+  "positive_percent": 0.9183673469387755
+ },
+ {
+  "keywords": "2020-01-04",
+  "counts": 61,
+  "positive_percent": 0.9672131147540983
+ },
+ {
+  "keywords": "2020-01-05",
+  "counts": 67,
+  "positive_percent": 0.8805970149253731
+ },
+ {
+  "keywords": "2020-01-06",
+  "counts": 42,
+  "positive_percent": 0.9761904761904762
+ },
+ {
+  "keywords": "2020-01-07",
+  "counts": 31,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-01-08",
+  "counts": 44,
+  "positive_percent": 0.9090909090909091
+ },
+ {
+  "keywords": "2020-01-09",
+  "counts": 33,
+  "positive_percent": 0.9696969696969697
+ },
+ {
+  "keywords": "2020-01-10",
+  "counts": 56,
+  "positive_percent": 0.9642857142857143
+ },
+ {
+  "keywords": "2020-01-11",
+  "counts": 61,
+  "positive_percent": 0.9672131147540983
+ },
+ {
+  "keywords": "2020-01-12",
+  "counts": 50,
+  "positive_percent": 0.98
+ },
+ {
+  "keywords": "2020-01-13",
+  "counts": 55,
+  "positive_percent": 0.9272727272727272
+ },
+ {
+  "keywords": "2020-01-14",
+  "counts": 46,
+  "positive_percent": 0.9565217391304348
+ },
+ {
+  "keywords": "2020-01-15",
+  "counts": 37,
+  "positive_percent": 0.9459459459459459
+ },
+ {
+  "keywords": "2020-01-16",
+  "counts": 52,
+  "positive_percent": 0.9230769230769231
+ },
+ {
+  "keywords": "2020-01-17",
+  "counts": 56,
+  "positive_percent": 0.9821428571428571
+ },
+ {
+  "keywords": "2020-01-18",
+  "counts": 53,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-01-19",
+  "counts": 51,
+  "positive_percent": 0.9411764705882353
+ },
+ {
+  "keywords": "2020-01-20",
+  "counts": 55,
+  "positive_percent": 0.9818181818181818
+ },
+ {
+  "keywords": "2020-01-21",
+  "counts": 61,
+  "positive_percent": 0.9672131147540983
+ },
+ {
+  "keywords": "2020-01-22",
+  "counts": 36,
+  "positive_percent": 0.9166666666666666
+ },
+ {
+  "keywords": "2020-01-23",
+  "counts": 42,
+  "positive_percent": 0.9285714285714286
+ },
+ {
+  "keywords": "2020-01-24",
+  "counts": 64,
+  "positive_percent": 0.953125
+ },
+ {
+  "keywords": "2020-01-25",
+  "counts": 67,
+  "positive_percent": 0.9701492537313433
+ },
+ {
+  "keywords": "2020-01-26",
+  "counts": 58,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-01-27",
+  "counts": 38,
+  "positive_percent": 0.9736842105263158
+ },
+ {
+  "keywords": "2020-01-28",
+  "counts": 47,
+  "positive_percent": 0.9787234042553191
+ },
+ {
+  "keywords": "2020-01-29",
+  "counts": 54,
+  "positive_percent": 0.9629629629629629
+ },
+ {
+  "keywords": "2020-01-30",
+  "counts": 48,
+  "positive_percent": 0.9791666666666666
+ },
+ {
+  "keywords": "2020-01-31",
+  "counts": 28,
+  "positive_percent": 0.9642857142857143
+ },
+ {
+  "keywords": "2020-02-01",
+  "counts": 13,
+  "positive_percent": 0.9230769230769231
+ },
+ {
+  "keywords": "2020-02-02",
+  "counts": 47,
+  "positive_percent": 0.9148936170212766
+ },
+ {
+  "keywords": "2020-02-03",
+  "counts": 43,
+  "positive_percent": 0.9534883720930233
+ },
+ {
+  "keywords": "2020-02-04",
+  "counts": 36,
+  "positive_percent": 0.9444444444444444
+ },
+ {
+  "keywords": "2020-02-05",
+  "counts": 35,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-02-06",
+  "counts": 58,
+  "positive_percent": 0.896551724137931
+ },
+ {
+  "keywords": "2020-02-07",
+  "counts": 72,
+  "positive_percent": 0.9722222222222222
+ },
+ {
+  "keywords": "2020-02-08",
+  "counts": 68,
+  "positive_percent": 0.9705882352941176
+ },
+ {
+  "keywords": "2020-02-09",
+  "counts": 60,
+  "positive_percent": 0.9
+ },
+ {
+  "keywords": "2020-02-10",
+  "counts": 44,
+  "positive_percent": 0.9545454545454546
+ },
+ {
+  "keywords": "2020-02-11",
+  "counts": 33,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-02-12",
+  "counts": 44,
+  "positive_percent": 0.9318181818181818
+ },
+ {
+  "keywords": "2020-02-13",
+  "counts": 40,
+  "positive_percent": 0.975
+ },
+ {
+  "keywords": "2020-02-14",
+  "counts": 76,
+  "positive_percent": 0.9605263157894737
+ },
+ {
+  "keywords": "2020-02-15",
+  "counts": 63,
+  "positive_percent": 0.9682539682539683
+ },
+ {
+  "keywords": "2020-02-16",
+  "counts": 64,
+  "positive_percent": 0.96875
+ },
+ {
+  "keywords": "2020-02-17",
+  "counts": 67,
+  "positive_percent": 0.9552238805970149
+ },
+ {
+  "keywords": "2020-02-18",
+  "counts": 55,
+  "positive_percent": 0.9454545454545454
+ },
+ {
+  "keywords": "2020-02-19",
+  "counts": 53,
+  "positive_percent": 0.9433962264150944
+ },
+ {
+  "keywords": "2020-02-20",
+  "counts": 49,
+  "positive_percent": 0.9591836734693877
+ },
+ {
+  "keywords": "2020-02-21",
+  "counts": 59,
+  "positive_percent": 0.9830508474576272
+ },
+ {
+  "keywords": "2020-02-22",
+  "counts": 71,
+  "positive_percent": 0.9577464788732394
+ },
+ {
+  "keywords": "2020-02-23",
+  "counts": 68,
+  "positive_percent": 0.9705882352941176
+ },
+ {
+  "keywords": "2020-02-24",
+  "counts": 53,
+  "positive_percent": 0.9811320754716981
+ },
+ {
+  "keywords": "2020-02-25",
+  "counts": 44,
+  "positive_percent": 0.9318181818181818
+ },
+ {
+  "keywords": "2020-02-26",
+  "counts": 51,
+  "positive_percent": 0.9607843137254902
+ },
+ {
+  "keywords": "2020-02-27",
+  "counts": 37,
+  "positive_percent": 0.918918918918919
+ },
+ {
+  "keywords": "2020-02-28",
+  "counts": 67,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-02-29",
+  "counts": 67,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-03-01",
+  "counts": 52,
+  "positive_percent": 0.9615384615384616
+ },
+ {
+  "keywords": "2020-03-02",
+  "counts": 45,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-03-03",
+  "counts": 31,
+  "positive_percent": 0.9354838709677419
+ },
+ {
+  "keywords": "2020-03-04",
+  "counts": 43,
+  "positive_percent": 0.9767441860465116
+ },
+ {
+  "keywords": "2020-03-05",
+  "counts": 48,
+  "positive_percent": 0.9791666666666666
+ },
+ {
+  "keywords": "2020-03-06",
+  "counts": 61,
+  "positive_percent": 0.9508196721311475
+ },
+ {
+  "keywords": "2020-03-07",
+  "counts": 56,
+  "positive_percent": 0.9821428571428571
+ },
+ {
+  "keywords": "2020-03-08",
+  "counts": 44,
+  "positive_percent": 0.9545454545454546
+ },
+ {
+  "keywords": "2020-03-09",
+  "counts": 37,
+  "positive_percent": 0.9459459459459459
+ },
+ {
+  "keywords": "2020-03-10",
+  "counts": 48,
+  "positive_percent": 0.9583333333333334
+ },
+ {
+  "keywords": "2020-03-11",
+  "counts": 51,
+  "positive_percent": 0.9215686274509803
+ },
+ {
+  "keywords": "2020-03-12",
+  "counts": 35,
+  "positive_percent": 0.9428571428571428
+ },
+ {
+  "keywords": "2020-03-13",
+  "counts": 40,
+  "positive_percent": 0.975
+ },
+ {
+  "keywords": "2020-03-14",
+  "counts": 79,
+  "positive_percent": 0.9620253164556962
+ },
+ {
+  "keywords": "2020-03-15",
+  "counts": 62,
+  "positive_percent": 0.9516129032258065
+ },
+ {
+  "keywords": "2020-03-16",
+  "counts": 55,
+  "positive_percent": 0.9636363636363636
+ },
+ {
+  "keywords": "2020-03-17",
+  "counts": 45,
+  "positive_percent": 0.9555555555555556
+ },
+ {
+  "keywords": "2020-03-18",
+  "counts": 45,
+  "positive_percent": 0.9555555555555556
+ },
+ {
+  "keywords": "2020-03-19",
+  "counts": 42,
+  "positive_percent": 0.9523809523809523
+ },
+ {
+  "keywords": "2020-03-20",
+  "counts": 95,
+  "positive_percent": 0.9578947368421052
+ },
+ {
+  "keywords": "2020-03-21",
+  "counts": 71,
+  "positive_percent": 0.9859154929577465
+ },
+ {
+  "keywords": "2020-03-22",
+  "counts": 77,
+  "positive_percent": 0.961038961038961
+ },
+ {
+  "keywords": "2020-03-23",
+  "counts": 50,
+  "positive_percent": 0.88
+ },
+ {
+  "keywords": "2020-03-24",
+  "counts": 96,
+  "positive_percent": 0.96875
+ },
+ {
+  "keywords": "2020-03-25",
+  "counts": 75,
+  "positive_percent": 0.9733333333333334
+ },
+ {
+  "keywords": "2020-03-26",
+  "counts": 64,
+  "positive_percent": 0.984375
+ },
+ {
+  "keywords": "2020-03-27",
+  "counts": 60,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2020-03-28",
+  "counts": 113,
+  "positive_percent": 0.9823008849557522
+ },
+ {
+  "keywords": "2020-03-29",
+  "counts": 104,
+  "positive_percent": 0.9711538461538461
+ },
+ {
+  "keywords": "2020-03-30",
+  "counts": 63,
+  "positive_percent": 0.9365079365079365
+ },
+ {
+  "keywords": "2020-03-31",
+  "counts": 59,
+  "positive_percent": 0.9322033898305084
+ },
+ {
+  "keywords": "2020-04-01",
+  "counts": 53,
+  "positive_percent": 0.9811320754716981
+ },
+ {
+  "keywords": "2020-04-02",
+  "counts": 61,
+  "positive_percent": 0.9672131147540983
+ },
+ {
+  "keywords": "2020-04-03",
+  "counts": 93,
+  "positive_percent": 0.946236559139785
+ },
+ {
+  "keywords": "2020-04-04",
+  "counts": 89,
+  "positive_percent": 0.9438202247191011
+ },
+ {
+  "keywords": "2020-04-05",
+  "counts": 77,
+  "positive_percent": 0.987012987012987
+ },
+ {
+  "keywords": "2020-04-06",
+  "counts": 59,
+  "positive_percent": 0.9322033898305084
+ },
+ {
+  "keywords": "2020-04-07",
+  "counts": 52,
+  "positive_percent": 0.9038461538461539
+ },
+ {
+  "keywords": "2020-04-08",
+  "counts": 93,
+  "positive_percent": 0.967741935483871
+ },
+ {
+  "keywords": "2020-04-09",
+  "counts": 78,
+  "positive_percent": 0.9871794871794872
+ },
+ {
+  "keywords": "2020-04-10",
+  "counts": 71,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-04-11",
+  "counts": 74,
+  "positive_percent": 0.9594594594594594
+ },
+ {
+  "keywords": "2020-04-12",
+  "counts": 60,
+  "positive_percent": 0.9833333333333333
+ },
+ {
+  "keywords": "2020-04-13",
+  "counts": 75,
+  "positive_percent": 0.9466666666666667
+ },
+ {
+  "keywords": "2020-04-14",
+  "counts": 57,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2020-04-15",
+  "counts": 65,
+  "positive_percent": 0.9230769230769231
+ },
+ {
+  "keywords": "2020-04-16",
+  "counts": 59,
+  "positive_percent": 0.9830508474576272
+ },
+ {
+  "keywords": "2020-04-17",
+  "counts": 75,
+  "positive_percent": 0.9466666666666667
+ },
+ {
+  "keywords": "2020-04-18",
+  "counts": 74,
+  "positive_percent": 0.9459459459459459
+ },
+ {
+  "keywords": "2020-04-19",
+  "counts": 60,
+  "positive_percent": 0.9333333333333333
+ },
+ {
+  "keywords": "2020-04-20",
+  "counts": 64,
+  "positive_percent": 0.9375
+ },
+ {
+  "keywords": "2020-04-21",
+  "counts": 59,
+  "positive_percent": 0.9152542372881356
+ },
+ {
+  "keywords": "2020-04-22",
+  "counts": 85,
+  "positive_percent": 0.9529411764705882
+ },
+ {
+  "keywords": "2020-04-23",
+  "counts": 51,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-04-24",
+  "counts": 46,
+  "positive_percent": 0.9565217391304348
+ },
+ {
+  "keywords": "2020-04-25",
+  "counts": 109,
+  "positive_percent": 0.9541284403669725
+ },
+ {
+  "keywords": "2020-04-26",
+  "counts": 62,
+  "positive_percent": 0.9516129032258065
+ },
+ {
+  "keywords": "2020-04-27",
+  "counts": 47,
+  "positive_percent": 0.9787234042553191
+ },
+ {
+  "keywords": "2020-04-28",
+  "counts": 59,
+  "positive_percent": 0.9491525423728814
+ },
+ {
+  "keywords": "2020-04-29",
+  "counts": 56,
+  "positive_percent": 0.9464285714285714
+ },
+ {
+  "keywords": "2020-04-30",
+  "counts": 51,
+  "positive_percent": 0.9411764705882353
+ },
+ {
+  "keywords": "2020-05-01",
+  "counts": 48,
+  "positive_percent": 0.9791666666666666
+ },
+ {
+  "keywords": "2020-05-02",
+  "counts": 92,
+  "positive_percent": 0.9456521739130435
+ },
+ {
+  "keywords": "2020-05-03",
+  "counts": 68,
+  "positive_percent": 0.9558823529411765
+ },
+ {
+  "keywords": "2020-05-04",
+  "counts": 52,
+  "positive_percent": 0.9615384615384616
+ },
+ {
+  "keywords": "2020-05-05",
+  "counts": 54,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-05-06",
+  "counts": 66,
+  "positive_percent": 0.9848484848484849
+ },
+ {
+  "keywords": "2020-05-07",
+  "counts": 53,
+  "positive_percent": 0.9433962264150944
+ },
+ {
+  "keywords": "2020-05-08",
+  "counts": 118,
+  "positive_percent": 0.9491525423728814
+ },
+ {
+  "keywords": "2020-05-09",
+  "counts": 71,
+  "positive_percent": 0.971830985915493
+ },
+ {
+  "keywords": "2020-05-10",
+  "counts": 57,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2020-05-11",
+  "counts": 42,
+  "positive_percent": 0.9523809523809523
+ },
+ {
+  "keywords": "2020-05-12",
+  "counts": 80,
+  "positive_percent": 0.9625
+ },
+ {
+  "keywords": "2020-05-13",
+  "counts": 84,
+  "positive_percent": 0.9047619047619048
+ },
+ {
+  "keywords": "2020-05-14",
+  "counts": 59,
+  "positive_percent": 0.9491525423728814
+ },
+ {
+  "keywords": "2020-05-15",
+  "counts": 65,
+  "positive_percent": 0.9692307692307692
+ },
+ {
+  "keywords": "2020-05-16",
+  "counts": 111,
+  "positive_percent": 0.972972972972973
+ },
+ {
+  "keywords": "2020-05-17",
+  "counts": 59,
+  "positive_percent": 0.9491525423728814
+ },
+ {
+  "keywords": "2020-05-18",
+  "counts": 50,
+  "positive_percent": 0.96
+ },
+ {
+  "keywords": "2020-05-19",
+  "counts": 58,
+  "positive_percent": 0.9827586206896551
+ },
+ {
+  "keywords": "2020-05-20",
+  "counts": 64,
+  "positive_percent": 0.9375
+ },
+ {
+  "keywords": "2020-05-21",
+  "counts": 85,
+  "positive_percent": 0.9882352941176471
+ },
+ {
+  "keywords": "2020-05-22",
+  "counts": 55,
+  "positive_percent": 0.9636363636363636
+ },
+ {
+  "keywords": "2020-05-23",
+  "counts": 70,
+  "positive_percent": 0.9285714285714286
+ },
+ {
+  "keywords": "2020-05-24",
+  "counts": 62,
+  "positive_percent": 0.9354838709677419
+ },
+ {
+  "keywords": "2020-05-25",
+  "counts": 52,
+  "positive_percent": 0.9615384615384616
+ },
+ {
+  "keywords": "2020-05-26",
+  "counts": 61,
+  "positive_percent": 0.9672131147540983
+ },
+ {
+  "keywords": "2020-05-27",
+  "counts": 70,
+  "positive_percent": 0.9714285714285714
+ },
+ {
+  "keywords": "2020-05-28",
+  "counts": 78,
+  "positive_percent": 0.9487179487179487
+ },
+ {
+  "keywords": "2020-05-29",
+  "counts": 56,
+  "positive_percent": 0.9285714285714286
+ },
+ {
+  "keywords": "2020-05-30",
+  "counts": 85,
+  "positive_percent": 0.9411764705882353
+ },
+ {
+  "keywords": "2020-05-31",
+  "counts": 108,
+  "positive_percent": 0.9814814814814815
+ },
+ {
+  "keywords": "2020-06-01",
+  "counts": 85,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-06-02",
+  "counts": 69,
+  "positive_percent": 0.9710144927536232
+ },
+ {
+  "keywords": "2020-06-03",
+  "counts": 62,
+  "positive_percent": 0.967741935483871
+ },
+ {
+  "keywords": "2020-06-04",
+  "counts": 43,
+  "positive_percent": 0.9534883720930233
+ },
+ {
+  "keywords": "2020-06-05",
+  "counts": 93,
+  "positive_percent": 0.967741935483871
+ },
+ {
+  "keywords": "2020-06-06",
+  "counts": 101,
+  "positive_percent": 0.9702970297029703
+ },
+ {
+  "keywords": "2020-06-07",
+  "counts": 106,
+  "positive_percent": 0.9905660377358491
+ },
+ {
+  "keywords": "2020-06-08",
+  "counts": 75,
+  "positive_percent": 0.9733333333333334
+ },
+ {
+  "keywords": "2020-06-09",
+  "counts": 44,
+  "positive_percent": 0.9545454545454546
+ },
+ {
+  "keywords": "2020-06-10",
+  "counts": 84,
+  "positive_percent": 0.9642857142857143
+ },
+ {
+  "keywords": "2020-06-11",
+  "counts": 67,
+  "positive_percent": 0.9552238805970149
+ },
+ {
+  "keywords": "2020-06-12",
+  "counts": 83,
+  "positive_percent": 0.9518072289156626
+ },
+ {
+  "keywords": "2020-06-13",
+  "counts": 54,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-06-14",
+  "counts": 66,
+  "positive_percent": 0.9545454545454546
+ },
+ {
+  "keywords": "2020-06-15",
+  "counts": 54,
+  "positive_percent": 0.9814814814814815
+ },
+ {
+  "keywords": "2020-06-16",
+  "counts": 63,
+  "positive_percent": 0.9841269841269841
+ },
+ {
+  "keywords": "2020-06-17",
+  "counts": 45,
+  "positive_percent": 0.9333333333333333
+ },
+ {
+  "keywords": "2020-06-18",
+  "counts": 57,
+  "positive_percent": 0.9298245614035088
+ },
+ {
+  "keywords": "2020-06-19",
+  "counts": 67,
+  "positive_percent": 0.9253731343283582
+ },
+ {
+  "keywords": "2020-06-20",
+  "counts": 87,
+  "positive_percent": 0.9425287356321839
+ },
+ {
+  "keywords": "2020-06-21",
+  "counts": 51,
+  "positive_percent": 0.9411764705882353
+ },
+ {
+  "keywords": "2020-06-22",
+  "counts": 64,
+  "positive_percent": 0.953125
+ },
+ {
+  "keywords": "2020-06-23",
+  "counts": 58,
+  "positive_percent": 0.9482758620689655
+ },
+ {
+  "keywords": "2020-06-24",
+  "counts": 84,
+  "positive_percent": 0.9642857142857143
+ },
+ {
+  "keywords": "2020-06-25",
+  "counts": 63,
+  "positive_percent": 0.9365079365079365
+ },
+ {
+  "keywords": "2020-06-26",
+  "counts": 63,
+  "positive_percent": 0.9682539682539683
+ },
+ {
+  "keywords": "2020-06-27",
+  "counts": 89,
+  "positive_percent": 0.9550561797752809
+ },
+ {
+  "keywords": "2020-06-28",
+  "counts": 93,
+  "positive_percent": 0.9354838709677419
+ },
+ {
+  "keywords": "2020-06-29",
+  "counts": 57,
+  "positive_percent": 0.9122807017543859
+ },
+ {
+  "keywords": "2020-06-30",
+  "counts": 65,
+  "positive_percent": 0.9846153846153847
+ },
+ {
+  "keywords": "2020-07-01",
+  "counts": 73,
+  "positive_percent": 0.9041095890410958
+ },
+ {
+  "keywords": "2020-07-02",
+  "counts": 63,
+  "positive_percent": 0.9841269841269841
+ },
+ {
+  "keywords": "2020-07-03",
+  "counts": 76,
+  "positive_percent": 0.9736842105263158
+ },
+ {
+  "keywords": "2020-07-04",
+  "counts": 77,
+  "positive_percent": 0.935064935064935
+ },
+ {
+  "keywords": "2020-07-05",
+  "counts": 69,
+  "positive_percent": 0.9565217391304348
+ },
+ {
+  "keywords": "2020-07-06",
+  "counts": 58,
+  "positive_percent": 0.9827586206896551
+ },
+ {
+  "keywords": "2020-07-07",
+  "counts": 68,
+  "positive_percent": 0.9411764705882353
+ },
+ {
+  "keywords": "2020-07-08",
+  "counts": 67,
+  "positive_percent": 0.9104477611940298
+ },
+ {
+  "keywords": "2020-07-09",
+  "counts": 56,
+  "positive_percent": 0.9821428571428571
+ },
+ {
+  "keywords": "2020-07-10",
+  "counts": 87,
+  "positive_percent": 0.9770114942528736
+ },
+ {
+  "keywords": "2020-07-11",
+  "counts": 79,
+  "positive_percent": 0.9620253164556962
+ },
+ {
+  "keywords": "2020-07-12",
+  "counts": 85,
+  "positive_percent": 0.9764705882352941
+ },
+ {
+  "keywords": "2020-07-13",
+  "counts": 65,
+  "positive_percent": 0.9538461538461539
+ },
+ {
+  "keywords": "2020-07-14",
+  "counts": 50,
+  "positive_percent": 0.94
+ },
+ {
+  "keywords": "2020-07-15",
+  "counts": 56,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-07-16",
+  "counts": 71,
+  "positive_percent": 0.971830985915493
+ },
+ {
+  "keywords": "2020-07-17",
+  "counts": 76,
+  "positive_percent": 0.9605263157894737
+ },
+ {
+  "keywords": "2020-07-18",
+  "counts": 78,
+  "positive_percent": 0.9487179487179487
+ },
+ {
+  "keywords": "2020-07-19",
+  "counts": 74,
+  "positive_percent": 0.9054054054054054
+ },
+ {
+  "keywords": "2020-07-20",
+  "counts": 69,
+  "positive_percent": 0.9710144927536232
+ },
+ {
+  "keywords": "2020-07-21",
+  "counts": 71,
+  "positive_percent": 0.9014084507042254
+ },
+ {
+  "keywords": "2020-07-22",
+  "counts": 74,
+  "positive_percent": 0.9459459459459459
+ },
+ {
+  "keywords": "2020-07-23",
+  "counts": 60,
+  "positive_percent": 0.9166666666666666
+ },
+ {
+  "keywords": "2020-07-24",
+  "counts": 63,
+  "positive_percent": 0.9682539682539683
+ },
+ {
+  "keywords": "2020-07-25",
+  "counts": 75,
+  "positive_percent": 0.9866666666666667
+ },
+ {
+  "keywords": "2020-07-26",
+  "counts": 69,
+  "positive_percent": 0.927536231884058
+ },
+ {
+  "keywords": "2020-07-27",
+  "counts": 70,
+  "positive_percent": 0.9714285714285714
+ },
+ {
+  "keywords": "2020-07-28",
+  "counts": 77,
+  "positive_percent": 0.961038961038961
+ },
+ {
+  "keywords": "2020-07-29",
+  "counts": 75,
+  "positive_percent": 0.9066666666666666
+ },
+ {
+  "keywords": "2020-07-30",
+  "counts": 61,
+  "positive_percent": 0.9344262295081968
+ },
+ {
+  "keywords": "2020-07-31",
+  "counts": 56,
+  "positive_percent": 0.9821428571428571
+ },
+ {
+  "keywords": "2020-08-01",
+  "counts": 58,
+  "positive_percent": 0.9137931034482759
+ },
+ {
+  "keywords": "2020-08-02",
+  "counts": 67,
+  "positive_percent": 0.9104477611940298
+ },
+ {
+  "keywords": "2020-08-03",
+  "counts": 58,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-08-04",
+  "counts": 53,
+  "positive_percent": 0.8867924528301887
+ },
+ {
+  "keywords": "2020-08-05",
+  "counts": 58,
+  "positive_percent": 0.9655172413793104
+ },
+ {
+  "keywords": "2020-08-06",
+  "counts": 53,
+  "positive_percent": 0.9622641509433962
+ },
+ {
+  "keywords": "2020-08-07",
+  "counts": 46,
+  "positive_percent": 0.8695652173913043
+ },
+ {
+  "keywords": "2020-08-08",
+  "counts": 48,
+  "positive_percent": 0.9166666666666666
+ },
+ {
+  "keywords": "2020-08-09",
+  "counts": 61,
+  "positive_percent": 0.9344262295081968
+ },
+ {
+  "keywords": "2020-08-10",
+  "counts": 38,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-08-11",
+  "counts": 31,
+  "positive_percent": 0.9354838709677419
+ },
+ {
+  "keywords": "2020-08-12",
+  "counts": 42,
+  "positive_percent": 0.9761904761904762
+ },
+ {
+  "keywords": "2020-08-13",
+  "counts": 51,
+  "positive_percent": 0.9411764705882353
+ },
+ {
+  "keywords": "2020-08-14",
+  "counts": 48,
+  "positive_percent": 0.8958333333333334
+ },
+ {
+  "keywords": "2020-08-15",
+  "counts": 50,
+  "positive_percent": 0.9
+ },
+ {
+  "keywords": "2020-08-16",
+  "counts": 121,
+  "positive_percent": 0.9421487603305785
+ },
+ {
+  "keywords": "2020-08-17",
+  "counts": 51,
+  "positive_percent": 0.9411764705882353
+ },
+ {
+  "keywords": "2020-08-18",
+  "counts": 52,
+  "positive_percent": 0.9807692307692307
+ },
+ {
+  "keywords": "2020-08-19",
+  "counts": 48,
+  "positive_percent": 0.9375
+ },
+ {
+  "keywords": "2020-08-20",
+  "counts": 36,
+  "positive_percent": 0.9722222222222222
+ },
+ {
+  "keywords": "2020-08-21",
+  "counts": 114,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2020-08-22",
+  "counts": 79,
+  "positive_percent": 0.9240506329113924
+ },
+ {
+  "keywords": "2020-08-23",
+  "counts": 83,
+  "positive_percent": 0.963855421686747
+ },
+ {
+  "keywords": "2020-08-24",
+  "counts": 42,
+  "positive_percent": 0.9761904761904762
+ },
+ {
+  "keywords": "2020-08-25",
+  "counts": 46,
+  "positive_percent": 0.9565217391304348
+ },
+ {
+  "keywords": "2020-08-26",
+  "counts": 63,
+  "positive_percent": 0.9206349206349206
+ },
+ {
+  "keywords": "2020-08-27",
+  "counts": 58,
+  "positive_percent": 0.9137931034482759
+ },
+ {
+  "keywords": "2020-08-28",
+  "counts": 51,
+  "positive_percent": 0.9607843137254902
+ },
+ {
+  "keywords": "2020-08-29",
+  "counts": 83,
+  "positive_percent": 0.9518072289156626
+ },
+ {
+  "keywords": "2020-08-30",
+  "counts": 83,
+  "positive_percent": 0.8674698795180723
+ },
+ {
+  "keywords": "2020-08-31",
+  "counts": 57,
+  "positive_percent": 0.9122807017543859
+ },
+ {
+  "keywords": "2020-09-01",
+  "counts": 42,
+  "positive_percent": 0.9285714285714286
+ },
+ {
+  "keywords": "2020-09-02",
+  "counts": 49,
+  "positive_percent": 0.9795918367346939
+ },
+ {
+  "keywords": "2020-09-03",
+  "counts": 41,
+  "positive_percent": 0.9512195121951219
+ },
+ {
+  "keywords": "2020-09-04",
+  "counts": 38,
+  "positive_percent": 0.9736842105263158
+ },
+ {
+  "keywords": "2020-09-05",
+  "counts": 61,
+  "positive_percent": 0.9836065573770492
+ },
+ {
+  "keywords": "2020-09-06",
+  "counts": 73,
+  "positive_percent": 0.9452054794520548
+ },
+ {
+  "keywords": "2020-09-07",
+  "counts": 52,
+  "positive_percent": 0.9423076923076923
+ },
+ {
+  "keywords": "2020-09-08",
+  "counts": 56,
+  "positive_percent": 0.9464285714285714
+ },
+ {
+  "keywords": "2020-09-09",
+  "counts": 46,
+  "positive_percent": 0.9782608695652174
+ },
+ {
+  "keywords": "2020-09-10",
+  "counts": 50,
+  "positive_percent": 0.88
+ },
+ {
+  "keywords": "2020-09-11",
+  "counts": 40,
+  "positive_percent": 0.925
+ },
+ {
+  "keywords": "2020-09-12",
+  "counts": 84,
+  "positive_percent": 0.9523809523809523
+ },
+ {
+  "keywords": "2020-09-13",
+  "counts": 100,
+  "positive_percent": 0.97
+ },
+ {
+  "keywords": "2020-09-14",
+  "counts": 53,
+  "positive_percent": 0.8867924528301887
+ },
+ {
+  "keywords": "2020-09-15",
+  "counts": 66,
+  "positive_percent": 0.9242424242424242
+ },
+ {
+  "keywords": "2020-09-16",
+  "counts": 69,
+  "positive_percent": 0.9420289855072463
+ },
+ {
+  "keywords": "2020-09-17",
+  "counts": 44,
+  "positive_percent": 0.9772727272727273
+ },
+ {
+  "keywords": "2020-09-18",
+  "counts": 48,
+  "positive_percent": 0.9583333333333334
+ },
+ {
+  "keywords": "2020-09-19",
+  "counts": 96,
+  "positive_percent": 0.9270833333333334
+ },
+ {
+  "keywords": "2020-09-20",
+  "counts": 76,
+  "positive_percent": 0.9078947368421053
+ },
+ {
+  "keywords": "2020-09-21",
+  "counts": 51,
+  "positive_percent": 0.9215686274509803
+ },
+ {
+  "keywords": "2020-09-22",
+  "counts": 43,
+  "positive_percent": 0.9302325581395349
+ },
+ {
+  "keywords": "2020-09-23",
+  "counts": 38,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2020-09-24",
+  "counts": 50,
+  "positive_percent": 0.92
+ },
+ {
+  "keywords": "2020-09-25",
+  "counts": 97,
+  "positive_percent": 0.9175257731958762
+ },
+ {
+  "keywords": "2020-09-26",
+  "counts": 56,
+  "positive_percent": 0.9642857142857143
+ },
+ {
+  "keywords": "2020-09-27",
+  "counts": 68,
+  "positive_percent": 0.9264705882352942
+ },
+ {
+  "keywords": "2020-09-28",
+  "counts": 38,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-09-29",
+  "counts": 36,
+  "positive_percent": 0.8611111111111112
+ },
+ {
+  "keywords": "2020-09-30",
+  "counts": 29,
+  "positive_percent": 0.896551724137931
+ },
+ {
+  "keywords": "2020-10-01",
+  "counts": 35,
+  "positive_percent": 0.9714285714285714
+ },
+ {
+  "keywords": "2020-10-02",
+  "counts": 78,
+  "positive_percent": 0.9615384615384616
+ },
+ {
+  "keywords": "2020-10-03",
+  "counts": 57,
+  "positive_percent": 0.9649122807017544
+ },
+ {
+  "keywords": "2020-10-04",
+  "counts": 48,
+  "positive_percent": 0.9166666666666666
+ },
+ {
+  "keywords": "2020-10-05",
+  "counts": 49,
+  "positive_percent": 0.9387755102040817
+ },
+ {
+  "keywords": "2020-10-06",
+  "counts": 41,
+  "positive_percent": 0.926829268292683
+ },
+ {
+  "keywords": "2020-10-07",
+  "counts": 43,
+  "positive_percent": 0.9302325581395349
+ },
+ {
+  "keywords": "2020-10-08",
+  "counts": 48,
+  "positive_percent": 0.9583333333333334
+ },
+ {
+  "keywords": "2020-10-09",
+  "counts": 82,
+  "positive_percent": 0.926829268292683
+ },
+ {
+  "keywords": "2020-10-10",
+  "counts": 63,
+  "positive_percent": 0.9523809523809523
+ },
+ {
+  "keywords": "2020-10-11",
+  "counts": 46,
+  "positive_percent": 0.9347826086956522
+ },
+ {
+  "keywords": "2020-10-12",
+  "counts": 37,
+  "positive_percent": 0.9459459459459459
+ },
+ {
+  "keywords": "2020-10-13",
+  "counts": 50,
+  "positive_percent": 0.96
+ },
+ {
+  "keywords": "2020-10-14",
+  "counts": 38,
+  "positive_percent": 0.9736842105263158
+ },
+ {
+  "keywords": "2020-10-15",
+  "counts": 48,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-10-16",
+  "counts": 60,
+  "positive_percent": 0.9333333333333333
+ },
+ {
+  "keywords": "2020-10-17",
+  "counts": 61,
+  "positive_percent": 0.9836065573770492
+ },
+ {
+  "keywords": "2020-10-18",
+  "counts": 50,
+  "positive_percent": 0.98
+ },
+ {
+  "keywords": "2020-10-19",
+  "counts": 44,
+  "positive_percent": 0.9318181818181818
+ },
+ {
+  "keywords": "2020-10-20",
+  "counts": 43,
+  "positive_percent": 0.9302325581395349
+ },
+ {
+  "keywords": "2020-10-21",
+  "counts": 45,
+  "positive_percent": 0.9555555555555556
+ },
+ {
+  "keywords": "2020-10-22",
+  "counts": 29,
+  "positive_percent": 0.9655172413793104
+ },
+ {
+  "keywords": "2020-10-23",
+  "counts": 68,
+  "positive_percent": 0.9264705882352942
+ },
+ {
+  "keywords": "2020-10-24",
+  "counts": 47,
+  "positive_percent": 0.9574468085106383
+ },
+ {
+  "keywords": "2020-10-25",
+  "counts": 48,
+  "positive_percent": 0.9375
+ },
+ {
+  "keywords": "2020-10-26",
+  "counts": 33,
+  "positive_percent": 0.9393939393939394
+ },
+ {
+  "keywords": "2020-10-27",
+  "counts": 26,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-10-28",
+  "counts": 38,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-10-29",
+  "counts": 42,
+  "positive_percent": 0.9523809523809523
+ },
+ {
+  "keywords": "2020-10-30",
+  "counts": 33,
+  "positive_percent": 0.9393939393939394
+ },
+ {
+  "keywords": "2020-10-31",
+  "counts": 41,
+  "positive_percent": 0.9512195121951219
+ },
+ {
+  "keywords": "2020-11-01",
+  "counts": 50,
+  "positive_percent": 0.96
+ },
+ {
+  "keywords": "2020-11-02",
+  "counts": 36,
+  "positive_percent": 0.9166666666666666
+ },
+ {
+  "keywords": "2020-11-03",
+  "counts": 22,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-11-04",
+  "counts": 41,
+  "positive_percent": 0.975609756097561
+ },
+ {
+  "keywords": "2020-11-05",
+  "counts": 41,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-11-06",
+  "counts": 26,
+  "positive_percent": 0.9230769230769231
+ },
+ {
+  "keywords": "2020-11-07",
+  "counts": 68,
+  "positive_percent": 0.9852941176470589
+ },
+ {
+  "keywords": "2020-11-08",
+  "counts": 57,
+  "positive_percent": 0.9649122807017544
+ },
+ {
+  "keywords": "2020-11-09",
+  "counts": 34,
+  "positive_percent": 0.9411764705882353
+ },
+ {
+  "keywords": "2020-11-10",
+  "counts": 21,
+  "positive_percent": 0.9047619047619048
+ },
+ {
+  "keywords": "2020-11-11",
+  "counts": 46,
+  "positive_percent": 0.9782608695652174
+ },
+ {
+  "keywords": "2020-11-12",
+  "counts": 35,
+  "positive_percent": 0.9714285714285714
+ },
+ {
+  "keywords": "2020-11-13",
+  "counts": 30,
+  "positive_percent": 0.9666666666666667
+ },
+ {
+  "keywords": "2020-11-14",
+  "counts": 30,
+  "positive_percent": 0.9666666666666667
+ },
+ {
+  "keywords": "2020-11-15",
+  "counts": 42,
+  "positive_percent": 0.9285714285714286
+ },
+ {
+  "keywords": "2020-11-16",
+  "counts": 35,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-11-17",
+  "counts": 27,
+  "positive_percent": 0.9629629629629629
+ },
+ {
+  "keywords": "2020-11-18",
+  "counts": 36,
+  "positive_percent": 0.9722222222222222
+ },
+ {
+  "keywords": "2020-11-19",
+  "counts": 20,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2020-11-20",
+  "counts": 21,
+  "positive_percent": 0.9523809523809523
+ },
+ {
+  "keywords": "2020-11-21",
+  "counts": 43,
+  "positive_percent": 0.8837209302325582
+ },
+ {
+  "keywords": "2020-11-22",
+  "counts": 40,
+  "positive_percent": 0.9
+ },
+ {
+  "keywords": "2020-11-23",
+  "counts": 31,
+  "positive_percent": 0.967741935483871
+ },
+ {
+  "keywords": "2020-11-24",
+  "counts": 33,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-11-25",
+  "counts": 22,
+  "positive_percent": 0.9545454545454546
+ },
+ {
+  "keywords": "2020-11-26",
+  "counts": 42,
+  "positive_percent": 0.9047619047619048
+ },
+ {
+  "keywords": "2020-11-27",
+  "counts": 39,
+  "positive_percent": 0.9230769230769231
+ },
+ {
+  "keywords": "2020-11-28",
+  "counts": 38,
+  "positive_percent": 0.9736842105263158
+ },
+ {
+  "keywords": "2020-11-29",
+  "counts": 41,
+  "positive_percent": 0.9024390243902439
+ },
+ {
+  "keywords": "2020-11-30",
+  "counts": 43,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-12-01",
+  "counts": 32,
+  "positive_percent": 0.9375
+ },
+ {
+  "keywords": "2020-12-02",
+  "counts": 30,
+  "positive_percent": 0.8666666666666667
+ },
+ {
+  "keywords": "2020-12-03",
+  "counts": 29,
+  "positive_percent": 0.896551724137931
+ },
+ {
+  "keywords": "2020-12-04",
+  "counts": 67,
+  "positive_percent": 0.8955223880597015
+ },
+ {
+  "keywords": "2020-12-05",
+  "counts": 48,
+  "positive_percent": 0.9375
+ },
+ {
+  "keywords": "2020-12-06",
+  "counts": 37,
+  "positive_percent": 0.918918918918919
+ },
+ {
+  "keywords": "2020-12-07",
+  "counts": 36,
+  "positive_percent": 0.9444444444444444
+ },
+ {
+  "keywords": "2020-12-08",
+  "counts": 34,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-12-09",
+  "counts": 25,
+  "positive_percent": 0.92
+ },
+ {
+  "keywords": "2020-12-10",
+  "counts": 26,
+  "positive_percent": 0.9615384615384616
+ },
+ {
+  "keywords": "2020-12-11",
+  "counts": 52,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-12-12",
+  "counts": 27,
+  "positive_percent": 0.9629629629629629
+ },
+ {
+  "keywords": "2020-12-13",
+  "counts": 35,
+  "positive_percent": 0.8857142857142857
+ },
+ {
+  "keywords": "2020-12-14",
+  "counts": 31,
+  "positive_percent": 0.967741935483871
+ },
+ {
+  "keywords": "2020-12-15",
+  "counts": 20,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2020-12-16",
+  "counts": 32,
+  "positive_percent": 0.96875
+ },
+ {
+  "keywords": "2020-12-17",
+  "counts": 22,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-12-18",
+  "counts": 50,
+  "positive_percent": 0.94
+ },
+ {
+  "keywords": "2020-12-19",
+  "counts": 30,
+  "positive_percent": 0.9666666666666667
+ },
+ {
+  "keywords": "2020-12-20",
+  "counts": 35,
+  "positive_percent": 0.9714285714285714
+ },
+ {
+  "keywords": "2020-12-21",
+  "counts": 17,
+  "positive_percent": 0.9411764705882353
+ },
+ {
+  "keywords": "2020-12-22",
+  "counts": 32,
+  "positive_percent": 0.96875
+ },
+ {
+  "keywords": "2020-12-23",
+  "counts": 20,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2020-12-24",
+  "counts": 19,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-12-25",
+  "counts": 19,
+  "positive_percent": 0.8947368421052632
+ },
+ {
+  "keywords": "2020-12-26",
+  "counts": 29,
+  "positive_percent": 0.9310344827586207
+ },
+ {
+  "keywords": "2020-12-27",
+  "counts": 26,
+  "positive_percent": 0.9615384615384616
+ },
+ {
+  "keywords": "2020-12-28",
+  "counts": 25,
+  "positive_percent": 0.92
+ },
+ {
+  "keywords": "2020-12-29",
+  "counts": 22,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2020-12-30",
+  "counts": 22,
+  "positive_percent": 0.9090909090909091
+ },
+ {
+  "keywords": "2020-12-31",
+  "counts": 25,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-01-01",
+  "counts": 38,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-01-02",
+  "counts": 30,
+  "positive_percent": 0.9333333333333333
+ },
+ {
+  "keywords": "2021-01-03",
+  "counts": 35,
+  "positive_percent": 0.9142857142857143
+ },
+ {
+  "keywords": "2021-01-04",
+  "counts": 31,
+  "positive_percent": 0.9032258064516129
+ },
+ {
+  "keywords": "2021-01-05",
+  "counts": 22,
+  "positive_percent": 0.9090909090909091
+ },
+ {
+  "keywords": "2021-01-06",
+  "counts": 29,
+  "positive_percent": 0.896551724137931
+ },
+ {
+  "keywords": "2021-01-07",
+  "counts": 16,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-01-08",
+  "counts": 52,
+  "positive_percent": 0.9807692307692307
+ },
+ {
+  "keywords": "2021-01-09",
+  "counts": 30,
+  "positive_percent": 0.9666666666666667
+ },
+ {
+  "keywords": "2021-01-10",
+  "counts": 38,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-01-11",
+  "counts": 25,
+  "positive_percent": 0.84
+ },
+ {
+  "keywords": "2021-01-12",
+  "counts": 25,
+  "positive_percent": 0.96
+ },
+ {
+  "keywords": "2021-01-13",
+  "counts": 22,
+  "positive_percent": 0.9545454545454546
+ },
+ {
+  "keywords": "2021-01-14",
+  "counts": 24,
+  "positive_percent": 0.9583333333333334
+ },
+ {
+  "keywords": "2021-01-15",
+  "counts": 38,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-01-16",
+  "counts": 45,
+  "positive_percent": 0.9333333333333333
+ },
+ {
+  "keywords": "2021-01-17",
+  "counts": 33,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-01-18",
+  "counts": 22,
+  "positive_percent": 0.8636363636363636
+ },
+ {
+  "keywords": "2021-01-19",
+  "counts": 17,
+  "positive_percent": 0.9411764705882353
+ },
+ {
+  "keywords": "2021-01-20",
+  "counts": 29,
+  "positive_percent": 0.9655172413793104
+ },
+ {
+  "keywords": "2021-01-21",
+  "counts": 23,
+  "positive_percent": 0.9565217391304348
+ },
+ {
+  "keywords": "2021-01-22",
+  "counts": 22,
+  "positive_percent": 0.9545454545454546
+ },
+ {
+  "keywords": "2021-01-23",
+  "counts": 17,
+  "positive_percent": 0.9411764705882353
+ },
+ {
+  "keywords": "2021-01-24",
+  "counts": 31,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-01-25",
+  "counts": 13,
+  "positive_percent": 0.9230769230769231
+ },
+ {
+  "keywords": "2021-01-26",
+  "counts": 21,
+  "positive_percent": 0.9047619047619048
+ },
+ {
+  "keywords": "2021-01-27",
+  "counts": 20,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-01-28",
+  "counts": 874,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-01-29",
+  "counts": 1218,
+  "positive_percent": 0.9507389162561576
+ },
+ {
+  "keywords": "2021-01-30",
+  "counts": 954,
+  "positive_percent": 0.9528301886792453
+ },
+ {
+  "keywords": "2021-01-31",
+  "counts": 629,
+  "positive_percent": 0.9475357710651828
+ },
+ {
+  "keywords": "2021-02-01",
+  "counts": 366,
+  "positive_percent": 0.9480874316939891
+ },
+ {
+  "keywords": "2021-02-02",
+  "counts": 279,
+  "positive_percent": 0.9605734767025089
+ },
+ {
+  "keywords": "2021-02-03",
+  "counts": 248,
+  "positive_percent": 0.9596774193548387
+ },
+ {
+  "keywords": "2021-02-04",
+  "counts": 242,
+  "positive_percent": 0.9669421487603306
+ },
+ {
+  "keywords": "2021-02-05",
+  "counts": 208,
+  "positive_percent": 0.9423076923076923
+ },
+ {
+  "keywords": "2021-02-06",
+  "counts": 231,
+  "positive_percent": 0.9437229437229437
+ },
+ {
+  "keywords": "2021-02-07",
+  "counts": 220,
+  "positive_percent": 0.9590909090909091
+ },
+ {
+  "keywords": "2021-02-08",
+  "counts": 149,
+  "positive_percent": 0.9664429530201343
+ },
+ {
+  "keywords": "2021-02-09",
+  "counts": 136,
+  "positive_percent": 0.9632352941176471
+ },
+ {
+  "keywords": "2021-02-10",
+  "counts": 86,
+  "positive_percent": 0.9651162790697675
+ },
+ {
+  "keywords": "2021-02-11",
+  "counts": 111,
+  "positive_percent": 0.963963963963964
+ },
+ {
+  "keywords": "2021-02-12",
+  "counts": 119,
+  "positive_percent": 0.9495798319327731
+ },
+ {
+  "keywords": "2021-02-13",
+  "counts": 114,
+  "positive_percent": 0.956140350877193
+ },
+ {
+  "keywords": "2021-02-14",
+  "counts": 112,
+  "positive_percent": 0.9196428571428571
+ },
+ {
+  "keywords": "2021-02-15",
+  "counts": 80,
+  "positive_percent": 0.9625
+ },
+ {
+  "keywords": "2021-02-16",
+  "counts": 73,
+  "positive_percent": 0.9452054794520548
+ },
+ {
+  "keywords": "2021-02-17",
+  "counts": 80,
+  "positive_percent": 0.9125
+ },
+ {
+  "keywords": "2021-02-18",
+  "counts": 61,
+  "positive_percent": 0.9344262295081968
+ },
+ {
+  "keywords": "2021-02-19",
+  "counts": 74,
+  "positive_percent": 0.918918918918919
+ },
+ {
+  "keywords": "2021-02-20",
+  "counts": 86,
+  "positive_percent": 0.9651162790697675
+ },
+ {
+  "keywords": "2021-02-21",
+  "counts": 92,
+  "positive_percent": 0.9565217391304348
+ },
+ {
+  "keywords": "2021-02-22",
+  "counts": 60,
+  "positive_percent": 0.9666666666666667
+ },
+ {
+  "keywords": "2021-02-23",
+  "counts": 59,
+  "positive_percent": 0.9322033898305084
+ },
+ {
+  "keywords": "2021-02-24",
+  "counts": 49,
+  "positive_percent": 0.9795918367346939
+ },
+ {
+  "keywords": "2021-02-25",
+  "counts": 50,
+  "positive_percent": 0.94
+ },
+ {
+  "keywords": "2021-02-26",
+  "counts": 79,
+  "positive_percent": 0.9620253164556962
+ },
+ {
+  "keywords": "2021-02-27",
+  "counts": 39,
+  "positive_percent": 0.9487179487179487
+ },
+ {
+  "keywords": "2021-02-28",
+  "counts": 66,
+  "positive_percent": 0.9393939393939394
+ },
+ {
+  "keywords": "2021-03-01",
+  "counts": 47,
+  "positive_percent": 0.9148936170212766
+ },
+ {
+  "keywords": "2021-03-02",
+  "counts": 57,
+  "positive_percent": 0.9122807017543859
+ },
+ {
+  "keywords": "2021-03-03",
+  "counts": 45,
+  "positive_percent": 0.9111111111111111
+ },
+ {
+  "keywords": "2021-03-04",
+  "counts": 40,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2021-03-05",
+  "counts": 34,
+  "positive_percent": 0.9411764705882353
+ },
+ {
+  "keywords": "2021-03-06",
+  "counts": 49,
+  "positive_percent": 0.9183673469387755
+ },
+ {
+  "keywords": "2021-03-07",
+  "counts": 53,
+  "positive_percent": 0.9433962264150944
+ },
+ {
+  "keywords": "2021-03-08",
+  "counts": 42,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-03-09",
+  "counts": 28,
+  "positive_percent": 0.9642857142857143
+ },
+ {
+  "keywords": "2021-03-10",
+  "counts": 32,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-03-11",
+  "counts": 50,
+  "positive_percent": 0.96
+ },
+ {
+  "keywords": "2021-03-12",
+  "counts": 37,
+  "positive_percent": 0.972972972972973
+ },
+ {
+  "keywords": "2021-03-13",
+  "counts": 53,
+  "positive_percent": 0.9622641509433962
+ },
+ {
+  "keywords": "2021-03-14",
+  "counts": 49,
+  "positive_percent": 0.9183673469387755
+ },
+ {
+  "keywords": "2021-03-15",
+  "counts": 41,
+  "positive_percent": 0.926829268292683
+ },
+ {
+  "keywords": "2021-03-16",
+  "counts": 31,
+  "positive_percent": 0.9354838709677419
+ },
+ {
+  "keywords": "2021-03-17",
+  "counts": 31,
+  "positive_percent": 0.9032258064516129
+ },
+ {
+  "keywords": "2021-03-18",
+  "counts": 20,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2021-03-19",
+  "counts": 29,
+  "positive_percent": 0.9655172413793104
+ },
+ {
+  "keywords": "2021-03-20",
+  "counts": 30,
+  "positive_percent": 0.9666666666666667
+ },
+ {
+  "keywords": "2021-03-21",
+  "counts": 35,
+  "positive_percent": 0.9714285714285714
+ },
+ {
+  "keywords": "2021-03-22",
+  "counts": 29,
+  "positive_percent": 0.896551724137931
+ },
+ {
+  "keywords": "2021-03-23",
+  "counts": 37,
+  "positive_percent": 0.9459459459459459
+ },
+ {
+  "keywords": "2021-03-24",
+  "counts": 23,
+  "positive_percent": 0.9565217391304348
+ },
+ {
+  "keywords": "2021-03-25",
+  "counts": 35,
+  "positive_percent": 0.9428571428571428
+ },
+ {
+  "keywords": "2021-03-26",
+  "counts": 48,
+  "positive_percent": 0.9166666666666666
+ },
+ {
+  "keywords": "2021-03-27",
+  "counts": 46,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-03-28",
+  "counts": 40,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2021-03-29",
+  "counts": 26,
+  "positive_percent": 0.9615384615384616
+ },
+ {
+  "keywords": "2021-03-30",
+  "counts": 28,
+  "positive_percent": 0.9642857142857143
+ },
+ {
+  "keywords": "2021-03-31",
+  "counts": 20,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2021-04-01",
+  "counts": 41,
+  "positive_percent": 0.926829268292683
+ },
+ {
+  "keywords": "2021-04-02",
+  "counts": 21,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-04-03",
+  "counts": 25,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-04-04",
+  "counts": 27,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-04-05",
+  "counts": 21,
+  "positive_percent": 0.9523809523809523
+ },
+ {
+  "keywords": "2021-04-06",
+  "counts": 25,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-04-07",
+  "counts": 30,
+  "positive_percent": 0.9666666666666667
+ },
+ {
+  "keywords": "2021-04-08",
+  "counts": 25,
+  "positive_percent": 0.92
+ },
+ {
+  "keywords": "2021-04-09",
+  "counts": 37,
+  "positive_percent": 0.972972972972973
+ },
+ {
+  "keywords": "2021-04-10",
+  "counts": 35,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-04-11",
+  "counts": 43,
+  "positive_percent": 0.9302325581395349
+ },
+ {
+  "keywords": "2021-04-12",
+  "counts": 28,
+  "positive_percent": 0.9642857142857143
+ },
+ {
+  "keywords": "2021-04-13",
+  "counts": 27,
+  "positive_percent": 0.9629629629629629
+ },
+ {
+  "keywords": "2021-04-14",
+  "counts": 25,
+  "positive_percent": 0.92
+ },
+ {
+  "keywords": "2021-04-15",
+  "counts": 27,
+  "positive_percent": 0.8888888888888888
+ },
+ {
+  "keywords": "2021-04-16",
+  "counts": 33,
+  "positive_percent": 0.9393939393939394
+ },
+ {
+  "keywords": "2021-04-17",
+  "counts": 26,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-04-18",
+  "counts": 25,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-04-19",
+  "counts": 23,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-04-20",
+  "counts": 21,
+  "positive_percent": 0.9523809523809523
+ },
+ {
+  "keywords": "2021-04-21",
+  "counts": 27,
+  "positive_percent": 0.9629629629629629
+ },
+ {
+  "keywords": "2021-04-22",
+  "counts": 34,
+  "positive_percent": 0.9705882352941176
+ },
+ {
+  "keywords": "2021-04-23",
+  "counts": 33,
+  "positive_percent": 0.9696969696969697
+ },
+ {
+  "keywords": "2021-04-24",
+  "counts": 34,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-04-25",
+  "counts": 32,
+  "positive_percent": 0.9375
+ },
+ {
+  "keywords": "2021-04-26",
+  "counts": 13,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-04-27",
+  "counts": 22,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-04-28",
+  "counts": 18,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-04-29",
+  "counts": 29,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-04-30",
+  "counts": 13,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-05-01",
+  "counts": 16,
+  "positive_percent": 0.9375
+ },
+ {
+  "keywords": "2021-05-02",
+  "counts": 27,
+  "positive_percent": 0.9259259259259259
+ },
+ {
+  "keywords": "2021-05-03",
+  "counts": 15,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-05-04",
+  "counts": 19,
+  "positive_percent": 0.8947368421052632
+ },
+ {
+  "keywords": "2021-05-05",
+  "counts": 21,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-05-06",
+  "counts": 21,
+  "positive_percent": 0.8571428571428571
+ },
+ {
+  "keywords": "2021-05-07",
+  "counts": 16,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-05-08",
+  "counts": 16,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-05-09",
+  "counts": 21,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-05-10",
+  "counts": 27,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-05-11",
+  "counts": 23,
+  "positive_percent": 0.9565217391304348
+ },
+ {
+  "keywords": "2021-05-12",
+  "counts": 17,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-05-13",
+  "counts": 24,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-05-14",
+  "counts": 25,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-05-15",
+  "counts": 15,
+  "positive_percent": 0.9333333333333333
+ },
+ {
+  "keywords": "2021-05-16",
+  "counts": 29,
+  "positive_percent": 0.896551724137931
+ },
+ {
+  "keywords": "2021-05-17",
+  "counts": 24,
+  "positive_percent": 0.9583333333333334
+ },
+ {
+  "keywords": "2021-05-18",
+  "counts": 21,
+  "positive_percent": 0.9523809523809523
+ },
+ {
+  "keywords": "2021-05-19",
+  "counts": 22,
+  "positive_percent": 0.9090909090909091
+ },
+ {
+  "keywords": "2021-05-20",
+  "counts": 29,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-05-21",
+  "counts": 22,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-05-22",
+  "counts": 30,
+  "positive_percent": 0.9333333333333333
+ },
+ {
+  "keywords": "2021-05-23",
+  "counts": 29,
+  "positive_percent": 0.9655172413793104
+ },
+ {
+  "keywords": "2021-05-24",
+  "counts": 38,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-05-25",
+  "counts": 35,
+  "positive_percent": 0.9714285714285714
+ },
+ {
+  "keywords": "2021-05-26",
+  "counts": 23,
+  "positive_percent": 0.9565217391304348
+ },
+ {
+  "keywords": "2021-05-27",
+  "counts": 38,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-05-28",
+  "counts": 38,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-05-29",
+  "counts": 28,
+  "positive_percent": 0.9285714285714286
+ },
+ {
+  "keywords": "2021-05-30",
+  "counts": 31,
+  "positive_percent": 0.967741935483871
+ },
+ {
+  "keywords": "2021-05-31",
+  "counts": 20,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-01",
+  "counts": 15,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-02",
+  "counts": 22,
+  "positive_percent": 0.9545454545454546
+ },
+ {
+  "keywords": "2021-06-03",
+  "counts": 28,
+  "positive_percent": 0.9642857142857143
+ },
+ {
+  "keywords": "2021-06-04",
+  "counts": 13,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-05",
+  "counts": 28,
+  "positive_percent": 0.8928571428571429
+ },
+ {
+  "keywords": "2021-06-06",
+  "counts": 25,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-07",
+  "counts": 19,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-06-08",
+  "counts": 20,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-09",
+  "counts": 18,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-10",
+  "counts": 27,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-11",
+  "counts": 18,
+  "positive_percent": 0.9444444444444444
+ },
+ {
+  "keywords": "2021-06-12",
+  "counts": 19,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-06-13",
+  "counts": 21,
+  "positive_percent": 0.9047619047619048
+ },
+ {
+  "keywords": "2021-06-14",
+  "counts": 18,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-15",
+  "counts": 18,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-16",
+  "counts": 14,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-17",
+  "counts": 27,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-18",
+  "counts": 21,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-19",
+  "counts": 31,
+  "positive_percent": 0.9354838709677419
+ },
+ {
+  "keywords": "2021-06-20",
+  "counts": 30,
+  "positive_percent": 0.9
+ },
+ {
+  "keywords": "2021-06-21",
+  "counts": 20,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2021-06-22",
+  "counts": 16,
+  "positive_percent": 0.8125
+ },
+ {
+  "keywords": "2021-06-23",
+  "counts": 16,
+  "positive_percent": 0.9375
+ },
+ {
+  "keywords": "2021-06-24",
+  "counts": 28,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-25",
+  "counts": 20,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2021-06-26",
+  "counts": 18,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-27",
+  "counts": 17,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-06-28",
+  "counts": 13,
+  "positive_percent": 0.9230769230769231
+ },
+ {
+  "keywords": "2021-06-29",
+  "counts": 17,
+  "positive_percent": 0.8823529411764706
+ },
+ {
+  "keywords": "2021-06-30",
+  "counts": 20,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-07-01",
+  "counts": 25,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-07-02",
+  "counts": 31,
+  "positive_percent": 0.9354838709677419
+ },
+ {
+  "keywords": "2021-07-03",
+  "counts": 15,
+  "positive_percent": 0.8666666666666667
+ },
+ {
+  "keywords": "2021-07-04",
+  "counts": 19,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-07-05",
+  "counts": 17,
+  "positive_percent": 0.8823529411764706
+ },
+ {
+  "keywords": "2021-07-06",
+  "counts": 13,
+  "positive_percent": 0.9230769230769231
+ },
+ {
+  "keywords": "2021-07-07",
+  "counts": 24,
+  "positive_percent": 0.9583333333333334
+ },
+ {
+  "keywords": "2021-07-08",
+  "counts": 19,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-07-09",
+  "counts": 19,
+  "positive_percent": 0.8421052631578947
+ },
+ {
+  "keywords": "2021-07-10",
+  "counts": 17,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-07-11",
+  "counts": 23,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-07-12",
+  "counts": 17,
+  "positive_percent": 0.9411764705882353
+ },
+ {
+  "keywords": "2021-07-13",
+  "counts": 14,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-07-14",
+  "counts": 16,
+  "positive_percent": 0.9375
+ },
+ {
+  "keywords": "2021-07-15",
+  "counts": 29,
+  "positive_percent": 0.9655172413793104
+ },
+ {
+  "keywords": "2021-07-16",
+  "counts": 23,
+  "positive_percent": 0.9565217391304348
+ },
+ {
+  "keywords": "2021-07-17",
+  "counts": 30,
+  "positive_percent": 0.9333333333333333
+ },
+ {
+  "keywords": "2021-07-18",
+  "counts": 21,
+  "positive_percent": 0.9047619047619048
+ },
+ {
+  "keywords": "2021-07-19",
+  "counts": 24,
+  "positive_percent": 0.9583333333333334
+ },
+ {
+  "keywords": "2021-07-20",
+  "counts": 15,
+  "positive_percent": 0.9333333333333333
+ },
+ {
+  "keywords": "2021-07-21",
+  "counts": 17,
+  "positive_percent": 0.9411764705882353
+ },
+ {
+  "keywords": "2021-07-22",
+  "counts": 17,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-07-23",
+  "counts": 14,
+  "positive_percent": 0.9285714285714286
+ },
+ {
+  "keywords": "2021-07-24",
+  "counts": 20,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-07-25",
+  "counts": 19,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-07-26",
+  "counts": 18,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-07-27",
+  "counts": 19,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-07-28",
+  "counts": 25,
+  "positive_percent": 0.96
+ },
+ {
+  "keywords": "2021-07-29",
+  "counts": 25,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-07-30",
+  "counts": 25,
+  "positive_percent": 0.96
+ },
+ {
+  "keywords": "2021-07-31",
+  "counts": 12,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-08-01",
+  "counts": 29,
+  "positive_percent": 0.9310344827586207
+ },
+ {
+  "keywords": "2021-08-02",
+  "counts": 19,
+  "positive_percent": 0.8947368421052632
+ },
+ {
+  "keywords": "2021-08-03",
+  "counts": 15,
+  "positive_percent": 0.9333333333333333
+ },
+ {
+  "keywords": "2021-08-04",
+  "counts": 18,
+  "positive_percent": 0.9444444444444444
+ },
+ {
+  "keywords": "2021-08-05",
+  "counts": 17,
+  "positive_percent": 0.8823529411764706
+ },
+ {
+  "keywords": "2021-08-06",
+  "counts": 18,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-08-07",
+  "counts": 15,
+  "positive_percent": 0.9333333333333333
+ },
+ {
+  "keywords": "2021-08-08",
+  "counts": 17,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-08-09",
+  "counts": 14,
+  "positive_percent": 0.9285714285714286
+ },
+ {
+  "keywords": "2021-08-10",
+  "counts": 16,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-08-11",
+  "counts": 14,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-08-12",
+  "counts": 26,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-08-13",
+  "counts": 24,
+  "positive_percent": 0.9166666666666666
+ },
+ {
+  "keywords": "2021-08-14",
+  "counts": 20,
+  "positive_percent": 0.9
+ },
+ {
+  "keywords": "2021-08-15",
+  "counts": 21,
+  "positive_percent": 0.9047619047619048
+ },
+ {
+  "keywords": "2021-08-16",
+  "counts": 27,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-08-17",
+  "counts": 21,
+  "positive_percent": 0.9523809523809523
+ },
+ {
+  "keywords": "2021-08-18",
+  "counts": 20,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2021-08-19",
+  "counts": 16,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-08-20",
+  "counts": 34,
+  "positive_percent": 0.9705882352941176
+ },
+ {
+  "keywords": "2021-08-21",
+  "counts": 36,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-08-22",
+  "counts": 40,
+  "positive_percent": 0.975
+ },
+ {
+  "keywords": "2021-08-23",
+  "counts": 19,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-08-24",
+  "counts": 27,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-08-25",
+  "counts": 25,
+  "positive_percent": 0.88
+ },
+ {
+  "keywords": "2021-08-26",
+  "counts": 33,
+  "positive_percent": 0.9393939393939394
+ },
+ {
+  "keywords": "2021-08-27",
+  "counts": 21,
+  "positive_percent": 0.9523809523809523
+ },
+ {
+  "keywords": "2021-08-28",
+  "counts": 21,
+  "positive_percent": 0.9523809523809523
+ },
+ {
+  "keywords": "2021-08-29",
+  "counts": 21,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-08-30",
+  "counts": 12,
+  "positive_percent": 0.9166666666666666
+ },
+ {
+  "keywords": "2021-08-31",
+  "counts": 17,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-09-01",
+  "counts": 16,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-09-02",
+  "counts": 17,
+  "positive_percent": 0.8823529411764706
+ },
+ {
+  "keywords": "2021-09-03",
+  "counts": 28,
+  "positive_percent": 0.9285714285714286
+ },
+ {
+  "keywords": "2021-09-04",
+  "counts": 26,
+  "positive_percent": 0.8461538461538461
+ },
+ {
+  "keywords": "2021-09-05",
+  "counts": 26,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-09-06",
+  "counts": 28,
+  "positive_percent": 0.9642857142857143
+ },
+ {
+  "keywords": "2021-09-07",
+  "counts": 15,
+  "positive_percent": 0.9333333333333333
+ },
+ {
+  "keywords": "2021-09-08",
+  "counts": 16,
+  "positive_percent": 0.875
+ },
+ {
+  "keywords": "2021-09-09",
+  "counts": 21,
+  "positive_percent": 0.8095238095238095
+ },
+ {
+  "keywords": "2021-09-10",
+  "counts": 31,
+  "positive_percent": 0.967741935483871
+ },
+ {
+  "keywords": "2021-09-11",
+  "counts": 26,
+  "positive_percent": 0.9615384615384616
+ },
+ {
+  "keywords": "2021-09-12",
+  "counts": 35,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-09-13",
+  "counts": 19,
+  "positive_percent": 0.8947368421052632
+ },
+ {
+  "keywords": "2021-09-14",
+  "counts": 17,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-09-15",
+  "counts": 20,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2021-09-16",
+  "counts": 32,
+  "positive_percent": 0.9375
+ },
+ {
+  "keywords": "2021-09-17",
+  "counts": 26,
+  "positive_percent": 0.9615384615384616
+ },
+ {
+  "keywords": "2021-09-18",
+  "counts": 26,
+  "positive_percent": 0.9230769230769231
+ },
+ {
+  "keywords": "2021-09-19",
+  "counts": 22,
+  "positive_percent": 0.9090909090909091
+ },
+ {
+  "keywords": "2021-09-20",
+  "counts": 16,
+  "positive_percent": 0.8125
+ },
+ {
+  "keywords": "2021-09-21",
+  "counts": 19,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-09-22",
+  "counts": 20,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-09-23",
+  "counts": 17,
+  "positive_percent": 0.8823529411764706
+ },
+ {
+  "keywords": "2021-09-24",
+  "counts": 19,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-09-25",
+  "counts": 17,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-09-26",
+  "counts": 23,
+  "positive_percent": 0.9130434782608695
+ },
+ {
+  "keywords": "2021-09-27",
+  "counts": 23,
+  "positive_percent": 0.9565217391304348
+ },
+ {
+  "keywords": "2021-09-28",
+  "counts": 16,
+  "positive_percent": 0.9375
+ },
+ {
+  "keywords": "2021-09-29",
+  "counts": 22,
+  "positive_percent": 0.9545454545454546
+ },
+ {
+  "keywords": "2021-09-30",
+  "counts": 27,
+  "positive_percent": 0.9629629629629629
+ },
+ {
+  "keywords": "2021-10-01",
+  "counts": 29,
+  "positive_percent": 0.8275862068965517
+ },
+ {
+  "keywords": "2021-10-02",
+  "counts": 26,
+  "positive_percent": 0.9615384615384616
+ },
+ {
+  "keywords": "2021-10-03",
+  "counts": 32,
+  "positive_percent": 0.96875
+ },
+ {
+  "keywords": "2021-10-04",
+  "counts": 22,
+  "positive_percent": 0.9090909090909091
+ },
+ {
+  "keywords": "2021-10-05",
+  "counts": 15,
+  "positive_percent": 0.8
+ },
+ {
+  "keywords": "2021-10-06",
+  "counts": 12,
+  "positive_percent": 0.8333333333333334
+ },
+ {
+  "keywords": "2021-10-07",
+  "counts": 23,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-10-08",
+  "counts": 31,
+  "positive_percent": 0.9354838709677419
+ },
+ {
+  "keywords": "2021-10-09",
+  "counts": 19,
+  "positive_percent": 0.8421052631578947
+ },
+ {
+  "keywords": "2021-10-10",
+  "counts": 27,
+  "positive_percent": 0.9629629629629629
+ },
+ {
+  "keywords": "2021-10-11",
+  "counts": 25,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-10-12",
+  "counts": 23,
+  "positive_percent": 0.9130434782608695
+ },
+ {
+  "keywords": "2021-10-13",
+  "counts": 14,
+  "positive_percent": 0.9285714285714286
+ },
+ {
+  "keywords": "2021-10-14",
+  "counts": 20,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-10-15",
+  "counts": 25,
+  "positive_percent": 0.96
+ },
+ {
+  "keywords": "2021-10-16",
+  "counts": 29,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-10-17",
+  "counts": 23,
+  "positive_percent": 0.9565217391304348
+ },
+ {
+  "keywords": "2021-10-18",
+  "counts": 17,
+  "positive_percent": 0.8823529411764706
+ },
+ {
+  "keywords": "2021-10-19",
+  "counts": 18,
+  "positive_percent": 0.8888888888888888
+ },
+ {
+  "keywords": "2021-10-20",
+  "counts": 18,
+  "positive_percent": 0.8888888888888888
+ },
+ {
+  "keywords": "2021-10-21",
+  "counts": 18,
+  "positive_percent": 0.9444444444444444
+ },
+ {
+  "keywords": "2021-10-22",
+  "counts": 16,
+  "positive_percent": 0.875
+ },
+ {
+  "keywords": "2021-10-23",
+  "counts": 26,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-10-24",
+  "counts": 19,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-10-25",
+  "counts": 20,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2021-10-26",
+  "counts": 18,
+  "positive_percent": 0.9444444444444444
+ },
+ {
+  "keywords": "2021-10-27",
+  "counts": 21,
+  "positive_percent": 0.9523809523809523
+ },
+ {
+  "keywords": "2021-10-28",
+  "counts": 13,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-10-29",
+  "counts": 17,
+  "positive_percent": 0.8823529411764706
+ },
+ {
+  "keywords": "2021-10-30",
+  "counts": 32,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-10-31",
+  "counts": 18,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-11-01",
+  "counts": 25,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-11-02",
+  "counts": 20,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2021-11-03",
+  "counts": 19,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-11-04",
+  "counts": 19,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-11-05",
+  "counts": 31,
+  "positive_percent": 0.8709677419354839
+ },
+ {
+  "keywords": "2021-11-06",
+  "counts": 24,
+  "positive_percent": 0.9583333333333334
+ },
+ {
+  "keywords": "2021-11-07",
+  "counts": 27,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-11-08",
+  "counts": 16,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-11-09",
+  "counts": 25,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-11-10",
+  "counts": 17,
+  "positive_percent": 0.8823529411764706
+ },
+ {
+  "keywords": "2021-11-11",
+  "counts": 35,
+  "positive_percent": 0.9428571428571428
+ },
+ {
+  "keywords": "2021-11-12",
+  "counts": 37,
+  "positive_percent": 0.972972972972973
+ },
+ {
+  "keywords": "2021-11-13",
+  "counts": 35,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-11-14",
+  "counts": 32,
+  "positive_percent": 0.9375
+ },
+ {
+  "keywords": "2021-11-15",
+  "counts": 27,
+  "positive_percent": 0.9629629629629629
+ },
+ {
+  "keywords": "2021-11-16",
+  "counts": 26,
+  "positive_percent": 0.8846153846153846
+ },
+ {
+  "keywords": "2021-11-17",
+  "counts": 21,
+  "positive_percent": 0.9523809523809523
+ },
+ {
+  "keywords": "2021-11-18",
+  "counts": 25,
+  "positive_percent": 0.96
+ },
+ {
+  "keywords": "2021-11-19",
+  "counts": 24,
+  "positive_percent": 0.9583333333333334
+ },
+ {
+  "keywords": "2021-11-20",
+  "counts": 28,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-11-21",
+  "counts": 26,
+  "positive_percent": 0.8461538461538461
+ },
+ {
+  "keywords": "2021-11-22",
+  "counts": 23,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-11-23",
+  "counts": 23,
+  "positive_percent": 0.9130434782608695
+ },
+ {
+  "keywords": "2021-11-24",
+  "counts": 11,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-11-25",
+  "counts": 13,
+  "positive_percent": 0.9230769230769231
+ },
+ {
+  "keywords": "2021-11-26",
+  "counts": 28,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-11-27",
+  "counts": 27,
+  "positive_percent": 0.8148148148148148
+ },
+ {
+  "keywords": "2021-11-28",
+  "counts": 20,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-11-29",
+  "counts": 18,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-11-30",
+  "counts": 23,
+  "positive_percent": 0.9130434782608695
+ },
+ {
+  "keywords": "2021-12-01",
+  "counts": 22,
+  "positive_percent": 0.9090909090909091
+ },
+ {
+  "keywords": "2021-12-02",
+  "counts": 11,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-12-03",
+  "counts": 15,
+  "positive_percent": 0.8
+ },
+ {
+  "keywords": "2021-12-04",
+  "counts": 46,
+  "positive_percent": 0.9782608695652174
+ },
+ {
+  "keywords": "2021-12-05",
+  "counts": 36,
+  "positive_percent": 0.9722222222222222
+ },
+ {
+  "keywords": "2021-12-06",
+  "counts": 20,
+  "positive_percent": 0.9
+ },
+ {
+  "keywords": "2021-12-07",
+  "counts": 14,
+  "positive_percent": 0.9285714285714286
+ },
+ {
+  "keywords": "2021-12-08",
+  "counts": 28,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-12-09",
+  "counts": 21,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-12-10",
+  "counts": 17,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-12-11",
+  "counts": 16,
+  "positive_percent": 0.9375
+ },
+ {
+  "keywords": "2021-12-12",
+  "counts": 22,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-12-13",
+  "counts": 20,
+  "positive_percent": 0.95
+ },
+ {
+  "keywords": "2021-12-14",
+  "counts": 19,
+  "positive_percent": 0.9473684210526315
+ },
+ {
+  "keywords": "2021-12-15",
+  "counts": 20,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-12-16",
+  "counts": 11,
+  "positive_percent": 0.9090909090909091
+ },
+ {
+  "keywords": "2021-12-17",
+  "counts": 21,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-12-18",
+  "counts": 41,
+  "positive_percent": 0.975609756097561
+ },
+ {
+  "keywords": "2021-12-19",
+  "counts": 35,
+  "positive_percent": 0.9428571428571428
+ },
+ {
+  "keywords": "2021-12-20",
+  "counts": 18,
+  "positive_percent": 0.9444444444444444
+ },
+ {
+  "keywords": "2021-12-21",
+  "counts": 25,
+  "positive_percent": 0.92
+ },
+ {
+  "keywords": "2021-12-22",
+  "counts": 21,
+  "positive_percent": 0.9047619047619048
+ },
+ {
+  "keywords": "2021-12-23",
+  "counts": 19,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-12-24",
+  "counts": 22,
+  "positive_percent": 0.9545454545454546
+ },
+ {
+  "keywords": "2021-12-25",
+  "counts": 13,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-12-26",
+  "counts": 21,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-12-27",
+  "counts": 36,
+  "positive_percent": 0.9444444444444444
+ },
+ {
+  "keywords": "2021-12-28",
+  "counts": 21,
+  "positive_percent": 0.9047619047619048
+ },
+ {
+  "keywords": "2021-12-29",
+  "counts": 28,
+  "positive_percent": 0.9642857142857143
+ },
+ {
+  "keywords": "2021-12-30",
+  "counts": 20,
+  "positive_percent": 1.0
+ },
+ {
+  "keywords": "2021-12-31",
+  "counts": 22,
+  "positive_percent": 0.9545454545454546
+ }
+]
