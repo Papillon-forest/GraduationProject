@@ -111,9 +111,9 @@ def get_retention(file):
 
 
 # pprint(dates_1)
-def write_retention(file):
+def write_retention(file,game_name):
     dates_dict=get_retention(file)
-    filename = "datasets/Tetris/All_Tetris_retention.csv"
+    filename = f"datasets/{game_name}/All_{game_name}_retention.csv"
     with open(filename, 'a') as f:
         writer = csv.writer(f)
         writer.writerows(dates_dict['1'])
@@ -165,5 +165,22 @@ def write_retention(file):
 #         plt.show()
 
 
-write_retention("datasets/Tetris/2020_Tetris_retention.csv")
-write_retention("datasets/Tetris/2021_Tetris_retention.csv")
+# write_retention("datasets/2020_Among us_retention.csv","Among us")
+# write_retention("datasets/2021_Among us_retention.csv","Among us")
+
+# write_retention("datasets/Fishdom/2020_Fishdom_retention.csv", "Fishdom")
+# write_retention("datasets/Fishdom/2021_Fishdom_retention.csv", "Fishdom")
+#
+# write_retention("datasets/Project Makeover/2020_Project Makeover_retention.csv", "Project Makeover")
+# write_retention("datasets/Project Makeover/2021_Project Makeover_retention.csv", "Project Makeover")
+#
+# write_retention("datasets/Woodoku/2020_Woodoku_retention.csv", "Woodoku")
+# write_retention("datasets/Woodoku/2021_Woodoku_retention.csv", "Woodoku")
+#
+# write_retention("datasets/Wordscapes/2020_Wordscapes_retention.csv", "Wordscapes")
+# write_retention("datasets/Wordscapes/2021_Wordscapes_retention.csv", "Wordscapes")
+#
+# write_retention("datasets/Bubble Cash/2020_Bubble Cash_retention.csv","Bubble Cash")
+# write_retention("datasets/Bubble Cash/2021_Bubble Cash_retention.csv","Bubble Cash")
+write_retention("datasets/Homescapes/2020_Homescapes_retention.csv","Homescapes")
+write_retention("datasets/Homescapes/2021_Homescapes_retention.csv","Homescapes")

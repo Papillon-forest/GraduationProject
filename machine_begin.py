@@ -25,6 +25,7 @@ def write_machine_data_target(game_name):
     counts_3 = []
     counts_2 = []
     counts_1 = []
+    last_retention = []
     counts_5_per = []
     counts_4_per = []
     counts_3_per = []
@@ -38,7 +39,8 @@ def write_machine_data_target(game_name):
     dela = datetime.timedelta(days=1)
     read = csv.reader(open(f'datasets/{game_name}/All_{game_name}_retention.csv', 'r', encoding="utf-8"))
     # data
-    read_1 = json.load(open(f'datasets/{game_name}/Reviews_{game_name}_all_rating_percent_average.json', 'r', encoding="utf-8"))
+    read_1 = json.load(
+        open(f'datasets/{game_name}/Reviews_{game_name}_all_rating_percent_average.json', 'r', encoding="utf-8"))
     for row in read:
         data_keys.append(row)
     for i in range(len(read_1)):
@@ -52,6 +54,10 @@ def write_machine_data_target(game_name):
                 else:
                     key_days.append(date_key.day)
                 keywords.append(read_1[i]['keywords'])
+                if date_key.day == 1:
+                    last_retention.append(1.0)
+                else:
+                    last_retention.append(float(data_keys[j - 1][3].replace('%', '')) / 100)
                 # counts_5.append(read_1[i]['counts_5'])
                 # counts_4.append(read_1[i]['counts_4'])
                 # counts_3.append(read_1[i]['counts_3'])
@@ -64,7 +70,8 @@ def write_machine_data_target(game_name):
                 counts_1_per.append(read_1[i]['rating_1_percent'])
                 rating_average.append(read_1[i]['rating_average'])
 
-    read_2 = json.load(open(f'datasets/{game_name}/Reviews_{game_name}_all_sentiment_percent.json', 'r', encoding="utf-8"))
+    read_2 = json.load(
+        open(f'datasets/{game_name}/Reviews_{game_name}_all_sentiment_percent.json', 'r', encoding="utf-8"))
     for i in range(len(read_2)):
         for j in range(len(data_keys)):
             if read_2[i]['keywords'] == data_keys[j][0]:
@@ -95,6 +102,7 @@ def write_machine_data_target(game_name):
         # 'counts_2': counts_2,
         # 'counts_1': counts_1,
         'key_days': key_days,
+        'last_retention':last_retention,
         'rating_5_percent': counts_5_per,
         'rating_4_percent': counts_4_per,
         'rating_3_percent': counts_3_per,
@@ -110,6 +118,7 @@ def write_machine_data_target(game_name):
         f.write(data)
     print(len(dict_machine['keywords']))
     print('key_days', len(dict_machine['key_days']))
+    print('last_retention', len(dict_machine['last_retention']))
     print("rating_5_percent", len(dict_machine['rating_5_percent']))
     print("rating_4_percent", len(dict_machine['rating_4_percent']))
     print("rating_3_percent", len(dict_machine['rating_3_percent']))
@@ -150,6 +159,7 @@ def get_machine_data(game_name):
         # temp.append(counts_2[i])
         # temp.append(counts_1[i])
         temp.append(dict_machine['key_days'][i])
+        temp.append(dict_machine['last_retention'][i])
         temp.append(dict_machine['rating_5_percent'][i])
         temp.append(dict_machine['rating_4_percent'][i])
         temp.append(dict_machine['rating_3_percent'][i])
@@ -165,7 +175,7 @@ def get_machine_data(game_name):
 
 
 def machine_learning_ad_curve():
-    x_train_temp = np.array(x).reshape(-1, 8)
+    x_train_temp = np.array(x).reshape(-1, 9)
     y_train_temp = np.array(y).reshape(-1, 1)
     # pprint(len(x_train))
 
@@ -180,7 +190,7 @@ def machine_learning_ad_curve():
     dt_regressor.fit(x_train, y_train)
     ad_regressor = AdaBoostRegressor(DecisionTreeRegressor(), n_estimators=800, random_state=7)
 
-    parameter_grid = np.array([200,300,400,500,600,700,800,900,1000])
+    parameter_grid = np.array([200, 300, 400, 500, 600, 700, 800, 900, 1000])
     train_sizes, train_scores, validation_scores = learning_curve(ad_regressor, x_train, y_train,
                                                                   train_sizes=parameter_grid, cv=5)
     pprint(train_scores)
@@ -194,13 +204,13 @@ def machine_learning_ad_curve():
 
 
 def machine_learning_ad_gs():
-    x_train_temp = np.array(x).reshape(-1, 8)
+    x_train_temp = np.array(x).reshape(-1, 9)
     y_train_temp = np.array(y).reshape(-1, 1)
     # pprint(len(x_train))
 
     x_train_temp, y_train_temp = shuffle(x_train_temp, y_train_temp, random_state=7)
 
-    num_training = int(0.98 * 800)
+    num_training = int(0.98 * 700)
     x_train, y_train = x_train_temp[:num_training], y_train_temp[:num_training]
     x_test, y_test = x_train_temp[num_training:], y_train_temp[num_training:]
     pprint(num_training)
@@ -218,21 +228,21 @@ def machine_learning_ad_gs():
 
 
 def machine_learn_ada_decisiontree():
-    x_train_temp = np.array(x).reshape(-1, 8)
+    x_train_temp = np.array(x).reshape(-1, 9)
     y_train_temp = np.array(y).reshape(-1, 1)
     # pprint(len(x_train))
 
     x_train_temp, y_train_temp = shuffle(x_train_temp, y_train_temp, random_state=7)
 
-    num_training = int(0.98 * 800)
+    num_training = int(0.98 * 700)
     x_train, y_train = x_train_temp[:num_training], y_train_temp[:num_training]
     x_test, y_test = x_train_temp[num_training:], y_train_temp[num_training:]
     pprint(num_training)
-    dt_regressor = DecisionTreeRegressor(max_depth=18, criterion='mse', min_samples_leaf=17, splitter='random')
+    dt_regressor = DecisionTreeRegressor(max_depth=11, criterion='mae', min_samples_leaf=11, splitter='best')
     dt_regressor.fit(x_train, y_train)
 
     ad_regressor = AdaBoostRegressor(
-        DecisionTreeRegressor(max_depth=18, criterion='mse', min_samples_leaf=17, splitter='random'), n_estimators=800,
+        DecisionTreeRegressor(max_depth=11, criterion='mae', min_samples_leaf=11, splitter='best'), n_estimators=800,
         random_state=7)
     ad_regressor.fit(x_train, y_train)
     y_pred_ab = ad_regressor.predict(x_test)
@@ -328,86 +338,89 @@ def machine_learn_ada_decisiontree():
 #
 
 
-def machine_learning_rd_curve():
-    x_train_temp = np.array(x).reshape(-1, 8)
-    y_train_temp = np.array(y).reshape(-1, 1)
-    # pprint(len(x_train))
+# def machine_learning_rd_curve():
+#     x_train_temp = np.array(x).reshape(-1, 8)
+#     y_train_temp = np.array(y).reshape(-1, 1)
+#     # pprint(len(x_train))
+#
+#     x_train_temp, y_train_temp = shuffle(x_train_temp, y_train_temp, random_state=7)
+#
+#     num_training = int(0.98 * len(x_train_temp))
+#     x_train, y_train = x_train_temp[:num_training], y_train_temp[:num_training]
+#     x_test, y_test = x_train_temp[num_training:], y_train_temp[num_training:]
+#     pprint(num_training)
+#
+#     regr_rf = MultiOutputRegressor(RandomForestRegressor())
+#     regr_rf.fit(x_train, y_train)
+#
+#     parameter_grid = np.array([200, 300, 400, 500, 600, 700, 800, 900, 1000])
+#     train_sizes, train_scores, validation_scores = learning_curve(regr_rf, x_train, y_train,
+#                                                                   train_sizes=parameter_grid, cv=5)
+#     pprint(train_scores)
+#     pprint(validation_scores)
+#     plt.figure()
+#     plt.plot(parameter_grid, 100 * np.average(train_scores, axis=1), color='black')
+#     plt.title('Learning curve')
+#     plt.xlabel('Number of training samples')
+#     plt.ylabel('Accuracy')
+#     plt.show()
+#
+#
+# def machine_learning_rd_gs():
+#     x_train_temp = np.array(x).reshape(-1, 8)
+#     y_train_temp = np.array(y).reshape(-1, 1)
+#     # pprint(len(x_train))
+#
+#     x_train_temp, y_train_temp = shuffle(x_train_temp, y_train_temp, random_state=7)
+#
+#     num_training = int(0.98 * 800)
+#     x_train, y_train = x_train_temp[:num_training], y_train_temp[:num_training]
+#     x_test, y_test = x_train_temp[num_training:], y_train_temp[num_training:]
+#     pprint(num_training)
+#
+#     paras = {
+#         "n_estimators": [50, 80, 100, 120, 150],
+#         "max_depth": np.arange(1, 30),
+#     }
+#     DT = RandomForestRegressor()
+#     GS = GridSearchCV(DT, param_grid=paras, cv=8).fit(x_train, y_train)
+#     pprint(GS.best_params_)
+#     pprint(GS.best_score_)
+#
+#
+# def machine_learning_mul_randomforest():
+#     x_train_temp = np.array(x).reshape(-1, 8)
+#     y_train_temp = np.array(y).reshape(-1, 1)
+#
+#     x_train_temp, y_train_temp = shuffle(x_train_temp, y_train_temp, random_state=7)
+#     num_training = int(0.98 * 800)
+#     x_train, y_train = x_train_temp[:num_training], y_train_temp[:num_training]
+#     x_test, y_test = x_train_temp[num_training:], y_train_temp[num_training:]
+#     pprint(num_training)
+#
+#     # 定义模型
+#     regr_rf = MultiOutputRegressor(RandomForestRegressor(n_estimators=150, max_depth=4,
+#                                                          random_state=2))
+#     # 集合模型
+#     regr_rf.fit(x_train, y_train)
+#     # 利用预测
+#     y_pred_rf = regr_rf.predict(x_test)
+#     a = cross_val_score(regr_rf, x_train, y_train, scoring='explained_variance', cv=5)
+#     b = cross_val_score(regr_rf, x_train, y_train, scoring='neg_mean_squared_error', cv=5)
+#     c = cross_val_score(regr_rf, x_train, y_train, scoring='r2', cv=5)
+#     pprint(f"Explained variance:{a}")
+#     pprint(f"Mean squared error:{b}")
+#     pprint(f"R2 score:{c}")
+#     pprint(y_test)
+#     pprint(y_pred_rf)
+#     print("mul randomforest:")
+#     print("Mean absolute error =", round(sm.mean_absolute_error(y_test, y_pred_rf), 2))
+#     print("Mean squared error =", round(sm.mean_squared_error(y_test, y_pred_rf), 2))
+#     print("Median absolute error =", round(sm.median_absolute_error(y_test, y_pred_rf), 2))
+#     print("Explained variance score =", round(sm.explained_variance_score(y_test, y_pred_rf), 2))
+#     print("R2 score =", round(sm.r2_score(y_test, y_pred_rf), 2))
 
-    x_train_temp, y_train_temp = shuffle(x_train_temp, y_train_temp, random_state=7)
 
-    num_training = int(0.98 * len(x_train_temp))
-    x_train, y_train = x_train_temp[:num_training], y_train_temp[:num_training]
-    x_test, y_test = x_train_temp[num_training:], y_train_temp[num_training:]
-    pprint(num_training)
-
-    regr_rf = MultiOutputRegressor(RandomForestRegressor())
-    regr_rf.fit(x_train, y_train)
-
-    parameter_grid = np.array([200,300,400,500,600,700,800,900,1000])
-    train_sizes, train_scores, validation_scores = learning_curve(regr_rf, x_train, y_train,
-                                                                  train_sizes=parameter_grid, cv=5)
-    pprint(train_scores)
-    pprint(validation_scores)
-    plt.figure()
-    plt.plot(parameter_grid, 100 * np.average(train_scores, axis=1), color='black')
-    plt.title('Learning curve')
-    plt.xlabel('Number of training samples')
-    plt.ylabel('Accuracy')
-    plt.show()
-
-
-def machine_learning_rd_gs():
-    x_train_temp = np.array(x).reshape(-1, 8)
-    y_train_temp = np.array(y).reshape(-1, 1)
-    # pprint(len(x_train))
-
-    x_train_temp, y_train_temp = shuffle(x_train_temp, y_train_temp, random_state=7)
-
-    num_training = int(0.98 * 800)
-    x_train, y_train = x_train_temp[:num_training], y_train_temp[:num_training]
-    x_test, y_test = x_train_temp[num_training:], y_train_temp[num_training:]
-    pprint(num_training)
-
-    paras = {
-        "n_estimators": [50,80,100,120,150],
-        "max_depth": np.arange(1, 30),
-    }
-    DT = RandomForestRegressor()
-    GS = GridSearchCV(DT, param_grid=paras, cv=8).fit(x_train, y_train)
-    pprint(GS.best_params_)
-    pprint(GS.best_score_)
-
-def machine_learning_mul_randomforest():
-    x_train_temp = np.array(x).reshape(-1, 8)
-    y_train_temp = np.array(y).reshape(-1, 1)
-
-    x_train_temp, y_train_temp = shuffle(x_train_temp, y_train_temp, random_state=7)
-    num_training = int(0.98 * 800)
-    x_train, y_train = x_train_temp[:num_training], y_train_temp[:num_training]
-    x_test, y_test = x_train_temp[num_training:], y_train_temp[num_training:]
-    pprint(num_training)
-
-    # 定义模型
-    regr_rf = MultiOutputRegressor(RandomForestRegressor(n_estimators=150, max_depth=4,
-                                                         random_state=2))
-    # 集合模型
-    regr_rf.fit(x_train, y_train)
-    # 利用预测
-    y_pred_rf = regr_rf.predict(x_test)
-    a = cross_val_score(regr_rf, x_train, y_train, scoring='explained_variance', cv=5)
-    b = cross_val_score(regr_rf, x_train, y_train, scoring='neg_mean_squared_error', cv=5)
-    c = cross_val_score(regr_rf, x_train, y_train, scoring='r2', cv=5)
-    pprint(f"Explained variance:{a}")
-    pprint(f"Mean squared error:{b}")
-    pprint(f"R2 score:{c}")
-    pprint(y_test)
-    pprint(y_pred_rf)
-    print("mul randomforest:")
-    print("Mean absolute error =", round(sm.mean_absolute_error(y_test, y_pred_rf), 2))
-    print("Mean squared error =", round(sm.mean_squared_error(y_test, y_pred_rf), 2))
-    print("Median absolute error =", round(sm.median_absolute_error(y_test, y_pred_rf), 2))
-    print("Explained variance score =", round(sm.explained_variance_score(y_test, y_pred_rf), 2))
-    print("R2 score =", round(sm.r2_score(y_test, y_pred_rf), 2))
 #
 #
 # def machine_learning_hmm():
@@ -446,11 +459,11 @@ def use_model():
     with open('saved_model.pkl', 'rb') as f:
         model_linregr = pickle.load(f)
 
-    x_train_temp = np.array(x).reshape(-1, 8)
+    x_train_temp = np.array(x).reshape(-1, 9)
     y_train_temp = np.array(y).reshape(-1, 1)
     # pprint(len(x_train))
     x_train_temp, y_train_temp = shuffle(x_train_temp, y_train_temp, random_state=7)
-    num_training = int(0.98 * 800)
+    num_training = int(0.98 * 700)
     x_train, y_train = x_train_temp[:num_training], y_train_temp[:num_training]
     x_test, y_test = x_train_temp[num_training:], y_train_temp[num_training:]
 
@@ -472,14 +485,13 @@ get_machine_data('Subway Surfers')
 get_machine_data("Lily's Garden")
 get_machine_data("Tetris")
 
-
 # machine_learning_rd_curve()
 # machine_learning_rd_gs()
 # machine_learning_mul_randomforest()
 
 
-# machine_learning_curve()
-# machine_learning_gs()
+# machine_learning_ad_curve()
+# machine_learning_ad_gs()
 a = machine_learn_ada_decisiontree()
 
 # feature_importances = 100.0 * (a.feature_importances_ / max(a.feature_importances_))
