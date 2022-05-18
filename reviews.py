@@ -107,8 +107,8 @@ def write_reviews_all(start_n, end_n):
         print(f"第{start_n + 1}页到第{end_n}页评论成功写入文件")
 
 
-def get_reviews_sentiment():
-    read = read_json("datasets/Reviews_Tetris_all.json")
+def get_reviews_sentiment(file):
+    read = read_json(f"datasets/{file}/Reviews_{file}_all.json")
     date_senti_dict = {
         'keywords': '',
         'counts': 0,
@@ -132,15 +132,15 @@ def get_reviews_sentiment():
     return date_senti_list_all
 
 
-def write_reviews_sentiment():
-    date_list_all = get_reviews_sentiment()
+def write_reviews_sentiment(file):
+    date_list_all = get_reviews_sentiment(file)
     data = json.dumps(date_list_all, indent=1, ensure_ascii=False)
-    with open("datasets/Tetris/Reviews_Tetris_all_sentiment_percent.json", 'w', newline='\n') as f:
+    with open(f"datasets/{file}/Reviews_{file}_all_sentiment_percent.json", 'w', newline='\n') as f:
         f.write(data)
 
 
-def get_reviews_rating():
-    read = read_json("datasets/Reviews_Tetris_all.json")
+def get_reviews_rating(file):
+    read = read_json(f"datasets/{file}/Reviews_{file}_all.json")
     date_rating_dict = {
         'keywords': '',
         'counts_5': 0,
@@ -194,18 +194,22 @@ def get_reviews_rating():
     return date_rating_list_all
 
 
-def write_reviews_rating():
-    date_rating_list_all = get_reviews_rating()
+def write_reviews_rating(file):
+    date_rating_list_all = get_reviews_rating(file)
     data = json.dumps(date_rating_list_all, indent=1, ensure_ascii=False)
-    with open("datasets/Tetris/Reviews_Tetris_all_rating_percent_average.json", 'w', newline='\n') as f:
+    with open(f"datasets/{file}/Reviews_{file}_all_rating_percent_average.json", 'w', newline='\n') as f:
         f.write(data)
 
 
-write_reviews()
+# write_reviews()
 # for i in range(10, 140, 10):
 #     write_reviews_all(i, i + 10)
 #     time.sleep(120)
 #
 # write_reviews_all(140, 146)
-# write_reviews_sentiment()
-# write_reviews_rating()
+write_reviews_sentiment("Angry Birds")
+write_reviews_sentiment("Candy Crush Saga")
+write_reviews_sentiment("Plants vs. Zombies")
+write_reviews_sentiment("Subway Surfers")
+write_reviews_sentiment("Lily's Garden")
+write_reviews_sentiment("Tetris")

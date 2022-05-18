@@ -34,19 +34,16 @@ from scipy.optimize import curve_fit, fsolve, root
 
 from textblob import TextBlob
 
-# text = ["I love it"]
-# # blob = TextBlob(text)
-# # print(blob.sentiment)
-# # keywords = jieba.analyse.extract_tags(text, topK=10, withWeight=True)
-# # pprint(keywords[0])
-#
+text = "Very unclear what your supposed to do next"
+blob = TextBlob(text)
+print(blob.sentiment[0])
+
+# import paddlehub as hub
 # senta = hub.Module(name='senta_bilstm')
-#
-# test_text = text
-#
+# test_text = ["I hate it"]
 # results = senta.sentiment_classify(texts=test_text, use_gpu=False, batch_size=1)
-#
 # pprint(results[0])
+#
 
 
 # temp=datetime.date.today()
@@ -239,7 +236,7 @@ from sklearn import linear_model, datasets
 # pprint(str)
 # str.replace('1', ',')
 # pprint(str)
-x=[1,2,3,4,5,6,7,8]
-x=np.array(x).reshape(-1,1)
-pprint(x)
-pprint(x[:,0])
+# x=[1,2,3,4,5,6,7,8]
+# x=np.array(x).reshape(-1,1)
+# pprint(x)
+# pprint(x[:,0])

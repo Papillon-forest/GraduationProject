@@ -190,7 +190,7 @@ def machine_learning_ad_curve():
     dt_regressor.fit(x_train, y_train)
     ad_regressor = AdaBoostRegressor(DecisionTreeRegressor(), n_estimators=800, random_state=7)
 
-    parameter_grid = np.array([200, 300, 400, 500, 600, 700, 800, 900, 1000])
+    parameter_grid = np.array([ 200,300,400,500,600,700,800, 900, 1000])
     train_sizes, train_scores, validation_scores = learning_curve(ad_regressor, x_train, y_train,
                                                                   train_sizes=parameter_grid, cv=5)
     pprint(train_scores)
@@ -210,7 +210,7 @@ def machine_learning_ad_gs():
 
     x_train_temp, y_train_temp = shuffle(x_train_temp, y_train_temp, random_state=7)
 
-    num_training = int(0.98 * 700)
+    num_training = int(0.98 * 1000)
     x_train, y_train = x_train_temp[:num_training], y_train_temp[:num_training]
     x_test, y_test = x_train_temp[num_training:], y_train_temp[num_training:]
     pprint(num_training)
@@ -234,15 +234,15 @@ def machine_learn_ada_decisiontree():
 
     x_train_temp, y_train_temp = shuffle(x_train_temp, y_train_temp, random_state=7)
 
-    num_training = int(0.98 * 700)
+    num_training = int(0.98 * 1000)
     x_train, y_train = x_train_temp[:num_training], y_train_temp[:num_training]
     x_test, y_test = x_train_temp[num_training:], y_train_temp[num_training:]
     pprint(num_training)
-    dt_regressor = DecisionTreeRegressor(max_depth=11, criterion='mae', min_samples_leaf=11, splitter='best')
+    dt_regressor = DecisionTreeRegressor(max_depth=6, criterion='mae', min_samples_leaf=4, splitter='best')
     dt_regressor.fit(x_train, y_train)
 
     ad_regressor = AdaBoostRegressor(
-        DecisionTreeRegressor(max_depth=11, criterion='mae', min_samples_leaf=11, splitter='best'), n_estimators=800,
+        DecisionTreeRegressor(max_depth=6, criterion='mae', min_samples_leaf=5, splitter='best'), n_estimators=800,
         random_state=7)
     ad_regressor.fit(x_train, y_train)
     y_pred_ab = ad_regressor.predict(x_test)
@@ -463,7 +463,7 @@ def use_model():
     y_train_temp = np.array(y).reshape(-1, 1)
     # pprint(len(x_train))
     x_train_temp, y_train_temp = shuffle(x_train_temp, y_train_temp, random_state=7)
-    num_training = int(0.98 * 700)
+    num_training = int(0.98 * 1000)
     x_train, y_train = x_train_temp[:num_training], y_train_temp[:num_training]
     x_test, y_test = x_train_temp[num_training:], y_train_temp[num_training:]
 
@@ -492,10 +492,10 @@ get_machine_data("Tetris")
 
 # machine_learning_ad_curve()
 # machine_learning_ad_gs()
-a = machine_learn_ada_decisiontree()
+# a = machine_learn_ada_decisiontree()
 
 # feature_importances = 100.0 * (a.feature_importances_ / max(a.feature_importances_))
 # pprint(a.feature_importances_)
 
-save_model()
+# save_model()
 use_model()
